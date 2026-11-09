@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "name": "Testbed",
+  "continents": [
+    {
+      "key": "main",
+      "name": "Testbed"
+    }
+  ],
+  "spawn": {
+    "continent": "main",
+    "at": [
+      0,
+      0
+    ]
+  }
+}

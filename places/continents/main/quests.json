@@ -1,0 +1,392 @@
+{
+  "version": 1,
+  "quests": [
+    {
+      "id": "tbkill01",
+      "name": "Kill: wolves",
+      "level": 1,
+      "giver": "elsa0001",
+      "rewards": {
+        "xp": 100
+      },
+      "text": {
+        "offer": "Kill objective with a count. The wolves are 300 ft west.",
+        "summary": "Kill 3 wolves west of the hub.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "stock/wolf",
+          "count": 3
+        }
+      ],
+      "notes": "Kill objective with a count. The wolves are 300 ft west."
+    },
+    {
+      "id": "tbarea01",
+      "name": "Kill: only in the pen",
+      "level": 1,
+      "giver": "elsa0001",
+      "text": {
+        "offer": "Kill objective limited to an area. Kobolds in the pen, 400 ft east, count. The two south of it don't.",
+        "summary": "Kill 2 kobolds inside the pen to the east.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "stock/kobold-spearman",
+          "count": 2,
+          "area": "areapen1",
+          "text": "Kobolds slain in the pen"
+        }
+      ],
+      "notes": "Kill objective limited to an area. Kobolds in the pen, 400 ft east, count. The two south of it don't."
+    },
+    {
+      "id": "tbbring1",
+      "name": "Bring: oat cakes",
+      "level": 1,
+      "giver": "elsa0001",
+      "text": {
+        "offer": "Bring objective. It counts your backpack, and handing in takes them. Tove sells them.",
+        "summary": "Buy 3 oat cakes from Tove and bring them.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "oatcake1",
+          "count": 3
+        }
+      ],
+      "notes": "Bring objective. It counts your backpack, and handing in takes them. Tove sells them."
+    },
+    {
+      "id": "tbtalk01",
+      "name": "Talk: another NPC",
+      "level": 1,
+      "giver": "elsa0001",
+      "turnIn": "bram0001",
+      "text": {
+        "offer": "Talk objective, handed in to a different NPC.",
+        "summary": "Speak with Scout Bram.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "talk": "bram0001"
+        }
+      ],
+      "notes": "Talk objective, handed in to a different NPC."
+    },
+    {
+      "id": "tbreach1",
+      "name": "Reach: an area",
+      "level": 1,
+      "giver": "elsa0001",
+      "text": {
+        "offer": "Reach objective. It counts when you walk into the area 800 ft north.",
+        "summary": "Walk 800 ft north.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "reach": "areafar1",
+          "text": "Reach the far marker"
+        }
+      ],
+      "notes": "Reach objective. It counts when you walk into the area 800 ft north."
+    },
+    {
+      "id": "tbmulti1",
+      "name": "Several objectives",
+      "level": 1,
+      "giver": "elsa0001",
+      "text": {
+        "offer": "Three objectives of different kinds on one quest.",
+        "summary": "Kill a wolf, speak with Tove and reach the far marker.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "stock/wolf"
+        },
+        {
+          "id": "b",
+          "talk": "tove0001"
+        },
+        {
+          "id": "c",
+          "reach": "areafar1",
+          "text": "Reach the far marker"
+        }
+      ],
+      "notes": "Three objectives of different kinds on one quest."
+    },
+    {
+      "id": "tbgive01",
+      "name": "Delivery: item handed to you",
+      "level": 1,
+      "giver": "elsa0001",
+      "turnIn": "bram0001",
+      "given": [
+        {
+          "item": "stock/junk-torn-parchment",
+          "count": 1
+        }
+      ],
+      "text": {
+        "offer": "The quest hands you the item, and takes it back if you abandon.",
+        "summary": "Take this parchment to Bram.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "stock/junk-torn-parchment"
+        }
+      ],
+      "notes": "The quest hands you the item, and takes it back if you abandon."
+    },
+    {
+      "id": "tbchain1",
+      "name": "Chain 1 of 3",
+      "level": 1,
+      "giver": "elsa0001",
+      "next": "tbchain2",
+      "text": {
+        "offer": "A chain: finishing this offers the next one straight away.",
+        "summary": "Kill a wolf.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "stock/wolf"
+        }
+      ],
+      "notes": "A chain: finishing this offers the next one straight away."
+    },
+    {
+      "id": "tbchain2",
+      "name": "Chain 2 of 3",
+      "level": 1,
+      "giver": "elsa0001",
+      "next": "tbchain3",
+      "turnIn": "bram0001",
+      "text": {
+        "offer": "Only offered once Chain 1 is finished. Bram gives the third part.",
+        "summary": "Speak with Bram.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "talk": "bram0001"
+        }
+      ],
+      "notes": "Only offered once Chain 1 is finished. Bram gives the third part."
+    },
+    {
+      "id": "tbchain3",
+      "name": "Chain 3 of 3",
+      "level": 1,
+      "giver": "bram0001",
+      "text": {
+        "offer": "The end of the chain, given by Bram.",
+        "summary": "Kill one more wolf.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "stock/wolf"
+        }
+      ],
+      "notes": "The end of the chain, given by Bram."
+    },
+    {
+      "id": "tbafter1",
+      "name": "After two others",
+      "level": 1,
+      "giver": "elsa0001",
+      "after": [
+        "tbkill01",
+        "tbtalk01"
+      ],
+      "text": {
+        "offer": "Only offered once Kill: wolves and Talk: another NPC are both finished.",
+        "summary": "Speak with Tove.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "talk": "tove0001"
+        }
+      ],
+      "notes": "Only offered once Kill: wolves and Talk: another NPC are both finished."
+    },
+    {
+      "id": "tbcrumb1",
+      "name": "Breadcrumb to Bram",
+      "level": 1,
+      "giver": "elsa0001",
+      "turnIn": "bram0001",
+      "breadcrumbFor": "tbbram01",
+      "text": {
+        "offer": "A breadcrumb. It stops being offered once you've taken the quest it leads to.",
+        "summary": "Go see Bram.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "talk": "bram0001"
+        }
+      ],
+      "notes": "A breadcrumb. It stops being offered once you've taken the quest it leads to."
+    },
+    {
+      "id": "tbbram01",
+      "name": "Bram's own quest",
+      "level": 1,
+      "giver": "bram0001",
+      "text": {
+        "offer": "What the breadcrumb leads to, given by Bram.",
+        "summary": "Kill a wolf for Bram.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "stock/wolf"
+        }
+      ],
+      "notes": "What the breadcrumb leads to, given by Bram."
+    },
+    {
+      "id": "tblevel1",
+      "name": "Needs level 5",
+      "level": 5,
+      "giver": "elsa0001",
+      "requiredLevel": 5,
+      "text": {
+        "offer": "Only offered at level 5 and up. Use /level 5 to see it.",
+        "summary": "Kill a wolf.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "stock/wolf"
+        }
+      ],
+      "notes": "Only offered at level 5 and up. Use /level 5 to see it."
+    },
+    {
+      "id": "tbclass1",
+      "name": "Adventurers only",
+      "level": 1,
+      "giver": "elsa0001",
+      "classes": [
+        "adventur"
+      ],
+      "text": {
+        "offer": "Limited to one class.",
+        "summary": "Speak with Tove.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "talk": "tove0001"
+        }
+      ],
+      "notes": "Limited to one class."
+    },
+    {
+      "id": "tbrewrd1",
+      "name": "Rewards: fixed and a choice",
+      "level": 1,
+      "giver": "elsa0001",
+      "rewards": {
+        "xp": 200,
+        "money": 500,
+        "items": [
+          {
+            "item": "stock/oat-cake",
+            "count": 2
+          }
+        ],
+        "choice": [
+          {
+            "item": "stock/health-potion"
+          },
+          {
+            "item": "stock/mana-potion"
+          }
+        ]
+      },
+      "text": {
+        "offer": "Shows fixed rewards and a choice of one. Handing in doesn't pay them yet.",
+        "summary": "Speak with Tove.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "talk": "tove0001"
+        }
+      ],
+      "notes": "Shows fixed rewards and a choice of one. Handing in doesn't pay them yet."
+    },
+    {
+      "id": "tbdrop01",
+      "name": "Not yet: quest drops",
+      "level": 1,
+      "giver": "elsa0001",
+      "text": {
+        "offer": "Wolves dropping an item only for those on the quest. The game doesn't play drops yet.",
+        "summary": "Collect 2 claws from wolves.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "stock/junk-bent-claw",
+          "count": 2,
+          "drops": [
+            {
+              "creature": "stock/wolf",
+              "chance": 1
+            }
+          ]
+        }
+      ],
+      "notes": "Wolves dropping an item only for those on the quest. The game doesn't play drops yet."
+    }
+  ]
+}

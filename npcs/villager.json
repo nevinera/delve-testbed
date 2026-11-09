@@ -1,0 +1,11 @@
+{
+  "id": "villager",
+  "name": "Villager",
+  "reaction": "friendly",
+  "says": [
+    "Fine day for it."
+  ],
+  "look": {
+    "body": "humanoid"
+  }
+}

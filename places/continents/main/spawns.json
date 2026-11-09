@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "spawnAreas": [],
+  "placed": [
+    {
+      "id": "elsa0001",
+      "npc": "villager",
+      "name": "Warden Elsa",
+      "levels": 10,
+      "at": [
+        0,
+        50,
+        -25
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Quest giver"
+    },
+    {
+      "id": "bram0001",
+      "npc": "villager",
+      "name": "Scout Bram",
+      "levels": 10,
+      "at": [
+        25,
+        50,
+        -25
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Turn-in"
+    },
+    {
+      "id": "tove0001",
+      "npc": "villager",
+      "name": "Merchant Tove",
+      "levels": 10,
+      "at": [
+        -25,
+        50,
+        -25
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Vendor",
+      "vendor": {
+        "sells": [
+          "oatcake1"
+        ]
+      }
+    },
+    {
+      "id": "wolf0000",
+      "creature": "stock/wolf",
+      "at": [
+        -300,
+        50,
+        -60
+      ],
+      "yaw": 0,
+      "levels": 1,
+      "respawn": 30,
+      "wander": 0
+    },
+    {
+      "id": "wolf0001",
+      "creature": "stock/wolf",
+      "at": [
+        -340,
+        50,
+        0
+      ],
+      "yaw": 0,
+      "levels": 1,
+      "respawn": 30,
+      "wander": 0
+    },
+    {
+      "id": "wolf0002",
+      "creature": "stock/wolf",
+      "at": [
+        -300,
+        50,
+        60
+      ],
+      "yaw": 0,
+      "levels": 1,
+      "respawn": 30,
+      "wander": 0
+    },
+    {
+      "id": "wolf0003",
+      "creature": "stock/wolf",
+      "at": [
+        -380,
+        50,
+        -40
+      ],
+      "yaw": 0,
+      "levels": 1,
+      "respawn": 30,
+      "wander": 0
+    },
+    {
+      "id": "wolf0004",
+      "creature": "stock/wolf",
+      "at": [
+        -380,
+        50,
+        40
+      ],
+      "yaw": 0,
+      "levels": 1,
+      "respawn": 30,
+      "wander": 0
+    },
+    {
+      "id": "wolf0005",
+      "creature": "stock/wolf",
+      "at": [
+        -420,
+        50,
+        0
+      ],
+      "yaw": 0,
+      "levels": 1,
+      "respawn": 30,
+      "wander": 0
+    },
+    {
+      "id": "kobin000",
+      "creature": "stock/kobold-spearman",
+      "at": [
+        380,
+        50,
+        -60
+      ],
+      "yaw": 0,
+      "levels": 2,
+      "respawn": 30,
+      "wander": 0
+    },
+    {
+      "id": "kobin001",
+      "creature": "stock/kobold-spearman",
+      "at": [
+        430,
+        50,
+        0
+      ],
+      "yaw": 0,
+      "levels": 2,
+      "respawn": 30,
+      "wander": 0
+    },
+    {
+      "id": "kobin002",
+      "creature": "stock/kobold-spearman",
+      "at": [
+        380,
+        50,
+        60
+      ],
+      "yaw": 0,
+      "levels": 2,
+      "respawn": 30,
+      "wander": 0
+    },
+    {
+      "id": "kobot000",
+      "creature": "stock/kobold-spearman",
+      "at": [
+        380,
+        50,
+        240
+      ],
+      "yaw": 0,
+      "levels": 2,
+      "respawn": 30,
+      "wander": 0
+    },
+    {
+      "id": "kobot001",
+      "creature": "stock/kobold-spearman",
+      "at": [
+        430,
+        50,
+        260
+      ],
+      "yaw": 0,
+      "levels": 2,
+      "respawn": 30,
+      "wander": 0
+    }
+  ]
+}
