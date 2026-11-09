@@ -1,0 +1,34 @@
+{
+ "version": 1,
+ "objects": [
+  {
+   "id": "tblever1",
+   "type": "stump",
+   "at": [
+    8,
+    10
+   ],
+   "yaw": 0,
+   "scale": 2
+  },
+  {
+   "type": "boulder",
+   "at": [
+    0,
+    18
+   ],
+   "yaw": 0,
+   "scale": 3
+  },
+  {
+   "type": "boulder",
+   "at": [
+    6,
+    16
+   ],
+   "yaw": 0,
+   "scale": 3
+  }
+ ],
+ "slabs": []
+}

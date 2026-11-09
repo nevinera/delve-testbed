@@ -364,11 +364,11 @@
     },
     {
       "id": "tbdrop01",
-      "name": "Not yet: quest drops",
+      "name": "Bring: creature drops",
       "level": 1,
       "giver": "elsa0001",
       "text": {
-        "offer": "Wolves dropping an item only for those on the quest. The game doesn't play drops yet.",
+        "offer": "Wolves drop this item only for those on the quest.",
         "summary": "Collect 2 claws from wolves.",
         "waiting": "Not yet.",
         "done": "Well done."
@@ -386,7 +386,77 @@
           ]
         }
       ],
-      "notes": "Wolves dropping an item only for those on the quest. The game doesn't play drops yet."
+      "notes": "Wolves drop this item only for those on the quest."
+    },
+    {
+      "id": "tbuse001",
+      "name": "Use: an object, instantly",
+      "level": 1,
+      "giver": "elsa0001",
+      "text": {
+        "offer": "Use objective, instant. It glows only while you're on this, and is gone for you for 2 minutes once used.",
+        "summary": "Click the glowing stump just south-east of the spawn.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "use": "tblever1",
+          "text": "Pull the stump to the east"
+        }
+      ],
+      "notes": "Use objective, instant. It glows only while you're on this, and is gone for you for 2 minutes once used."
+    },
+    {
+      "id": "tbuse002",
+      "name": "Use: an object, taking time",
+      "level": 1,
+      "giver": "elsa0001",
+      "text": {
+        "offer": "Use objective that takes 3 seconds. Moving cancels it.",
+        "summary": "Click the glowing stump just south-west of the spawn and stand still.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "use": "tbcrank1",
+          "text": "Search the stump to the west",
+          "time": 3
+        }
+      ],
+      "notes": "Use objective that takes 3 seconds. Moving cancels it."
+    },
+    {
+      "id": "tbobj001",
+      "name": "Bring: from objects",
+      "level": 1,
+      "giver": "elsa0001",
+      "text": {
+        "offer": "Items from any boulder in an area, one each, 2 seconds to search.",
+        "summary": "Search the glowing boulders south of the spawn.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "stock/junk-cracked-rune-stone",
+          "count": 2,
+          "text": "Rune stones",
+          "drops": [
+            {
+              "objectKind": "boulder",
+              "area": "arearock",
+              "chance": 1,
+              "time": 2
+            }
+          ]
+        }
+      ],
+      "notes": "Items from any boulder in an area, one each, 2 seconds to search."
     }
   ]
 }
