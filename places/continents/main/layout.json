@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "outlines": [
+    {
+      "id": "testland",
+      "points": [
+        [
+          -2640,
+          -2640
+        ],
+        [
+          2640,
+          -2640
+        ],
+        [
+          2640,
+          2640
+        ],
+        [
+          -2640,
+          2640
+        ]
+      ]
+    }
+  ],
+  "borders": [
+    {
+      "id": "tbborder",
+      "points": [
+        [
+          200,
+          -2640
+        ],
+        [
+          200,
+          2640
+        ]
+      ]
+    }
+  ],
+  "zones": [
+    {
+      "id": "tbwest01",
+      "name": "Warden's Field",
+      "levels": [
+        1,
+        5
+      ],
+      "at": [
+        -1200,
+        0
+      ]
+    },
+    {
+      "id": "tbeast01",
+      "name": "Kobold Flats",
+      "levels": [
+        3,
+        8
+      ],
+      "at": [
+        1400,
+        0
+      ]
+    }
+  ]
+}

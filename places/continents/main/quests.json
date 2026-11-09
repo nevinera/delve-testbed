@@ -5,6 +5,7 @@
       "id": "tbkill01",
       "name": "Kill: wolves",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "rewards": {
         "xp": 100
@@ -28,6 +29,7 @@
       "id": "tbarea01",
       "name": "Kill: only in the pen",
       "level": 1,
+      "zone": "tbeast01",
       "giver": "elsa0001",
       "text": {
         "offer": "Kill objective limited to an area. Kobolds in the pen, 400 ft east, count. The two south of it don't.",
@@ -50,6 +52,7 @@
       "id": "tbbring1",
       "name": "Bring: oat cakes",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "text": {
         "offer": "Bring objective. It counts your backpack, and handing in takes them. Tove sells them.",
@@ -70,6 +73,7 @@
       "id": "tbtalk01",
       "name": "Talk: another NPC",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "turnIn": "bram0001",
       "text": {
@@ -110,6 +114,7 @@
       "id": "tbmulti1",
       "name": "Several objectives",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "text": {
         "offer": "Three objectives of different kinds on one quest.",
@@ -138,6 +143,7 @@
       "id": "tbgive01",
       "name": "Delivery: item handed to you",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "turnIn": "bram0001",
       "given": [
@@ -164,6 +170,7 @@
       "id": "tbchain1",
       "name": "Chain 1 of 3",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "next": "tbchain2",
       "text": {
@@ -184,6 +191,7 @@
       "id": "tbchain2",
       "name": "Chain 2 of 3",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "next": "tbchain3",
       "turnIn": "bram0001",
@@ -205,6 +213,7 @@
       "id": "tbchain3",
       "name": "Chain 3 of 3",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "bram0001",
       "text": {
         "offer": "The end of the chain, given by Bram.",
@@ -224,6 +233,7 @@
       "id": "tbafter1",
       "name": "After two others",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "after": [
         "tbkill01",
@@ -247,6 +257,7 @@
       "id": "tbcrumb1",
       "name": "Breadcrumb to Bram",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "turnIn": "bram0001",
       "breadcrumbFor": "tbbram01",
@@ -268,6 +279,7 @@
       "id": "tbbram01",
       "name": "Bram's own quest",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "bram0001",
       "text": {
         "offer": "What the breadcrumb leads to, given by Bram.",
@@ -287,6 +299,7 @@
       "id": "tblevel1",
       "name": "Needs level 5",
       "level": 5,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "requiredLevel": 5,
       "text": {
@@ -307,6 +320,7 @@
       "id": "tbclass1",
       "name": "Adventurers only",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "classes": [
         "adventur"
@@ -329,6 +343,7 @@
       "id": "tbrewrd1",
       "name": "Rewards: fixed and a choice",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "rewards": {
         "xp": 200,
@@ -366,6 +381,7 @@
       "id": "tbdrop01",
       "name": "Bring: creature drops",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "text": {
         "offer": "Wolves drop this item only for those on the quest.",
@@ -392,6 +408,7 @@
       "id": "tbuse001",
       "name": "Use: an object, instantly",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "text": {
         "offer": "Use objective, instant. It glows only while you're on this, and is gone for you for 2 minutes once used.",
@@ -412,6 +429,7 @@
       "id": "tbuse002",
       "name": "Use: an object, taking time",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "text": {
         "offer": "Use objective that takes 3 seconds. Moving cancels it.",
@@ -433,6 +451,7 @@
       "id": "tbobj001",
       "name": "Bring: from objects",
       "level": 1,
+      "zone": "tbwest01",
       "giver": "elsa0001",
       "text": {
         "offer": "Items from any boulder in an area, 2 seconds to search. A boulder comes back for you after 60 seconds, where the stumps stay gone until their quests are over.",
