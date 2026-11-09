@@ -435,7 +435,7 @@
       "level": 1,
       "giver": "elsa0001",
       "text": {
-        "offer": "Items from any boulder in an area, one each, 2 seconds to search.",
+        "offer": "Items from any boulder in an area, 2 seconds to search. A boulder comes back for you after 60 seconds, where the stumps stay gone until their quests are over.",
         "summary": "Search the glowing boulders south of the spawn.",
         "waiting": "Not yet.",
         "done": "Well done."
@@ -456,7 +456,8 @@
           ]
         }
       ],
-      "notes": "Items from any boulder in an area, one each, 2 seconds to search."
+      "notes": "Items from any boulder in an area, 2 seconds to search. A boulder comes back for you after 60 seconds, where the stumps stay gone until their quests are over.",
+      "objectsReturn": 60
     }
   ]
 }
