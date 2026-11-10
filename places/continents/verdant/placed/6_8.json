@@ -1,0 +1,23 @@
+{
+ "version": 1,
+ "objects": [
+  {
+   "type": "built:broad011",
+   "at": [
+    12295.2,
+    16737
+   ],
+   "yaw": 4.8259,
+   "scale": 1,
+   "road": "roadqcgt",
+   "footprint": {
+    "rect": [
+     0.54,
+     0.54
+    ]
+   },
+   "height": 3.6
+  }
+ ],
+ "slabs": []
+}

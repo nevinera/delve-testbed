@@ -11,20 +11,20 @@ tile 2
 h z KLUv/WBIEAUlAOavhB9AS/NgAs8ntdCQzIBMh72IGhHyNg9Yv6+ts7DqrsAEfQB9AHoAcLG2FEIkf3+IlL7VfY57vopjSymUmh/y4netO50u/L1i+W+lg06D+8X33hohks5hJO4LGN9K5aPjOByCO8yLlaowCi8w+HstndU2RGE4gUN3mJNS3BAG+oFpLbV3Gcbyf4AVWyzVOcg38OOCL2yE/t/f/f3hLwUBAAQFCgHXz6EYX2sfOuc0uFSWEEIs5yXP7pTSen/PDMPA/twwzDdj8JxI5GQ1xKkD7JDI3s5hHRwydAjCWjokGukPYapJMDf+Y2st22RcJUyWQyZfS6lMuhXzWmlqw9dy7a3zxpZUq4b4eBlLKbWvlGqtLfgrBtfpmjW2ElpAzlntDYpT3QtJ5rXVzoQp1hyKldprIbKac8xopV68yMea6kTeZcG/2GIrSZ7WRDmHsNbauT9eljwfgijk4IIxpv6ec0yl43nE91YK3901Os4r2EZFeeQY78qttU4p4yv/h7ZeOiOVr0AUDF5sp6T0D0SRvGYrJ7V/jMJoqq00AG+t94815zzxx16ByrtT6TAYZZTKvz6Oh6AzxhmhO0W7rVLKGb2NKOf8dRysqHVOWqE6qCu19kKFEjIoxllJypKZmNZazN9zbma39O84N5Wt5k5lMn6rJUjmvECErU4PMUl7ZONr53HBtypI+1987fzVndpcrK0BgX+oQSYaEZHRJEkHsUxEBMRTbgMyiQxHUQ2SCZQlMnK0NAWVGtMYCuK09Vkxegxf6+d1Q9J3SdIcx/s+Oxi+MWxMZopNY3JfgW8YKrcI/YtU87xwpaIOdO544RKQcHA/GU43WUg3A0SqlkIbewgo7d3gS/Jm6QMRpqAO0gCaaPhAUTTSI0nl3K/KxGGPcNJbkoptpGAgHuQTn9jHKqPYiI7qBQedgTIMqWhTJ3zLlSV+jL8kNaDC3CFkNLKCH5h9DhverpjAyTIt3jbDPHcM30lpQGaLZ5Rzq3WsVEBfW5ABG9Ej3LrwOPxnHEgWFRjNcdADLAqIw3pDniMMDzw3TxSr2KkMomaOYv0r4KF6QUujsrgg/RgzHztvYiSce8zVksanD5nRnhLNy2LEkBGEgrYCIH3ROkeAVFXFsQPm6C5H4sbYPWYSw2L0hEsUB1pYyiX5VBJhhBJBbtwYBHZ3662mhueRVmmZKkompmKeyzNrshWlKrm7aSZrYsZMKOB0x4sdAhOqM2GXlRkJSJnitCPvkKoA4omFCcP8omSWACm4IYYSIPJkpruGTDYhXC6YTqcOvFsOtCSCSWA4lBFCHDMyhzsB8lIRFdy5GTzbRChoUrQt36HY2l6SaLq3ac0xxDiSp94RYuTBOIGwTCtAO8bopvC7dkOKxNnyHP4iAVG8QSzqIfr0yjLM6mOUFay59stQDhmxwtUlhQ9lGJJNLoUL9CQPftB28TSD3Ny6iKo4g/CDL4WCkCbHK5kz3T2iJ71A+MkMCsrwLuCZcxEvZUtKHv0WyzykEf4AXE02TQBggy8bLK5cfOEOzVAW81qYx0o4uBzZnhP8ShBsjWCnyNHyPGMGGQNxmCw+
 b //B
 s s1 50 56
-w AD 2 F~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBHIBH
-w AL 2 F~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-w AM 2 FIBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~
-w AU 2 F~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-w AV 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~
-w Ac 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH
-w Ad 2 FIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~
-w Al 2 FIBHIBHIBHIBH~~~~~~~~~~~~IBHIBHIBHIBHIBH~~~~~~~~~~~~IBHIBHIBHIBHIBHIBH~~~~~~~~~~~~IBHIBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-w Am 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~
-w Au 2 F~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH
-w A2 2 F~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH
-w A3 2 FIBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~
-w A+ 2 F~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-w A/ 2 FIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBHIBHIBH~~~~~~~~~~~~IBHIBHIBHIBHIBHIBHIBH~~~~~~IBHIBHIBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+w AD 2 F~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~
+w AL 2 F~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+w AM 2 F~~~~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~
+w AU 2 F~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+w AV 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~
+w Ac 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~~~~
+w Ad 2 FIBFIBFIBF~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~
+w Al 2 FIBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+w Am 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~
+w Au 2 F~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF
+w A2 2 F~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBF
+w A3 2 FIBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~
+w A+ 2 F~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+w A/ 2 FIBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBFIBFIBFIBF~~~~~~~~~~~~IBFIBFIBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 c AA AZ gBgNgZgjghgYgOgD
 c AB AZ gFgSgegogjgZgRgH
 c AC AZ gHgWglgsgkgcgVgNgF
@@ -94,7 +94,7 @@ tile 3
 h z KLUv/WBIEBUSADINHRlwq9ZAmiXPTtuijUzaCYLO/gD2aitd9XdxHj2KLRaGUey6+taDnIVpEC70qsemMbhKldTYBNe5qDEKT9SehLfmOHO6tD+9PuXvVzb83f297r6uW1/6P1zI7h7xVVc1SQQLUcde/m/3K9+fdt2fOSUAGCiHgTKowSabJMN28VxCgnGrDUIgGI7hESrCEKqAUSIVBRIIBSlSoQ24iCjfUEnqwroWuXqoA5IDN7ikhWAOel8Wp8zEDgxFB5A1Pkl90QvmUqunFB2swgy6Jnbx5YDUBg4rZ1x8H5D6PxlI18EU1Xz8R9G8kBI2IEkijj8JGBxgfsgR5GtL+zJ0WKqPvSdVUxW07z8Lvf/UeP9w/1/4BGFBsZwpEedN2AjkA8S2Qe/n5QGshw0mkqvxTbHowc9gB6h4fhLC5CyGioH3Akp68PRw5mowrPN3QKGRwqAfToTYFgxuwgtLbw/2j3O/SRmJWLdSJaNEcNe6vrZxIz4kfncrXqj1ESmIwqQcNMIsgmjFcJ/rB2PCSchCMBhQhEyvQhaeafZ4cVnm2F0DkrX/e65BllykHEwDibsLw+Ha6HtqDeHAp67ICnDEWkvJdPeP0LgR1yQB7mIoeNGOHBaWfRh6AWKb1KTShjfnvodplPSJ74jFBQB5TR9dmVwvgFvS8sXFzY0nw3N88zN4oDgXgLyQGRlmwy0OoUhuc9GHBSyKZ8DQAUDoHU5JkTYGjGHDRFDy1FhR8fo1QkAIJiR53SPQwppiDIeH/K57HUYN
 b //B
 s s1 51 56
-w A4 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBHIBH~~~~~~~~~~~~IBHIBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBHIBH~~~~~~
+w A4 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~
 c A5 AA gB
 c A6 AA gMgG
 c A7 AA gXgSgNgF
@@ -139,23 +139,23 @@ tile 11
 h z KLUv/WBIEOUcACYoaBtgS3XbGP+2PW0ro9r2WNL+L8HupCsIIggihQFjAGAAYQCsx5j15SkTbjLGrLxJEN0vzynf+j4BZZzuII60TsI4FwKB/HuOECoNOQ61hzDKTgjE3Mk4WyEIslKZjpnEJMX+LUqzdBCKLrE8lpKq3ScUcZOqrv2/+919XCysSSk0CAAEA0JIk/oi0VLSdb4JhVNpKVKx8ZhihsLLlCqoiPyvUkpTijO61vhLETJr3sV27XX7QkmyWnf368ZOguw5vu7XlkHMHXz9mlOS6F55/R50zBikdw/G+HTQ2ThnL3QO2v88FRkNu5kdpPhBePQLX3TsIH0vNjtJrdhR9jpK6XRLVaVvy9nYWkqPk7LtLovQMTM7B4uvXbd1HM8ZQ4LdMG7huHvdSkMYtuGbjRyU/BuMsg0CfeGc7hznblHa9y2xMEJHFwungG+vsxiflV5KMcaUPmO7Zyt936D7ns8sJde4tcZ70rbW7b+DzYjyi+2cln3MOqVPcscLNMn/JR7D9r3IZPT/XpHLKLuci1T9QYWVUn2iV99sZyqlw+h4F0IsgSaoodKIiMgMJWkz4URCiOHu6mIgLJoAKcAQqgBCApSMUImIjDSpbByE6YDbECCFTXKNyLX+KAyG+bvBhIPx1qSkI98mJoqUzKOnrQMpox9fcFO7aqu+8mA+eTi8xlVY1iCOnhGywsqN31CPYm3ooiv3CQV6jc2PjkMSlG/w7Uk2LbhYikGc7g//s0KA2rTm82AbNrMuZJVBnrB2ZFCiHcHTyNFIs4y5BP74UUCUVjvUNiEC/dWyc8tQgRZOTJE3p8QIi/kjBpRREKCosQ4Yykp6/RLc4UGBGQpAIYFm6kSfEVeqY/HLyUe8aUA59hLx81G4t4sxEjhqo6eU6PRcFL8kfDECiYczMB92GV3WC75kw5JDFgs80jiHS9E0Chb4zFJWFF/CR5jhXikQKWOL7Tc66QCwRDM0PA3+UMbsMQWMcZ6Z7cANE47AfJpMrino4Y3yGeoGJGhHYpnC7CCtkNsIWh5Q/ZIXoUzez66IoWOmsGQk1CTQB8S+NmbqsXQk3RHUnVgDMuDBQVJuAtRpA3K0RYbUnKaDB7IwawH20/0fwvoP8AoNl9F5SBV/sh6HTHKCrVl1hwKoftuc5+PFicYAP18uQ0jGELVC0stNjo0sJNQWhzFRIVFP+QoiKiNySUgeIo6yb7ds0yj2HMxqse+wsZFnnc9RBQ
 b //B
 s s1 51 57
-w AA 2 F~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~
-w AI 2 F~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-w AJ 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~
-w AR 2 F~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-w AS 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBHIBHIBHIBH~~~~~~~~~~~~IBHIBHIBHIBHIBHIBH~~~~~~~~~~~~IBHIBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBHIBH
-w Aa 2 F~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH
-w Ab 2 F~~~~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~
-w Ai 2 F~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-w Aj 2 FIBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBHIBHIBH~~~~~~~~~~~~IBHIBHIBHIBHIBHIBH~~~~~~~~~~~~IBHIBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH
-w Ak 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~
-w Ar 2 F~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-w As 2 FIBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~~~~IBH
-w At 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~
-w A1 2 FIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBH~~~~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~
-w A9 2 F~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBHIBHIBH~~~~~~~~~IBHIBHIBHIBHIBH~~~~~~~~~~~~~~~IBHIBHIBH~~~~~~~~~~~~~~~~~~~~~IBH~~~~~~~~~~~~~~~~~~~~~~~~
-w A+ 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBHIBHIBHIBGIBG~~~~~~~~~IBHIBHIBHIBGIBGIBGIBG~~~IBHIBHIBHIBGIBGIBGIBGIBF~~~~~~~~~~~~IBGIBGIBFIBF
-w A/ 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~
+w AA 2 F~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBF~~~
+w AI 2 F~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+w AJ 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~
+w AR 2 F~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+w AS 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBFIBFIBFIBF~~~~~~~~~~~~IBFIBFIBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBFIBF
+w Aa 2 F~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF
+w Ab 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~
+w Ai 2 F~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+w Aj 2 FIBF~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBFIBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBF
+w Ak 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~
+w Ar 2 F~~~~~~~~~~~~~~~~~~~~~IBF~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+w As 2 FIBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~~~~IBF
+w At 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~
+w A1 2 FIBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~
+w A9 2 F~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBF~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+w A+ 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBFIBFIBFIBF~~~~~~~~~~~~IBFIBFIBFIBFIBFIBFIBF~~~~~~IBFIBFIBFIBFIBFIBFIBF~~~~~~~~~~~~~~~IBFIBFIBF
+w A/ 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBE~~~~~~~~~~~~~~~~~~~~~
 c AA AA gUgYgbghgkgjgXgJ
 c AB AA gQgVgZgdgigigbgN
 c AC AA gOgRgWgcghghgcgQgD
@@ -253,9 +253,9 @@ tile 19
 h z KLUv/WBIEBUQAEKNGxOguxoESSIpky0O7/YJTqfSrwoeOv1id7vu/N2uu/vrG/87j939kZtcrdvXzrwtGlmDvetI6qWh5jqPpbZJ8xpCdgrzGHJZ3EqNolqbMK6h374oLqZrXkvIMoxK+b4/SkMN+d/f9913T4YAEAYigPmo0ZJKU9nYDoCMiAhyczKABAjDgAQkAcwgBFwBoY3giMSMaNJkWAPLyCBA5CglB9wjlQS95w0tA7HJ5MkjAmR45z2TODssMowK0XcbDilQQMBGjLDyKschctkvbhVBUSIyn01RJTo8R6xXGs406Ffip4MDxiiEhBkLwl6gADgf8CYl1zGtb5+Y6VRG6oUpdC0MOZX8WkdgkWQ0cb3cS6LoR3IaOo3TwsbSxkcG9kdWWAzQNxU6w2PsMcFgeJ8/E/aWZW6DstOoNujDI4q9sD0PC5exIVTisBmHAeTKaZqJHsebxQzuHLzjITYhQrgcEVN9XGeFBqEo4kxEb5XVY8ORewaCjsdYlRPFr3BGHeN2QmXkhNkJMZCtp2jokDjyXKLBP3qwspmcP3cVNQ3Dgd4ZYT08sUlWfxgTragP3gXGC3kcQ16uKais+TGximbGSsBEoY8ayYzJihRdXgtsJ7t5D1LjqEGOcSILoIDB8TlH4SnozeMr7QXH6ugGPf0hsA8GFilXCnOzY7aLhaw9u6o
 b //B
 s s1 51 58
-w AG 2 F~~~~~~~~~~~~~~~~~~IBFIBF~~~~~~~~~~~~~~~~~~~~~IBE~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-w AH 2 FIBEIBE~~~~~~~~~~~~~~~~~~IBEIBEIBE~~~~~~~~~~~~~~~IBEIBEIBE~~~~~~~~~~~~~~~IBEIBEIBDIBD~~~~~~~~~~~~~~~IBDIBDIBD~~~~~~~~~~~~~~~IBDIBDIBDIBD~~~~~~~~~~~~~~~IBDIBDIBDIBC~~~~~~~~~~~~~~~IBDIBCIBCIBC~~~
-w AP 2 F~~~~~~~~~~~~IBCIBCIBC~~~~~~~~~~~~~~~~~~IBCIBCIBC~~~~~~~~~~~~~~~IBCIBCIBC~~~~~~~~~~~~~~~~~~IBCIBC~~~~~~~~~~~~~~~~~~~~~IBC~~~~~~~~~~~~~~~~~~~~~IBB~~~~~~~~~~~~~~~~~~~~~IBB~~~~~~~~~~~~~~~~~~~~~~~~
+w AG 2 F~~~~~~~~~~~~~~~~~~IBFIBE~~~~~~~~~~~~~~~~~~~~~IBE~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+w AH 2 FIBEIBE~~~~~~~~~~~~~~~~~~IBEIBD~~~~~~~~~~~~~~~~~~IBDIBDIBD~~~~~~~~~~~~~~~IBDIBDIBDIBD~~~~~~~~~~~~~~~IBDIBDIBC~~~~~~~~~~~~~~~IBDIBCIBCIBC~~~~~~~~~~~~~~~IBCIBCIBB~~~~~~~~~~~~~~~~~~IBBIBBIBB~~~~~~
+w AP 2 F~~~~~~~~~~~~IBBIBAIBA~~~~~~~~~~~~~~~~~~IBAIBAIA/~~~~~~~~~~~~~~~~~~IA/IA/~~~~~~~~~~~~~~~~~~IA/IA/~~~~~~~~~~~~~~~~~~~~~IA+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 c AA A1 gBgFgMgPgK
 c AB A3 gFgMgMgG
 c AC A3 gCgIgLgJgB
@@ -278,9 +278,9 @@ tile 20
 h z KLUv/WBIEOUYANYjWBtwTXMcBKPoJVvkTkmK/NpGD2NQbSar/1xdF1hPAE0AVABM8r2aGYT3I3opIepDYWKiMzHZdiK16e28E/GO8/un+v08h69Uf3QU/nUVHfZaP4inVVt0WM0ZIorQsIGCFJqDn/B9/+m07bQXggCgIjAEaqn6Laq69ImWVLurEp207tJETNr2E4NfTPMY/DJ1fFqxVWaO/7X2C2MrY19c2qpht7D3oRoprRpNi2+2cEl/l5nzlTkh337zO3m72QtLMcHwGV+rapsuiaSr29gpHLrbmmQs/rQy1qjGIm3WHrowbj8iyziO3SQLLSg5F94Ju8Ok9CktEYJAjOhS8m17JWu8dCnvR6PszIR492CamWnbCAWAhumdTVtLldM5J+XvxtYdBuHhcmtbay29g+4woX8rtmu1xZPwEF3awVqzeQkR79C5saxplhMxnXeWbLDW2J3+jz5jS/8rpbKhQKaqSmmBCKhxkhqRIU2SDAcRUULIrOscUkAERAZjEQK8QAmYUaIIBRNNNJckheWII2xDGB0f4+JPnlroPuBwLKPjx2PSkzqJehNhI/1i5JtDrQrd5X1iCLDB6YTjPb4R/Cz4owBba8nXLIoV157w+5APbJgI2zmwDssx/gbklg/qa35QAf4f8YNKxvw4pLIN4ql4QFrUA1tJf4ZEPDbaacZThzVh3srojd6QpGEW3IpCaSxVGuK2IKMelAnpwcEvnBzT2JCiFqEkE5+xJgzPGPG9XUew7XzysD8UdsCWGawClDxtBM+tcFjgzogQZEFhh9OIYYQ+gRY6QIcTZNDYv6K3iHRjZNABaf5ZT34CDmjMjK6tph4wBooDJFBzRBrO39PYpio42GvDiFJBPuBP+uy4O9ZClTIMWweAQo7MwkH3rzOLAHmQ7nAGsW4gANI18YUOtbj6YQJcxB93H9/FfaQrTBCGEnpkWuLv8tToHuiibwkPIlRZaLySL5FhIaGMSiNwCZUcAdrUuzpjPWQG9UtVKymBSiHNquiMFmqdp+nOLG2qvYnWy+EhpkNDgKVkZB8mG/oYGwQLzaIGqwY
 b //B
 s s1 52 58
-w AI 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IBC~~~~~~~~~~~~~~~~~~~~~IBC~~~~~~~~~~~~~~~~~~~~~IBCIBB~~~~~~~~~~~~~~~~~~IBBIBB~~~~~~~~~~~~~~~~~~IBBIBBIBB~~~~~~~~~~~~~~~IBBIBBIBB~~~~~~~~~~~~~~~
-w AQ 2 FIBBIBBIBBIBA~~~~~~~~~~~~IBBIBBIBAIBAIBA~~~~~~~~~~~~IBAIBAIBAIBAIBAIBAIBA~~~~~~IBAIBAIBAIBAIBAIBA~~~~~~~~~IBAIBAIBAIBAIBA~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-w AR 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA/IA/IA/IA/IA/IA/~~~~~~IA/IA/IA/IA/IA/IA/IA/IA/~~~IA/IA/IA/IA/IA/IA/IA/~~~~~~~~~~~~~~~IA/IA+IA+~~~~~~~~~~~~~~~~~~IA+IA+
+w AI 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA/~~~~~~~~~~~~~~~~~~~~~IA+~~~~~~~~~~~~~~~~~~~~~IA+IA+~~~~~~~~~~~~~~~~~~IA+IA+~~~~~~~~~~~~~~~~~~IA+IA+IA+~~~~~~~~~~~~~~~
+w AQ 2 FIA+IA+IA+~~~~~~~~~~~~~~~~~~IA+IA+IA+~~~~~~~~~~~~~~~IA+IA+IA+IA+IA+IA+~~~~~~~~~IA+IA+IA+IA+IA+IA+~~~~~~~~~~~~IA+IA+IA+IA+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+w AR 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA+IA+IA+IA+IA+IA+~~~~~~IA+IA+IA+IA+IA+IA+IA+IA+~~~~~~IA+IA+IA+IA+IA+IA+~~~~~~~~~~~~~~~IA+IA+IA+~~~~~~~~~~~~~~~~~~IA+IA+
 w AS 2 F~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA+~~~~~~~~~~~~~~~~~~~~~IA+~~~~~~~~~~~~~~~~~~~~~
 w AZ 2 F~~~~~~~~~~~~~~~~~~IA+IA+~~~~~~~~~~~~~~~~~~~~~IA+~~~~~~~~~~~~~~~~~~~~~IA+~~~~~~~~~~~~~~~~~~~~~IA+~~~~~~~~~~~~~~~~~~~~~IA+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 w Aa 2 FIA+IA+~~~~~~~~~~~~~~~~~~IA+IA+~~~~~~~~~~~~~~~~~~IA+IA+~~~~~~~~~~~~~~~~~~IA+IA+~~~~~~~~~~~~~~~~~~IA+IA+IA+~~~~~~~~~~~~~~~IA+IA+IA+~~~~~~~~~~~~~~~IA+IA+IA+~~~~~~~~~~~~~~~IA+IA+IA+IA+~~~~~~~~~~~~

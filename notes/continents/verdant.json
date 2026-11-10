@@ -125,7 +125,7 @@
   "chain:bandits": {
     "name": "The bandit gang",
     "zone": "brackenv",
-    "summary": "The bandits are introduced in the training glen: they have stolen supplies from Glen camp, and you get them back. The chain proper starts at one of the farmsteads; another quest leads you there, but it is not required. Ends at the chief's hideout.",
+    "summary": "The bandits are introduced in the training glen: they have stolen supplies from Glen camp, and you get them back. The chain proper starts at Westhill farmstead, by the western hills; another quest leads you there, but it is not required. Ends at the chief's hideout.",
     "quests": []
   },
   "chain:kobolds": {
@@ -133,5 +133,17 @@
     "zone": "brackenv",
     "summary": "The earliest chain. Given at Ashby farm; its first quest needs level 5. Glen camp sends you to Ashby farm for it before you head on to Lakeford. The kobolds' mine broke into a barrow, and they are fighting its dead.",
     "quests": []
+  },
+  "hub:hubwestf": {
+    "name": "Westhill farmstead",
+    "purpose": "A farmstead by the western hills, nearest the hill bandits; the bandit chain proper starts here. A quest leads you here, but it is not required.",
+    "people": "a farming family",
+    "mood": "wary, barricaded, short of hands"
+  },
+  "camp:cmpbdgln": {
+    "name": "Glen thieves",
+    "purpose": "Bandit thieves who stole supplies from Glen camp; introduces the bandits.",
+    "people": "human bandits, levels 3 to 4",
+    "mood": "a lean-to at the glen's mouth"
   }
 }

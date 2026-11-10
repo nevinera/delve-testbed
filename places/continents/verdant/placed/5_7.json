@@ -221,6 +221,57 @@
     ]
    },
    "height": 3.6
+  },
+  {
+   "type": "built:broad011",
+   "at": [
+    12280.3,
+    15929.4
+   ],
+   "yaw": 1.1787,
+   "scale": 1,
+   "road": "roadqcgt",
+   "footprint": {
+    "rect": [
+     0.54,
+     0.54
+    ]
+   },
+   "height": 3.6
+  },
+  {
+   "type": "built:broad011",
+   "at": [
+    12255.5,
+    16114.8
+   ],
+   "yaw": 4.7404,
+   "scale": 1,
+   "road": "roadqcgt",
+   "footprint": {
+    "rect": [
+     0.54,
+     0.54
+    ]
+   },
+   "height": 3.6
+  },
+  {
+   "type": "built:broad011",
+   "at": [
+    12255.2,
+    16248.2
+   ],
+   "yaw": 1.6391,
+   "scale": 1,
+   "road": "roadqcgt",
+   "footprint": {
+    "rect": [
+     0.54,
+     0.54
+    ]
+   },
+   "height": 3.6
   }
  ],
  "slabs": []

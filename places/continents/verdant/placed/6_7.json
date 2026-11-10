@@ -1753,6 +1753,91 @@
     "open": 2.7
    },
    "height": 0.8
+  },
+  {
+   "type": "built:broad011",
+   "at": [
+    12398.6,
+    15147.4
+   ],
+   "yaw": 4.6456,
+   "scale": 1,
+   "road": "roadqcgt",
+   "footprint": {
+    "rect": [
+     0.54,
+     0.54
+    ]
+   },
+   "height": 3.6
+  },
+  {
+   "type": "built:broad011",
+   "at": [
+    12373.3,
+    15328.9
+   ],
+   "yaw": 1.4704,
+   "scale": 1,
+   "road": "roadqcgt",
+   "footprint": {
+    "rect": [
+     0.54,
+     0.54
+    ]
+   },
+   "height": 3.6
+  },
+  {
+   "type": "built:broad011",
+   "at": [
+    12365,
+    15481.9
+   ],
+   "yaw": 4.5492,
+   "scale": 1,
+   "road": "roadqcgt",
+   "footprint": {
+    "rect": [
+     0.54,
+     0.54
+    ]
+   },
+   "height": 3.6
+  },
+  {
+   "type": "built:broad011",
+   "at": [
+    12338.2,
+    15632.3
+   ],
+   "yaw": 1.4224,
+   "scale": 1,
+   "road": "roadqcgt",
+   "footprint": {
+    "rect": [
+     0.54,
+     0.54
+    ]
+   },
+   "height": 3.6
+  },
+  {
+   "type": "built:broad011",
+   "at": [
+    12319.8,
+    15778.3
+   ],
+   "yaw": 4.6946,
+   "scale": 1,
+   "road": "roadqcgt",
+   "footprint": {
+    "rect": [
+     0.54,
+     0.54
+    ]
+   },
+   "height": 3.6
   }
  ],
  "slabs": []
