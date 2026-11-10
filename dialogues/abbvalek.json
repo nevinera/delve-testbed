@@ -1,0 +1,41 @@
+{
+  "id": "abbvalek",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Oh, sorry, I didn't see you. I'm Tam. I, um. I just got back from the vale.",
+      "choices": [
+        {
+          "text": "Are you all right?",
+          "next": "t0"
+        },
+        {
+          "text": "What's down in the vale?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Yes. No. Sorry. Something followed me up. Something dead. I keep thinking I can hear it.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Farms, the lake, Lakeford. It used to be quiet. People say the old barrows aren't quiet anymore. Sorry. I shouldn't scare you.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

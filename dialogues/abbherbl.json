@@ -1,0 +1,41 @@
+{
+  "id": "abbherbl",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "There you are, dear. You look peaky. Everyone does at first. Have you eaten? Never mind, we'll get to that.",
+      "choices": [
+        {
+          "text": "What do you brew?",
+          "next": "t0"
+        },
+        {
+          "text": "Can I buy potions?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Waking tea, mostly. Waking herb, honey, a pinch of salt. Some swear by mint, but mint is for people who don't trust honey.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Not yet, dear, I'm all out. Bring me what I ask for and you'll have some on the house.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

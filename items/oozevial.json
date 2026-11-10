@@ -1,0 +1,9 @@
+{
+  "id": "oozevial",
+  "name": "Vial of Amber Ooze",
+  "icon": "poison-bottle",
+  "quality": "common",
+  "itemLevel": 1,
+  "description": "Warm to the touch, and it moves when you aren't looking.",
+  "stack": 20
+}

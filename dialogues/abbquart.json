@@ -1,0 +1,41 @@
+{
+  "id": "abbquart",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "If you've come for blankets, there are eleven. Ten, now. Sign for it.",
+      "choices": [
+        {
+          "text": "What happened to the stores?",
+          "next": "t0"
+        },
+        {
+          "text": "Anything I can do?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Thieves. Four bundles, gone. Counted twice. I'll have them back or I'll have an explanation.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Yes. Stand there less, and fetch my bundles more.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

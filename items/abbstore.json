@@ -1,0 +1,9 @@
+{
+  "id": "abbstore",
+  "name": "Abbey Stores",
+  "icon": "wheat",
+  "quality": "common",
+  "itemLevel": 1,
+  "description": "A bundle of candles, bread and bandages, stamped with Wakewell's mark.",
+  "stack": 20
+}

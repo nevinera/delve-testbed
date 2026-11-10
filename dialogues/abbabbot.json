@@ -1,0 +1,41 @@
+{
+  "id": "abbabbot",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Welcome to Wakewell, sleeper. You'll feel heavy for a day or two. It passes, like most things, though not as fast as the soup.",
+      "choices": [
+        {
+          "text": "What is this place?",
+          "next": "t0"
+        },
+        {
+          "text": "Where should I go?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "An abbey for the waking. We don't worship the Sleepers. We just catch them as they come out, give them a bowl and a bed, and point them somewhere useful.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Bryce has work for anyone with two arms. Maudie has work for anyone who'll listen. When you've done with them, come and see me, and I'll send you on.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

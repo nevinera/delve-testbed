@@ -1,0 +1,41 @@
+{
+  "id": "abbnovic",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Oh! You're awake. Everyone's a bit wobbly at first. Follow the path along the stream down to the abbey. The keepers will look after you.",
+      "choices": [
+        {
+          "text": "Where am I?",
+          "next": "t0"
+        },
+        {
+          "text": "Who are the keepers?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Wakewell Glen. You came out of the Dream by the falls. Most do, round here. That's why the abbey's here.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "The abbot, and Bryce, and Maudie, and the rest. They look after sleepers when they wake. I'm only sweeping, mostly.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

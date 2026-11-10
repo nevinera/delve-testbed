@@ -1,0 +1,41 @@
+{
+  "id": "abblampl",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "... You came out here. Good. It's quiet where you woke.",
+      "choices": [
+        {
+          "text": "What is the Dream?",
+          "next": "t0"
+        },
+        {
+          "text": "Why lanterns?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Where you were. Where you'll go again, a little, when you sleep. It is close by the falls. Like breath on glass.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "So the next one wakes into light.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

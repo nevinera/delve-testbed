@@ -1,0 +1,41 @@
+{
+  "id": "abbwardn",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Sleeper. Stand up straight. You're going to be fine.",
+      "choices": [
+        {
+          "text": "What's the trouble?",
+          "next": "t0"
+        },
+        {
+          "text": "Any advice?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Oozes in the stream, hornets in the brush, kobolds where kobolds shouldn't be. Nothing that'll beat you. Plenty that'll bruise you.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Pick your fights. Don't pull two at once. And come back to the abbey when you're hurt. That's what it's here for.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

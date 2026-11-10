@@ -1,0 +1,688 @@
+{
+ "version": 1,
+ "quests": [
+  {
+   "id": "glooze01",
+   "name": "Seepage",
+   "level": 1,
+   "zone": "brackenv",
+   "giver": "abbwardn",
+   "text": {
+    "offer": "Morning, sleeper. Good, you're on your feet. Stuff's welling up out of the stream below the falls. Amber, slow, mean. Clear six of them off the banks before they get into the garden.",
+    "summary": "Kill 6 amber oozes along the stream below the falls.",
+    "waiting": "Still oozing? Then you're not done.",
+    "done": "Six down. Not bad for your first day awake."
+   },
+   "objectives": [
+    {
+     "id": "a",
+     "kill": "stock/amber-ooze",
+     "count": 6,
+     "area": "aglooze0",
+     "text": "Amber oozes slain",
+     "mapAreas": [
+      "aglooze0"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glherb01",
+   "name": "Waking Herbs",
+   "level": 1,
+   "zone": "brackenv",
+   "giver": "abbherbl",
+   "text": {
+    "offer": "Oh, you're up! Sit, sit. No, don't sit, I need you. Waking herb grows all round the abbey, pale little leaves. Steep them with honey, dear, never boil them, or they go bitter. Bring me six and I'll have a pot on for the next one through.",
+    "summary": "Gather 6 waking herbs around the abbey.",
+    "waiting": "Pale leaves, dear. Smell of rain.",
+    "done": "Lovely. Smell that? That's what you woke up to."
+   },
+   "objectives": [
+    {
+     "id": "a",
+     "bring": "wakherb1",
+     "count": 6,
+     "text": "Waking herbs",
+     "drops": [
+      {
+       "pool": "herbs",
+       "chance": 1,
+       "time": 1.5
+      }
+     ],
+     "mapAreas": [
+      "pool:herbs"
+     ]
+    }
+   ],
+   "objectPools": [
+    {
+     "id": "herbs",
+     "type": "built:bwood004",
+     "spots": [
+      {
+       "at": [
+        13250.3,
+        12774.9
+       ],
+       "yaw": 0.66,
+       "scale": 1
+      },
+      {
+       "at": [
+        13099.6,
+        13034.3
+       ],
+       "yaw": 5.94,
+       "scale": 1
+      },
+      {
+       "at": [
+        13246.5,
+        13081.9
+       ],
+       "yaw": 0.97,
+       "scale": 1
+      },
+      {
+       "at": [
+        13026.4,
+        13082.0
+       ],
+       "yaw": 2.29,
+       "scale": 1
+      },
+      {
+       "at": [
+        13362.7,
+        13247.8
+       ],
+       "yaw": 1.62,
+       "scale": 1
+      },
+      {
+       "at": [
+        13216.3,
+        12850.0
+       ],
+       "yaw": 0.61,
+       "scale": 1
+      },
+      {
+       "at": [
+        13110.9,
+        13169.7
+       ],
+       "yaw": 2.12,
+       "scale": 1
+      },
+      {
+       "at": [
+        13089.6,
+        12823.1
+       ],
+       "yaw": 4.11,
+       "scale": 1
+      },
+      {
+       "at": [
+        13211.4,
+        12799.2
+       ],
+       "yaw": 1.18,
+       "scale": 1
+      },
+      {
+       "at": [
+        13259.3,
+        13195.6
+       ],
+       "yaw": 5.05,
+       "scale": 1
+      },
+      {
+       "at": [
+        13471.7,
+        13003.8
+       ],
+       "yaw": 1.74,
+       "scale": 1
+      },
+      {
+       "at": [
+        13076.7,
+        12787.6
+       ],
+       "yaw": 3.25,
+       "scale": 1
+      }
+     ],
+     "show": 8
+    }
+   ]
+  },
+  {
+   "id": "glvial01",
+   "name": "Something to Bottle",
+   "level": 2,
+   "zone": "brackenv",
+   "giver": "abbherbl",
+   "text": {
+    "offer": "Those oozes Bryce is so cross about? Waste not, dear. A spoon of the stuff thickens a healing draught beautifully. Bottle five for me and you can have your pick of what I make with it.",
+    "summary": "Bring 5 vials of amber ooze from the oozes by the stream.",
+    "waiting": "Five vials, dear. Corked, if you can manage it.",
+    "done": "Oh, still warm. Take your pick, and mind you drink it before it drinks you. A joke, dear."
+   },
+   "objectives": [
+    {
+     "id": "a",
+     "bring": "oozevial",
+     "count": 5,
+     "text": "Vials of amber ooze",
+     "drops": [
+      {
+       "creature": "stock/amber-ooze",
+       "area": "aglooze0",
+       "chance": 0.6
+      }
+     ],
+     "mapAreas": [
+      "aglooze0"
+     ]
+    }
+   ],
+   "rewards": {
+    "choice": [
+     {
+      "item": "stock/small-health-potion",
+      "count": 3
+     },
+     {
+      "item": "stock/small-mana-potion",
+      "count": 3
+     }
+    ]
+   }
+  },
+  {
+   "id": "glhornt1",
+   "name": "Smoke Them Out",
+   "level": 2,
+   "zone": "brackenv",
+   "giver": "abbwardn",
+   "text": {
+    "offer": "Hornets have nested in the brush west of the stream, down the glen. Seven nests last I counted. Get a smudge going under four of them and they'll move on. Don't stand there admiring it.",
+    "summary": "Smoke out 4 hornet nests west of the stream.",
+    "waiting": "Four nests, sleeper. Smoke, not stares.",
+    "done": "That's the stuff. You'll get stung less tomorrow."
+   },
+   "objectives": [
+    {
+     "id": "a",
+     "use": "pool:nests",
+     "count": 4,
+     "text": "Hornet nests smoked out",
+     "time": 2,
+     "mapAreas": [
+      "pool:nests"
+     ]
+    }
+   ],
+   "after": [
+    "glooze01"
+   ],
+   "requiredLevel": 2,
+   "objectPools": [
+    {
+     "id": "nests",
+     "type": "built:b09614oq",
+     "spots": [
+      {
+       "at": [
+        12496.7,
+        13373.9
+       ],
+       "yaw": 3.31,
+       "scale": 1,
+       "colors": [
+        "#9a9080",
+        "#6a6050"
+       ]
+      },
+      {
+       "at": [
+        12563.2,
+        13311.3
+       ],
+       "yaw": 5.02,
+       "scale": 1,
+       "colors": [
+        "#9a9080",
+        "#6a6050"
+       ]
+      },
+      {
+       "at": [
+        12545.5,
+        13122.3
+       ],
+       "yaw": 2.51,
+       "scale": 1,
+       "colors": [
+        "#9a9080",
+        "#6a6050"
+       ]
+      },
+      {
+       "at": [
+        12577.5,
+        13163.7
+       ],
+       "yaw": 4.59,
+       "scale": 1,
+       "colors": [
+        "#9a9080",
+        "#6a6050"
+       ]
+      },
+      {
+       "at": [
+        12482.6,
+        13092.3
+       ],
+       "yaw": 4.15,
+       "scale": 1,
+       "colors": [
+        "#9a9080",
+        "#6a6050"
+       ]
+      },
+      {
+       "at": [
+        12497.5,
+        13255.5
+       ],
+       "yaw": 3.53,
+       "scale": 1,
+       "colors": [
+        "#9a9080",
+        "#6a6050"
+       ]
+      },
+      {
+       "at": [
+        12543.8,
+        13208.5
+       ],
+       "yaw": 0.88,
+       "scale": 1,
+       "colors": [
+        "#9a9080",
+        "#6a6050"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glsupl01",
+   "name": "Light-Fingered",
+   "level": 3,
+   "zone": "brackenv",
+   "giver": "abbquart",
+   "text": {
+    "offer": "Four bundles. Candles, bread, bandages. Gone from the stores in the night, and I counted them twice. Thieves are camped by a lean-to at the glen's mouth. Bring back four and I'll stop counting.",
+    "summary": "Bring back 4 bundles of Abbey Stores from the thieves at the glen's mouth.",
+    "waiting": "That's none, by my count.",
+    "done": "Four. Fine. I'll mark them back in."
+   },
+   "objectives": [
+    {
+     "id": "a",
+     "bring": "abbstore",
+     "count": 4,
+     "text": "Abbey Stores",
+     "drops": [
+      {
+       "creature": "stock/bandit-thief",
+       "area": "agthief0",
+       "chance": 0.6
+      }
+     ],
+     "mapAreas": [
+      "agthief0"
+     ]
+    }
+   ],
+   "after": [
+    "glherb01"
+   ],
+   "requiredLevel": 2
+  },
+  {
+   "id": "glrunt01",
+   "name": "Runts Above the Falls",
+   "level": 3,
+   "zone": "brackenv",
+   "giver": "abbwardn",
+   "text": {
+    "offer": "Kobolds. Runts, up by the falls, west of the path. Kobolds live under the hills, not up here. Something's chased them out, and I don't like it. Thin them out. Eight should send a message.",
+    "summary": "Kill 8 kobold runts west of the falls path.",
+    "waiting": "Eight, sleeper. Count them as you go.",
+    "done": "Good. Now I want to know what they were running from."
+   },
+   "objectives": [
+    {
+     "id": "a",
+     "kill": "stock/kobold-runt",
+     "count": 8,
+     "area": "agrunts0",
+     "text": "Kobold runts slain",
+     "mapAreas": [
+      "agrunts0"
+     ]
+    }
+   ],
+   "after": [
+    "glooze01"
+   ],
+   "requiredLevel": 2
+  },
+  {
+   "id": "gllamp01",
+   "name": "The Falls Lanterns",
+   "level": 4,
+   "zone": "brackenv",
+   "giver": "abblampl",
+   "text": {
+    "offer": "The lanterns round the falls have gone out. ... It is thin here, where you woke. Thin like ice in spring. The light keeps the next sleeper from waking in the dark. Light four of them for me.",
+    "summary": "Relight 4 lanterns around the foot of the falls.",
+    "waiting": "... Still dark by the water.",
+    "done": "There. Listen. The falls sound softer when they're lit."
+   },
+   "objectives": [
+    {
+     "id": "a",
+     "use": "pool:lanterns",
+     "count": 4,
+     "text": "Lanterns relit",
+     "time": 2,
+     "mapAreas": [
+      "pool:lanterns"
+     ]
+    }
+   ],
+   "after": [
+    "glrunt01"
+   ],
+   "requiredLevel": 3,
+   "objectPools": [
+    {
+     "id": "lanterns",
+     "type": "built:broad007",
+     "spots": [
+      {
+       "at": [
+        12786.9,
+        12216.7
+       ],
+       "yaw": 4.52,
+       "scale": 1
+      },
+      {
+       "at": [
+        12773.9,
+        12283.9
+       ],
+       "yaw": 0.89,
+       "scale": 1
+      },
+      {
+       "at": [
+        12784.0,
+        12328.8
+       ],
+       "yaw": 2.51,
+       "scale": 1
+      },
+      {
+       "at": [
+        12897.4,
+        12348.8
+       ],
+       "yaw": 5.64,
+       "scale": 1
+      },
+      {
+       "at": [
+        12851.8,
+        12334.5
+       ],
+       "yaw": 6.11,
+       "scale": 1
+      },
+      {
+       "at": [
+        12932.8,
+        12267.1
+       ],
+       "yaw": 2.56,
+       "scale": 1
+      }
+     ],
+     "show": 4
+    }
+   ]
+  },
+  {
+   "id": "glkobd01",
+   "name": "A Pick in the Ferns",
+   "level": 4,
+   "zone": "brackenv",
+   "giver": "abblampl",
+   "text": {
+    "offer": "Something lies under the cliff, west of the runts. A small body. A pick beside it. ... Bryce wants to know what drove them. The dead keep their reasons close. Go and look.",
+    "summary": "Search the dead kobold under the cliff west of the runts' camp.",
+    "waiting": "... You haven't looked yet. I can tell.",
+    "done": "Mine dust, and grave dirt under its claws. They dug into something old."
+   },
+   "objectives": [
+    {
+     "id": "a",
+     "use": "pool:deadkob",
+     "count": 1,
+     "text": "Dead kobold searched",
+     "time": 3,
+     "mapAreas": [
+      "pool:deadkob"
+     ]
+    }
+   ],
+   "after": [
+    "glrunt01"
+   ],
+   "requiredLevel": 3,
+   "objectPools": [
+    {
+     "id": "deadkob",
+     "type": "built:b0nsuuc6",
+     "spots": [
+      {
+       "at": [
+        12598.9,
+        12290.0
+       ],
+       "yaw": 2.52,
+       "scale": 0.6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glring01",
+   "name": "The One Who Followed",
+   "level": 4,
+   "zone": "brackenv",
+   "giver": "abbvalek",
+   "text": {
+    "offer": "I was coming back up from the vale and, sorry, I'm still shaking. A man followed me. A dead man. He's wandering at the glen's mouth now. I couldn't, I didn't... Would you put him to rest? He had a ring. I'd like to know whose.",
+    "summary": "Put down the dead man at the glen's mouth and bring back his ring.",
+    "waiting": "Is he still... sorry. Is he still there?",
+    "done": "Barrow bronze. He came up from the old barrow fields. Sorry. Thank you. Sorry."
+   },
+   "objectives": [
+    {
+     "id": "a",
+     "bring": "burring1",
+     "count": 1,
+     "text": "Tarnished Burial Ring",
+     "drops": [
+      {
+       "creature": "stock/zombie",
+       "area": "agmouth0",
+       "chance": 1
+      }
+     ],
+     "mapAreas": [
+      "agmouth0"
+     ]
+    }
+   ],
+   "after": [
+    "glsupl01"
+   ],
+   "requiredLevel": 3
+  },
+  {
+   "id": "glrntl01",
+   "name": "The Runts' Leader",
+   "level": 5,
+   "zone": "brackenv",
+   "giver": "abbwardn",
+   "text": {
+    "offer": "Mine dust and grave dirt. So they broke into something down there and ran. Fine. They've still got a leader up by the falls, a rock-caller. Take it down and the rest will scatter home.",
+    "summary": "Kill the kobold geomancer leading the runts above the falls.",
+    "waiting": "Leader's still standing. Go fix that.",
+    "done": "That's the glen clear. You've earned your legs, sleeper."
+   },
+   "objectives": [
+    {
+     "id": "a",
+     "kill": "stock/kobold-geomancer",
+     "count": 1,
+     "area": "agrunts0",
+     "text": "Runts' leader slain",
+     "mapAreas": [
+      "agrunts0"
+     ]
+    }
+   ],
+   "after": [
+    "glkobd01"
+   ],
+   "requiredLevel": 4
+  },
+  {
+   "id": "gldrem01",
+   "name": "The First Dream",
+   "level": 5,
+   "zone": "brackenv",
+   "giver": "abblampl",
+   "text": {
+    "offer": "The lanterns are lit. Now you can go back, a little way. ... Sit by the stone at the pool. Close your eyes. Don't be afraid of what looks back.",
+    "summary": "Rest by the stone at the falls pool.",
+    "waiting": "... Not yet. The stone is waiting.",
+    "done": "You saw it, then. Don't tell me. It's yours. ... It will make sense, later."
+   },
+   "objectives": [
+    {
+     "id": "a",
+     "use": "pool:dream",
+     "count": 1,
+     "text": "Dreamed by the falls pool",
+     "time": 6,
+     "mapAreas": [
+      "pool:dream"
+     ]
+    }
+   ],
+   "after": [
+    "gllamp01"
+   ],
+   "requiredLevel": 4,
+   "objectPools": [
+    {
+     "id": "dream",
+     "type": "built:bcave002",
+     "spots": [
+      {
+       "at": [
+        12885.6,
+        12288.1
+       ],
+       "yaw": 5.74,
+       "scale": 1.4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "glashb01",
+   "name": "Down to Ashby Farm",
+   "level": 5,
+   "zone": "brackenv",
+   "giver": "abbabbot",
+   "text": {
+    "offer": "Every sleeper leaves us eventually, and I find I mind it less each time, which is either wisdom or age. Edric Ashby farms at the foot of the glen. He's had kobolds at his stores, and something under his hill. Go and see him. Tell him the abbot sent you, and watch him sigh.",
+    "summary": "Speak with Edric Ashby at Ashby farm, south of the glen.",
+    "done": "The abbot sent you? Course he did. Well, you've got two hands. That'll do."
+   },
+   "objectives": [
+    {
+     "id": "a",
+     "talk": "ashfarmr"
+    }
+   ],
+   "turnIn": "ashfarmr",
+   "after": [
+    "glrntl01"
+   ],
+   "requiredLevel": 5
+  },
+  {
+   "id": "glrngd01",
+   "name": "A Ring for Father Wren",
+   "level": 5,
+   "zone": "brackenv",
+   "giver": "abbabbot",
+   "text": {
+    "offer": "Tam tells me you brought back a ring from the barrow fields, and that a dead man wore it. I'd rather it were neither. Father Wren in Lakeford reads old marks better than I do, and worries more usefully. Take it to him, if you would.",
+    "summary": "Take the burial ring to Father Aldous Wren in Lakeford.",
+    "done": "A barrow mark, and a wearer who walked. Let me see. ... No. Sit a moment. I will need to look this up properly."
+   },
+   "objectives": [
+    {
+     "id": "a",
+     "bring": "burring1",
+     "count": 1,
+     "text": "Tarnished Burial Ring"
+    }
+   ],
+   "turnIn": "lkpriest",
+   "given": [
+    {
+     "item": "burring1",
+     "count": 1
+    }
+   ],
+   "after": [
+    "glring01"
+   ],
+   "requiredLevel": 4
+  }
+ ]
+}
