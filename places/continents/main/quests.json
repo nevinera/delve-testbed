@@ -646,6 +646,22 @@
         }
       ],
       "notes": "Source items and making: wolves drop untested samples only while you're on this and hold fewer than 4. Use one from your bags with a kit to test it; 6 times in 10 it makes a tested sample. Abandoning or handing in takes the untested ones."
+    },
+    {
+      "id": "tbtime01",
+      "name": "Timed: hand in within 90 seconds",
+      "level": 1,
+      "zone": "tbwest01",
+      "giver": "elsa0001",
+      "turnIn": "bram0001",
+      "timeLimit": 90,
+      "text": {
+        "offer": "Time limit: you have 90 seconds from taking this to hand it in to Scout Bram, or it fails. The tracker counts down, and the time runs on while you're logged out.",
+        "summary": "Get to Scout Bram within 90 seconds.",
+        "waiting": "Not yet.",
+        "done": "Just in time."
+      },
+      "notes": "Time limit: you have 90 seconds from taking this to hand it in to Scout Bram, or it fails. The tracker counts down, and the time runs on while you're logged out."
     }
   ]
 }
