@@ -27,7 +27,8 @@
     "westhillFluff": "A shepherd boy, and a barking dog behind the barricade.",
     "lakefordFluff": "Drinkers at the inn, a couple of children, a stall keeper and a dog. Vendors and trainers later.",
     "saltwickFluff": "Tired defenders on the barricade, nets being mended, a child keeping watch on a roof.",
-    "riverwatchFluff": "Guards on the bridge, a recruit drilling badly, a cook at the fire."
+    "riverwatchFluff": "Guards on the bridge, a recruit drilling badly, a cook at the fire.",
+    "passFluff": "A sentry on the wall, a muleteer with a pack train, and a number of nameless soldiers. Riverwatch needs nameless soldiers too."
   },
   "zone:thornwoo": {
     "name": "Thornwood",
@@ -235,7 +236,7 @@
       "Lakeford L9 bring: bear claws from the south wood, for a hunter's wager.",
       "Lakeford L7 deliver: the priest's blessed salt to Riverwatch.",
       "Pass gate L10 use: relight the signal beacon above the gate.",
-      "Pass gate L9 deliver: ore samples from the mine's mouth to the gate's smith.",
+      "Pass gate L9 gather: ore samples from the mine's mouth, for the gate's smith (was a delivery to the smith, who is here).",
       "Pass gate L9 kill: the trogs coming down from the foothills.",
       "Westhill L6 gather: windfall apples from the orchard.",
       "Westhill L6 use: mend the fences the bandits broke.",
@@ -555,6 +556,30 @@
     ],
     "voice": "Quiet. Lights up only about arrows.",
     "questRelevance": "The spider silk.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:pgwarden": {
+    "name": "The gate warden",
+    "traits": [
+      "laconic",
+      "watchful",
+      "dry"
+    ],
+    "voice": "One-line answers. Eyes on the pass. Speaks of Greyspur with respect.",
+    "questRelevance": "The trogs, the signal beacon; takes in the gate scout's breadcrumb. Points on to Greyspur in dialogue.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:pgsmith0": {
+    "name": "Pass gate's smith",
+    "traits": [
+      "hearty",
+      "curious",
+      "opinionated"
+    ],
+    "voice": "Loud. Judges every blade you carry. Wants to know what is up the mountain.",
+    "questRelevance": "The ore samples. Points on to Greyspur in dialogue.",
     "zone": "brackenv",
     "note": "Planned; rekey to the placed NPC's id once placed."
   }
