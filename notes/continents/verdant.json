@@ -495,7 +495,7 @@
     "role": "A gate scout on leave"
   },
   "npc:swharbor": {
-    "name": "Saltwick's harbourmaster",
+    "name": "Harbourmaster Agna Stroud",
     "traits": [
       "resolute",
       "weary",
@@ -504,10 +504,11 @@
     "voice": "Even and controlled. Counts boats and days. Never admits fear.",
     "questRelevance": "Frogmen chain: the silent village, the siege line, the tidecaller. Leads the village.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "Saltwick's harbourmaster"
   },
   "npc:swsister": {
-    "name": "A woman whose sister lived in the ruined village",
+    "name": "Wenna Pollard",
     "traits": [
       "hopeful",
       "fragile",
@@ -516,10 +517,11 @@
     "voice": "Asks after names. Breaks off when she guesses the answer.",
     "questRelevance": "The keepsakes.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "A woman whose sister lived in the ruined village"
   },
   "npc:swharpnr": {
-    "name": "The harpooner",
+    "name": "Kett Brine",
     "traits": [
       "fierce",
       "wry",
@@ -528,10 +530,11 @@
     "voice": "Sea curses, dark jokes. Calls the frogmen 'the wet ones'.",
     "questRelevance": "Who leads them (the totems).",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "The harpooner"
   },
   "npc:swcook00": {
-    "name": "Saltwick's cook",
+    "name": "Mother Dorrit",
     "traits": [
       "brisk",
       "motherly",
@@ -540,7 +543,8 @@
     "voice": "Feeds everyone. Scolds and fusses in the same breath.",
     "questRelevance": "The crab meat.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "Saltwick's cook"
   },
   "npc:rwcaptn0": {
     "name": "Riverwatch's captain",
