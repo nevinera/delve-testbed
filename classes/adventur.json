@@ -262,6 +262,7 @@
       "description": "A finisher that hits harder for each setup point.",
       "icon": "punch-blast",
       "level": 2,
+      "byQuest": true,
       "target": "enemy",
       "range": "melee",
       "school": "physical",

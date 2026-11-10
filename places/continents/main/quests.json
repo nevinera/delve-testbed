@@ -364,7 +364,7 @@
         ]
       },
       "text": {
-        "offer": "Shows fixed rewards and a choice of one. Handing in doesn't pay them yet.",
+        "offer": "Shows fixed rewards and a choice of one, paid as you hand it in.",
         "summary": "Speak with Tove.",
         "waiting": "Not yet.",
         "done": "Well done."
@@ -375,7 +375,7 @@
           "talk": "tove0001"
         }
       ],
-      "notes": "Shows fixed rewards and a choice of one. Handing in doesn't pay them yet."
+      "notes": "Shows fixed rewards and a choice of one, paid as you hand it in."
     },
     {
       "id": "tbdrop01",
@@ -502,6 +502,32 @@
       ],
       "notes": "Fails if you die while on it. It stays in your log marked failed until you abandon it, then Elsa offers it again.",
       "failOnDeath": true
+    },
+    {
+      "id": "tbteach1",
+      "name": "Teach: an ability",
+      "level": 1,
+      "zone": "tbwest01",
+      "giver": "elsa0001",
+      "classes": [
+        "adventur"
+      ],
+      "rewards": {
+        "teach": "wallpadv"
+      },
+      "text": {
+        "offer": "Teaches Wallop, which Adventurers only know once a quest teaches it, and from level 2.",
+        "summary": "Speak with Scout Bram.",
+        "waiting": "Not yet.",
+        "done": "Well done. You know Wallop now."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "talk": "bram0001"
+        }
+      ],
+      "notes": "Teaches Wallop, which Adventurers only know once a quest teaches it, and from level 2."
     }
   ]
 }
