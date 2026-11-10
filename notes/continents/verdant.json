@@ -19,7 +19,8 @@
     "progression": "Glen camp (1-5; you leave at about 5-6) -> Ashby farm (5-7: the kobold mine chain, field pests, hill bandits, the dead chain's farm entry) -> Lakeford (6-8, main town: the dead chain's town entry) -> in any order, 7-10: Saltwick (frogmen), Riverwatch (autumn bandits and their chief), the barrows and the tower (end of the dead chain) -> Pass gate (9-10, a few quests pointing on to Greyspur).",
     "questCount": "55 planned: glen 13, kobold mine 5, rising dead 9, frogmen 6, bandits 7 beyond the glen's stolen supplies, side quests 15.",
     "training": "The training glen has 13 quests, by level 2, 2, 2, 3 and 4 for levels 1 to 5, matching the six reference starting areas (11 to 14 quests, about 12.5). About 3,800 quest XP of the 7,600 to level 6; about 60 kills along the way make the rest, so players leave at about 5.5 to 6. Two are set: the stolen supplies (bandits) and the level 5 breadcrumb to Ashby farm for the mine chain. Compose these with extra care: they are the first touch. They may include a few short chains.",
-    "trainingDesign": "Moving and talking need no teaching. Teach several things at once across concurrent quests: quests land in batches you go out and do together, then hand in all at once."
+    "trainingDesign": "Moving and talking need no teaching. Teach several things at once across concurrent quests: quests land in batches you go out and do together, then hand in all at once.",
+    "fluff": "Every hub also needs fluff NPCs who give nothing, to make it feel alive, and later vendors and trainers."
   },
   "zone:thornwoo": {
     "name": "Thornwood",
@@ -193,7 +194,15 @@
     "name": "Glen camp (working name): a small abbey of the Sleepers",
     "purpose": "The spawn. The abbey stands in the glen because it is a place where the dream realm touches the world; its people help the new-wakened and get them on their feet. See lore:sleepers in conventions.",
     "people": "the abbey's few keepers",
-    "mood": "quiet, kind, a little otherworldly"
+    "mood": "quiet, kind, a little otherworldly",
+    "givers": [
+      "the abbot: greets the new-wakened; gives the two level 5 send-offs (Ashby farm, the ring to Lakeford)",
+      "the warden: oozes, hornets, kobold runts, the runts' leader",
+      "the herbalist: waking herbs, ooze vials (potion choice)",
+      "the lamplighter: the falls lanterns, the dead kobold, the first dream",
+      "the quartermaster: the stolen supplies",
+      "a keeper back from the vale: the burial ring"
+    ]
   },
   "chain:glen": {
     "name": "The glen (training)",
