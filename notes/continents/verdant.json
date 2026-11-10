@@ -246,7 +246,7 @@
     ]
   },
   "npc:abbabbot": {
-    "name": "The abbot",
+    "name": "Abbot Halden",
     "traits": [
       "serene",
       "wry",
@@ -255,10 +255,11 @@
     "voice": "Long, unhurried sentences. Teases gently. Never raises his voice.",
     "questRelevance": "Greets the new-wakened; gives the level 5 send-offs to Ashby farm and Lakeford.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "The abbot"
   },
   "npc:abbwardn": {
-    "name": "The warden",
+    "name": "Keeper Bryce Tallow",
     "traits": [
       "blunt",
       "protective",
@@ -267,10 +268,11 @@
     "voice": "Short orders. Sports and soldiering words. Calls you 'sleeper'.",
     "questRelevance": "Oozes, hornets, kobold runts, the runts' leader.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "The warden"
   },
   "npc:abbherbl": {
-    "name": "The herbalist",
+    "name": "Keeper Maudie Fenn",
     "traits": [
       "fussy",
       "warm",
@@ -279,10 +281,11 @@
     "voice": "Chatters. Drifts into recipes mid-sentence. Fond of 'dear'.",
     "questRelevance": "Waking herbs, ooze vials.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "The herbalist"
   },
   "npc:abblampl": {
-    "name": "The lamplighter",
+    "name": "Keeper Ilan",
     "traits": [
       "dreamy",
       "solemn",
@@ -291,10 +294,11 @@
     "voice": "Speaks in images. Pauses. Talks of the Dream as if it is near.",
     "questRelevance": "The falls lanterns, the dead kobold, the first dream.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "The lamplighter"
   },
   "npc:abbquart": {
-    "name": "The quartermaster",
+    "name": "Keeper Osric Pell",
     "traits": [
       "grumbling",
       "precise",
@@ -303,10 +307,11 @@
     "voice": "Counts things. Complains, but is fair. Never says thanks outright.",
     "questRelevance": "The stolen supplies.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "The quartermaster"
   },
   "npc:abbvalek": {
-    "name": "The keeper back from the vale",
+    "name": "Keeper Tam Ridley",
     "traits": [
       "shaken",
       "earnest",
@@ -315,7 +320,8 @@
     "voice": "Rushed, trailing off. Apologises too much.",
     "questRelevance": "The burial ring.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "The keeper back from the vale"
   },
   "npc:ashfarmr": {
     "name": "Farmer Ashby",
@@ -582,5 +588,9 @@
     "questRelevance": "The ore samples. Points on to Greyspur in dialogue.",
     "zone": "brackenv",
     "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "lore:abbeyTitles": {
+    "name": "Abbey titles",
+    "summary": "Abbey folk are titled 'Keeper', since they serve the Sleepers rather than worship them; the head is 'Abbot'."
   }
 }
