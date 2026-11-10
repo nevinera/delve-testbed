@@ -17,7 +17,7 @@
     "barrows": "Four barrows, kept 1,700 ft or more from hubs because the dead wander toward the living: the mine barrow, Ashby barrow, Southwood barrow and River barrow, all within about 5,000 ft of the tower.",
     "banditCamps": "Two camps in the western hills near the gap raid the Ashby farm; two in the autumn wood prey on Riverwatch and its road; the chief hides in a fifth camp between them.",
     "progression": "Glen camp (1-5; you leave at about 5-6) -> Ashby farm (5-7: the kobold mine chain, field pests, hill bandits, the dead chain's farm entry) -> Lakeford (6-8, main town: the dead chain's town entry) -> in any order, 7-10: Saltwick (frogmen), Riverwatch (autumn bandits and their chief), the barrows and the tower (end of the dead chain) -> Pass gate (9-10, a few quests pointing on to Greyspur).",
-    "questCount": "Aim for about 55. Planned: glen 13, kobold mine 5, rising dead 9, frogmen 6, bandits 7 beyond the glen's stolen supplies: 40. About 15 side quests to go.",
+    "questCount": "55 planned: glen 13, kobold mine 5, rising dead 9, frogmen 6, bandits 7 beyond the glen's stolen supplies, side quests 15.",
     "training": "The training glen has 13 quests, by level 2, 2, 2, 3 and 4 for levels 1 to 5, matching the six reference starting areas (11 to 14 quests, about 12.5). About 3,800 quest XP of the 7,600 to level 6; about 60 kills along the way make the rest, so players leave at about 5.5 to 6. Two are set: the stolen supplies (bandits) and the level 5 breadcrumb to Ashby farm for the mine chain. Compose these with extra care: they are the first touch. They may include a few short chains.",
     "trainingDesign": "Moving and talking need no teaching. Teach several things at once across concurrent quests: quests land in batches you go out and do together, then hand in all at once."
   },
@@ -204,6 +204,27 @@
       "Batch 2, down the glen (L2, L3, L3): L2 use, smoke out the hornets' nests. L3 bring back the supplies the bandit thieves stole (introduces the bandits). L3 kill kobold runts by the falls; why are kobolds up here? A first hint at trouble in the mine.",
       "Batch 3, deeper in (L4 x3): L4 use, relight the lanterns at the falls, where the Dream touches the world. L4 use, search a dead kobold with a pick near the falls; its gear shows the runts fled the mine (built from the stock remains object and a pick). L4 bring: a keeper coming back up from the vale was followed by a dead man, now wandering at the glen's mouth; put it down and bring back its burial ring, which the keeper knows is from the barrow fields below. A single level 4 undead, the first look at the dead.",
       "Batch 4, leaving (L5 x4): L5 kill the kobold runts' leader by the falls. L5 use, your first dream: rest at the pool by the falls and glimpse something, kept vague. L5 talk, the breadcrumb to Ashby farm for the mine chain. L5 deliver the burial ring to the priest in Lakeford, a second way out that leads into the dead chain."
+    ]
+  },
+  "sides:brackenv": {
+    "name": "Brackenvale side quests",
+    "zone": "brackenv",
+    "quests": [
+      "Lakeford L6 deliver: the innkeeper's ale order to Ashby farm.",
+      "Lakeford L7 bring: venison from the meadow stags, for the inn's kitchen.",
+      "Lakeford L7 kill: frogmen scouts at the lakeshore; why are they this far inland?",
+      "Lakeford L8 use: fix the posts of the lake's fish weir.",
+      "Lakeford L8 talk: breadcrumb to Saltwick's harbourmaster.",
+      "Lakeford L9 bring: bear claws from the south wood, for a hunter's wager.",
+      "Lakeford L7 deliver: the priest's blessed salt to Riverwatch.",
+      "Pass gate L10 use: relight the signal beacon above the gate.",
+      "Pass gate L9 deliver: ore samples from the mine's mouth to the gate's smith.",
+      "Pass gate L9 kill: the trogs coming down from the foothills.",
+      "Westhill L6 gather: windfall apples from the orchard.",
+      "Westhill L6 use: mend the fences the bandits broke.",
+      "Ashby L5 kill: the field rats in the barns.",
+      "Saltwick L8 bring: crab meat from the strand crabs, to feed the besieged village.",
+      "Riverwatch L9 bring: spider silk from the east wood, for the fletcher."
     ]
   }
 }
