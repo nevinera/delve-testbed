@@ -14,7 +14,8 @@
     "bandits": "Human bandits, a new creature set to make with the make-creature skill: at least a melee bandit, an archer and a leader, levels about 4 to 10.",
     "mine": "Kobold side story. Their mine broke into the side of a barrow, and now they are fighting the undead inside it. The necromancer is not directly involved: his rituals passively animate the dead within range, and this barrow is in range without his knowing it.",
     "necromancer": "A rogue necromancer, he, performing rituals that passively animate the dead near him. Part of an underground cult in Thornwood, which the end of the local chain reveals.",
-    "barrows": "Four barrows, kept 1,700 ft or more from hubs because the dead wander toward the living: the mine barrow, Ashby barrow, Southwood barrow and River barrow, all within about 5,000 ft of the tower."
+    "barrows": "Four barrows, kept 1,700 ft or more from hubs because the dead wander toward the living: the mine barrow, Ashby barrow, Southwood barrow and River barrow, all within about 5,000 ft of the tower.",
+    "banditCamps": "Two camps in the western hills near the gap raid the Ashby farm; two in the autumn wood prey on Riverwatch and its road; the chief hides in a fifth camp between them."
   },
   "zone:thornwoo": {
     "name": "Thornwood",
@@ -57,5 +58,53 @@
     "purpose": "The fishing village the frogmen destroyed, by the mouth of the lake's outflow, south-west of Saltwick. The frogmen hold it now.",
     "people": "frogmen (amphen)",
     "mood": "burnt houses and broken boats on the shore"
+  },
+  "camp:cmpbdhn0": {
+    "name": "Hill gap bandits (4-6)",
+    "purpose": "human bandits raiding the Ashby farm",
+    "people": "human bandits",
+    "mood": "rough tents, stolen goods"
+  },
+  "camp:cmpbdhs0": {
+    "name": "Westhill bandits (5-6)",
+    "purpose": "human bandits raiding the Ashby farm",
+    "people": "human bandits",
+    "mood": "rough tents, stolen goods"
+  },
+  "camp:cmpbdaw0": {
+    "name": "Autumnwood bandits (7-8)",
+    "purpose": "human bandits preying on the Riverwatch road",
+    "people": "human bandits",
+    "mood": "rough tents, stolen goods"
+  },
+  "camp:cmpbdae0": {
+    "name": "Autumnwood bandit camp (8-9)",
+    "purpose": "human bandits preying on Riverwatch",
+    "people": "human bandits",
+    "mood": "rough tents, stolen goods"
+  },
+  "camp:cmpbdld0": {
+    "name": "Bandit chief's hideout (9-10)",
+    "purpose": "the bandit gang's leader, in a hidden camp",
+    "people": "human bandits",
+    "mood": "rough tents, stolen goods"
+  },
+  "camp:cmpfrw00": {
+    "name": "Frogmen raiders (7-8)",
+    "purpose": "frogmen (amphen) between the ruined village and Saltwick",
+    "people": "frogmen (amphen)",
+    "mood": "wet, reeking, half-built mud huts"
+  },
+  "camp:cmpfre00": {
+    "name": "Frogmen siege line (8-9)",
+    "purpose": "frogmen (amphen) pressing on Saltwick",
+    "people": "frogmen (amphen)",
+    "mood": "wet, reeking, half-built mud huts"
+  },
+  "camp:cmpfrx00": {
+    "name": "Frogmen east raiders (8-9)",
+    "purpose": "frogmen (amphen) raiding Saltwick from the east",
+    "people": "frogmen (amphen)",
+    "mood": "wet, reeking, half-built mud huts"
   }
 }
