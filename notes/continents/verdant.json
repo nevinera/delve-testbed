@@ -21,7 +21,8 @@
     "training": "The training glen has 13 quests, by level 2, 2, 2, 3 and 4 for levels 1 to 5, matching the six reference starting areas (11 to 14 quests, about 12.5). About 3,800 quest XP of the 7,600 to level 6; about 60 kills along the way make the rest, so players leave at about 5.5 to 6. Two are set: the stolen supplies (bandits) and the level 5 breadcrumb to Ashby farm for the mine chain. Compose these with extra care: they are the first touch. They may include a few short chains.",
     "trainingDesign": "Moving and talking need no teaching. Teach several things at once across concurrent quests: quests land in batches you go out and do together, then hand in all at once.",
     "fluff": "Every hub also needs fluff NPCs who give nothing, to make it feel alive, and later vendors and trainers.",
-    "abbeyFluff": "Two or three townsfolk at the abbey: a novice sweeping, a newly woken stranger still dazed, a goatherd."
+    "abbeyFluff": "Two or three townsfolk at the abbey: a novice sweeping, a newly woken stranger still dazed, a goatherd.",
+    "ashbyFluff": "A couple of farmhands, two children and a dog."
   },
   "zone:thornwoo": {
     "name": "Thornwood",
@@ -306,6 +307,42 @@
     ],
     "voice": "Rushed, trailing off. Apologises too much.",
     "questRelevance": "The burial ring.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:ashfarmr": {
+    "name": "Farmer Ashby",
+    "traits": [
+      "harried",
+      "proud",
+      "practical"
+    ],
+    "voice": "Talks about work and weather. Short on patience, long on lists.",
+    "questRelevance": "Stolen stores, what drove the kobolds out, the breadcrumb to Westhill; takes in the Lakeford ale order and the glen breadcrumb.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:ashgranm": {
+    "name": "Gran Ashby",
+    "traits": [
+      "sharp",
+      "superstitious",
+      "unsentimental"
+    ],
+    "voice": "Dry, old sayings, blunt about death. Calls everyone 'child'.",
+    "questRelevance": "The old barrow (talk), the barrow lord, consecrating it: she knows the old rites.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:asheldst": {
+    "name": "The eldest Ashby",
+    "traits": [
+      "bold",
+      "impatient",
+      "cheerful"
+    ],
+    "voice": "Quick and boastful. Turns everything into a contest.",
+    "questRelevance": "The field rats; the risen dead near the Ashby barrow (the dead chain's way in).",
     "zone": "brackenv",
     "note": "Planned; rekey to the placed NPC's id once placed."
   }
