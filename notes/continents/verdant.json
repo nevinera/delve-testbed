@@ -24,7 +24,8 @@
     "abbeyFluff": "Two or three townsfolk at the abbey: a novice sweeping, a newly woken stranger still dazed, a goatherd.",
     "ashbyFluff": "A couple of farmhands, two children and a dog.",
     "farmsteads": "Westhill and Ashby are estranged siblings, the widow and Farmer Ashby, not speaking since their parents' land was split. Each grumbles about the other; the bandit raids push them back together, and the bandit chain's end can show them reconciled. No courting children: too close to the reference zone.",
-    "westhillFluff": "A shepherd boy, and a barking dog behind the barricade."
+    "westhillFluff": "A shepherd boy, and a barking dog behind the barricade.",
+    "lakefordFluff": "Drinkers at the inn, a couple of children, a stall keeper and a dog. Vendors and trainers later."
   },
   "zone:thornwoo": {
     "name": "Thornwood",
@@ -227,7 +228,7 @@
       "Lakeford L7 bring: venison from the meadow stags, for the inn's kitchen.",
       "Lakeford L7 kill: frogmen scouts at the lakeshore; why are they this far inland?",
       "Lakeford L8 use: fix the posts of the lake's fish weir.",
-      "Lakeford L8 talk: breadcrumb to Saltwick's harbourmaster.",
+      "Lakeford L8 talk: breadcrumb to Pass gate, from a gate scout on leave (was a breadcrumb to Saltwick, which the frogmen chain already does).",
       "Lakeford L9 bring: bear claws from the south wood, for a hunter's wager.",
       "Lakeford L7 deliver: the priest's blessed salt to Riverwatch.",
       "Pass gate L10 use: relight the signal beacon above the gate.",
@@ -383,6 +384,90 @@
     ],
     "voice": "Questions tumble out. Worries about the animals.",
     "questRelevance": "The windfall apples.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:lkpriest": {
+    "name": "Lakeford's priest",
+    "traits": [
+      "gentle",
+      "scholarly",
+      "stubborn"
+    ],
+    "voice": "Careful, exact words. Quotes old texts. Won't be hurried.",
+    "questRelevance": "Dead chain steps 1, 2 and 7; the blessed salt; takes in the glen's burial ring.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:lksergnt": {
+    "name": "The watch sergeant",
+    "traits": [
+      "gruff",
+      "dutiful",
+      "overworked"
+    ],
+    "voice": "Clipped. Speaks in reports. Too few men, and says so.",
+    "questRelevance": "The dead chain's way in (bones); the frogmen scouts at the lake.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:lkinnkpr": {
+    "name": "The innkeeper",
+    "traits": [
+      "jovial",
+      "gossipy",
+      "shrewd"
+    ],
+    "voice": "Big laugh. Knows everyone's business, and trades it.",
+    "questRelevance": "The ale order, the venison.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:lkfisher": {
+    "name": "A Lakeford fisher",
+    "traits": [
+      "taciturn",
+      "patient",
+      "superstitious about the water"
+    ],
+    "voice": "Few words, lake sayings.",
+    "questRelevance": "The fish weir.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:lkhunter": {
+    "name": "A Lakeford hunter",
+    "traits": [
+      "boastful",
+      "competitive",
+      "generous"
+    ],
+    "voice": "Tall tales. Bets on everything.",
+    "questRelevance": "The bear claws wager.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:lkmessgr": {
+    "name": "The Saltwick messenger",
+    "traits": [
+      "frantic",
+      "exhausted",
+      "determined"
+    ],
+    "voice": "Out of breath, pleading.",
+    "questRelevance": "Frogmen chain step 1, sending you to Saltwick.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:lkscout0": {
+    "name": "A gate scout on leave",
+    "traits": [
+      "bored",
+      "curious",
+      "easygoing"
+    ],
+    "voice": "Lazy drawl. Misses the mountains.",
+    "questRelevance": "The breadcrumb to Pass gate.",
     "zone": "brackenv",
     "note": "Planned; rekey to the placed NPC's id once placed."
   }
