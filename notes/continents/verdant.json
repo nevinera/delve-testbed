@@ -194,5 +194,16 @@
     "purpose": "The spawn. The abbey stands in the glen because it is a place where the dream realm touches the world; its people help the new-wakened and get them on their feet. See lore:sleepers in conventions.",
     "people": "the abbey's few keepers",
     "mood": "quiet, kind, a little otherworldly"
+  },
+  "chain:glen": {
+    "name": "The glen (training)",
+    "zone": "brackenv",
+    "summary": "13 quests in four batches, levels 1 to 5.",
+    "batches": [
+      "Batch 1, at the abbey as you wake (L1, L1, L2): L1 kill amber oozes seeping from the stream's pools, where the Dream touches the world. L1 gather waking herbs near the abbey, which the keepers brew for the new-wakened. L2 bring vials of ooze, used in making potions; rewards a choice of potions.",
+      "Batch 2, down the glen (L2, L3, L3): draft, not settled.",
+      "Batch 3, deeper in (L4 x3): draft, not settled.",
+      "Batch 4, leaving (L5 x4): includes the breadcrumb to Ashby farm; draft, not settled."
+    ]
   }
 }
