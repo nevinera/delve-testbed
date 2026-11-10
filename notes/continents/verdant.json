@@ -17,7 +17,8 @@
     "barrows": "Four barrows, kept 1,700 ft or more from hubs because the dead wander toward the living: the mine barrow, Ashby barrow, Southwood barrow and River barrow, all within about 5,000 ft of the tower.",
     "banditCamps": "Two camps in the western hills near the gap raid the Ashby farm; two in the autumn wood prey on Riverwatch and its road; the chief hides in a fifth camp between them.",
     "progression": "Glen camp (1-3) -> Ashby farm (3-6: field pests, hill bandits, Ashby barrow as the first taste of the dead) -> Lakeford (5-8, main town: undead chain starts, sends you to the mine side story) -> in any order, all 7-10: Saltwick (frogmen), Riverwatch (autumn bandits and their chief), the barrows and the tower (end of the undead chain) -> Pass gate (9-10, a few quests pointing on to Greyspur).",
-    "questCount": "Aim for about 55: a large zone gives 40 to 65, and this one has six hubs, with Lakeford giving the most."
+    "questCount": "Aim for about 55: a large zone gives 40 to 65, and this one has six hubs, with Lakeford giving the most.",
+    "training": "The training area's quests include a few short chains, which are not interesting structurally."
   },
   "zone:thornwoo": {
     "name": "Thornwood",
@@ -108,5 +109,29 @@
     "purpose": "frogmen (amphen) raiding Saltwick from the east",
     "people": "frogmen (amphen)",
     "mood": "wet, reeking, half-built mud huts"
+  },
+  "chain:undead": {
+    "name": "The rising dead",
+    "zone": "brackenv",
+    "summary": "The main chain. Starts from the first town after the training region. Runs through the barrows to the broken tower and the rogue necromancer, and ends on the hint that he belongs to an underground cult in Thornwood.",
+    "quests": []
+  },
+  "chain:frogmen": {
+    "name": "The frogmen",
+    "zone": "brackenv",
+    "summary": "Starts with Saltwick needing help. You are sent to the ruined village, told what happened there, maybe as a rescue, but there are no survivors. Then it turns to saving Saltwick from the frogmen.",
+    "quests": []
+  },
+  "chain:bandits": {
+    "name": "The bandit gang",
+    "zone": "brackenv",
+    "summary": "The bandits are introduced in the training area. The chain proper starts at one of the farmsteads; another quest leads you there, but it is not required. Ends at the chief's hideout.",
+    "quests": []
+  },
+  "chain:kobolds": {
+    "name": "The kobold mine",
+    "zone": "brackenv",
+    "summary": "Probably the earliest chain. The kobolds' mine broke into a barrow, and they are fighting its dead.",
+    "quests": []
   }
 }
