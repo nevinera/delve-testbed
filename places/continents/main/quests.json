@@ -607,6 +607,45 @@
         }
       ],
       "notes": "Object pool: six shrines (stone piles) west of the spawn are the quest's own. Only you see them while on this, two at a time, a different two for each player; using one brings another."
+    },
+    {
+      "id": "tbmake01",
+      "name": "Make: test samples with a kit",
+      "level": 1,
+      "zone": "tbwest01",
+      "giver": "elsa0001",
+      "text": {
+        "offer": "Source items and making: wolves drop untested samples only while you're on this and hold fewer than 4. Use one from your bags with a kit to test it; 6 times in 10 it makes a tested sample. Abandoning or handing in takes the untested ones.",
+        "summary": "Bring 2 tested wolf samples.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "given": [
+        {
+          "item": "tbkit001",
+          "count": 5
+        }
+      ],
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "tbtestd1",
+          "count": 2
+        }
+      ],
+      "sourceItems": [
+        {
+          "item": "tbuntst1",
+          "count": 4,
+          "drops": [
+            {
+              "creature": "stock/wolf",
+              "chance": 1
+            }
+          ]
+        }
+      ],
+      "notes": "Source items and making: wolves drop untested samples only while you're on this and hold fewer than 4. Use one from your bags with a kit to test it; 6 times in 10 it makes a tested sample. Abandoning or handing in takes the untested ones."
     }
   ]
 }
