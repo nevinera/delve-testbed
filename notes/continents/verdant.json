@@ -137,9 +137,9 @@
       "1. Stolen stores (bring): kobolds driven out of the mine raid the Ashbys' stores; get back sacks of grain from the kobolds at the mine mouth.",
       "2. What drove them out (reach): go into the mine and reach the deep tunnel, where kobolds fight skeletons.",
       "3. The old barrow (talk): someone old in the Ashby family remembers a barrow under that hill.",
-      "4. Consecrate the barrow (use, then kill): consecrate the barrow, warding it against the ritual. Its lord emerges as soon as you do, says a little hinting at the necromancer, then attacks."
-    ],
-    "needs": "Step 4 needs a quest script on using an object: spawn a creature that says a line, then attacks. Quests do not have scripts yet (#488 was closed, left for when a quest needs it)."
+      "4. The barrow lord (kill): fight the barrow's lord to clear the barrow.",
+      "5. Consecrate the barrow (use): consecrate the cleared barrow, warding it against the ritual. The hint at the necromancer comes in this quest's text, or in something the lord drops."
+    ]
   },
   "hub:hubwestf": {
     "name": "Westhill farmstead",
