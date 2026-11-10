@@ -1,26 +1,26 @@
 plate 8 9 10
 tile 0
 h z KLUv/WBIEO0NAHLMGBNwu3H4DpHZHlaqtfuTC32v+lUcB4Ri48cvOco1m7lzWMNh1cQ8tsPcVdqcNAuIfZzBWP574+wyu8uQyMxAlnnzZGYyO4Fii2AyL4uDuZobLDAZmW2SWcxuMpm79ocRAHwIjoDRqBCPNGkNcA5JINg5QlAUFwIVYKfNVJgFZaRQf9o3y6BlimXG43iev9CJzj7RFxFDVHizoAypr1iCJym1tULqEI/EoFuVE4imIsOCfwVO+lws8mYzMsalLvLhT/6QZ0+Ic7wmKggQMuts/rHDJig/+Jjx53FkyQZXb5waH4q+WpBPxBUq9udILS6eaoUSD5JueCuwJZNb8L3Da0wywATAYC5LS435IGvHQcbTiGwzCMZkApJuOFREHPOPp61CKPurilxD8zGDLnKT+MZDhEA+PqY5oSCihqesfl724RP49S2afkcVDsJuHWm5JiFaFATtF/7FIlmLt8C6/iT/Q4YZqwwQjF0md13GQ2lSOURRwetKeg+6CRDPqMnWKBefsNC9TBZIAF0YYmH7iVIZ+yPAIc20A44BVmUDPUQc4gLJb92IlHmilhwI4zJEHphZpd45d6p5XQo
-b ArSATEAtSAREAvSAPEAxSANEAzSALEA1SAJEA1SAJEA2SAIEA5SAFEA8SACEA8SACEA+SAAEA+SAAEy/S
+b //S
 s s1 72 80
 w all 1 AIAA
 tile 1
 h z KLUv/WBIEGURACYTJxhAN6QD/GXFSGRqsqdb/mQRsKfEm3E02IkdACMAIAC/f/Z7d1WCYsvY2zv59/Re0Pvvu6uvS1gEAKJCIyo4bNKr0lhG0paazilZpQXE/pZaj/e2lRL7XweJNBnpVUoylh9393suupbqyLDvYPTfm01ZJWTdxl/ftBr6XdpmUwGqu4a3yj1MtUyoKt7fWKkO3/R2jpalEitmLKpaBoDjqOFFI5ImbQdADomImg6SeDBVghWzXhiF5UdBncqyZ5BASxQA+ntwYHCDJg/fc0PFGvYs7BxMv9R+0VGGCUDrIkrwGOYacCg+9GMaEpFhqoRTxIJCIT3lI1JgHapIDhB4Zg7JoubEfvjuRgbXngxFo0VTT0mAsRroeKAFSIjeiYVWJ89Xb0QtleDQsHvXaBzGnulCWOeC2NxYxQiUmA2UHAx8mlgneIgoIivG0xdtt56R1h4CFPN1YE0ECGPcwBWhMJJxtuhlgVi4C+R4XLwd3FkFPBgm4BEcOAhGj2WfhE2/wcK3JoCg2R8yC00Ntjmoh8Jjjg0h4wChd7pnjtF0DslHbfPYwss3Qj4tMhH1xTeQXzjVH9afbOyL5pfYgowcVFvBXhsH6xYHiPR8rkmaODA8kaMDNlOQf3KTwBw9o24JOtsl/0tHD4IGqtHjqUWtOIr5CPW42qV4aaWK38NtzRgiQgm4BtkXPmYPChkDgB0BI68rCBf8HC/HC/QEjI++fI7f7O7t5Yw+4ag
-b M/EACSA8EACSA8EAESA6EAESA6EAKSA0EASSAsEAbSAjEAeSAgEAgSAeEAiSAcEAkSAaEAkSAaEAmSAYEAmSAYEAoSAWEAqSAUEAqSAUEArSATEArSATEAvSAPEAxSANEA1SAJEA3SAHEA5SAFEA5SACEAASABEA9SABEY/S
+b //S
 s s1 73 80
 w all 1 AIAA
 tile 2
 h z KLUv/WBIEPURABKPHhlAVdIYsBdsJDspM4hpiHcXcR4D/w4DUZcD+/aG2Jq4jHH9w2wUQa6/3CZrpd9G2yq3lnadFRBrFEEvUyrtFm3LLCVCoqb1uF5L5dRa14OiLqmqtb4eLBaqW5X7xsBIjpUou1pbmldrfV7XhV+CxvcfdN8RKADwFBwBgQCo4JAkSQqtAVAMjUh2DtJAmCT5RhQQRqyRkThBSUE5xa1nZ0pr/GBR9FKE1cYT6YlitN89D5hT8AADNTlYC+aWPGS8j6aEV5mfNxDEshi6B1LRURdBqdBIsZFAuJMOSDRCIiCzeEl/Iz516jHhwXzplIIEfu9RyDrBZJz/YJBVTsHECf+ihUzy63gumWEBejUrWsnoLszpfhaEC32+Oj1O9QCfdjjfxUNKRfBoha6FTcRgQ/A2cLqQz14Q/eS4ISPFCAbWG7jz+D2AHtFTUCGAQtwI9hAB1vV95wKpHn0ht0UU0RjqsZyh/XBStCb8LaLHyKTwjEYFd1W2TvinQ3MP+h1mZNCQ9tFDxSG3lEt1YN1rRp+QeHisFYjt1kA2wYaBOnEwl6a/2OPXl17s4TgijMKEejDj4u8pQBKqN1USdYSCje7YzQguHykoymkvpEJA4LeqmlWsCM3f0UJrMEoFwonRipvF63rozDeE/yO0wTgiGQQwMZ/UHgZIZf/AaRH2XK0/yqfHhx6jYaU3JItV1+Mcp/gMT3sspshz8dsEDysDFerCWOAlASnF8dCbR1afUjAHAC3j0BpYsGEqmBQ
-b n/EADSA7EADSA7EAFSA5EAFSA5EAISA2EAISA2EAJSA1EAISABEAASAzEAKSA0EALSAzEALSAzEAMSAyEAOSAwEAOSAwEAPSAvEARSAtEARSAtEASSAsEARSAtEAUSAqEATSArEAUSAqEAUSAqEATSArE
+b //S
 s s1 74 80
 w AA 1 AIAA
 w AB 2 AIAAIAA~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
 w AC 2 A~~~~~~~~~~~~~~~~~~~~~~~~IAA~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
 w AD 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
-w AE 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAA~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
+w AE 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAA~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
 w AF 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
 w AG 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
-w AH 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
+w AH 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAA~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
 w AI 1 AIAA
 w AJ 1 AIAA
 w AK 1 AIAA
@@ -79,15 +79,15 @@ w A+ 1 AIAA
 w A/ 1 AIAA
 tile 3
 h z KLUv/WBIEKURAIIPIRtgr2EMBNrgTKbo5gQU1LstdslPCJXKQ7I1WAFCatHSq05X6pafhktfMzHEJhfm3AdyGvt2O/imKTH1i5lPpLmmkFYp0q4DaV/G62qZoDX3BnX/lO8A1Dd19/4pbvv/rv/f/8r+/mbebH9BtbvtT5u7hbURtgtbb2w7fjjEXSMEp8EErID/qPBy0mQYA3DQiMhVOnJIaAZk2IShhFQFI5OknIKSVDJsB15CC4jqFL+n9FbYchTFvLBgRd4zcZKshS6ROVPtSnlcoqDPS+jZozJcAMz2mSadYsmxYA6odbMy2MgEqU9L94ZFccz0cQZ9D9YZRZhREtSKulpmJNzyJxTtqVABhTsCA02gCCNQYVFB5ZMPO/0vDyQiCPoYeYI36YPxa8Ul231w8nlGwTaaPw25BxGsQriKGJkH/kAG0Bmcl22vJ3E6uOnV4c0Z7jdnW/bAHePCLGQvokQzaxQyUlPp+bMK5cgSbnx3Oy7XcMt4ih2jyXM5yKn5qqz8+Y7Iym/+O3cYBxAwfEOuMFQ3OWYwebCCUOuC8g0WZH0yboI9E7giXGEXUs3sGbb6O90PWxmSfkPiVgcvr8PKUOvUM7Ewr+GI00bszYg0B47WiRBToDVayolZQJMDFuzxkgrrUaSQ4QImVIcWVDx6D1t6z9LYyieF9+pg0GFqGR2TIVzRbzOx4Xlk8/NAXxi1CgnokPMRq2VxSiYY9C7EICpH3ixYWKUowVEsC6c9OWq6oba4FA
-b //E
+b //S
 s s1 75 80
 w AA 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
-w AB 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAA~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
+w AB 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
 w AC 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
 w AD 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
-w AE 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
+w AE 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAA
 w AF 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
-w AG 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAA~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
+w AG 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAA~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
 w AH 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
 w AI 1 AIAA
 w AJ 1 AIAA
@@ -147,7 +147,7 @@ w A+ 1 AIAA
 w A/ 1 AIAA
 tile 4
 h z KLUv/WBIECUSAMZZLBpAU5Lhg90Hlsi0rryfwWHpEerhM7uQDJc1LyEAIAAmAJttWwUWahnqbh96N6JnvyXqb+I7pIqvxfYXDAEAHAUNAW27rXBtayXIKo2tGCj0Ug81z1QoVj9PGG2bW200tRpBU+AgmeTUtoeozVnOqgw8AgDOZzhnK5XWDpkpm4EwS9tjE++2kTAPZh8zhCfMtQtbnQ3JvFqp2ukwR5yVSAkkuZhIqV+CMeeVIpGkY5JpKYDeqKCSaZJkGAOAzogIUjpCESgDclxjqBVAEsiQhCMZKUxBioXtYEILoTrQmTy+JXof63iwgxQBmuUfUOK29XNFjBlYc4/2q/lWxD0fGD/IzRjw35imIAHfRINt48xljPE0H9CWm8PQOH1HviXMbXBJHEHFCONgU2yPQ0NW0sCOaQwh5cULV/BpIxEjpiEix3yMSoHIavLqQd9oohgGZTxgunaCIYwgCOgCI4IyH4hV1OCCRSbARdrCxJsHoRNlBi0b0EFC4kUmZpRle7QGKP9U2TOQpq1zoPlrGyEH4RPNcx+Du7E6Y3oavFNF5YeQxLH12xE/6RkWDftwopyoxVscuGBVyFAnJ94DyYh7VODUWviPIQsdcbet8uXTnGoWLXHEpQW1OceR0FSttQ7Iso723ago4mCR0i5ESyUXTI4S+ZTnfwQWtuftkR+DqIl8Xj9FHUQh/wNe3eNCMcJ8laANqkkCxVuWcCQHhJxVE2OtI6Ak4i/RDWvER5hLerx4JWGp9QzxEOco/Hjgd//c3RQ
-b //E
+b //S
 s s1 76 80
 w AA 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAA~~~~~~~~~~~~
 w AI 1 AIAA
@@ -208,12 +208,12 @@ w A+ 1 AIAA
 w A/ 1 AIAA
 tile 5
 h z KLUv/WBIEBURAIILHBZQVzqA9i+2ZVCZqW+BmF2k9MpmRhHWPW7SVJLpTafZn97+Ujz2j1e34237vyO3fsSkYs71FJDYLe9775DcUu23ux2Uq9v9G0v8qJm9UevysI3Hgsne4zFpZt/JC2XeKa++cuws185q39h7EwAg4QSA+KjwGBUaA1DQjMjVdIJgJFUAdAyWGCfJSI2CkoKktB5tB2Aet6AqRl4CUftxkXSMkgw03yvk5nlasLE1ttqppFz8wGy5qo7RUOwdvyqnhTuMOub5BUQjY2W9ZjyoquQTxnu/yKKADya2ZKi8GX5CBP2e8SwANUJnJcTPJEUv6i/cLO+0Hgbi7g6oaSFQkVJrvwli1gIck7xWk3jwjoVhY4tQSkKF4QqLuPJ2cF9MaCthXLUff4adEYdtLLLDS4U5jJQbkELRmGneREDxV/jQwDAE+OtXx1/h9ipxARBBGLyDAQJWfaCyx8GbzVPHg92XQcvHwhsTG0GVGslrrDRvF6J7+JtrOpIm6JPdTQRcHGvzOl0GXNNECn8iZoiEcUuHzqsqD4vqZsdgZNBEHZtw4H3S/x3iLC/nWh6O1whgPBfIiKK+HnF4yXho+rZPx5/dpJLGlsCdgpiG2FItNoKADsU5g5u4obGg+sLHn4WHm+2cWABZJk+2j4+L5YESMYmLpJdi6QWlQtqvDPG7uouCzFd2E+SkRlBdYuV0sOOePqJRNpew1EHSR6c4bNElBQ
-b //E
+b //S
 s s1 77 80
 w AE 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAA
 w AF 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
 w AG 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
-w AH 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
+w AH 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAA~~~
 w AI 2 A~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
 w AJ 2 A~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
 w AK 2 A~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
@@ -272,16 +272,16 @@ w A+ 1 AIAA
 w A/ 1 AIAA
 tile 6
 h z KLUv/WBIEN0QAEbQIhpQrWU4CDYCkh3VVMAIsLv/3Pf0L6aRmVbYAx8AGQAbAJSH28TMdoVAY0kRzHQwW5iPYTaZmhqibCuRAICLYiBt4dg2u4TH1IjHgsw2mb8SkHkyKgXNrcoCNXM0ClX2CfFQKrW5aEylMThTqWzOmVmHWvkDGTsbnXEsZNUbaZFUZ+kILZ/Vcl8YTwGA5KjA2ibpYM6ISJoOshCIxXCgQhmcGE0kiEyNemzsGWdCy0AcTWgceWBzgYvZhoDSJgjW5iiemcaBIRAyayZX63EY6QikfHnzShKttlcZS14hNnSaAiqnPJS3dwE3tw6RjzFGrQtbGBzNU/2myNSoM0ChYBzXIageMVwAO4reGZN44ZNte3kyjqbMkbUNlwXj4HIyWkD5c0+4UzQEbn/eFojUw2RBP8QUKeMoZmCZRovqRwgBTlguEJfdo1mApJisnwxuPeqjQA6aMq9oaCnLNNPBAJaBWDROd1M+wJb5bBgqMbrt+VIAfEJk1hxSfsXEudWCNUfeRlH67riM3xGSyGtBKEvIolN6JmLlMj5G1fIgopjruJpknu+BcFK/SD/SqEYtX1msK7WguG65X5wwFYED5kB3NqXAFU71xEV0puWcRU05lLd0pAYieJMERKkSwyL7cVAfZq+0WRQDPFZlUvh6YjtJlDzcX+eYheBsHxnGmcHVF49ymvxII9EMOgZAQL0I3D6EeT6iaHBT
-b 6+EAAYA+EAAYA+EAAYA+EAAYA+EAAYA+EAAY
+b //S
 s s1 78 80
-w AA 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
+w AA 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAA
 w AB 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
-w AC 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAA
+w AC 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
 w AD 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
 w AE 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
 w AF 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
-w AG 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
-w AH 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
+w AG 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAA~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
+w AH 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
 w AI 1 AIAA
 w AJ 1 AIAA
 w AK 1 AIAA
@@ -340,15 +340,15 @@ w A+ 1 AIAA
 w A/ 1 AIAA
 tile 7
 h z KLUv/WBIEHUSADJPHxtQb7IcA7134k5yhP/CXrD5M/1tvWGnqqgaW2urlnVULx+9QWrp2chOsmZq0lpOOc2SqbUn4nliu4CjTT0HPVUqHlWLaUU46i/8KCB3Z6RSMyJDGGOgsx5dJRwDsUdi5qLd1pB8NNjJRmFjYrhpOOvQPExppqoKQQCARaMggRyoQTozSYbNkTRmCDG3G4JwMIRQEwmJnKpEJakfO3sGZx62Ro15MBWsBZfMc+yzlN+wLR7mZMxP9hM8yA2FIGQtxAbAkLfNFqGvS/wg1Ciq+CBGxdNotXxJF0nHPU69YYNYESbT31CwC2qQRs3pADEeKJ2MBzqz4YDgEf3ZZZ80TCOVUX8RYCEepCeiQAPwTiTyBY+9IYcHZUhcBtksCkpEiKljOKPsQzMojCAexnv0Ij3MFpECq1U84HEIzFG2LJMXuQisCMjBXDlVowaGOAmit9LgQXDG+X4SEmoofxIKQ4fuLKqnRzEwCoqxgUecKLPbilGhFyBLF6RkAQIL4uKf3wdzyu86FLBJ2DgITsXtzzGYqCHbsxohm4i4I3W6aCwmGcp3hMRyQUfkkCG2VP99l7+RFeACDF3e23FgjpTLmJgBjkZ4JbvUuVjnNTTHaykWFSGhNBCEuABzBD4ycD6cSb8PpkVEmCOAYlqx5YiTLIQeSf4ldscts3VsrVh9XB2NSDbWV0dw47FBXtBOfvW2JFS05RUtrWMeVs7IXz43dP3BeucjDeTjrN4QoBIhVCCOi+cn6QGKH/LhBWCQ4n0fxrfcLU6H5ItjdwCq
-b ANEAxYAOEAwYAMEAyYANEAxYAMEAyYAMEAyYAMEAyYAMEAyYALEAzYALEAzYALEAzYALEAzYAKEA0YAKEA0YAKEA0YALEAzYALEAzYAKEA0YAKEA0YAKEA0YAKEA0YAKEA0YAKEA0YAJEA1YAJEA1YAJEA1YAJEA1YAJEA1YAJEA1YAHEA3YAHEA3YAHEA3YAHEA3YAGEA4YAGEA4YAFEA5YAFEA5YAFEA5YAFEA5YAFEA5YAFEA5YAFEA5YAFEA5YAEEA6YAEEA6YAEEA6YAEEA6YAEEA6YADEA7YADEA7YABEA9YABEA9YAAEA+YAAEA+YAAEA+YAAEA+YAAEA+YAAEG+Y
+b //S
 s s1 79 80
 w AA 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
 w AB 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
-w AC 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
+w AC 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
 w AD 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAA~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
 w AE 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAAIAA
 w AF 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAAIAAIAAIAAIAAIAA
-w AG 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAAIAA~~~~~~~~~~~~~~~
+w AG 2 A~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAAIAA~~~~~~~~~~~~~~~~~~
 w AI 1 AIAA
 w AJ 1 AIAA
 w AK 1 AIAA
@@ -407,11 +407,11 @@ w A+ 1 AIAA
 w A/ 1 AIAA
 tile 12
 h z KLUv/WBIEJUAAEBINXcKIEFBZgIA/nCEHlACXA
-b //E
+b //S
 s s1 76 81
 w all 1 AIAA
 tile 13
 h z KLUv/WBIEJUAAEBINXcKIEFBZgIA/nCEHlACXA
-b //E
+b //S
 s s1 77 81
 w all 1 AIAA
