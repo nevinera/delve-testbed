@@ -5,6 +5,10 @@
     {
       "key": "main",
       "name": "Testbed"
+    },
+    {
+      "key": "verdant",
+      "name": "Verdant Isle"
     }
   ],
   "spawn": {
