@@ -12,10 +12,10 @@
     }
   ],
   "spawn": {
-    "continent": "main",
+    "continent": "verdant",
     "at": [
-      0,
-      0
+      12950,
+      12300
     ]
   }
 }
