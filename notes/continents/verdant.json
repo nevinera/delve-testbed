@@ -15,7 +15,9 @@
     "mine": "Kobold side story. Their mine broke into the side of a barrow, and now they are fighting the undead inside it. The necromancer is not directly involved: his rituals passively animate the dead within range, and this barrow is in range without his knowing it.",
     "necromancer": "A rogue necromancer, he, performing rituals that passively animate the dead near him. Part of an underground cult in Thornwood, which the end of the local chain reveals.",
     "barrows": "Four barrows, kept 1,700 ft or more from hubs because the dead wander toward the living: the mine barrow, Ashby barrow, Southwood barrow and River barrow, all within about 5,000 ft of the tower.",
-    "banditCamps": "Two camps in the western hills near the gap raid the Ashby farm; two in the autumn wood prey on Riverwatch and its road; the chief hides in a fifth camp between them."
+    "banditCamps": "Two camps in the western hills near the gap raid the Ashby farm; two in the autumn wood prey on Riverwatch and its road; the chief hides in a fifth camp between them.",
+    "progression": "Glen camp (1-3) -> Ashby farm (3-6: field pests, hill bandits, Ashby barrow as the first taste of the dead) -> Lakeford (5-8, main town: undead chain starts, sends you to the mine side story) -> in any order, all 7-10: Saltwick (frogmen), Riverwatch (autumn bandits and their chief), the barrows and the tower (end of the undead chain) -> Pass gate (9-10, a few quests pointing on to Greyspur).",
+    "questCount": "Aim for about 55: a large zone gives 40 to 65, and this one has six hubs, with Lakeford giving the most."
   },
   "zone:thornwoo": {
     "name": "Thornwood",
