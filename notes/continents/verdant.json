@@ -131,7 +131,15 @@
     "name": "The frogmen",
     "zone": "brackenv",
     "summary": "Starts with Saltwick needing help. You are sent to the ruined village, told what happened there, maybe as a rescue, but there are no survivors. Then it turns to saving Saltwick from the frogmen.",
-    "quests": []
+    "quests": [],
+    "steps": [
+      "1. Saltwick needs help (talk): a messenger in Lakeford sends you to Saltwick.",
+      "2. The silent village (reach): the village down the shore went quiet; go look for survivors. There are none, only the wreckage.",
+      "3. What's left (gather): bring back keepsakes from the ruins for the families in Saltwick.",
+      "4. The siege line (kill): drive back the frogmen pressing on Saltwick.",
+      "5. Who leads them (bring): bring back their totems, which point to a tidecaller.",
+      "6. The tidecaller (kill): kill the tidecaller at his huts on the shore west of the ruined village."
+    ]
   },
   "chain:bandits": {
     "name": "The bandit gang",
@@ -163,5 +171,11 @@
     "purpose": "Bandit thieves who stole supplies from Glen camp; introduces the bandits.",
     "people": "human bandits, levels 3 to 4",
     "mood": "a lean-to at the glen's mouth"
+  },
+  "camp:cmptidec": {
+    "name": "Tidecaller's huts",
+    "purpose": "Where the frogmen's tidecaller lives; end of the frogmen chain. Kept apart from the ruined village so he is not killed again and again while players gather there.",
+    "people": "frogmen (amphen) and their tidecaller",
+    "mood": "a few mud huts on the sand, about 1,300 ft west of the ruined village"
   }
 }
