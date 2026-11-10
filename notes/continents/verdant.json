@@ -25,7 +25,8 @@
     "ashbyFluff": "A couple of farmhands, two children and a dog.",
     "farmsteads": "Westhill and Ashby are estranged siblings, the widow and Farmer Ashby, not speaking since their parents' land was split. Each grumbles about the other; the bandit raids push them back together, and the bandit chain's end can show them reconciled. No courting children: too close to the reference zone.",
     "westhillFluff": "A shepherd boy, and a barking dog behind the barricade.",
-    "lakefordFluff": "Drinkers at the inn, a couple of children, a stall keeper and a dog. Vendors and trainers later."
+    "lakefordFluff": "Drinkers at the inn, a couple of children, a stall keeper and a dog. Vendors and trainers later.",
+    "saltwickFluff": "Tired defenders on the barricade, nets being mended, a child keeping watch on a roof."
   },
   "zone:thornwoo": {
     "name": "Thornwood",
@@ -468,6 +469,54 @@
     ],
     "voice": "Lazy drawl. Misses the mountains.",
     "questRelevance": "The breadcrumb to Pass gate.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:swharbor": {
+    "name": "Saltwick's harbourmaster",
+    "traits": [
+      "resolute",
+      "weary",
+      "sharp"
+    ],
+    "voice": "Even and controlled. Counts boats and days. Never admits fear.",
+    "questRelevance": "Frogmen chain: the silent village, the siege line, the tidecaller. Leads the village.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:swsister": {
+    "name": "A woman whose sister lived in the ruined village",
+    "traits": [
+      "hopeful",
+      "fragile",
+      "tender"
+    ],
+    "voice": "Asks after names. Breaks off when she guesses the answer.",
+    "questRelevance": "The keepsakes.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:swharpnr": {
+    "name": "The harpooner",
+    "traits": [
+      "fierce",
+      "wry",
+      "salty"
+    ],
+    "voice": "Sea curses, dark jokes. Calls the frogmen 'the wet ones'.",
+    "questRelevance": "Who leads them (the totems).",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:swcook00": {
+    "name": "Saltwick's cook",
+    "traits": [
+      "brisk",
+      "motherly",
+      "resourceful"
+    ],
+    "voice": "Feeds everyone. Scolds and fusses in the same breath.",
+    "questRelevance": "The crab meat.",
     "zone": "brackenv",
     "note": "Planned; rekey to the placed NPC's id once placed."
   }
