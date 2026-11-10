@@ -114,7 +114,18 @@
     "name": "The rising dead",
     "zone": "brackenv",
     "summary": "The main chain. Starts from two tributary quests, one at Ashby farm and one at Lakeford; the chain needs either. Both name the chain's first quest as their next, so finishing either opens it. Runs through the barrows to the broken tower and the rogue necromancer, and ends on the hint that he belongs to an underground cult in Thornwood.",
-    "quests": []
+    "quests": [],
+    "steps": [
+      "Way in a, Ashby farm (kill): kill risen dead wandering near the Ashby barrow.",
+      "Way in b, Lakeford (bring): the town watch wants bones from risen dead seen at the town's edge.",
+      "1. The open barrow (use): look at the Ashby barrow's door stone, opened from inside. From here mostly from a priest in Lakeford.",
+      "2. Barrow earth (gather): gather earth from the Southwood barrow, for the priest to read where the power comes from.",
+      "3. Lights in the hills (talk): the reading points north-east; talk to Riverwatch's captain, who has seen lights at the broken tower.",
+      "4. The river barrow (bring): take a ritual charm from its dead.",
+      "5. Break the circle (use, several): smash ritual stones in the hills round the tower.",
+      "6. The necromancer (kill): kill him in the broken tower.",
+      "7. His journal (bring): bring it back to Lakeford; it names the cult in Thornwood."
+    ]
   },
   "chain:frogmen": {
     "name": "The frogmen",
