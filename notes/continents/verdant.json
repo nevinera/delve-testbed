@@ -404,7 +404,7 @@
     "role": "The widow's youngest"
   },
   "npc:lkpriest": {
-    "name": "Lakeford's priest",
+    "name": "Father Aldous Wren",
     "traits": [
       "gentle",
       "scholarly",
@@ -413,10 +413,11 @@
     "voice": "Careful, exact words. Quotes old texts. Won't be hurried.",
     "questRelevance": "Dead chain steps 1, 2 and 7; the blessed salt; takes in the glen's burial ring.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "Lakeford's priest"
   },
   "npc:lksergnt": {
-    "name": "The watch sergeant",
+    "name": "Sergeant Holt Draycott",
     "traits": [
       "gruff",
       "dutiful",
@@ -425,10 +426,11 @@
     "voice": "Clipped. Speaks in reports. Too few men, and says so.",
     "questRelevance": "The dead chain's way in (bones); the frogmen scouts at the lake.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "The watch sergeant"
   },
   "npc:lkinnkpr": {
-    "name": "The innkeeper",
+    "name": "Bess Merriweather",
     "traits": [
       "jovial",
       "gossipy",
@@ -437,10 +439,11 @@
     "voice": "Big laugh. Knows everyone's business, and trades it.",
     "questRelevance": "The ale order, the venison.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "The innkeeper"
   },
   "npc:lkfisher": {
-    "name": "A Lakeford fisher",
+    "name": "Old Gil Rushby",
     "traits": [
       "taciturn",
       "patient",
@@ -449,10 +452,11 @@
     "voice": "Few words, lake sayings.",
     "questRelevance": "The fish weir.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "A Lakeford fisher"
   },
   "npc:lkhunter": {
-    "name": "A Lakeford hunter",
+    "name": "Corin Vale",
     "traits": [
       "boastful",
       "competitive",
@@ -461,10 +465,11 @@
     "voice": "Tall tales. Bets on everything.",
     "questRelevance": "The bear claws wager.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "A Lakeford hunter"
   },
   "npc:lkmessgr": {
-    "name": "The Saltwick messenger",
+    "name": "Lise Gannet",
     "traits": [
       "frantic",
       "exhausted",
@@ -473,10 +478,11 @@
     "voice": "Out of breath, pleading.",
     "questRelevance": "Frogmen chain step 1, sending you to Saltwick.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "The Saltwick messenger"
   },
   "npc:lkscout0": {
-    "name": "A gate scout on leave",
+    "name": "Benno Crake",
     "traits": [
       "bored",
       "curious",
@@ -485,7 +491,8 @@
     "voice": "Lazy drawl. Misses the mountains.",
     "questRelevance": "The breadcrumb to Greyspur Gate.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "A gate scout on leave"
   },
   "npc:swharbor": {
     "name": "Saltwick's harbourmaster",
