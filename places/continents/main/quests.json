@@ -477,6 +477,31 @@
       ],
       "notes": "Items from any boulder in an area, 2 seconds to search. A boulder comes back for you after 60 seconds, where the stumps stay gone until their quests are over.",
       "objectsReturn": 60
+    },
+    {
+      "id": "tbfail01",
+      "name": "Fail: on dying",
+      "level": 1,
+      "zone": "tbwest01",
+      "giver": "elsa0001",
+      "rewards": {
+        "xp": 100
+      },
+      "text": {
+        "offer": "Fails if you die while on it. It stays in your log marked failed until you abandon it, then Elsa offers it again. Kill 3 wolves west of the hub to finish it.",
+        "summary": "Kill 3 wolves without dying.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "stock/wolf",
+          "count": 3
+        }
+      ],
+      "notes": "Fails if you die while on it. It stays in your log marked failed until you abandon it, then Elsa offers it again.",
+      "failOnDeath": true
     }
   ]
 }
