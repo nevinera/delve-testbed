@@ -132,7 +132,14 @@
     "name": "The kobold mine",
     "zone": "brackenv",
     "summary": "The earliest chain. Given at Ashby farm; its first quest needs level 5. Glen camp sends you to Ashby farm for it before you head on to Lakeford. The kobolds' mine broke into a barrow, and they are fighting its dead.",
-    "quests": []
+    "quests": [],
+    "steps": [
+      "1. Stolen stores (bring): kobolds driven out of the mine raid the Ashbys' stores; get back sacks of grain from the kobolds at the mine mouth.",
+      "2. What drove them out (reach): go into the mine and reach the deep tunnel, where kobolds fight skeletons.",
+      "3. The old barrow (talk): someone old in the Ashby family remembers a barrow under that hill.",
+      "4. Consecrate the barrow (use, then kill): consecrate the barrow, warding it against the ritual. Its lord emerges as soon as you do, says a little hinting at the necromancer, then attacks."
+    ],
+    "needs": "Step 4 needs a quest script on using an object: spawn a creature that says a line, then attacks. Quests do not have scripts yet (#488 was closed, left for when a quest needs it)."
   },
   "hub:hubwestf": {
     "name": "Westhill farmstead",
