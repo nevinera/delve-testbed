@@ -22,7 +22,9 @@
     "trainingDesign": "Moving and talking need no teaching. Teach several things at once across concurrent quests: quests land in batches you go out and do together, then hand in all at once.",
     "fluff": "Every hub also needs fluff NPCs who give nothing, to make it feel alive, and later vendors and trainers.",
     "abbeyFluff": "Two or three townsfolk at the abbey: a novice sweeping, a newly woken stranger still dazed, a goatherd.",
-    "ashbyFluff": "A couple of farmhands, two children and a dog."
+    "ashbyFluff": "A couple of farmhands, two children and a dog.",
+    "farmsteads": "Westhill and Ashby are estranged siblings, the widow and Farmer Ashby, not speaking since their parents' land was split. Each grumbles about the other; the bandit raids push them back together, and the bandit chain's end can show them reconciled. No courting children: too close to the reference zone.",
+    "westhillFluff": "A shepherd boy, and a barking dog behind the barricade."
   },
   "zone:thornwoo": {
     "name": "Thornwood",
@@ -320,7 +322,8 @@
     "voice": "Talks about work and weather. Short on patience, long on lists.",
     "questRelevance": "Stolen stores, what drove the kobolds out, the breadcrumb to Westhill; takes in the Lakeford ale order and the glen breadcrumb.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "family": "The widow of Westhill's brother. Estranged since their parents' land was split."
   },
   "npc:ashgranm": {
     "name": "Gran Ashby",
@@ -343,6 +346,43 @@
     ],
     "voice": "Quick and boastful. Turns everything into a contest.",
     "questRelevance": "The field rats; the risen dead near the Ashby barrow (the dead chain's way in).",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:whwidow0": {
+    "name": "The widow of Westhill",
+    "traits": [
+      "stern",
+      "stubborn",
+      "generous"
+    ],
+    "voice": "Few words, each one final. Feeds you before she thanks you.",
+    "questRelevance": "Fences down, seed for spring, the signed orders.",
+    "family": "Farmer Ashby's sister, so Gran Ashby's daughter. Not speaking to her brother since their parents' land was split.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:whhand00": {
+    "name": "Westhill's hired hand",
+    "traits": [
+      "quiet",
+      "steady",
+      "scarred"
+    ],
+    "voice": "Slow and plain. Old soldiering habits. Says little about the war.",
+    "questRelevance": "Mending the fences.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:whyoung0": {
+    "name": "The widow's youngest",
+    "traits": [
+      "anxious",
+      "curious",
+      "kind"
+    ],
+    "voice": "Questions tumble out. Worries about the animals.",
+    "questRelevance": "The windfall apples.",
     "zone": "brackenv",
     "note": "Planned; rekey to the placed NPC's id once placed."
   }
