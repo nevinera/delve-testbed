@@ -20,7 +20,8 @@
     "questCount": "55 planned: glen 13, kobold mine 5, rising dead 9, frogmen 6, bandits 7 beyond the glen's stolen supplies, side quests 15.",
     "training": "The training glen has 13 quests, by level 2, 2, 2, 3 and 4 for levels 1 to 5, matching the six reference starting areas (11 to 14 quests, about 12.5). About 3,800 quest XP of the 7,600 to level 6; about 60 kills along the way make the rest, so players leave at about 5.5 to 6. Two are set: the stolen supplies (bandits) and the level 5 breadcrumb to Ashby farm for the mine chain. Compose these with extra care: they are the first touch. They may include a few short chains.",
     "trainingDesign": "Moving and talking need no teaching. Teach several things at once across concurrent quests: quests land in batches you go out and do together, then hand in all at once.",
-    "fluff": "Every hub also needs fluff NPCs who give nothing, to make it feel alive, and later vendors and trainers."
+    "fluff": "Every hub also needs fluff NPCs who give nothing, to make it feel alive, and later vendors and trainers.",
+    "abbeyFluff": "Two or three townsfolk at the abbey: a novice sweeping, a newly woken stranger still dazed, a goatherd."
   },
   "zone:thornwoo": {
     "name": "Thornwood",
@@ -235,5 +236,77 @@
       "Saltwick L8 bring: crab meat from the strand crabs, to feed the besieged village.",
       "Riverwatch L9 bring: spider silk from the east wood, for the fletcher."
     ]
+  },
+  "npc:abbabbot": {
+    "name": "The abbot",
+    "traits": [
+      "serene",
+      "wry",
+      "patient"
+    ],
+    "voice": "Long, unhurried sentences. Teases gently. Never raises his voice.",
+    "questRelevance": "Greets the new-wakened; gives the level 5 send-offs to Ashby farm and Lakeford.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:abbwardn": {
+    "name": "The warden",
+    "traits": [
+      "blunt",
+      "protective",
+      "restless"
+    ],
+    "voice": "Short orders. Sports and soldiering words. Calls you 'sleeper'.",
+    "questRelevance": "Oozes, hornets, kobold runts, the runts' leader.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:abbherbl": {
+    "name": "The herbalist",
+    "traits": [
+      "fussy",
+      "warm",
+      "distractible"
+    ],
+    "voice": "Chatters. Drifts into recipes mid-sentence. Fond of 'dear'.",
+    "questRelevance": "Waking herbs, ooze vials.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:abblampl": {
+    "name": "The lamplighter",
+    "traits": [
+      "dreamy",
+      "solemn",
+      "cryptic"
+    ],
+    "voice": "Speaks in images. Pauses. Talks of the Dream as if it is near.",
+    "questRelevance": "The falls lanterns, the dead kobold, the first dream.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:abbquart": {
+    "name": "The quartermaster",
+    "traits": [
+      "grumbling",
+      "precise",
+      "honest"
+    ],
+    "voice": "Counts things. Complains, but is fair. Never says thanks outright.",
+    "questRelevance": "The stolen supplies.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
+  },
+  "npc:abbvalek": {
+    "name": "The keeper back from the vale",
+    "traits": [
+      "shaken",
+      "earnest",
+      "young"
+    ],
+    "voice": "Rushed, trailing off. Apologises too much.",
+    "questRelevance": "The burial ring.",
+    "zone": "brackenv",
+    "note": "Planned; rekey to the placed NPC's id once placed."
   }
 }
