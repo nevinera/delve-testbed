@@ -187,5 +187,11 @@
     "purpose": "Where the frogmen's tidecaller lives; end of the frogmen chain. Kept apart from the ruined village so he is not killed again and again while players gather there.",
     "people": "frogmen (amphen) and their tidecaller",
     "mood": "a few mud huts on the sand, about 1,300 ft west of the ruined village"
+  },
+  "hub:hub00000": {
+    "name": "Glen camp (working name): a small abbey of the Sleepers",
+    "purpose": "The spawn. The abbey stands in the glen because it is a place where the dream realm touches the world; its people help the new-wakened and get them on their feet. See lore:sleepers in conventions.",
+    "people": "the abbey's few keepers",
+    "mood": "quiet, kind, a little otherworldly"
   }
 }
