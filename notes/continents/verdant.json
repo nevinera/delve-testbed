@@ -586,7 +586,7 @@
     "role": "Riverwatch's fletcher"
   },
   "npc:pgwarden": {
-    "name": "The gate warden",
+    "name": "Warden Brannoc Stell",
     "traits": [
       "laconic",
       "watchful",
@@ -595,10 +595,11 @@
     "voice": "One-line answers. Eyes on the pass. Speaks of Greyspur with respect.",
     "questRelevance": "The trogs, the signal beacon; takes in the gate scout's breadcrumb. Points on to Greyspur in dialogue.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "The gate warden"
   },
   "npc:pgsmith0": {
-    "name": "Greyspur Gate's smith",
+    "name": "Hilde Ironside",
     "traits": [
       "hearty",
       "curious",
@@ -607,7 +608,8 @@
     "voice": "Loud. Judges every blade you carry. Wants to know what is up the mountain.",
     "questRelevance": "The ore samples. Points on to Greyspur in dialogue.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "Greyspur Gate's smith"
   },
   "lore:abbeyTitles": {
     "name": "Abbey titles",
