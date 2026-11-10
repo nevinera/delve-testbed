@@ -125,7 +125,7 @@
   "chain:bandits": {
     "name": "The bandit gang",
     "zone": "brackenv",
-    "summary": "The bandits are introduced in the training area. The chain proper starts at one of the farmsteads; another quest leads you there, but it is not required. Ends at the chief's hideout.",
+    "summary": "The bandits are introduced in the training glen: they have stolen supplies from Glen camp, and you get them back. The chain proper starts at one of the farmsteads; another quest leads you there, but it is not required. Ends at the chief's hideout.",
     "quests": []
   },
   "chain:kobolds": {
