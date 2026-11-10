@@ -528,6 +528,85 @@
         }
       ],
       "notes": "Teaches Wallop, which Adventurers only know once a quest teaches it, and from level 2."
+    },
+    {
+      "id": "tbpool01",
+      "name": "Use: a pool of quest-only objects",
+      "level": 1,
+      "zone": "tbwest01",
+      "giver": "elsa0001",
+      "text": {
+        "offer": "Object pool: six shrines (stone piles) west of the spawn are the quest's own. Only you see them while on this, two at a time, a different two for each player; using one brings another.",
+        "summary": "Cleanse 3 of the shrines west of the spawn.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "use": "pool:shrines",
+          "count": 3,
+          "text": "Shrines cleansed"
+        }
+      ],
+      "objectPools": [
+        {
+          "id": "shrines",
+          "type": "rubble",
+          "show": 2,
+          "spots": [
+            {
+              "at": [
+                -20,
+                6
+              ],
+              "yaw": 0.0,
+              "scale": 6
+            },
+            {
+              "at": [
+                -28,
+                -6
+              ],
+              "yaw": 0.9,
+              "scale": 6
+            },
+            {
+              "at": [
+                -36,
+                6
+              ],
+              "yaw": 1.8,
+              "scale": 6
+            },
+            {
+              "at": [
+                -44,
+                -6
+              ],
+              "yaw": 2.7,
+              "scale": 6
+            },
+            {
+              "at": [
+                -52,
+                6
+              ],
+              "yaw": 3.6,
+              "scale": 6
+            },
+            {
+              "at": [
+                -60,
+                -6
+              ],
+              "yaw": 4.5,
+              "scale": 6
+            }
+          ]
+        }
+      ],
+      "notes": "Object pool: six shrines (stone piles) west of the spawn are the quest's own. Only you see them while on this, two at a time, a different two for each player; using one brings another."
     }
   ]
 }
