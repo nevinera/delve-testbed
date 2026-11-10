@@ -1,0 +1,29 @@
+{
+  "zone:brackenv": {
+    "name": "Brackenvale",
+    "story": "Three fronts trouble a gentle vale. The dead are rising, and that is the main thread through the zone. Frogmen raid the coast and have already destroyed a village. A bandit gang in several camps preys on the Ashbys and on Riverwatch.",
+    "fronts": [
+      "undead: the central front",
+      "frogmen (amphen) incursion along the coast, a village destroyed",
+      "bandits in several camps, plaguing the Ashby farm and Riverwatch"
+    ],
+    "open": [],
+    "note": "Camps in layout.json were sketched before the story; rework them to fit the fronts.",
+    "undead": "Several barrows across Brackenvale, raised by a rogue necromancer. At the end of the local chain we learn the necromancer is not alone: they belong to an underground cult in Thornwood.",
+    "frogmen": "The frogmen destroyed a second coastal village, now a ruin. Saltwick is under attack and holding out.",
+    "bandits": "Human bandits, a new creature set to make with the make-creature skill: at least a melee bandit, an archer and a leader, levels about 4 to 10.",
+    "mine": "Kobold side story. Their mine broke into the side of a barrow, and now they are fighting the undead inside it. The necromancer is not directly involved: his rituals passively animate the dead within range, and this barrow is in range without his knowing it.",
+    "necromancer": "A rogue necromancer, he, performing rituals that passively animate the dead near him. Part of an underground cult in Thornwood, which the end of the local chain reveals."
+  },
+  "zone:thornwoo": {
+    "name": "Thornwood",
+    "story": "An underground necromancer cult works in Thornwood, and the zone has an internal conflict of its own, still to be decided.",
+    "hook": "Brackenvale's undead chain ends by pointing here."
+  },
+  "camp:cmptower": {
+    "name": "The broken tower",
+    "purpose": "The rogue necromancer's lair, where he performs the rituals that raise the barrows' dead. End of the undead chain.",
+    "people": "the necromancer and his servants",
+    "mood": "a ruin brooding over the vale from a knoll in a string of hills"
+  }
+}
