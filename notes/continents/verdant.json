@@ -113,7 +113,7 @@
   "chain:undead": {
     "name": "The rising dead",
     "zone": "brackenv",
-    "summary": "The main chain. Starts from the first town after the training region. Runs through the barrows to the broken tower and the rogue necromancer, and ends on the hint that he belongs to an underground cult in Thornwood.",
+    "summary": "The main chain. Starts from two tributary quests, one at Ashby farm and one at Lakeford; the chain needs either. Both name the chain's first quest as their next, so finishing either opens it. Runs through the barrows to the broken tower and the rogue necromancer, and ends on the hint that he belongs to an underground cult in Thornwood.",
     "quests": []
   },
   "chain:frogmen": {
