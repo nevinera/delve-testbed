@@ -16,7 +16,7 @@
     "necromancer": "A rogue necromancer, he, performing rituals that passively animate the dead near him. Part of an underground cult in Thornwood, which the end of the local chain reveals.",
     "barrows": "Four barrows, kept 1,700 ft or more from hubs because the dead wander toward the living: the mine barrow, Ashby barrow, Southwood barrow and River barrow, all within about 5,000 ft of the tower.",
     "banditCamps": "Two camps in the western hills near the gap raid the Ashby farm; two in the autumn wood prey on Riverwatch and its road; the chief hides in a fifth camp between them.",
-    "progression": "Glen camp (1-5; you leave at about 5-6) -> Ashby farm (5-7: the kobold mine chain, field pests, hill bandits, the dead chain's farm entry) -> Lakeford (6-8, main town: the dead chain's town entry) -> in any order, 7-10: Saltwick (frogmen), Riverwatch (autumn bandits and their chief), the barrows and the tower (end of the dead chain) -> Pass gate (9-10, a few quests pointing on to Greyspur).",
+    "progression": "Wakewell Abbey (1-5; you leave at about 5-6) -> Ashby farm (5-7: the kobold mine chain, field pests, hill bandits, the dead chain's farm entry) -> Lakeford (6-8, main town: the dead chain's town entry) -> in any order, 7-10: Saltwick (frogmen), Riverwatch (autumn bandits and their chief), the barrows and the tower (end of the dead chain) -> Greyspur Gate (9-10, a few quests pointing on to Greyspur).",
     "questCount": "55 planned: glen 13, kobold mine 5, rising dead 9, frogmen 6, bandits 7 beyond the glen's stolen supplies, side quests 15.",
     "training": "The training glen has 13 quests, by level 2, 2, 2, 3 and 4 for levels 1 to 5, matching the six reference starting areas (11 to 14 quests, about 12.5). About 3,800 quest XP of the 7,600 to level 6; about 60 kills along the way make the rest, so players leave at about 5.5 to 6. Two are set: the stolen supplies (bandits) and the level 5 breadcrumb to Ashby farm for the mine chain. Compose these with extra care: they are the first touch. They may include a few short chains.",
     "trainingDesign": "Moving and talking need no teaching. Teach several things at once across concurrent quests: quests land in batches you go out and do together, then hand in all at once.",
@@ -46,7 +46,7 @@
     "purpose": "One of four barrows whose dead the necromancer's rituals raise without his aiming them.",
     "people": "risen dead",
     "mood": "a low grassy mound with a stone doorway",
-    "note": "Reached through the kobolds' mine, which broke into its side. About 1,000 ft from Glen camp, but the glen's east cliff stands between."
+    "note": "Reached through the kobolds' mine, which broke into its side. About 1,000 ft from Wakewell Abbey, but the glen's east cliff stands between."
   },
   "camp:cmpbaras": {
     "name": "Ashby barrow (5-7)",
@@ -154,10 +154,10 @@
   "chain:bandits": {
     "name": "The bandit gang",
     "zone": "brackenv",
-    "summary": "The bandits are introduced in the training glen: they have stolen supplies from Glen camp, and you get them back. The chain proper starts at Westhill farmstead, by the western hills; another quest leads you there, but it is not required. Ends at the chief's hideout.",
+    "summary": "The bandits are introduced in the training glen: they have stolen supplies from Wakewell Abbey, and you get them back. The chain proper starts at Westhill farmstead, by the western hills; another quest leads you there, but it is not required. Ends at the chief's hideout.",
     "quests": [],
     "steps": [
-      "Glen camp (bring): get back the supplies the glen thieves stole.",
+      "Wakewell Abbey (bring): get back the supplies the glen thieves stole.",
       "Breadcrumb, optional (talk): Ashby farm sends you to Westhill farmstead.",
       "1. Fences down (kill): drive off the hill gap bandits, levels 5-6.",
       "2. Seed for spring (bring): bring back the stolen seed sacks from the Westhill bandits.",
@@ -171,7 +171,7 @@
   "chain:kobolds": {
     "name": "The kobold mine",
     "zone": "brackenv",
-    "summary": "The earliest chain. Given at Ashby farm; its first quest needs level 5. Glen camp sends you to Ashby farm for it before you head on to Lakeford. The kobolds' mine broke into a barrow, and they are fighting its dead.",
+    "summary": "The earliest chain. Given at Ashby farm; its first quest needs level 5. Wakewell Abbey sends you to Ashby farm for it before you head on to Lakeford. The kobolds' mine broke into a barrow, and they are fighting its dead.",
     "quests": [],
     "steps": [
       "1. Stolen stores (bring): kobolds driven out of the mine raid the Ashbys' stores; get back sacks of grain from the kobolds at the mine mouth.",
@@ -189,7 +189,7 @@
   },
   "camp:cmpbdgln": {
     "name": "Glen thieves",
-    "purpose": "Bandit thieves who stole supplies from Glen camp; introduces the bandits.",
+    "purpose": "Bandit thieves who stole supplies from Wakewell Abbey; introduces the bandits.",
     "people": "human bandits, levels 3 to 4",
     "mood": "a lean-to at the glen's mouth"
   },
@@ -200,7 +200,7 @@
     "mood": "a few mud huts on the sand, about 1,300 ft west of the ruined village"
   },
   "hub:hub00000": {
-    "name": "Glen camp (working name): a small abbey of the Sleepers",
+    "name": "Wakewell Abbey",
     "purpose": "The spawn. The abbey stands in the glen because it is a place where the dream realm touches the world; its people help the new-wakened and get them on their feet. See lore:sleepers in conventions.",
     "people": "the abbey's few keepers",
     "mood": "quiet, kind, a little otherworldly",
@@ -232,12 +232,12 @@
       "Lakeford L7 bring: venison from the meadow stags, for the inn's kitchen.",
       "Lakeford L7 kill: frogmen scouts at the lakeshore; why are they this far inland?",
       "Lakeford L8 use: fix the posts of the lake's fish weir.",
-      "Lakeford L8 talk: breadcrumb to Pass gate, from a gate scout on leave (was a breadcrumb to Saltwick, which the frogmen chain already does).",
+      "Lakeford L8 talk: breadcrumb to Greyspur Gate, from a gate scout on leave (was a breadcrumb to Saltwick, which the frogmen chain already does).",
       "Lakeford L9 bring: bear claws from the south wood, for a hunter's wager.",
       "Lakeford L7 deliver: the priest's blessed salt to Riverwatch.",
-      "Pass gate L10 use: relight the signal beacon above the gate.",
-      "Pass gate L9 gather: ore samples from the mine's mouth, for the gate's smith (was a delivery to the smith, who is here).",
-      "Pass gate L9 kill: the trogs coming down from the foothills.",
+      "Greyspur Gate L10 use: relight the signal beacon above the gate.",
+      "Greyspur Gate L9 gather: ore samples from the mine's mouth, for the gate's smith (was a delivery to the smith, who is here).",
+      "Greyspur Gate L9 kill: the trogs coming down from the foothills.",
       "Westhill L6 gather: windfall apples from the orchard.",
       "Westhill L6 use: mend the fences the bandits broke.",
       "Ashby L5 kill: the field rats in the barns.",
@@ -471,7 +471,7 @@
       "easygoing"
     ],
     "voice": "Lazy drawl. Misses the mountains.",
-    "questRelevance": "The breadcrumb to Pass gate.",
+    "questRelevance": "The breadcrumb to Greyspur Gate.",
     "zone": "brackenv",
     "note": "Planned; rekey to the placed NPC's id once placed."
   },
@@ -572,7 +572,7 @@
     "note": "Planned; rekey to the placed NPC's id once placed."
   },
   "npc:pgsmith0": {
-    "name": "Pass gate's smith",
+    "name": "Greyspur Gate's smith",
     "traits": [
       "hearty",
       "curious",
