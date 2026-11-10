@@ -324,7 +324,7 @@
     "role": "The keeper back from the vale"
   },
   "npc:ashfarmr": {
-    "name": "Farmer Ashby",
+    "name": "Edric Ashby ('Farmer Ashby')",
     "traits": [
       "harried",
       "proud",
@@ -334,10 +334,11 @@
     "questRelevance": "Stolen stores, what drove the kobolds out, the breadcrumb to Westhill; takes in the Lakeford ale order and the glen breadcrumb.",
     "zone": "brackenv",
     "note": "Planned; rekey to the placed NPC's id once placed.",
-    "family": "The widow of Westhill's brother. Estranged since their parents' land was split."
+    "family": "The widow of Westhill's brother. Estranged since their parents' land was split.",
+    "role": "Farmer Ashby"
   },
   "npc:ashgranm": {
-    "name": "Gran Ashby",
+    "name": "Hesper Ashby ('Gran Ashby')",
     "traits": [
       "sharp",
       "superstitious",
@@ -346,10 +347,11 @@
     "voice": "Dry, old sayings, blunt about death. Calls everyone 'child'.",
     "questRelevance": "The old barrow (talk), the barrow lord, consecrating it: she knows the old rites.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "Gran Ashby"
   },
   "npc:asheldst": {
-    "name": "The eldest Ashby",
+    "name": "Rowan Ashby",
     "traits": [
       "bold",
       "impatient",
@@ -358,7 +360,8 @@
     "voice": "Quick and boastful. Turns everything into a contest.",
     "questRelevance": "The field rats; the risen dead near the Ashby barrow (the dead chain's way in).",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "The eldest Ashby"
   },
   "npc:whwidow0": {
     "name": "The widow of Westhill",
