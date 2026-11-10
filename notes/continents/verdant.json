@@ -364,7 +364,7 @@
     "role": "The eldest Ashby"
   },
   "npc:whwidow0": {
-    "name": "The widow of Westhill",
+    "name": "Marta Coyle (born Ashby)",
     "traits": [
       "stern",
       "stubborn",
@@ -374,10 +374,11 @@
     "questRelevance": "Fences down, seed for spring, the signed orders.",
     "family": "Farmer Ashby's sister, so Gran Ashby's daughter. Not speaking to her brother since their parents' land was split.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "The widow of Westhill"
   },
   "npc:whhand00": {
-    "name": "Westhill's hired hand",
+    "name": "Joss Harrow",
     "traits": [
       "quiet",
       "steady",
@@ -386,10 +387,11 @@
     "voice": "Slow and plain. Old soldiering habits. Says little about the war.",
     "questRelevance": "Mending the fences.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "Westhill's hired hand"
   },
   "npc:whyoung0": {
-    "name": "The widow's youngest",
+    "name": "Pip Coyle",
     "traits": [
       "anxious",
       "curious",
@@ -398,7 +400,8 @@
     "voice": "Questions tumble out. Worries about the animals.",
     "questRelevance": "The windfall apples.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "The widow's youngest"
   },
   "npc:lkpriest": {
     "name": "Lakeford's priest",
