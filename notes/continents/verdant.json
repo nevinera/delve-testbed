@@ -13,7 +13,8 @@
     "frogmen": "The frogmen destroyed a second coastal village, now a ruin. Saltwick is under attack and holding out.",
     "bandits": "Human bandits, a new creature set to make with the make-creature skill: at least a melee bandit, an archer and a leader, levels about 4 to 10.",
     "mine": "Kobold side story. Their mine broke into the side of a barrow, and now they are fighting the undead inside it. The necromancer is not directly involved: his rituals passively animate the dead within range, and this barrow is in range without his knowing it.",
-    "necromancer": "A rogue necromancer, he, performing rituals that passively animate the dead near him. Part of an underground cult in Thornwood, which the end of the local chain reveals."
+    "necromancer": "A rogue necromancer, he, performing rituals that passively animate the dead near him. Part of an underground cult in Thornwood, which the end of the local chain reveals.",
+    "barrows": "Four barrows, kept 1,700 ft or more from hubs because the dead wander toward the living: the mine barrow, Ashby barrow, Southwood barrow and River barrow, all within about 5,000 ft of the tower."
   },
   "zone:thornwoo": {
     "name": "Thornwood",
@@ -25,5 +26,30 @@
     "purpose": "The rogue necromancer's lair, where he performs the rituals that raise the barrows' dead. End of the undead chain.",
     "people": "the necromancer and his servants",
     "mood": "a ruin brooding over the vale from a knoll in a string of hills"
+  },
+  "camp:cmpbarmn": {
+    "name": "The mine barrow (6-8)",
+    "purpose": "One of four barrows whose dead the necromancer's rituals raise without his aiming them.",
+    "people": "risen dead",
+    "mood": "a low grassy mound with a stone doorway",
+    "note": "Reached through the kobolds' mine, which broke into its side. About 1,000 ft from Glen camp, but the glen's east cliff stands between."
+  },
+  "camp:cmpbaras": {
+    "name": "Ashby barrow (5-7)",
+    "purpose": "One of four barrows whose dead the necromancer's rituals raise without his aiming them.",
+    "people": "risen dead",
+    "mood": "a low grassy mound with a stone doorway"
+  },
+  "camp:cmpbarsw": {
+    "name": "Southwood barrow (7-9)",
+    "purpose": "One of four barrows whose dead the necromancer's rituals raise without his aiming them.",
+    "people": "risen dead",
+    "mood": "a low grassy mound with a stone doorway"
+  },
+  "camp:cmpbarrv": {
+    "name": "River barrow (8-10)",
+    "purpose": "One of four barrows whose dead the necromancer's rituals raise without his aiming them.",
+    "people": "risen dead",
+    "mood": "a low grassy mound with a stone doorway"
   }
 }
