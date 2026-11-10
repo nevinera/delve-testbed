@@ -547,7 +547,7 @@
     "role": "Saltwick's cook"
   },
   "npc:rwcaptn0": {
-    "name": "Riverwatch's captain",
+    "name": "Captain Edmund Ravel",
     "traits": [
       "disciplined",
       "haunted",
@@ -556,10 +556,11 @@
     "voice": "Measured. Duty words. Watches the far bank while he talks.",
     "questRelevance": "Takes in the dead chain's lights, the bandits' signed orders and the blessed salt; gives breaking the circle and the bandit chief.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "Riverwatch's captain"
   },
   "npc:rwranger": {
-    "name": "A Riverwatch ranger",
+    "name": "Ranger Sela Marsh",
     "traits": [
       "sardonic",
       "sharp-eyed",
@@ -568,10 +569,11 @@
     "voice": "Dry asides. Knows every track. Mocks the bandits' fieldcraft.",
     "questRelevance": "The river barrow, the Riverwatch road, the ledger.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "A Riverwatch ranger"
   },
   "npc:rwfletch": {
-    "name": "Riverwatch's fletcher",
+    "name": "Finch",
     "traits": [
       "meticulous",
       "shy",
@@ -580,7 +582,8 @@
     "voice": "Quiet. Lights up only about arrows.",
     "questRelevance": "The spider silk.",
     "zone": "brackenv",
-    "note": "Planned; rekey to the placed NPC's id once placed."
+    "note": "Planned; rekey to the placed NPC's id once placed.",
+    "role": "Riverwatch's fletcher"
   },
   "npc:pgwarden": {
     "name": "The gate warden",
