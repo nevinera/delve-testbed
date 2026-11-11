@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "objects": [
   {
    "id": "tbcrank1",
@@ -12,6 +12,7 @@
    "scale": 2
   },
   {
+   "id": "obj6jyhl",
    "type": "boulder",
    "at": [
     -6,
