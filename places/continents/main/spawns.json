@@ -60,7 +60,10 @@
           "stock/coarse-thread",
           "stock/skinning-knife",
           "stock/salt",
-          "stock/light-leather"
+          "stock/light-leather",
+          "stock/enchanting-vellum",
+          "stock/copper-rod",
+          "stock/silver-rod"
         ]
       }
     },
@@ -1140,6 +1143,24 @@
       "title": "Leatherworking Trainer",
       "trains": {
         "profession": "leatherworking",
+        "upTo": "Journeyman"
+      }
+    },
+    {
+      "id": "ench0001",
+      "npc": "villager",
+      "name": "Enchanter Sorel",
+      "levels": 10,
+      "at": [
+        -121,
+        50,
+        -19
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Enchanting Trainer",
+      "trains": {
+        "profession": "enchanting",
         "upTo": "Journeyman"
       }
     }
