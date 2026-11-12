@@ -27,6 +27,8 @@
     "herbalism": "stock",
     "alchemy": "stock",
     "tailoring": "stock",
-    "first-aid": "stock"
+    "first-aid": "stock",
+    "skinning": "stock",
+    "leatherworking": "stock"
   }
 }

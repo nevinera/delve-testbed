@@ -57,7 +57,10 @@
           "stock/burdock",
           "stock/yarrow",
           "stock/linen-cloth",
-          "stock/coarse-thread"
+          "stock/coarse-thread",
+          "stock/skinning-knife",
+          "stock/salt",
+          "stock/light-leather"
         ]
       }
     },
@@ -1101,6 +1104,42 @@
       "title": "First Aid Trainer",
       "trains": {
         "profession": "first-aid",
+        "upTo": "Journeyman"
+      }
+    },
+    {
+      "id": "skin0001",
+      "npc": "villager",
+      "name": "Skinner Dorn",
+      "levels": 10,
+      "at": [
+        -97,
+        50,
+        -19
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Skinning Trainer",
+      "trains": {
+        "profession": "skinning",
+        "upTo": "Journeyman"
+      }
+    },
+    {
+      "id": "lthr0001",
+      "npc": "villager",
+      "name": "Tanner Ilse",
+      "levels": 10,
+      "at": [
+        -109,
+        50,
+        -19
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Leatherworking Trainer",
+      "trains": {
+        "profession": "leatherworking",
         "upTo": "Journeyman"
       }
     }
