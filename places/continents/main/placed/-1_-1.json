@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "objects": [
+    { "id": "tbanvil1", "type": "built:b166mdqn", "at": [-13, -30], "yaw": 0, "scale": 1, "footprint": { "rect": [2.2, 1] }, "height": 2.6 }
+  ],
+  "slabs": []
+}
