@@ -55,7 +55,9 @@
           "stock/chamomile",
           "stock/sage",
           "stock/burdock",
-          "stock/yarrow"
+          "stock/yarrow",
+          "stock/linen-cloth",
+          "stock/coarse-thread"
         ]
       }
     },
@@ -1063,6 +1065,42 @@
       "title": "Herbalism Trainer",
       "trains": {
         "profession": "herbalism",
+        "upTo": "Journeyman"
+      }
+    },
+    {
+      "id": "tail0001",
+      "npc": "villager",
+      "name": "Tailor Brisa",
+      "levels": 10,
+      "at": [
+        -73,
+        50,
+        -19
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Tailoring Trainer",
+      "trains": {
+        "profession": "tailoring",
+        "upTo": "Journeyman"
+      }
+    },
+    {
+      "id": "aid00001",
+      "npc": "villager",
+      "name": "Medic Halloran",
+      "levels": 10,
+      "at": [
+        -85,
+        50,
+        -19
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "First Aid Trainer",
+      "trains": {
+        "profession": "first-aid",
         "upTo": "Journeyman"
       }
     }

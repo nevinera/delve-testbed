@@ -25,6 +25,8 @@
     "blacksmithing": "professions/blacksmithing.json",
     "mining": "stock",
     "herbalism": "stock",
-    "alchemy": "stock"
+    "alchemy": "stock",
+    "tailoring": "stock",
+    "first-aid": "stock"
   }
 }
