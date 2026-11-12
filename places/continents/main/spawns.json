@@ -48,7 +48,14 @@
           "oatcake1",
           "stock/mining-pick",
           "stock/smithing-hammer",
-          "stock/coal"
+          "stock/coal",
+          "stock/glass-vial",
+          "stock/leaded-vial",
+          "stock/crystal-vial",
+          "stock/chamomile",
+          "stock/sage",
+          "stock/burdock",
+          "stock/yarrow"
         ]
       }
     },
@@ -1020,6 +1027,42 @@
       "title": "Mining Trainer",
       "trains": {
         "profession": "mining",
+        "upTo": "Journeyman"
+      }
+    },
+    {
+      "id": "alch0001",
+      "npc": "villager",
+      "name": "Alchemist Maren",
+      "levels": 10,
+      "at": [
+        -49,
+        50,
+        -19
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Alchemy Trainer",
+      "trains": {
+        "profession": "alchemy",
+        "upTo": "Journeyman"
+      }
+    },
+    {
+      "id": "herb0001",
+      "npc": "villager",
+      "name": "Herbalist Wenna",
+      "levels": 10,
+      "at": [
+        -61,
+        50,
+        -19
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Herbalism Trainer",
+      "trains": {
+        "profession": "herbalism",
         "upTo": "Journeyman"
       }
     }

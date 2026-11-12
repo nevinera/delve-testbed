@@ -1,7 +1,8 @@
 {
   "version": 2,
   "objects": [
-    { "id": "tbanvil1", "type": "built:b166mdqn", "at": [-13, -30], "yaw": 0, "scale": 1, "footprint": { "rect": [2.2, 1] }, "height": 2.6 }
+    { "id": "tbanvil1", "type": "built:b166mdqn", "at": [-13, -30], "yaw": 0, "scale": 1, "footprint": { "rect": [2.2, 1] }, "height": 2.6 },
+    { "id": "tbalemb1", "type": "built:b1ejzkid", "at": [-49, -30], "yaw": 0, "scale": 1, "footprint": { "rect": [4.6, 1.6] }, "height": 4.6 }
   ],
   "slabs": []
 }

@@ -23,6 +23,8 @@
   },
   "professions": {
     "blacksmithing": "professions/blacksmithing.json",
-    "mining": "stock"
+    "mining": "stock",
+    "herbalism": "stock",
+    "alchemy": "stock"
   }
 }
