@@ -1,7 +1,17 @@
 {
   "id": "blacksmithing",
-  "notes": "The testbed's change to stock Blacksmithing: a recipe and item of its own, and no Copper Bracers.",
+  "notes": "The testbed's change to stock Blacksmithing: a starter recipe and a trained one of its own, with their items, and no Copper Bracers.",
   "items": [
+    {
+      "id": "nails",
+      "name": "Testbed Nails",
+      "icon": "weight",
+      "quality": "common",
+      "itemLevel": 1,
+      "description": "What a new smith makes first: a recipe learned with the profession.",
+      "price": 2,
+      "stack": 50
+    },
     {
       "id": "horseshoe",
       "name": "Testbed Horseshoe",
@@ -14,6 +24,24 @@
     }
   ],
   "recipes": [
+    {
+      "id": "nails",
+      "learn": 1,
+      "gray": 30,
+      "station": "anvil",
+      "tool": "stock/smithing-hammer",
+      "time": 2,
+      "reagents": [
+        {
+          "item": "stock/copper-bar",
+          "count": 1
+        }
+      ],
+      "makes": {
+        "item": "blacksmithing/nails",
+        "count": 5
+      }
+    },
     {
       "id": "horseshoe",
       "learn": 1,
