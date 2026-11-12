@@ -304,14 +304,14 @@
       "requiredLevel": 5,
       "text": {
         "offer": "Only offered at level 5 and up. Use /level 5 to see it.",
-        "summary": "Kill a wolf.",
+        "summary": "Kill a deer.",
         "waiting": "Not yet.",
         "done": "Well done."
       },
       "objectives": [
         {
           "id": "a",
-          "kill": "stock/wolf"
+          "kill": "stock/deer"
         }
       ],
       "notes": "Only offered at level 5 and up. Use /level 5 to see it."
@@ -560,7 +560,7 @@
                 -20,
                 6
               ],
-              "yaw": 0.0,
+              "yaw": 0,
               "scale": 6
             },
             {
