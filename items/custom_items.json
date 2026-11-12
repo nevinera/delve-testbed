@@ -1,0 +1,138 @@
+{
+  "items": [
+    {
+      "id": "abbstore",
+      "name": "Abbey Stores",
+      "icon": "wheat",
+      "quality": "common",
+      "itemLevel": 1,
+      "description": "A bundle of candles, bread and bandages, stamped with Wakewell's mark.",
+      "stack": 20
+    },
+    {
+      "id": "burring1",
+      "name": "Tarnished Burial Ring",
+      "icon": "linked-rings",
+      "quality": "common",
+      "itemLevel": 1,
+      "description": "Old bronze, green with age, cut with a barrow mark.",
+      "stack": 1
+    },
+    {
+      "id": "oatcake1",
+      "name": "Oat Cake",
+      "icon": "sliced-bread",
+      "quality": "common",
+      "itemLevel": 1,
+      "requiredLevel": 1,
+      "price": 5,
+      "stack": 20,
+      "consumed": true,
+      "use": {
+        "name": "Eat",
+        "description": "Sit and eat, getting back 80 health over 20 s. Out of combat only.",
+        "icon": "sliced-bread",
+        "target": "self",
+        "gcd": 0,
+        "requires": [
+          {
+            "inCombat": false
+          }
+        ],
+        "effects": [
+          {
+            "type": "status",
+            "affects": "self",
+            "status": "eating"
+          }
+        ],
+        "tags": [
+          "food"
+        ]
+      },
+      "statuses": [
+        {
+          "id": "eating",
+          "name": "Eating",
+          "description": "You get back 80 health over 20 s while you sit and eat. Moving, acting or taking damage stops it.",
+          "icon": "sliced-bread",
+          "kind": "buff",
+          "duration": 20,
+          "noCrit": true,
+          "group": "eating",
+          "pose": "sit",
+          "breaksOn": [
+            "move",
+            "damage",
+            "action"
+          ],
+          "keptBy": {
+            "tags": [
+              "food"
+            ]
+          },
+          "effects": [
+            {
+              "type": "periodic",
+              "every": 2,
+              "does": "heal",
+              "amount": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oozevial",
+      "name": "Vial of Amber Ooze",
+      "icon": "poison-bottle",
+      "quality": "common",
+      "itemLevel": 1,
+      "description": "Warm to the touch, and it moves when you aren't looking.",
+      "stack": 20
+    },
+    {
+      "id": "tbkit001",
+      "name": "Sampling Kit",
+      "icon": "hammer-drop",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 20
+    },
+    {
+      "id": "tbtestd1",
+      "name": "Tested Wolf Sample",
+      "icon": "heart-bottle",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 20
+    },
+    {
+      "id": "tbuntst1",
+      "name": "Untested Wolf Sample",
+      "icon": "poison-bottle",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 20,
+      "description": "Test it with a sampling kit.",
+      "makes": {
+        "item": "tbtestd1",
+        "uses": [
+          {
+            "item": "tbkit001"
+          }
+        ],
+        "chance": 0.6
+      }
+    },
+    {
+      "id": "wakherb1",
+      "name": "Waking Herb",
+      "icon": "oak-leaf",
+      "quality": "common",
+      "itemLevel": 1,
+      "description": "Pale leaves that smell of rain. The keepers brew them for the new-wakened.",
+      "stack": 20
+    }
+  ]
+}

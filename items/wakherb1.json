@@ -1,9 +1,0 @@
-{
-  "id": "wakherb1",
-  "name": "Waking Herb",
-  "icon": "oak-leaf",
-  "quality": "common",
-  "itemLevel": 1,
-  "description": "Pale leaves that smell of rain. The keepers brew them for the new-wakened.",
-  "stack": 20
-}
