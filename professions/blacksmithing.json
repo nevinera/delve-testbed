@@ -1,0 +1,45 @@
+{
+  "id": "blacksmithing",
+  "notes": "The testbed's change to stock Blacksmithing: a recipe and item of its own, and no Copper Bracers.",
+  "items": [
+    {
+      "id": "horseshoe",
+      "name": "Testbed Horseshoe",
+      "icon": "weight",
+      "quality": "common",
+      "itemLevel": 3,
+      "description": "Proof that a world can add to a stock profession.",
+      "price": 12,
+      "stack": 20
+    }
+  ],
+  "recipes": [
+    {
+      "id": "horseshoe",
+      "learn": 1,
+      "gray": 40,
+      "cost": 5,
+      "station": "anvil",
+      "tool": "stock/smithing-hammer",
+      "time": 2,
+      "reagents": [
+        {
+          "item": "stock/copper-bar",
+          "count": 1
+        }
+      ],
+      "makes": {
+        "item": "blacksmithing/horseshoe",
+        "count": 2
+      }
+    }
+  ],
+  "remove": {
+    "recipes": [
+      "copper-bracers"
+    ],
+    "drops": [
+      "plans-copper-bracers"
+    ]
+  }
+}

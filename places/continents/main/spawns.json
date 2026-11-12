@@ -45,7 +45,10 @@
       "title": "Vendor",
       "vendor": {
         "sells": [
-          "oatcake1"
+          "oatcake1",
+          "stock/mining-pick",
+          "stock/smithing-hammer",
+          "stock/coal"
         ]
       }
     },
@@ -983,6 +986,42 @@
       },
       "creature": "stock/chicken",
       "respawn": 30
+    },
+    {
+      "id": "smit0001",
+      "npc": "villager",
+      "name": "Smith Hadrik",
+      "levels": 10,
+      "at": [
+        -13,
+        50,
+        -19
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Blacksmithing Trainer",
+      "trains": {
+        "profession": "blacksmithing",
+        "upTo": "Journeyman"
+      }
+    },
+    {
+      "id": "minr0001",
+      "npc": "villager",
+      "name": "Miner Osk",
+      "levels": 10,
+      "at": [
+        -37,
+        50,
+        -19
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Mining Trainer",
+      "trains": {
+        "profession": "mining",
+        "upTo": "Journeyman"
+      }
     }
   ]
 }

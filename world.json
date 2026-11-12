@@ -20,5 +20,9 @@
   },
   "itemCollections": {
     "custom_items": "items/custom_items.json"
+  },
+  "professions": {
+    "blacksmithing": "professions/blacksmithing.json",
+    "mining": "stock"
   }
 }
