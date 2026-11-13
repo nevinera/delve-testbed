@@ -1,0 +1,41 @@
+{
+  "id": "ashgranm",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Sit, child. Not there. There.",
+      "choices": [
+        {
+          "text": "Tell me about the hill.",
+          "next": "t0"
+        },
+        {
+          "text": "Are you afraid of the dead?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "It was a burial mound long before it was a mine. My gran said so, and hers. Dig into the dead, child, and the dead dig back.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Death's not the worst thing that happens to a body. Being woken after is.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

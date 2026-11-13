@@ -1,0 +1,41 @@
+{
+  "id": "asheldst",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Bet I can clear more rats than you before supper. Go on. Bet.",
+      "choices": [
+        {
+          "text": "What's going on around here?",
+          "next": "t0"
+        },
+        {
+          "text": "Where's Westhill?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Something's walking about by the old barrow in the south fields. Dead things. Da says leave it. I say somebody ought to go and look, and it might as well be someone good.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "West, under the hills, where the trail turns south. Aunt Marta's place. We're not supposed to talk about Aunt Marta.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

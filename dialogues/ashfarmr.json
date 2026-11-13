@@ -1,0 +1,41 @@
+{
+  "id": "ashfarmr",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Two hands? Good. I've got more work than daylight, and more trouble than both.",
+      "choices": [
+        {
+          "text": "What's the trouble?",
+          "next": "t0"
+        },
+        {
+          "text": "Who lives here?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Kobolds out of the old mine, at my stores every night. Rats in the barns. Bandits off the hills taking what the kobolds leave. And Mother says there's a barrow under that hill, which helps nobody.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Mother, that's Gran to everyone. Rowan, my eldest, who thinks he's a hero. Two hands who don't. My sister farms at Westhill, west under the hills. We don't talk.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

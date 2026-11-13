@@ -1,0 +1,54 @@
+{
+  "id": "villkid0",
+  "name": "Child",
+  "creatureType": "humanoid",
+  "reaction": "friendly",
+  "levels": [
+    1,
+    1
+  ],
+  "says": [
+    "Are you a sleeper? You don't look asleep.",
+    "Bet you can't catch me!",
+    "Gran says not to go near the hill."
+  ],
+  "look": {
+    "body": "humanoid",
+    "height": [
+      3.6,
+      4.3
+    ],
+    "build": [
+      0.2,
+      0.4
+    ],
+    "hair": [
+      "short",
+      "long",
+      "braids"
+    ],
+    "beard": [
+      "none"
+    ],
+    "colors": {
+      "primary": [
+        "#9a7a5a",
+        "#6a7a9a",
+        "#8a5a4a"
+      ],
+      "secondary": [
+        "#4a3a28"
+      ]
+    },
+    "armor": {
+      "chest": {
+        "type": "cloth",
+        "style": "plain"
+      },
+      "legs": {
+        "type": "cloth",
+        "style": "plain"
+      }
+    }
+  }
+}

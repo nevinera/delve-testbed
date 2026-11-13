@@ -133,6 +133,15 @@
       "itemLevel": 1,
       "description": "Pale leaves that smell of rain. The keepers brew them for the new-wakened.",
       "stack": 20
+    },
+    {
+      "id": "ashgrain",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 20,
+      "name": "Sack of Ashby Grain",
+      "icon": "wheat",
+      "description": "Oats, stamped with an A in tar. Chewed at one corner."
     }
   ]
 }
