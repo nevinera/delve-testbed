@@ -1,0 +1,920 @@
+{
+ "version": 2,
+ "objects": [
+  {
+   "id": "obj60dtk",
+   "type": "built:bruin014",
+   "at": [
+    18192,
+    15323
+   ],
+   "y": 220.49,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru062",
+   "footprint": {
+    "rect": [
+     7.62,
+     5.18
+    ]
+   },
+   "height": 3.25
+  },
+  {
+   "id": "objdglz8",
+   "type": "built:bruin014",
+   "at": [
+    18209,
+    15321
+   ],
+   "y": 220.49,
+   "yaw": 1.4,
+   "scale": 1,
+   "template": "bstru062",
+   "footprint": {
+    "rect": [
+     7.62,
+     5.18
+    ]
+   },
+   "height": 3.25
+  },
+  {
+   "id": "obj0jvor",
+   "type": "built:bruin014",
+   "at": [
+    18217,
+    15327
+   ],
+   "y": 220.49,
+   "yaw": 2.6,
+   "scale": 1,
+   "template": "bstru062",
+   "footprint": {
+    "rect": [
+     7.62,
+     5.18
+    ]
+   },
+   "height": 3.25
+  },
+  {
+   "id": "obj4sxhh",
+   "type": "built:bruin011",
+   "at": [
+    18176,
+    15308
+   ],
+   "y": 220.49,
+   "yaw": 0.4,
+   "scale": 1,
+   "template": "bstru062",
+   "footprint": {
+    "rect": [
+     18.1,
+     6.1
+    ]
+   },
+   "height": 2.2
+  },
+  {
+   "id": "obj4q96v",
+   "type": "built:bruin014",
+   "at": [
+    18207,
+    15306
+   ],
+   "y": 221.49,
+   "yaw": 0.8,
+   "scale": 1,
+   "template": "bstru062",
+   "footprint": {
+    "rect": [
+     7.62,
+     5.18
+    ]
+   },
+   "height": 3.25
+  },
+  {
+   "id": "objvlnrq",
+   "type": "built:b00qv3iw",
+   "at": [
+    18196,
+    15290
+   ],
+   "y": 221.49,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru062",
+   "footprint": {
+    "open": 1.25
+   },
+   "height": 1.78
+  },
+  {
+   "id": "objbldmt",
+   "type": "built:bruin009",
+   "at": [
+    18224,
+    15288
+   ],
+   "y": 220.49,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru062",
+   "footprint": {
+    "rect": [
+     2.6,
+     2.6
+    ]
+   },
+   "height": 12.66
+  },
+  {
+   "id": "objcb29m",
+   "type": "built:b0nsuuc6",
+   "at": [
+    18208,
+    15291
+   ],
+   "y": 237.49,
+   "yaw": 0.6,
+   "scale": 1,
+   "template": "bstru062",
+   "footprint": {
+    "open": 3.26
+   },
+   "height": 0.65
+  },
+  {
+   "id": "objcmc4z",
+   "type": "built:b056c415",
+   "at": [
+    18191,
+    15289
+   ],
+   "y": 237.49,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru062",
+   "footprint": {
+    "open": 2.23
+   },
+   "height": 0.23
+  },
+  {
+   "id": "objf1a6j",
+   "type": "built:b1v52vzp",
+   "at": [
+    18050,
+    15150
+   ],
+   "yaw": 2.9092,
+   "scale": 1.1,
+   "footprint": {
+    "rect": [
+     5.357,
+     4.488
+    ]
+   },
+   "height": 13.684
+  },
+  {
+   "id": "obj72ki7",
+   "type": "built:b1ii2dxz",
+   "at": [
+    18056,
+    15154
+   ],
+   "yaw": 0,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     2,
+     2
+    ]
+   },
+   "height": 5.5
+  },
+  {
+   "id": "obj9yftr",
+   "type": "built:b1v52vzp",
+   "at": [
+    18380,
+    15180
+   ],
+   "yaw": 2.3456,
+   "scale": 1.1,
+   "footprint": {
+    "rect": [
+     5.357,
+     4.488
+    ]
+   },
+   "height": 13.684
+  },
+  {
+   "id": "objtjyuy",
+   "type": "built:b1ii2dxz",
+   "at": [
+    18386,
+    15184
+   ],
+   "yaw": 0,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     2,
+     2
+    ]
+   },
+   "height": 5.5
+  },
+  {
+   "id": "obji2mp9",
+   "type": "built:b1v52vzp",
+   "at": [
+    18420,
+    15480
+   ],
+   "yaw": 0.8705,
+   "scale": 1.1,
+   "footprint": {
+    "rect": [
+     5.357,
+     4.488
+    ]
+   },
+   "height": 13.684
+  },
+  {
+   "id": "obj49fmc",
+   "type": "built:b1ii2dxz",
+   "at": [
+    18426,
+    15484
+   ],
+   "yaw": 0,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     2,
+     2
+    ]
+   },
+   "height": 5.5
+  },
+  {
+   "id": "objmffug",
+   "type": "built:b1v52vzp",
+   "at": [
+    18020,
+    15470
+   ],
+   "yaw": 5.4448,
+   "scale": 1.1,
+   "footprint": {
+    "rect": [
+     5.357,
+     4.488
+    ]
+   },
+   "height": 13.684
+  },
+  {
+   "id": "objfx71u",
+   "type": "built:b1ii2dxz",
+   "at": [
+    18026,
+    15474
+   ],
+   "yaw": 0,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     2,
+     2
+    ]
+   },
+   "height": 5.5
+  },
+  {
+   "id": "objwsemu",
+   "type": "built:b1v52vzp",
+   "at": [
+    18210,
+    15050
+   ],
+   "yaw": 0.0404,
+   "scale": 1.1,
+   "footprint": {
+    "rect": [
+     5.357,
+     4.488
+    ]
+   },
+   "height": 13.684
+  },
+  {
+   "id": "objpsc3m",
+   "type": "built:b1ii2dxz",
+   "at": [
+    18216,
+    15054
+   ],
+   "yaw": 0,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     2,
+     2
+    ]
+   },
+   "height": 5.5
+  },
+  {
+   "id": "objf53tu",
+   "type": "built:b0ulqiop",
+   "at": [
+    18190,
+    15300
+   ],
+   "yaw": 3.1591,
+   "scale": 1,
+   "footprint": {
+    "circle": 1.41
+   },
+   "height": 1.5
+  },
+  {
+   "id": "objpmagt",
+   "type": "built:b0xgv7lq",
+   "at": [
+    18205,
+    15290
+   ],
+   "yaw": 5.6442,
+   "scale": 1,
+   "footprint": {
+    "rect": [
+     6,
+     3.14
+    ]
+   },
+   "height": 3.5
+  },
+  {
+   "id": "objkkhz2",
+   "type": "built:b0x9tw20",
+   "at": [
+    18215,
+    15312
+   ],
+   "yaw": 0.5078,
+   "scale": 1,
+   "footprint": {
+    "circle": 1.98
+   },
+   "height": 1.34
+  },
+  {
+   "id": "objmrtkn",
+   "type": "built:b04wcic6",
+   "at": [
+    18180,
+    15315
+   ],
+   "yaw": 3.4826,
+   "scale": 1,
+   "footprint": {
+    "open": 2.33
+   },
+   "height": 0.23
+  }
+ ],
+ "slabs": [
+  {
+   "id": "slab7uro",
+   "at": [
+    18184,
+    221.49,
+    15284
+   ],
+   "turn": [
+    0,
+    0,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     32,
+     0
+    ],
+    [
+     32,
+     32
+    ],
+    [
+     0,
+     32
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "flagstones",
+   "template": "bstru062"
+  },
+  {
+   "id": "slabv3hz",
+   "at": [
+    18184,
+    221.49,
+    15284
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     32,
+     0
+    ],
+    [
+     32,
+     41
+    ],
+    [
+     27.2,
+     46
+    ],
+    [
+     22.4,
+     44
+    ],
+    [
+     17.6,
+     48
+    ],
+    [
+     12.8,
+     45
+    ],
+    [
+     9.6,
+     47
+    ],
+    [
+     4.8,
+     44
+    ],
+    [
+     0,
+     40
+    ]
+   ],
+   "thickness": 3,
+   "surface": "dirtyStone",
+   "holes": [
+    [
+     [
+      9.25,
+      4
+     ],
+     [
+      9.25,
+      10
+     ],
+     [
+      10.75,
+      10
+     ],
+     [
+      10.75,
+      4
+     ]
+    ],
+    [
+     [
+      15.25,
+      36
+     ],
+     [
+      15.25,
+      42
+     ],
+     [
+      16.75,
+      42
+     ],
+     [
+      16.75,
+      36
+     ]
+    ],
+    [
+     [
+      21.25,
+      20
+     ],
+     [
+      21.25,
+      26
+     ],
+     [
+      22.75,
+      26
+     ],
+     [
+      22.75,
+      20
+     ]
+    ]
+   ],
+   "template": "bstru062"
+  },
+  {
+   "id": "slabw0su",
+   "at": [
+    18216,
+    221.49,
+    15287
+   ],
+   "turn": [
+    -90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     26,
+     0
+    ],
+    [
+     26,
+     13
+    ],
+    [
+     23.4,
+     15
+    ],
+    [
+     20.8,
+     18
+    ],
+    [
+     16.9,
+     24
+    ],
+    [
+     13,
+     28
+    ],
+    [
+     9.1,
+     33
+    ],
+    [
+     5.2,
+     38
+    ],
+    [
+     0,
+     42
+    ]
+   ],
+   "thickness": 3,
+   "surface": "dirtyStone",
+   "holes": [
+    [
+     [
+      6.25,
+      20
+     ],
+     [
+      6.25,
+      26
+     ],
+     [
+      7.75,
+      26
+     ],
+     [
+      7.75,
+      20
+     ]
+    ],
+    [
+     [
+      18.25,
+      4
+     ],
+     [
+      18.25,
+      10
+     ],
+     [
+      19.75,
+      10
+     ],
+     [
+      19.75,
+      4
+     ]
+    ]
+   ],
+   "template": "bstru062"
+  },
+  {
+   "id": "slabesgd",
+   "at": [
+    18216,
+    221.49,
+    15316
+   ],
+   "turn": [
+    -180,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     11,
+     0
+    ],
+    [
+     11,
+     7.27
+    ],
+    [
+     9.6,
+     10
+    ],
+    [
+     4.8,
+     8
+    ],
+    [
+     0,
+     12
+    ]
+   ],
+   "thickness": 3,
+   "surface": "dirtyStone",
+   "template": "bstru062"
+  },
+  {
+   "id": "slab1224",
+   "at": [
+    18216,
+    221.49,
+    15316
+   ],
+   "turn": [
+    -180,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     21,
+     0
+    ],
+    [
+     32,
+     0
+    ],
+    [
+     32,
+     22
+    ],
+    [
+     27.2,
+     14
+    ],
+    [
+     22.4,
+     9
+    ],
+    [
+     21,
+     7.36
+    ]
+   ],
+   "thickness": 3,
+   "surface": "dirtyStone",
+   "template": "bstru062"
+  },
+  {
+   "id": "slaby48p",
+   "at": [
+    18184,
+    221.49,
+    15313
+   ],
+   "turn": [
+    90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     26,
+     0
+    ],
+    [
+     26,
+     40
+    ],
+    [
+     20.8,
+     36
+    ],
+    [
+     15.6,
+     30
+    ],
+    [
+     10.4,
+     32
+    ],
+    [
+     5.2,
+     27
+    ],
+    [
+     0,
+     24
+    ]
+   ],
+   "thickness": 3,
+   "surface": "dirtyStone",
+   "holes": [
+    [
+     [
+      16.25,
+      20
+     ],
+     [
+      16.25,
+      26
+     ],
+     [
+      17.75,
+      26
+     ],
+     [
+      17.75,
+      20
+     ]
+    ]
+   ],
+   "template": "bstru062"
+  },
+  {
+   "id": "slabtpt9",
+   "kind": "stairs",
+   "at": [
+    18192,
+    221.49,
+    15308
+   ],
+   "turn": [
+    -180,
+    -45,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     22.63
+    ],
+    [
+     0,
+     22.63
+    ]
+   ],
+   "thickness": 1,
+   "surface": "stone",
+   "steps": 27,
+   "template": "bstru062"
+  },
+  {
+   "id": "slabai21",
+   "at": [
+    18187,
+    237.49,
+    15287
+   ],
+   "turn": [
+    0,
+    0,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     26,
+     0
+    ],
+    [
+     26,
+     12
+    ],
+    [
+     21,
+     14
+    ],
+    [
+     17,
+     10
+    ],
+    [
+     12,
+     13
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     5,
+     5
+    ],
+    [
+     0,
+     5
+    ]
+   ],
+   "thickness": 1,
+   "surface": "floorboards",
+   "template": "bstru062"
+  },
+  {
+   "id": "slab82ur",
+   "at": [
+    18202,
+    253.49,
+    15287
+   ],
+   "turn": [
+    0,
+    0,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     11,
+     0
+    ],
+    [
+     11,
+     8
+    ],
+    [
+     6,
+     6
+    ]
+   ],
+   "thickness": 1,
+   "surface": "floorboards",
+   "template": "bstru062"
+  }
+ ]
+}

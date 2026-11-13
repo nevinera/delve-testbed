@@ -223,6 +223,51 @@
       "name": "Strand Crab Meat",
       "icon": "meat",
       "description": "Sweet, pale and a little sandy."
+    },
+    {
+      "id": "ritchrm1",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 20,
+      "name": "Ritual Charm",
+      "icon": "pendant",
+      "description": "Bone and black wire. It hums when you point it at the hills."
+    },
+    {
+      "id": "necjrnl1",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 1,
+      "name": "Crale's Journal",
+      "icon": "book",
+      "description": "Cramped writing, diagrams of barrows, and a mark like an eye drawn again and again."
+    },
+    {
+      "id": "blssalt1",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 1,
+      "name": "Blessed Salt",
+      "icon": "powder",
+      "description": "A sealed jar of salt, blessed at Lakeford's chapel."
+    },
+    {
+      "id": "spdslk01",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 20,
+      "name": "Spider Silk",
+      "icon": "spider-web",
+      "description": "Strong, fine, and sticky to the touch."
+    },
+    {
+      "id": "bdorder1",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 1,
+      "name": "Signed Orders",
+      "icon": "scroll-unfurled",
+      "description": "Patrol times for Riverwatch, and orders to take the road. Signed 'D.M.'"
     }
   ]
 }

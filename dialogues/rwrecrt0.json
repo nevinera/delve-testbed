@@ -1,0 +1,28 @@
+{
+  "id": "rwrecrt0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Sir! Ma'am! Sir! Sorry. Which is it?",
+      "choices": [
+        {
+          "text": "How's the drilling going?",
+          "next": "t0"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Badly, sir. Ma'am. I keep stabbing the post on the wrong side.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

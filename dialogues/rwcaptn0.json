@@ -1,0 +1,46 @@
+{
+  "id": "rwcaptn0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Captain Ravel. Riverwatch holds the crossing. What's your business?",
+      "choices": [
+        {
+          "text": "What's Riverwatch for?",
+          "next": "t0"
+        },
+        {
+          "text": "What troubles you?",
+          "next": "t1"
+        },
+        {
+          "text": "Could you see to my wounds?",
+          "restore": true,
+          "next": "hello"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "The bridge. The road east goes over it, and whoever holds it decides who crosses. We hold it. Barely.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Bandits in the autumn wood, bold enough to hit the road in daylight. And lights. In the hills north-west, round the old broken tower. My lads won't patrol there after dark. I don't blame them.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

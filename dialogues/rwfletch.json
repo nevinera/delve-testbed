@@ -1,0 +1,28 @@
+{
+  "id": "rwfletch",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Oh. Hello. Do you shoot? No? Pity.",
+      "choices": [
+        {
+          "text": "What do you make?",
+          "next": "t0"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Arrows. Good ones. Spider silk for the bowstrings, when I can get it. Holds in the wet. Nothing like it.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

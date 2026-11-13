@@ -1,0 +1,195 @@
+{
+  "id": "bdchief1",
+  "name": "Dace Merrin",
+  "family": "bandits",
+  "creatureType": "humanoid",
+  "classification": "elite",
+  "reaction": "hostile",
+  "levels": [
+    9,
+    11
+  ],
+  "attack": {
+    "speed": 2.2
+  },
+  "abilities": [
+    "humanoid/strike"
+  ],
+  "tags": [
+    "melee"
+  ],
+  "health": 1,
+  "damage": 0.95,
+  "armor": 1.3,
+  "look": {
+    "body": "humanoid",
+    "build": [
+      0.6,
+      0.9
+    ],
+    "hair": [
+      "short",
+      "receding",
+      "ponytail",
+      "long",
+      "bald",
+      "mullet",
+      "braids"
+    ],
+    "beard": [
+      "none",
+      "none",
+      "goatee",
+      "full",
+      "handlebar"
+    ],
+    "mouth": [
+      "thin",
+      "smirk",
+      "frown",
+      "grin"
+    ],
+    "colors": {
+      "skin": [
+        "#f3d6bd",
+        "#e8c2a0",
+        "#e0b48c",
+        "#d1a077",
+        "#be8558",
+        "#a56d48",
+        "#8d5a3a",
+        "#6b4029",
+        "#4f2f1f"
+      ],
+      "hair": [
+        "#2a1e16",
+        "#3a2a1a",
+        "#4a3020",
+        "#5e4030",
+        "#7a5a3a",
+        "#9a7a50",
+        "#6b6b6b"
+      ],
+      "primary": [
+        "#4a4038",
+        "#5a4a38",
+        "#3a3a32",
+        "#6b5a3a",
+        "#4a3a2a",
+        "#3a4038"
+      ],
+      "secondary": [
+        "#4a4038",
+        "#5a4a38",
+        "#3a3a32",
+        "#6b5a3a",
+        "#4a3a2a",
+        "#3a4038"
+      ]
+    },
+    "loadouts": [
+      {
+        "weapon": "sword",
+        "weaponStyle": "fine",
+        "offhand": "shield",
+        "offhandStyle": "crude",
+        "armor": {
+          "chest": {
+            "type": "chain",
+            "style": "tattered",
+            "colors": [
+              [
+                "#4a4038",
+                "#5a4a38",
+                "#3a3a32",
+                "#6b5a3a",
+                "#4a3a2a",
+                "#3a4038"
+              ],
+              [
+                "#4a4038",
+                "#5a4a38",
+                "#3a3a32",
+                "#6b5a3a",
+                "#4a3a2a",
+                "#3a4038"
+              ]
+            ]
+          },
+          "shoulders": {
+            "type": "leather",
+            "style": "fine",
+            "colors": [
+              [
+                "#4a4038",
+                "#5a4a38",
+                "#3a3a32",
+                "#6b5a3a",
+                "#4a3a2a",
+                "#3a4038"
+              ],
+              [
+                "#4a4038",
+                "#5a4a38",
+                "#3a3a32",
+                "#6b5a3a",
+                "#4a3a2a",
+                "#3a4038"
+              ]
+            ]
+          },
+          "legs": {
+            "type": "leather",
+            "style": "tattered",
+            "colors": [
+              [
+                "#4a4038",
+                "#5a4a38",
+                "#3a3a32",
+                "#6b5a3a",
+                "#4a3a2a",
+                "#3a4038"
+              ],
+              [
+                "#4a4038",
+                "#5a4a38",
+                "#3a3a32",
+                "#6b5a3a",
+                "#4a3a2a",
+                "#3a4038"
+              ]
+            ]
+          },
+          "feet": {
+            "type": "leather",
+            "style": "tattered",
+            "colors": [
+              [
+                "#4a4038",
+                "#5a4a38",
+                "#3a3a32",
+                "#6b5a3a",
+                "#4a3a2a",
+                "#3a4038"
+              ],
+              [
+                "#4a4038",
+                "#5a4a38",
+                "#3a3a32",
+                "#6b5a3a",
+                "#4a3a2a",
+                "#3a4038"
+              ]
+            ]
+          }
+        }
+      }
+    ],
+    "height": [
+      6.1,
+      6.5
+    ]
+  },
+  "title": "Bandit Chief",
+  "notes": "Lives in: his hidden camp between the autumn wood and the Saltwick road, leading the bandit gang."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rwranger",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Marsh. Ranger. Don't step there. Thank you.",
+      "choices": [
+        {
+          "text": "Seen any bandits?",
+          "next": "t0"
+        },
+        {
+          "text": "Anything else out there?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Seen? I've watched them try to hide. Big boots, small brains. Their camps are in the autumn wood south of the road. You could find them blindfold.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Spiders in the east wood. Wolves past them. And the river barrow north of here has been leaking dead for weeks.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

@@ -507,6 +507,207 @@
           "wander": 30
         }
       ]
+    },
+    {
+      "id": "sprwroad",
+      "area": "arwroad0",
+      "notes": "Autumn wood bandits preying on the Riverwatch road.",
+      "spawns": [
+        {
+          "density": 18,
+          "respawn": 120,
+          "creature": "stock/bandit-raider",
+          "levels": [
+            7,
+            8
+          ],
+          "wander": 20
+        },
+        {
+          "density": 12,
+          "respawn": 120,
+          "creature": "stock/bandit-archer",
+          "levels": [
+            7,
+            8
+          ],
+          "wander": 20
+        },
+        {
+          "density": 8,
+          "respawn": 120,
+          "creature": "stock/bandit-thief",
+          "levels": [
+            7,
+            8
+          ],
+          "wander": 20
+        }
+      ]
+    },
+    {
+      "id": "spbdcamp",
+      "area": "abdcamp0",
+      "notes": "The autumn wood bandit camp.",
+      "spawns": [
+        {
+          "density": 40,
+          "respawn": 120,
+          "creature": "stock/bandit-raider",
+          "levels": [
+            8,
+            9
+          ],
+          "wander": 20
+        },
+        {
+          "density": 30,
+          "respawn": 120,
+          "creature": "stock/bandit-archer",
+          "levels": [
+            8,
+            9
+          ],
+          "wander": 20
+        }
+      ]
+    },
+    {
+      "id": "spbdhide",
+      "area": "abdhide0",
+      "notes": "The chief's guard at his hideout.",
+      "spawns": [
+        {
+          "density": 40,
+          "respawn": 120,
+          "creature": "stock/bandit-raider",
+          "levels": [
+            9,
+            10
+          ],
+          "wander": 20
+        },
+        {
+          "density": 30,
+          "respawn": 120,
+          "creature": "stock/bandit-archer",
+          "levels": [
+            9,
+            10
+          ],
+          "wander": 20
+        }
+      ]
+    },
+    {
+      "id": "spewolf0",
+      "area": "aewolf00",
+      "spawns": [
+        {
+          "density": 18,
+          "respawn": 120,
+          "creature": "stock/wolf",
+          "levels": [
+            7,
+            8
+          ],
+          "wander": 40,
+          "pack": [
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spespidr",
+      "area": "aespidr0",
+      "spawns": [
+        {
+          "density": 24,
+          "respawn": 120,
+          "creature": "stock/cave-spider",
+          "levels": [
+            8,
+            9
+          ],
+          "wander": 30
+        }
+      ]
+    },
+    {
+      "id": "sprivbar",
+      "area": "arivbar0",
+      "notes": "Risen dead at the river barrow, nearest the tower.",
+      "spawns": [
+        {
+          "density": 22,
+          "respawn": 120,
+          "creature": "stock/zombie",
+          "levels": [
+            8,
+            10
+          ],
+          "wander": 20
+        },
+        {
+          "density": 16,
+          "respawn": 120,
+          "creature": "stock/skeleton-warrior",
+          "levels": [
+            8,
+            10
+          ],
+          "wander": 20
+        },
+        {
+          "density": 6,
+          "respawn": 120,
+          "creature": "stock/skeleton-mage",
+          "levels": [
+            8,
+            9
+          ],
+          "wander": 20
+        }
+      ]
+    },
+    {
+      "id": "sptowrhl",
+      "area": "atowrhl0",
+      "notes": "The necromancer's servants round his tower and its ritual stones.",
+      "spawns": [
+        {
+          "density": 10,
+          "respawn": 120,
+          "creature": "stock/skeleton-warrior",
+          "levels": [
+            9,
+            10
+          ],
+          "wander": 20
+        },
+        {
+          "density": 5,
+          "respawn": 120,
+          "creature": "stock/skeleton-mage",
+          "levels": [
+            9,
+            10
+          ],
+          "wander": 20
+        },
+        {
+          "density": 6,
+          "respawn": 120,
+          "creature": "stock/zombie",
+          "levels": [
+            9,
+            10
+          ],
+          "wander": 20
+        }
+      ]
     }
   ],
   "placed": [
@@ -6306,6 +6507,1937 @@
       "respawn": 120,
       "wander": 30,
       "spawnArea": "spstrand"
+    },
+    {
+      "id": "rwcaptn0",
+      "npc": "soldier0",
+      "wander": 0,
+      "name": "Captain Edmund Ravel",
+      "title": "Captain of Riverwatch",
+      "dialogue": "rwcaptn0",
+      "lean": "masculine",
+      "at": [
+        20250,
+        68.4,
+        16350
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "rwranger",
+      "npc": "farmfolk",
+      "wander": 0,
+      "name": "Ranger Sela Marsh",
+      "title": "Ranger",
+      "dialogue": "rwranger",
+      "lean": "feminine",
+      "at": [
+        20340,
+        71.5,
+        16362
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "rwfletch",
+      "npc": "farmfolk",
+      "wander": 0,
+      "name": "Finch",
+      "title": "Fletcher",
+      "dialogue": "rwfletch",
+      "at": [
+        20200,
+        64,
+        16444
+      ],
+      "yaw": 180,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "rwrecrt0",
+      "npc": "soldier0",
+      "wander": 0,
+      "name": "Recruit Pell",
+      "dialogue": "rwrecrt0",
+      "at": [
+        20300,
+        68.3,
+        16392
+      ],
+      "yaw": 90,
+      "levels": 12,
+      "respawn": 300
+    },
+    {
+      "id": "rwcook00",
+      "npc": "farmfolk",
+      "wander": 0,
+      "name": "Camp Cook",
+      "at": [
+        20258,
+        66.6,
+        16382
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "rwsoldr0",
+      "npc": "soldier0",
+      "wander": 0,
+      "at": [
+        20690,
+        94.3,
+        16352
+      ],
+      "yaw": 90,
+      "levels": 13,
+      "respawn": 300
+    },
+    {
+      "id": "rwsoldr1",
+      "npc": "soldier0",
+      "wander": 0,
+      "at": [
+        20705,
+        96.3,
+        16385
+      ],
+      "yaw": 90,
+      "levels": 13,
+      "respawn": 300
+    },
+    {
+      "id": "rwsoldr2",
+      "npc": "soldier0",
+      "wander": 0,
+      "at": [
+        20120,
+        56.5,
+        16395
+      ],
+      "yaw": 270,
+      "levels": 13,
+      "respawn": 300
+    },
+    {
+      "id": "rwsoldr3",
+      "npc": "soldier0",
+      "wander": 0,
+      "at": [
+        20370,
+        69.8,
+        16400
+      ],
+      "yaw": 90,
+      "levels": 13,
+      "respawn": 300
+    },
+    {
+      "id": "rwsoldr4",
+      "npc": "soldier0",
+      "wander": 0,
+      "at": [
+        20220,
+        68.5,
+        16255
+      ],
+      "yaw": 180,
+      "levels": 13,
+      "respawn": 300
+    },
+    {
+      "id": "bdchief0",
+      "creature": "bdchief1",
+      "wander": 0,
+      "at": [
+        17900,
+        46.8,
+        18712
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "necro000",
+      "creature": "necroman",
+      "wander": 0,
+      "at": [
+        18200,
+        220.5,
+        15300
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "mobyken6",
+      "creature": "stock/bandit-raider",
+      "at": [
+        19445.5,
+        29.6,
+        17964.4
+      ],
+      "yaw": 71,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprwroad"
+    },
+    {
+      "id": "mobzre0c",
+      "creature": "stock/bandit-raider",
+      "at": [
+        19271,
+        26.3,
+        17957.2
+      ],
+      "yaw": 94,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprwroad"
+    },
+    {
+      "id": "mobk6ldf",
+      "creature": "stock/bandit-raider",
+      "at": [
+        19322.3,
+        32.5,
+        18142
+      ],
+      "yaw": 282,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprwroad"
+    },
+    {
+      "id": "mob5rr5h",
+      "creature": "stock/bandit-raider",
+      "at": [
+        19190.5,
+        30.5,
+        17960.9
+      ],
+      "yaw": 256,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprwroad"
+    },
+    {
+      "id": "mobzu411",
+      "creature": "stock/bandit-raider",
+      "at": [
+        19165.5,
+        33.9,
+        18186.2
+      ],
+      "yaw": 97,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprwroad"
+    },
+    {
+      "id": "mobmh8xk",
+      "creature": "stock/bandit-raider",
+      "at": [
+        19207.7,
+        39.2,
+        18245.7
+      ],
+      "yaw": 247,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprwroad"
+    },
+    {
+      "id": "mobppjv7",
+      "creature": "stock/bandit-archer",
+      "at": [
+        19234.3,
+        31,
+        18087.1
+      ],
+      "yaw": 339,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprwroad"
+    },
+    {
+      "id": "mob4fl0s",
+      "creature": "stock/bandit-archer",
+      "at": [
+        19315.3,
+        28.5,
+        18020.3
+      ],
+      "yaw": 162,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprwroad"
+    },
+    {
+      "id": "mobk2978",
+      "creature": "stock/bandit-archer",
+      "at": [
+        19370.6,
+        35,
+        18157.5
+      ],
+      "yaw": 307,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprwroad"
+    },
+    {
+      "id": "mobayyjh",
+      "creature": "stock/bandit-archer",
+      "at": [
+        19240.3,
+        37,
+        18216.1
+      ],
+      "yaw": 316,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprwroad"
+    },
+    {
+      "id": "mobfmi91",
+      "creature": "stock/bandit-thief",
+      "at": [
+        19198.3,
+        31.3,
+        18061.1
+      ],
+      "yaw": 321,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprwroad"
+    },
+    {
+      "id": "mobknm83",
+      "creature": "stock/bandit-thief",
+      "at": [
+        19342.5,
+        33,
+        18136.2
+      ],
+      "yaw": 24,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprwroad"
+    },
+    {
+      "id": "mobqsjdm",
+      "creature": "stock/bandit-thief",
+      "at": [
+        19252.3,
+        29.8,
+        18029.6
+      ],
+      "yaw": 297,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprwroad"
+    },
+    {
+      "id": "mob8i3no",
+      "creature": "stock/bandit-raider",
+      "at": [
+        20006.7,
+        51.9,
+        18458
+      ],
+      "yaw": 158,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mobd0f61",
+      "creature": "stock/bandit-raider",
+      "at": [
+        19954.1,
+        50.6,
+        18419
+      ],
+      "yaw": 187,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mob5mg5j",
+      "creature": "stock/bandit-raider",
+      "at": [
+        19981.5,
+        50.9,
+        18417.2
+      ],
+      "yaw": 232,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mobxsopl",
+      "creature": "stock/bandit-raider",
+      "at": [
+        19931.6,
+        50.7,
+        18560.8
+      ],
+      "yaw": 202,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mobk8w40",
+      "creature": "stock/bandit-raider",
+      "at": [
+        19984.4,
+        51.6,
+        18459.7
+      ],
+      "yaw": 355,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mobtsojo",
+      "creature": "stock/bandit-raider",
+      "at": [
+        19889.9,
+        49.5,
+        18383.2
+      ],
+      "yaw": 2,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mobj17yv",
+      "creature": "stock/bandit-raider",
+      "at": [
+        19906.3,
+        49.4,
+        18402.4
+      ],
+      "yaw": 276,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mobkfp8i",
+      "creature": "stock/bandit-raider",
+      "at": [
+        19911.7,
+        50.8,
+        18468.6
+      ],
+      "yaw": 112,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mob7i65h",
+      "creature": "stock/bandit-raider",
+      "at": [
+        20016.2,
+        48.9,
+        18370.1
+      ],
+      "yaw": 338,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mobersqh",
+      "creature": "stock/bandit-archer",
+      "at": [
+        19780.6,
+        51.2,
+        18523.2
+      ],
+      "yaw": 17,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mobz8oiw",
+      "creature": "stock/bandit-archer",
+      "at": [
+        19900.6,
+        50.3,
+        18425.4
+      ],
+      "yaw": 92,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mobmijdl",
+      "creature": "stock/bandit-archer",
+      "at": [
+        19806.7,
+        50.4,
+        18392.2
+      ],
+      "yaw": 252,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mobv3f7y",
+      "creature": "stock/bandit-archer",
+      "at": [
+        19887.5,
+        50.5,
+        18541.6
+      ],
+      "yaw": 255,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mobdl1sx",
+      "creature": "stock/bandit-archer",
+      "at": [
+        19974.9,
+        51.4,
+        18545.3
+      ],
+      "yaw": 100,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mobz363w",
+      "creature": "stock/bandit-archer",
+      "at": [
+        19893.5,
+        50.7,
+        18507.6
+      ],
+      "yaw": 86,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mobx7ona",
+      "creature": "stock/bandit-archer",
+      "at": [
+        20004.1,
+        51.6,
+        18491.2
+      ],
+      "yaw": 88,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdcamp"
+    },
+    {
+      "id": "mob5wic5",
+      "creature": "stock/bandit-raider",
+      "at": [
+        18011.8,
+        47,
+        18656.2
+      ],
+      "yaw": 172,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdhide"
+    },
+    {
+      "id": "mob3f5ce",
+      "creature": "stock/bandit-raider",
+      "at": [
+        17932.8,
+        46.8,
+        18703.5
+      ],
+      "yaw": 320,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdhide"
+    },
+    {
+      "id": "mobcm3l3",
+      "creature": "stock/bandit-raider",
+      "at": [
+        17837.6,
+        46.5,
+        18763.8
+      ],
+      "yaw": 198,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdhide"
+    },
+    {
+      "id": "mob7ppn9",
+      "creature": "stock/bandit-raider",
+      "at": [
+        17930.1,
+        48.4,
+        18638.7
+      ],
+      "yaw": 233,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdhide"
+    },
+    {
+      "id": "mobhf49y",
+      "creature": "stock/bandit-raider",
+      "at": [
+        17980.9,
+        44.8,
+        18751.3
+      ],
+      "yaw": 298,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdhide"
+    },
+    {
+      "id": "mobt9wgw",
+      "creature": "stock/bandit-raider",
+      "at": [
+        17849.6,
+        51.9,
+        18600.5
+      ],
+      "yaw": 343,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdhide"
+    },
+    {
+      "id": "mob3xrjw",
+      "creature": "stock/bandit-raider",
+      "at": [
+        17984.7,
+        45.3,
+        18715.3
+      ],
+      "yaw": 298,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdhide"
+    },
+    {
+      "id": "mob3susq",
+      "creature": "stock/bandit-archer",
+      "at": [
+        17910.5,
+        45.5,
+        18782.4
+      ],
+      "yaw": 325,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdhide"
+    },
+    {
+      "id": "mobvcenn",
+      "creature": "stock/bandit-archer",
+      "at": [
+        17879,
+        46.8,
+        18717.4
+      ],
+      "yaw": 277,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdhide"
+    },
+    {
+      "id": "mobpyuxs",
+      "creature": "stock/bandit-archer",
+      "at": [
+        17807.5,
+        46.3,
+        18773.2
+      ],
+      "yaw": 150,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdhide"
+    },
+    {
+      "id": "mobk3ylg",
+      "creature": "stock/bandit-archer",
+      "at": [
+        17935.7,
+        49.4,
+        18609.8
+      ],
+      "yaw": 257,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdhide"
+    },
+    {
+      "id": "mobnxf1b",
+      "creature": "stock/bandit-archer",
+      "at": [
+        17829.7,
+        50.4,
+        18655.7
+      ],
+      "yaw": 238,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spbdhide"
+    },
+    {
+      "id": "moboer8k",
+      "creature": "stock/wolf",
+      "at": [
+        18941.8,
+        80,
+        14554.4
+      ],
+      "yaw": 164,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packjd7s",
+      "spawnArea": "spewolf0"
+    },
+    {
+      "id": "mobis8y8",
+      "creature": "stock/wolf",
+      "at": [
+        18938.2,
+        80.6,
+        14557.7
+      ],
+      "yaw": 129,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packjd7s",
+      "spawnArea": "spewolf0"
+    },
+    {
+      "id": "mob9bfw6",
+      "creature": "stock/wolf",
+      "at": [
+        18944.1,
+        78.6,
+        14548.2
+      ],
+      "yaw": 90,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packjd7s",
+      "spawnArea": "spewolf0"
+    },
+    {
+      "id": "mobu0tnj",
+      "creature": "stock/wolf",
+      "at": [
+        18713.7,
+        46.8,
+        14477.5
+      ],
+      "yaw": 226,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packimr5",
+      "spawnArea": "spewolf0"
+    },
+    {
+      "id": "mobc43jp",
+      "creature": "stock/wolf",
+      "at": [
+        18712.1,
+        44.9,
+        14470.4
+      ],
+      "yaw": 307,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packimr5",
+      "spawnArea": "spewolf0"
+    },
+    {
+      "id": "mobxph7l",
+      "creature": "stock/wolf",
+      "at": [
+        18858,
+        89.2,
+        14638.8
+      ],
+      "yaw": 293,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packd8xp",
+      "spawnArea": "spewolf0"
+    },
+    {
+      "id": "mob2r7wy",
+      "creature": "stock/wolf",
+      "at": [
+        18856.5,
+        88.7,
+        14635.1
+      ],
+      "yaw": 90,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packd8xp",
+      "spawnArea": "spewolf0"
+    },
+    {
+      "id": "mob8gcej",
+      "creature": "stock/wolf",
+      "at": [
+        18856.8,
+        89.4,
+        14641.7
+      ],
+      "yaw": 187,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packd8xp",
+      "spawnArea": "spewolf0"
+    },
+    {
+      "id": "mobo32b1",
+      "creature": "stock/wolf",
+      "at": [
+        18818.8,
+        95.1,
+        14767.7
+      ],
+      "yaw": 331,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packc3k6",
+      "spawnArea": "spewolf0"
+    },
+    {
+      "id": "mobpc6qz",
+      "creature": "stock/wolf",
+      "at": [
+        18821.4,
+        96.1,
+        14762.8
+      ],
+      "yaw": 310,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packc3k6",
+      "spawnArea": "spewolf0"
+    },
+    {
+      "id": "mobzp1oo",
+      "creature": "stock/wolf",
+      "at": [
+        18707.8,
+        73.6,
+        14726.7
+      ],
+      "yaw": 295,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spewolf0"
+    },
+    {
+      "id": "moblzb2c",
+      "creature": "stock/cave-spider",
+      "at": [
+        18445.2,
+        60,
+        15569.5
+      ],
+      "yaw": 160,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spespidr"
+    },
+    {
+      "id": "mobxsnpo",
+      "creature": "stock/cave-spider",
+      "at": [
+        18312.4,
+        69.4,
+        15597
+      ],
+      "yaw": 123,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spespidr"
+    },
+    {
+      "id": "mob9j2jr",
+      "creature": "stock/cave-spider",
+      "at": [
+        18206.8,
+        48.5,
+        15674.2
+      ],
+      "yaw": 174,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spespidr"
+    },
+    {
+      "id": "mobsx5gl",
+      "creature": "stock/cave-spider",
+      "at": [
+        18383,
+        26,
+        15877
+      ],
+      "yaw": 61,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spespidr"
+    },
+    {
+      "id": "mobqgzdw",
+      "creature": "stock/cave-spider",
+      "at": [
+        18212.9,
+        43.1,
+        15699.6
+      ],
+      "yaw": 148,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spespidr"
+    },
+    {
+      "id": "mobuwcfl",
+      "creature": "stock/cave-spider",
+      "at": [
+        18194.4,
+        31.3,
+        15837.1
+      ],
+      "yaw": 223,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spespidr"
+    },
+    {
+      "id": "mobxgt7s",
+      "creature": "stock/cave-spider",
+      "at": [
+        18402.1,
+        43.3,
+        15642.8
+      ],
+      "yaw": 85,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spespidr"
+    },
+    {
+      "id": "mobn8fuj",
+      "creature": "stock/cave-spider",
+      "at": [
+        18179.9,
+        90.6,
+        15525.7
+      ],
+      "yaw": 188,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spespidr"
+    },
+    {
+      "id": "mobcyeya",
+      "creature": "stock/cave-spider",
+      "at": [
+        18470.9,
+        59.6,
+        15556.6
+      ],
+      "yaw": 139,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spespidr"
+    },
+    {
+      "id": "mobmi2e5",
+      "creature": "stock/cave-spider",
+      "at": [
+        18472.9,
+        72.4,
+        15524.1
+      ],
+      "yaw": 188,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spespidr"
+    },
+    {
+      "id": "mobt3wvf",
+      "creature": "stock/cave-spider",
+      "at": [
+        18147.9,
+        42.8,
+        15706.6
+      ],
+      "yaw": 199,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spespidr"
+    },
+    {
+      "id": "mob9tge9",
+      "creature": "stock/cave-spider",
+      "at": [
+        18483.9,
+        23.1,
+        15786.6
+      ],
+      "yaw": 336,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spespidr"
+    },
+    {
+      "id": "mobi69de",
+      "creature": "stock/cave-spider",
+      "at": [
+        18272.9,
+        29.4,
+        15843
+      ],
+      "yaw": 217,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spespidr"
+    },
+    {
+      "id": "mobgum2j",
+      "creature": "stock/cave-spider",
+      "at": [
+        18176.1,
+        45.3,
+        15685.9
+      ],
+      "yaw": 108,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spespidr"
+    },
+    {
+      "id": "mob5vzfs",
+      "creature": "stock/cave-spider",
+      "at": [
+        18384,
+        60,
+        15592.6
+      ],
+      "yaw": 333,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spespidr"
+    },
+    {
+      "id": "mob0l7o5",
+      "creature": "stock/zombie",
+      "at": [
+        19854,
+        73.2,
+        14214.3
+      ],
+      "yaw": 220,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprivbar"
+    },
+    {
+      "id": "mobuifbx",
+      "creature": "stock/zombie",
+      "at": [
+        19887.3,
+        62.4,
+        13984.9
+      ],
+      "yaw": 61,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprivbar"
+    },
+    {
+      "id": "mobuirsb",
+      "creature": "stock/zombie",
+      "at": [
+        19938.3,
+        78.1,
+        14064.4
+      ],
+      "yaw": 164,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprivbar"
+    },
+    {
+      "id": "mob4x42o",
+      "creature": "stock/zombie",
+      "at": [
+        19846.6,
+        83,
+        14115.4
+      ],
+      "yaw": 314,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprivbar"
+    },
+    {
+      "id": "mob8p49z",
+      "creature": "stock/zombie",
+      "at": [
+        20004.6,
+        67.5,
+        14115.2
+      ],
+      "yaw": 44,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprivbar"
+    },
+    {
+      "id": "mobirnfo",
+      "creature": "stock/zombie",
+      "at": [
+        19971.8,
+        73.5,
+        14073.6
+      ],
+      "yaw": 227,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprivbar"
+    },
+    {
+      "id": "mob4vfj5",
+      "creature": "stock/zombie",
+      "at": [
+        19751.5,
+        75,
+        14105.1
+      ],
+      "yaw": 203,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprivbar"
+    },
+    {
+      "id": "mobrqxve",
+      "creature": "stock/zombie",
+      "at": [
+        19773,
+        70,
+        14238.5
+      ],
+      "yaw": 335,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprivbar"
+    },
+    {
+      "id": "mob3e6ee",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        19857.8,
+        79.3,
+        14056.6
+      ],
+      "yaw": 334,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprivbar"
+    },
+    {
+      "id": "mobo2ii3",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        20002.1,
+        53.2,
+        13963.8
+      ],
+      "yaw": 64,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprivbar"
+    },
+    {
+      "id": "mob8c3hw",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        19778.3,
+        65.9,
+        13983
+      ],
+      "yaw": 315,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprivbar"
+    },
+    {
+      "id": "mobos0jh",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        19852.6,
+        62,
+        13973.3
+      ],
+      "yaw": 140,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprivbar"
+    },
+    {
+      "id": "mob99a58",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        20007.2,
+        64.5,
+        14176.7
+      ],
+      "yaw": 173,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprivbar"
+    },
+    {
+      "id": "mob6lem0",
+      "creature": "stock/skeleton-mage",
+      "at": [
+        19777.1,
+        71.7,
+        14212.4
+      ],
+      "yaw": 182,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprivbar"
+    },
+    {
+      "id": "mobleo6r",
+      "creature": "stock/skeleton-mage",
+      "at": [
+        19750.6,
+        71.8,
+        14154.3
+      ],
+      "yaw": 128,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sprivbar"
+    },
+    {
+      "id": "mobmjzt6",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        18386.2,
+        117.2,
+        15061.5
+      ],
+      "yaw": 348,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mob0ah3s",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        18350,
+        228.1,
+        15324.1
+      ],
+      "yaw": 182,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mobya42x",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        18070.9,
+        134.5,
+        15113.8
+      ],
+      "yaw": 105,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mobkvnrz",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        18162.1,
+        192.3,
+        15391.4
+      ],
+      "yaw": 48,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mobfblq1",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        18446.5,
+        132.7,
+        15136.5
+      ],
+      "yaw": 89,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mobed3gs",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        18214.9,
+        197.9,
+        15175.3
+      ],
+      "yaw": 343,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mobk2an5",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        18082,
+        96.4,
+        15000.6
+      ],
+      "yaw": 57,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mob7te6i",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        18360.4,
+        121.3,
+        15050.9
+      ],
+      "yaw": 230,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mob2uhcx",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        18050.5,
+        93,
+        15004.6
+      ],
+      "yaw": 230,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "moby5tvh",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        18152.5,
+        217.1,
+        15309.6
+      ],
+      "yaw": 82,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mobdz1w4",
+      "creature": "stock/skeleton-mage",
+      "at": [
+        18204.2,
+        114.8,
+        15033.5
+      ],
+      "yaw": 178,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mob5qide",
+      "creature": "stock/skeleton-mage",
+      "at": [
+        18302.6,
+        135.4,
+        15073.8
+      ],
+      "yaw": 227,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mob50pvv",
+      "creature": "stock/skeleton-mage",
+      "at": [
+        18118.7,
+        83.1,
+        15537.5
+      ],
+      "yaw": 155,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mobkhfwz",
+      "creature": "stock/skeleton-mage",
+      "at": [
+        18157.2,
+        156.5,
+        15460.1
+      ],
+      "yaw": 173,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mobfzdxz",
+      "creature": "stock/skeleton-mage",
+      "at": [
+        18307.9,
+        212.8,
+        15237.8
+      ],
+      "yaw": 72,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mobvvfld",
+      "creature": "stock/zombie",
+      "at": [
+        17963.2,
+        122,
+        15152.9
+      ],
+      "yaw": 304,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mob6qsw1",
+      "creature": "stock/zombie",
+      "at": [
+        17969.3,
+        130.5,
+        15282.9
+      ],
+      "yaw": 64,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mobn4djp",
+      "creature": "stock/zombie",
+      "at": [
+        18101,
+        94,
+        15514.1
+      ],
+      "yaw": 96,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mobz16pa",
+      "creature": "stock/zombie",
+      "at": [
+        18115.9,
+        209.7,
+        15245
+      ],
+      "yaw": 130,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mobptxst",
+      "creature": "stock/zombie",
+      "at": [
+        18352.4,
+        116.8,
+        15013.1
+      ],
+      "yaw": 132,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "mobos0c0",
+      "creature": "stock/zombie",
+      "at": [
+        18206.5,
+        220.5,
+        15286.8
+      ],
+      "yaw": 132,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptowrhl"
     }
   ]
 }

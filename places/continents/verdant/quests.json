@@ -1893,6 +1893,430 @@
         }
       ],
       "requiredLevel": 6
+    },
+    {
+      "id": "bdordr01",
+      "name": "Signed Orders",
+      "level": 7,
+      "zone": "brackenv",
+      "giver": "whwidow0",
+      "text": {
+        "offer": "There was a letter in the seed. Orders, signed. They mention Riverwatch. Take it to the captain there, east of Lakeford over the river. Bandits don't sign things. Somebody's leading them.",
+        "summary": "Take the bandits' signed orders to Captain Ravel at Riverwatch.",
+        "done": "Signed. 'D.M.' And a note of our patrol times. Someone's been watching us."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "bdorder1",
+          "count": 1,
+          "text": "Signed Orders"
+        }
+      ],
+      "requiredLevel": 6,
+      "given": [
+        {
+          "item": "bdorder1",
+          "count": 1
+        }
+      ],
+      "after": [
+        "bdseed01"
+      ],
+      "turnIn": "rwcaptn0"
+    },
+    {
+      "id": "bdroad01",
+      "name": "The Riverwatch Road",
+      "level": 8,
+      "zone": "brackenv",
+      "giver": "rwranger",
+      "text": {
+        "offer": "Bandits on the road south-west of here, in the autumn wood. They hit a cart yesterday. In daylight. Insulting. Clear twelve off the road and I'll stop being insulted.",
+        "summary": "Kill 12 bandits on the Riverwatch road in the autumn wood.",
+        "waiting": "Still insulted.",
+        "done": "Better. Much better. Now, where do they sleep?"
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "stock/bandit-raider",
+          "count": 12,
+          "area": "arwroad0",
+          "text": "Bandit raiders killed",
+          "mapAreas": [
+            "arwroad0"
+          ]
+        }
+      ],
+      "requiredLevel": 7,
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/hide-leggings"
+          },
+          {
+            "item": "stock/ringmail-vest"
+          },
+          {
+            "item": "stock/linen-robe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bdldgr01",
+      "name": "The Ledger",
+      "level": 8,
+      "zone": "brackenv",
+      "giver": "rwranger",
+      "text": {
+        "offer": "Their camp's deeper in, south-east, on the rise. Someone in that camp keeps accounts. Bandits who sign orders keep ledgers. Find it.",
+        "summary": "Search the autumn wood bandit camp for their ledger.",
+        "waiting": "Found it?",
+        "done": "Payments to 'the chief'. And a drop point. West of here, between the woods and the Saltwick road. That's where he hides."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "use": "objndk1h",
+          "text": "Ledger found",
+          "time": 4,
+          "mapAreas": [
+            "abdcamp0"
+          ]
+        }
+      ],
+      "requiredLevel": 7,
+      "after": [
+        "bdroad01"
+      ]
+    },
+    {
+      "id": "bdchif01",
+      "name": "The Chief",
+      "level": 10,
+      "zone": "brackenv",
+      "giver": "rwcaptn0",
+      "text": {
+        "offer": "Dace Merrin. 'D.M.' The ledger names him. He hides west of the autumn wood, in a barn off the Saltwick road. End this. Then tell the farms in the west they can sleep.",
+        "summary": "Kill Dace Merrin, the bandit chief, at his hideout west of the autumn wood.",
+        "waiting": "Is it done?",
+        "done": "Then the road's ours again. Thank you. And tell the Westhill widow. She'll pretend not to care."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "bdchief1",
+          "text": "Dace Merrin slain",
+          "mapAreas": [
+            "abdhide0"
+          ]
+        }
+      ],
+      "requiredLevel": 8,
+      "after": [
+        "bdldgr01"
+      ],
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/iron-greatsword"
+          },
+          {
+            "item": "stock/woodsmans-axe"
+          },
+          {
+            "item": "stock/iron-maul"
+          },
+          {
+            "item": "stock/ash-spear"
+          },
+          {
+            "item": "stock/hunting-bow"
+          },
+          {
+            "item": "stock/ash-staff"
+          }
+        ]
+      }
+    },
+    {
+      "id": "udlite01",
+      "name": "Lights in the Hills",
+      "level": 7,
+      "zone": "brackenv",
+      "giver": "lkpriest",
+      "text": {
+        "offer": "The earth pulls north-east, toward the hills past the river. Captain Ravel at Riverwatch watches that country. Ask him whether he has seen anything. Lights, perhaps. Things that walk at night.",
+        "summary": "Ask Captain Ravel at Riverwatch about the hills north-west of the fort.",
+        "done": "Lights? Every night. Round the broken tower. Ranger Marsh can tell you more."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "talk": "rwcaptn0"
+        }
+      ],
+      "requiredLevel": 6,
+      "after": [
+        "udsoil01"
+      ],
+      "turnIn": "rwcaptn0"
+    },
+    {
+      "id": "udrivr01",
+      "name": "The River Barrow",
+      "level": 8,
+      "zone": "brackenv",
+      "giver": "rwranger",
+      "text": {
+        "offer": "River barrow's north of here, up the river. Dead coming out of it for weeks. Some of them wear charms. New ones. Bring me one and let's see who made it.",
+        "summary": "Bring a Ritual Charm from the dead at the river barrow north of Riverwatch.",
+        "waiting": "Charm?",
+        "done": "New wire, old bone. Someone made this last month. It points at the broken tower. Of course it does."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "ritchrm1",
+          "count": 1,
+          "text": "Ritual Charm",
+          "drops": [
+            {
+              "creature": "stock/zombie",
+              "area": "arivbar0",
+              "chance": 0.35
+            },
+            {
+              "creature": "stock/skeleton-warrior",
+              "area": "arivbar0",
+              "chance": 0.35
+            },
+            {
+              "creature": "stock/skeleton-mage",
+              "area": "arivbar0",
+              "chance": 0.35
+            }
+          ],
+          "mapAreas": [
+            "arivbar0"
+          ]
+        }
+      ],
+      "requiredLevel": 7,
+      "after": [
+        "udlite01"
+      ],
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/ringmail-boots"
+          },
+          {
+            "item": "stock/hide-belt"
+          },
+          {
+            "item": "stock/patched-cloak"
+          }
+        ]
+      }
+    },
+    {
+      "id": "udcirc01",
+      "name": "Break the Circle",
+      "level": 9,
+      "zone": "brackenv",
+      "giver": "rwcaptn0",
+      "text": {
+        "offer": "Marsh says there are stones in the hills round the tower, with fires by them. A circle. Break it. Topple the stones. Five of them. Whatever he's doing up there, he can't do it without them.",
+        "summary": "Topple 5 ritual stones on the hills round the broken tower.",
+        "waiting": "The stones?",
+        "done": "Lights are fainter tonight. Good. Now he'll know we're coming."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "use": "kind:built:b1v52vzp",
+          "count": 5,
+          "area": "atowrhl0",
+          "text": "Ritual stones toppled",
+          "time": 4,
+          "mapAreas": [
+            "atowrhl0"
+          ]
+        }
+      ],
+      "requiredLevel": 8,
+      "objectsReturn": 120,
+      "after": [
+        "udrivr01"
+      ]
+    },
+    {
+      "id": "udnecr01",
+      "name": "The Necromancer",
+      "level": 10,
+      "zone": "brackenv",
+      "giver": "rwcaptn0",
+      "text": {
+        "offer": "He's in the tower. Go up there and end it. And bring back whatever he's written. Men like that always write it down.",
+        "summary": "Kill the necromancer in the broken tower and bring back his journal.",
+        "waiting": "Is he dead?",
+        "done": "Dead. Good. That journal, though. That's Father Wren's to read, not mine."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "necroman",
+          "text": "Severin Crale slain",
+          "mapAreas": [
+            "atower00"
+          ]
+        },
+        {
+          "id": "b",
+          "bring": "necjrnl1",
+          "count": 1,
+          "text": "Crale's Journal",
+          "drops": [
+            {
+              "creature": "necroman",
+              "chance": 1
+            }
+          ]
+        }
+      ],
+      "requiredLevel": 8,
+      "after": [
+        "udcirc01"
+      ],
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/iron-greatsword"
+          },
+          {
+            "item": "stock/iron-mace"
+          },
+          {
+            "item": "stock/iron-dagger"
+          },
+          {
+            "item": "stock/ash-staff"
+          },
+          {
+            "item": "stock/birch-wand"
+          },
+          {
+            "item": "stock/iron-shortsword"
+          }
+        ]
+      }
+    },
+    {
+      "id": "udjrnl01",
+      "name": "His Journal",
+      "level": 10,
+      "zone": "brackenv",
+      "giver": "rwcaptn0",
+      "text": {
+        "offer": "Take it to Lakeford. To the priest. He'll want it more than he'll want to read it.",
+        "summary": "Take Crale's Journal to Father Wren in Lakeford.",
+        "done": "'The Eye beneath Thornwood.' ... There are more of them. Not here. In Thornwood, beyond the hills. This isn't over, my friend. This was one of them."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "necjrnl1",
+          "count": 1,
+          "text": "Crale's Journal"
+        }
+      ],
+      "requiredLevel": 8,
+      "given": [
+        {
+          "item": "necjrnl1",
+          "count": 1
+        }
+      ],
+      "after": [
+        "udnecr01"
+      ],
+      "turnIn": "lkpriest"
+    },
+    {
+      "id": "udsalt01",
+      "name": "Blessed Salt",
+      "level": 7,
+      "zone": "brackenv",
+      "giver": "lkpriest",
+      "text": {
+        "offer": "Riverwatch's dead are buried outside their wall, and Captain Ravel asked me for salt to bless their graves. Will you take it? East, along the road, over the river.",
+        "summary": "Take the Blessed Salt to Captain Ravel at Riverwatch.",
+        "done": "Wren's salt. Good. My lads will sleep better. So will the ones outside the wall."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "blssalt1",
+          "count": 1,
+          "text": "Blessed Salt"
+        }
+      ],
+      "requiredLevel": 6,
+      "given": [
+        {
+          "item": "blssalt1",
+          "count": 1
+        }
+      ],
+      "turnIn": "rwcaptn0"
+    },
+    {
+      "id": "rwsilk01",
+      "name": "Silk for the Strings",
+      "level": 9,
+      "zone": "brackenv",
+      "giver": "rwfletch",
+      "text": {
+        "offer": "Spiders in the east wood. North-west of here, past the road. Big ones. Their silk makes bowstrings that hold in the rain. Six bundles? Please?",
+        "summary": "Bring 6 Spider Silk from the cave spiders in the east wood.",
+        "waiting": "Any silk?",
+        "done": "Oh, that's lovely. Look how it shines. Thank you. Thank you!"
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "spdslk01",
+          "count": 6,
+          "text": "Spider Silk",
+          "drops": [
+            {
+              "creature": "stock/cave-spider",
+              "area": "aespidr0",
+              "chance": 0.6
+            }
+          ],
+          "mapAreas": [
+            "aespidr0"
+          ]
+        }
+      ],
+      "requiredLevel": 7,
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/hunting-bow"
+          },
+          {
+            "item": "stock/light-crossbow"
+          },
+          {
+            "item": "stock/old-blunderbuss"
+          }
+        ]
+      }
     }
   ]
 }

@@ -1,0 +1,62 @@
+{
+  "id": "soldier0",
+  "name": "Riverwatch Soldier",
+  "creatureType": "humanoid",
+  "reaction": "friendly",
+  "levels": [
+    12,
+    14
+  ],
+  "says": [
+    "Eyes on the far bank.",
+    "Bandits on the road again.",
+    "Captain's in a mood."
+  ],
+  "look": {
+    "body": "humanoid",
+    "height": [
+      5.7,
+      6.3
+    ],
+    "build": [
+      0.5,
+      0.9
+    ],
+    "hair": [
+      "short",
+      "bald",
+      "ponytail"
+    ],
+    "beard": [
+      "none",
+      "full",
+      "goatee"
+    ],
+    "colors": {
+      "primary": [
+        "#6b2e2e"
+      ],
+      "secondary": [
+        "#4a4038"
+      ]
+    },
+    "armor": {
+      "chest": {
+        "type": "chain",
+        "style": "plain"
+      },
+      "legs": {
+        "type": "chain",
+        "style": "plain"
+      },
+      "head": {
+        "type": "plate",
+        "style": "plain"
+      },
+      "feet": {
+        "type": "leather",
+        "style": "plain"
+      }
+    }
+  }
+}

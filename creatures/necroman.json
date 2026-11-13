@@ -1,0 +1,82 @@
+{
+  "id": "necroman",
+  "name": "Severin Crale",
+  "title": "Necromancer",
+  "family": "cultists",
+  "creatureType": "humanoid",
+  "classification": "elite",
+  "look": {
+    "body": "humanoid",
+    "build": [
+      0.2,
+      0.4
+    ],
+    "hair": [
+      "long",
+      "bald"
+    ],
+    "beard": [
+      "goatee",
+      "none"
+    ],
+    "mouth": [
+      "thin"
+    ],
+    "colors": {
+      "primary": [
+        "#2a2030"
+      ],
+      "secondary": [
+        "#5a1a2a"
+      ]
+    },
+    "loadouts": [
+      {
+        "weapon": "staff",
+        "weaponStyle": "fine",
+        "armor": {
+          "chest": {
+            "type": "cloth",
+            "style": "fine"
+          },
+          "legs": {
+            "type": "cloth",
+            "style": "fine"
+          },
+          "head": {
+            "type": "cloth",
+            "style": "fine"
+          }
+        }
+      }
+    ]
+  },
+  "reaction": "hostile",
+  "levels": [
+    10,
+    11
+  ],
+  "attack": {
+    "speed": 2.5,
+    "range": 90,
+    "school": "shadow"
+  },
+  "abilities": [
+    "ranged/shadowBolt",
+    "undead/drain"
+  ],
+  "tactics": {
+    "type": "priority",
+    "abilities": [
+      "undead/drain",
+      "ranged/shadowBolt"
+    ]
+  },
+  "tags": [
+    "caster"
+  ],
+  "health": 0.9,
+  "armor": 0.85,
+  "damage": 0.8,
+  "notes": "Lives in: the broken tower in the hills north-west of Riverwatch, raising the vale's dead with his rituals. A member of a cult in Thornwood."
+}
