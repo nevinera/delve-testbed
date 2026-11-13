@@ -1823,7 +1823,7 @@
       "giver": "swharbor",
       "text": {
         "offer": "Kett says there's one who calls them. Far west on the shore, past the ruins, a few huts on the sand. Kill him, and they've no reason to come back. Kill him, and I'll stop counting every morning.",
-        "summary": "Kill Murk-Eye the Tidecaller at his huts on the shore far west of Saltwick.",
+        "summary": "Kill Siltunn the Moist at his huts on the shore far west of Saltwick.",
         "waiting": "Is he dead?",
         "done": "Then it's done. Forty-one people. I counted this morning. I'll count tomorrow too, but I'll sleep first."
       },
@@ -1831,7 +1831,7 @@
         {
           "id": "a",
           "kill": "tidecllr",
-          "text": "Murk-Eye the Tidecaller slain",
+          "text": "Siltunn the Moist slain",
           "mapAreas": [
             "atidec00"
           ]
