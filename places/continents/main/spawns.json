@@ -67,7 +67,10 @@
           "stock/spanner",
           "stock/copper-bar",
           "stock/shale",
-          "stock/agate"
+          "stock/agate",
+          "stock/fishing-pole",
+          "fishing/painted-spoon",
+          "stock/mild-spices"
         ]
       }
     },
@@ -1183,6 +1186,42 @@
       "title": "Engineering Trainer",
       "trains": {
         "profession": "engineering",
+        "upTo": "Journeyman"
+      }
+    },
+    {
+      "id": "fish0001",
+      "npc": "villager",
+      "name": "Angler Rook",
+      "levels": 10,
+      "at": [
+        -145,
+        50,
+        -19
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Fishing Trainer",
+      "trains": {
+        "profession": "fishing",
+        "upTo": "Journeyman"
+      }
+    },
+    {
+      "id": "cook0001",
+      "npc": "villager",
+      "name": "Cook Hennet",
+      "levels": 10,
+      "at": [
+        -157,
+        50,
+        -19
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Cooking Trainer",
+      "trains": {
+        "profession": "cooking",
         "upTo": "Journeyman"
       }
     }

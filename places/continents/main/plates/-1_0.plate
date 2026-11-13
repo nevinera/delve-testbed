@@ -28,9 +28,16 @@ h z KLUv/WBIEJUAAEBJREkKIEFBZgIA/nCEHlACXA
 b BAA//A
 s s1 -2 0
 tile 7
-h z KLUv/WBIEJUAAEBJREkKIEFBZgIA/nCEHlACXA
+h z KLUv/WBIEO0EALIEDRCwqQN4m91py71vAXMpFk1j5+RVpTHoFrP7k4hX7TGzOtPYmWtn9+f95yO217EXFwGkQQI2qOC01DQHkOyipA2xnSLi/yT+daeghQ7CT3QFvE14OZWHsvyQxP9T4+4SfUfCGbL/72Zftf9EAOkikI9rsvD4VOJKyDbynCDossaQs2OnVQLZsAw94gvmXdn4ZwCVaFF//HNOXAY
 b BAA//A
 s s1 -1 0
+w AK 2 C~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IDA~~~~~~~~~~~~~~~~~~~~~IDA~~~~~~~~~~~~~~~~~~IDAIDA~~~~~~~~~~~~~~~~~~IDAIDA
+w AL 2 C~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDAIDA
+w AM 2 C~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IDAIDA~~~~~~~~~~~~~~~~~~IDAIDAIDA~~~~~~~~~~~~~~~IDAIDAIDA~~~~~~~~~~~~~~~IDAIDAIDAIDA~~~~~~~~~~~~IDAIDAIDAIDA~~~~~~~~~~~~
+w AS 2 C~~~~~~~~~~~~~~~~~~IDAIDA~~~~~~~~~~~~~~~IDAIDAIDA~~~~~~~~~~~~~~~~~~IDAIDA~~~~~~~~~~~~~~~~~~IDAIDA~~~~~~~~~~~~~~~~~~IDAIDA~~~~~~~~~~~~~~~~~~~~~IDA~~~~~~~~~~~~~~~~~~~~~IDA~~~~~~~~~~~~~~~~~~~~~~~~
+w AT 1 CIDA
+w AU 2 CIDAIDAIDAIDA~~~~~~~~~~~~IDAIDAIDAIDAIDA~~~~~~~~~IDAIDAIDAIDA~~~~~~~~~~~~IDAIDAIDAIDA~~~~~~~~~~~~IDAIDAIDAIDA~~~~~~~~~~~~IDAIDAIDA~~~~~~~~~~~~~~~IDAIDAIDA~~~~~~~~~~~~~~~IDAIDA~~~~~~~~~~~~~~~~~~
+w Ab 2 C~~~~~~IDAIDAIDAIDAIDAIDA~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 tile 8
 h z KLUv/WBIEJUAAEBJREkKIEFBZgIA/nCEHlACXA
 b BAA//A

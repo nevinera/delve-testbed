@@ -31,6 +31,8 @@
     "skinning": "stock",
     "leatherworking": "stock",
     "enchanting": "stock",
-    "engineering": "stock"
+    "engineering": "stock",
+    "fishing": "stock",
+    "cooking": "stock"
   }
 }
