@@ -170,7 +170,6 @@
       "voice": "Long, unhurried sentences. Teases gently. Never raises his voice.",
       "questRelevance": "Greets the new-wakened; gives the level 5 send-offs to Ashby farm and Lakeford.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "The abbot"
     },
     "abbwardn": {
@@ -183,7 +182,6 @@
       "voice": "Short orders. Sports and soldiering words. Calls you 'sleeper'.",
       "questRelevance": "Oozes, hornets, kobold runts, the runts' leader.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "The warden"
     },
     "abbherbl": {
@@ -196,7 +194,6 @@
       "voice": "Chatters. Drifts into recipes mid-sentence. Fond of 'dear'.",
       "questRelevance": "Waking herbs, ooze vials.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "The herbalist"
     },
     "abblampl": {
@@ -209,7 +206,6 @@
       "voice": "Speaks in images. Pauses. Talks of the Dream as if it is near.",
       "questRelevance": "The falls lanterns, the dead kobold, the first dream.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "The lamplighter"
     },
     "abbquart": {
@@ -222,7 +218,6 @@
       "voice": "Counts things. Complains, but is fair. Never says thanks outright.",
       "questRelevance": "The stolen supplies.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "The quartermaster"
     },
     "abbvalek": {
@@ -235,7 +230,6 @@
       "voice": "Rushed, trailing off. Apologises too much.",
       "questRelevance": "The burial ring.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "The keeper back from the vale"
     },
     "ashfarmr": {
@@ -248,7 +242,6 @@
       "voice": "Talks about work and weather. Short on patience, long on lists.",
       "questRelevance": "Stolen stores, what drove the kobolds out, the breadcrumb to Westhill; takes in the Lakeford ale order and the glen breadcrumb.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "family": "The widow of Westhill's brother. Estranged since their parents' land was split.",
       "role": "Farmer Ashby"
     },
@@ -262,7 +255,6 @@
       "voice": "Dry, old sayings, blunt about death. Calls everyone 'child'.",
       "questRelevance": "The old barrow (talk), the barrow lord, consecrating it: she knows the old rites.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "Gran Ashby"
     },
     "asheldst": {
@@ -275,7 +267,6 @@
       "voice": "Quick and boastful. Turns everything into a contest.",
       "questRelevance": "The field rats; the risen dead near the Ashby barrow (the dead chain's way in).",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "The eldest Ashby"
     },
     "whwidow0": {
@@ -289,7 +280,6 @@
       "questRelevance": "Fences down, seed for spring, the signed orders.",
       "family": "Farmer Ashby's sister, so Gran Ashby's daughter. Not speaking to her brother since their parents' land was split.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "The widow of Westhill"
     },
     "whhand00": {
@@ -302,7 +292,6 @@
       "voice": "Slow and plain. Old soldiering habits. Says little about the war.",
       "questRelevance": "Mending the fences.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "Westhill's hired hand"
     },
     "whyoung0": {
@@ -315,7 +304,6 @@
       "voice": "Questions tumble out. Worries about the animals.",
       "questRelevance": "The windfall apples.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "The widow's youngest"
     },
     "lkpriest": {
@@ -328,7 +316,6 @@
       "voice": "Careful, exact words. Quotes old texts. Won't be hurried.",
       "questRelevance": "Dead chain steps 1, 2 and 7; the blessed salt; takes in the glen's burial ring.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "Lakeford's priest"
     },
     "lksergnt": {
@@ -341,7 +328,6 @@
       "voice": "Clipped. Speaks in reports. Too few men, and says so.",
       "questRelevance": "The dead chain's way in (bones); the frogmen scouts at the lake.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "The watch sergeant"
     },
     "lkinnkpr": {
@@ -354,7 +340,6 @@
       "voice": "Big laugh. Knows everyone's business, and trades it.",
       "questRelevance": "The ale order, the venison.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "The innkeeper"
     },
     "lkfisher": {
@@ -367,7 +352,6 @@
       "voice": "Few words, lake sayings.",
       "questRelevance": "The fish weir.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "A Lakeford fisher"
     },
     "lkhunter": {
@@ -380,7 +364,6 @@
       "voice": "Tall tales. Bets on everything.",
       "questRelevance": "The bear claws wager.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "A Lakeford hunter"
     },
     "lkmessgr": {
@@ -393,7 +376,6 @@
       "voice": "Out of breath, pleading.",
       "questRelevance": "Frogmen chain step 1, sending you to Saltwick.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "The Saltwick messenger"
     },
     "lkscout0": {
@@ -406,7 +388,6 @@
       "voice": "Lazy drawl. Misses the mountains.",
       "questRelevance": "The breadcrumb to Greyspur Gate.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "A gate scout on leave"
     },
     "swharbor": {
@@ -419,7 +400,6 @@
       "voice": "Even and controlled. Counts boats and days. Never admits fear.",
       "questRelevance": "Frogmen chain: the silent village, the siege line, the tidecaller. Leads the village.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "Saltwick's harbourmaster"
     },
     "swsister": {
@@ -432,7 +412,6 @@
       "voice": "Asks after names. Breaks off when she guesses the answer.",
       "questRelevance": "The keepsakes.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "A woman whose sister lived in the ruined village"
     },
     "swharpnr": {
@@ -445,7 +424,6 @@
       "voice": "Sea curses, dark jokes. Calls the frogmen 'the wet ones'.",
       "questRelevance": "Who leads them (the totems).",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "The harpooner"
     },
     "swcook00": {
@@ -458,7 +436,6 @@
       "voice": "Feeds everyone. Scolds and fusses in the same breath.",
       "questRelevance": "The crab meat.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "Saltwick's cook"
     },
     "rwcaptn0": {
@@ -471,7 +448,6 @@
       "voice": "Measured. Duty words. Watches the far bank while he talks.",
       "questRelevance": "Takes in the dead chain's lights, the bandits' signed orders and the blessed salt; gives breaking the circle and the bandit chief.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "Riverwatch's captain"
     },
     "rwranger": {
@@ -484,7 +460,6 @@
       "voice": "Dry asides. Knows every track. Mocks the bandits' fieldcraft.",
       "questRelevance": "The river barrow, the Riverwatch road, the ledger.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "A Riverwatch ranger"
     },
     "rwfletch": {
@@ -497,7 +472,6 @@
       "voice": "Quiet. Lights up only about arrows.",
       "questRelevance": "The spider silk.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "Riverwatch's fletcher"
     },
     "pgwarden": {
@@ -510,7 +484,6 @@
       "voice": "One-line answers. Eyes on the pass. Speaks of Greyspur with respect.",
       "questRelevance": "The trogs, the signal beacon; takes in the gate scout's breadcrumb. Points on to Greyspur in dialogue.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "The gate warden"
     },
     "pgsmith0": {
@@ -523,7 +496,6 @@
       "voice": "Loud. Judges every blade you carry. Wants to know what is up the mountain.",
       "questRelevance": "The ore samples. Points on to Greyspur in dialogue.",
       "zone": "brackenv",
-      "note": "Planned; rekey to the placed NPC's id once placed.",
       "role": "Greyspur Gate's smith"
     }
   },
@@ -599,7 +571,17 @@
       "name": "The rising dead",
       "zone": "brackenv",
       "summary": "The main chain. Starts from two tributary quests, one at Ashby farm and one at Lakeford; the chain needs either. Both name the chain's first quest as their next, so finishing either opens it. Runs through the barrows to the broken tower and the rogue necromancer, and ends on the hint that he belongs to an underground cult in Thornwood.",
-      "quests": [],
+      "quests": [
+        "udashb01",
+        "udbone01",
+        "udopen01",
+        "udsoil01",
+        "udlite01",
+        "udrivr01",
+        "udcirc01",
+        "udnecr01",
+        "udjrnl01"
+      ],
       "steps": [
         "Way in a, Ashby farm (kill): kill risen dead wandering near the Ashby barrow.",
         "Way in b, Lakeford (bring): the town watch wants bones from risen dead seen at the town's edge.",
@@ -616,7 +598,14 @@
       "name": "The frogmen",
       "zone": "brackenv",
       "summary": "Starts with Saltwick needing help. You are sent to the ruined village, told what happened there, maybe as a rescue, but there are no survivors. Then it turns to saving Saltwick from the frogmen.",
-      "quests": [],
+      "quests": [
+        "frsalt01",
+        "frvill01",
+        "frkeep01",
+        "frsieg01",
+        "frtotm01",
+        "frtide01"
+      ],
       "steps": [
         "1. Saltwick needs help (talk): a messenger in Lakeford sends you to Saltwick.",
         "2. The silent village (reach): the village down the shore went quiet; go look for survivors. There are none, only the wreckage.",
@@ -630,7 +619,16 @@
       "name": "The bandit gang",
       "zone": "brackenv",
       "summary": "The bandits are introduced in the training glen: they have stolen supplies from Wakewell Abbey, and you get them back. The chain proper starts at Westhill farmstead, by the western hills; another quest leads you there, but it is not required. Ends at the chief's hideout.",
-      "quests": [],
+      "quests": [
+        "glsupl01",
+        "bdwest01",
+        "bdfenc01",
+        "bdseed01",
+        "bdordr01",
+        "bdroad01",
+        "bdldgr01",
+        "bdchif01"
+      ],
       "steps": [
         "Wakewell Abbey (bring): get back the supplies the glen thieves stole.",
         "Breadcrumb, optional (talk): Ashby farm sends you to Westhill farmstead.",
@@ -647,7 +645,13 @@
       "name": "The kobold mine",
       "zone": "brackenv",
       "summary": "The earliest chain. Given at Ashby farm; its first quest needs level 5. Wakewell Abbey sends you to Ashby farm for it before you head on to Lakeford. The kobolds' mine broke into a barrow, and they are fighting its dead.",
-      "quests": [],
+      "quests": [
+        "kbstor01",
+        "kbdeep01",
+        "kbbarw01",
+        "kblord01",
+        "kbcons01"
+      ],
       "steps": [
         "1. Stolen stores (bring): kobolds driven out of the mine raid the Ashbys' stores; get back sacks of grain from the kobolds at the mine mouth.",
         "2. What drove them out (reach): go into the mine and reach the deep tunnel, where kobolds fight skeletons.",

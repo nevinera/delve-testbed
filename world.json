@@ -34,5 +34,153 @@
     "engineering": "stock",
     "fishing": "stock",
     "cooking": "stock"
-  }
+  },
+  "restPoints": [
+    {
+      "id": "rpabbey0",
+      "continent": "verdant",
+      "name": "Wakewell Abbey",
+      "at": [
+        13150,
+        12995
+      ]
+    },
+    {
+      "id": "rplkinn0",
+      "continent": "verdant",
+      "name": "The Lakeford Inn",
+      "at": [
+        16060,
+        17050
+      ]
+    },
+    {
+      "id": "rpsaltw0",
+      "continent": "verdant",
+      "name": "Saltwick",
+      "at": [
+        17620,
+        20300
+      ]
+    },
+    {
+      "id": "rprivwt0",
+      "continent": "verdant",
+      "name": "Riverwatch",
+      "at": [
+        20250,
+        16385
+      ]
+    },
+    {
+      "id": "rpgate00",
+      "continent": "verdant",
+      "name": "Greyspur Gate",
+      "at": [
+        15770,
+        13330
+      ]
+    },
+    {
+      "id": "rpashby0",
+      "continent": "verdant",
+      "name": "Ashby Farm",
+      "at": [
+        13700,
+        14985
+      ]
+    }
+  ],
+  "graveyards": [
+    {
+      "id": "gyabbey0",
+      "continent": "verdant",
+      "name": "Wakewell Glen",
+      "at": [
+        13020,
+        13200
+      ]
+    },
+    {
+      "id": "gyashby0",
+      "continent": "verdant",
+      "name": "Ashby Fields",
+      "at": [
+        13480,
+        15060
+      ]
+    },
+    {
+      "id": "gylakefd",
+      "continent": "verdant",
+      "name": "Lakeford Churchyard",
+      "at": [
+        15870,
+        16840
+      ]
+    },
+    {
+      "id": "gywesthl",
+      "continent": "verdant",
+      "name": "Westhill",
+      "at": [
+        12300,
+        16740
+      ]
+    },
+    {
+      "id": "gysaltwk",
+      "continent": "verdant",
+      "name": "Saltwick Dunes",
+      "at": [
+        17500,
+        20080
+      ]
+    },
+    {
+      "id": "gyriver0",
+      "continent": "verdant",
+      "name": "Riverwatch Wall",
+      "at": [
+        20140,
+        16190
+      ]
+    },
+    {
+      "id": "gygate00",
+      "continent": "verdant",
+      "name": "Greyspur Gate",
+      "at": [
+        15800,
+        13660
+      ]
+    },
+    {
+      "id": "gyfennck",
+      "continent": "verdant",
+      "name": "Fennick's Shore",
+      "at": [
+        15200,
+        20250
+      ]
+    },
+    {
+      "id": "gyeastwd",
+      "continent": "verdant",
+      "name": "East Wood",
+      "at": [
+        19000,
+        15300
+      ]
+    },
+    {
+      "id": "gysouthw",
+      "continent": "verdant",
+      "name": "South Wood",
+      "at": [
+        14500,
+        18000
+      ]
+    }
+  ]
 }
