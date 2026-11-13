@@ -1,0 +1,41 @@
+{
+  "id": "whyoung0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Are the bandits coming back? Did you see the sheep? Is the brown one all right?",
+      "choices": [
+        {
+          "text": "What did the bandits take?",
+          "next": "t0"
+        },
+        {
+          "text": "The brown sheep is fine.",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Seed, and Ma's good knife, and they kicked the hens. I hid in the barn. I'm not supposed to say I hid.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Oh good. Good. She doesn't like noise.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

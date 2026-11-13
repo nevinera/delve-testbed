@@ -1,0 +1,41 @@
+{
+  "id": "whwidow0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Sit. Eat. Then talk.",
+      "choices": [
+        {
+          "text": "What happened here?",
+          "next": "t0"
+        },
+        {
+          "text": "Your brother sends his regards.",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Bandits. Off the hills, through the gap. Took the seed, broke the fences, scared the boy. They'll be back. So will I.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Does he. ... Eat your bread.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

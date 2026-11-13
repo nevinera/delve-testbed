@@ -912,6 +912,265 @@
       ],
       "requiredLevel": 5,
       "turnIn": "lkpriest"
+    },
+    {
+      "id": "bdfenc01",
+      "name": "Fences Down",
+      "level": 6,
+      "zone": "brackenv",
+      "giver": "whwidow0",
+      "text": {
+        "offer": "They come through the gap in the hills, north-west of here. Every few nights. Go up there and teach them the way back. Eight of their raiders should do it.",
+        "summary": "Kill 8 bandit raiders at the hill gap, north-west of Westhill.",
+        "waiting": "Still coming.",
+        "done": "Quiet last night. First time in a month. Sit. There's stew."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "stock/bandit-raider",
+          "count": 8,
+          "area": "ahillgp0",
+          "text": "Bandit raiders killed",
+          "mapAreas": [
+            "ahillgp0"
+          ]
+        }
+      ],
+      "requiredLevel": 5,
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/hide-leggings"
+          },
+          {
+            "item": "stock/ringmail-vest"
+          },
+          {
+            "item": "stock/linen-robe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bdseed01",
+      "name": "Seed for Spring",
+      "level": 6,
+      "zone": "brackenv",
+      "giver": "whwidow0",
+      "text": {
+        "offer": "They took the seed corn. No seed, no spring. They hold it at their huts in the woods north of here, on the hill. Bring back five sacks.",
+        "summary": "Bring back 5 Sacks of Seed Corn from the bandits north of Westhill.",
+        "waiting": "Five.",
+        "done": "Five. Good. There was a letter in one of these. Read it."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "seedsack",
+          "count": 5,
+          "text": "Sack of Seed Corn",
+          "drops": [
+            {
+              "creature": "stock/bandit-raider",
+              "area": "awbandt0",
+              "chance": 0.5
+            },
+            {
+              "creature": "stock/bandit-thief",
+              "area": "awbandt0",
+              "chance": 0.5
+            },
+            {
+              "creature": "stock/bandit-archer",
+              "area": "awbandt0",
+              "chance": 0.5
+            }
+          ],
+          "mapAreas": [
+            "awbandt0"
+          ]
+        }
+      ],
+      "requiredLevel": 5,
+      "after": [
+        "bdfenc01"
+      ],
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/iron-hatchet"
+          },
+          {
+            "item": "stock/light-crossbow"
+          },
+          {
+            "item": "stock/birch-wand"
+          },
+          {
+            "item": "stock/iron-knuckles"
+          }
+        ]
+      }
+    },
+    {
+      "id": "whfenc01",
+      "name": "Mend the Fences",
+      "level": 6,
+      "zone": "brackenv",
+      "giver": "whhand00",
+      "text": {
+        "offer": "Fence on the north side's down where they came through. Lumber's piled by it. Stand the panels back up. Five will do. I'd do it myself, but somebody has to watch the gap.",
+        "summary": "Mend 5 broken fence panels on Westhill's north side.",
+        "waiting": "Fence is still down.",
+        "done": "Good work. Square, too. You've done this before."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "use": "kind:built:b0iphc2d",
+          "count": 5,
+          "area": "awfence0",
+          "text": "Fence panels mended",
+          "time": 3,
+          "mapAreas": [
+            "awfence0"
+          ]
+        }
+      ],
+      "requiredLevel": 5,
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/hide-boots"
+          },
+          {
+            "item": "stock/linen-gloves"
+          },
+          {
+            "item": "stock/ringmail-belt"
+          }
+        ]
+      }
+    },
+    {
+      "id": "whappl01",
+      "name": "Windfall Apples",
+      "level": 6,
+      "zone": "brackenv",
+      "giver": "whyoung0",
+      "text": {
+        "offer": "I was picking up windfalls in the old trees, west, past the barn. I filled six baskets. Then the bandits came and I ran and left them. Can you get them? Ma will be cross about the baskets.",
+        "summary": "Fetch 6 baskets of windfall apples from the trees west of Westhill.",
+        "waiting": "Did you find them? Were the bandits there?",
+        "done": "All six! Ma, look! ... She's not looking. She's pleased though. That's her pleased face."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "use": "pool:windfall",
+          "count": 6,
+          "text": "Baskets of windfalls fetched",
+          "time": 2,
+          "mapAreas": [
+            "pool:windfall"
+          ]
+        }
+      ],
+      "requiredLevel": 5,
+      "objectPools": [
+        {
+          "id": "windfall",
+          "type": "built:b03x7jrh",
+          "spots": [
+            {
+              "at": [
+                12010,
+                16850
+              ],
+              "yaw": 0.3,
+              "scale": 0.9
+            },
+            {
+              "at": [
+                12045,
+                16890
+              ],
+              "yaw": 1.2,
+              "scale": 0.9
+            },
+            {
+              "at": [
+                12080,
+                16860
+              ],
+              "yaw": 2.1,
+              "scale": 0.9
+            },
+            {
+              "at": [
+                12020,
+                16950
+              ],
+              "yaw": 0.9,
+              "scale": 0.9
+            },
+            {
+              "at": [
+                12070,
+                16990
+              ],
+              "yaw": 2.8,
+              "scale": 0.9
+            },
+            {
+              "at": [
+                12105,
+                16935
+              ],
+              "yaw": 1.7,
+              "scale": 0.9
+            },
+            {
+              "at": [
+                12030,
+                17040
+              ],
+              "yaw": 0.4,
+              "scale": 0.9
+            },
+            {
+              "at": [
+                12095,
+                17060
+              ],
+              "yaw": 2.4,
+              "scale": 0.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bdwest01",
+      "name": "Westhill",
+      "level": 6,
+      "zone": "brackenv",
+      "giver": "ashfarmr",
+      "text": {
+        "offer": "Bandits off the hills hit my sister's place harder than mine. Westhill, under the hills, west down the trail and south. She won't ask me for help. She'll take yours. Don't tell her I sent you. ... Tell her I sent you.",
+        "summary": "Go to Westhill farmstead and speak with Marta Coyle.",
+        "done": "Edric sent you. Hm. Sit. Eat first."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "talk": "whwidow0"
+        }
+      ],
+      "requiredLevel": 5,
+      "breadcrumbFor": "bdfenc01",
+      "turnIn": "whwidow0"
     }
   ]
 }

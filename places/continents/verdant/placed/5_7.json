@@ -288,7 +288,4857 @@
     ]
    },
    "height": 3.6
+  },
+  {
+   "id": "obj0vhfk",
+   "type": "built:b0a5o5t6",
+   "at": [
+    11503,
+    14571
+   ],
+   "y": 24.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     4.4,
+     3
+    ]
+   },
+   "height": 2.92
+  },
+  {
+   "id": "objtrpbw",
+   "type": "built:b0ypqb48",
+   "at": [
+    11503,
+    14573.6
+   ],
+   "y": 24.08,
+   "yaw": 3.14,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     1.5,
+     1.5
+    ]
+   },
+   "height": 3.5
+  },
+  {
+   "id": "objm3psk",
+   "type": "built:b1s7wgg6",
+   "at": [
+    11491.5,
+    14569.5
+   ],
+   "y": 24.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     3.6,
+     6.8
+    ]
+   },
+   "height": 0.8
+  },
+  {
+   "id": "objgwyw6",
+   "type": "built:b1oprcgf",
+   "at": [
+    11491.5,
+    14577.6
+   ],
+   "y": 24.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     3.4,
+     2.3
+    ]
+   },
+   "height": 2.85
+  },
+  {
+   "id": "objdvzv5",
+   "type": "built:b1qrrb3m",
+   "at": [
+    11508.5,
+    14566.6
+   ],
+   "y": 24.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     2.5,
+     1.76
+    ]
+   },
+   "height": 1.6
+  },
+  {
+   "id": "objd4t3r",
+   "type": "built:b1k15tiy",
+   "at": [
+    11505.5,
+    14566.4
+   ],
+   "y": 24.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "open": 1.13
+   },
+   "height": 1.7
+  },
+  {
+   "id": "objj7qgv",
+   "type": "built:b1k15tiy",
+   "at": [
+    11506.6,
+    14567.4
+   ],
+   "y": 24.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "open": 1.13
+   },
+   "height": 1.7
+  },
+  {
+   "id": "obj29ski",
+   "type": "built:bband006",
+   "at": [
+    11509,
+    14577
+   ],
+   "y": 24.08,
+   "yaw": 4.7132,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     5.4,
+     3.01
+    ]
+   },
+   "height": 7
+  },
+  {
+   "id": "objl4e0w",
+   "type": "built:b1lyhd1t",
+   "at": [
+    11500,
+    14573
+   ],
+   "y": 27.48,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "open": 1
+   },
+   "height": 9.6
+  },
+  {
+   "id": "objwj6it",
+   "type": "built:bband005",
+   "at": [
+    11537,
+    14573
+   ],
+   "y": 34.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "open": 3.41
+   },
+   "height": 1.1
+  },
+  {
+   "id": "objj36fv",
+   "type": "built:bvill003",
+   "at": [
+    11533,
+    14568
+   ],
+   "y": 34.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     2.08,
+     2.08
+    ]
+   },
+   "height": 2
+  },
+  {
+   "id": "objo44o4",
+   "type": "built:bfort008",
+   "at": [
+    11542.5,
+    14576
+   ],
+   "y": 44.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     1.66,
+     1.66
+    ]
+   },
+   "height": 4.9
+  },
+  {
+   "id": "obj1jhgj",
+   "type": "built:bfort008",
+   "at": [
+    11543.4,
+    14563.6
+   ],
+   "y": 44.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     1.66,
+     1.66
+    ]
+   },
+   "height": 4.9
+  },
+  {
+   "id": "objkk8m9",
+   "type": "built:b0ux0hq5",
+   "at": [
+    11538,
+    14563
+   ],
+   "y": 44.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     0.5,
+     0.5
+    ]
+   },
+   "height": 7.4
+  },
+  {
+   "id": "objn619k",
+   "type": "built:bband009",
+   "at": [
+    11456,
+    14560
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "obj3mgjq",
+   "type": "built:bband009",
+   "at": [
+    11464,
+    14560
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objx387i",
+   "type": "built:bband009",
+   "at": [
+    11472,
+    14560
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objd1z44",
+   "type": "built:bband009",
+   "at": [
+    11480,
+    14560
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "obj3npk9",
+   "type": "built:bband009",
+   "at": [
+    11488,
+    14560
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objsn84h",
+   "type": "built:bband009",
+   "at": [
+    11496,
+    14560
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objqd3zt",
+   "type": "built:bband009",
+   "at": [
+    11504,
+    14560
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objsy0d3",
+   "type": "built:bband009",
+   "at": [
+    11512,
+    14560
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "obj29lrd",
+   "type": "built:bband009",
+   "at": [
+    11520,
+    14560
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objrx7ud",
+   "type": "built:bband009",
+   "at": [
+    11528,
+    14560
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objv361q",
+   "type": "built:bband009",
+   "at": [
+    11536,
+    14560
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "obj33tc9",
+   "type": "built:bband009",
+   "at": [
+    11544,
+    14560
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objf3ob1",
+   "type": "built:bband009",
+   "at": [
+    11456,
+    14640
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "obj8wfu8",
+   "type": "built:bband009",
+   "at": [
+    11464,
+    14640
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objbc8xj",
+   "type": "built:bband009",
+   "at": [
+    11472,
+    14640
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objd388y",
+   "type": "built:bband009",
+   "at": [
+    11480,
+    14640
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objztc7t",
+   "type": "built:bband009",
+   "at": [
+    11488,
+    14640
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objm62et",
+   "type": "built:bband009",
+   "at": [
+    11512,
+    14640
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objtlba4",
+   "type": "built:bband009",
+   "at": [
+    11520,
+    14640
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objg14ru",
+   "type": "built:bband009",
+   "at": [
+    11528,
+    14640
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objjdamh",
+   "type": "built:bband009",
+   "at": [
+    11536,
+    14640
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objgxn4m",
+   "type": "built:bband009",
+   "at": [
+    11544,
+    14640
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objrop9j",
+   "type": "built:bband009",
+   "at": [
+    11452,
+    14564
+   ],
+   "y": 23.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "obj2y6aq",
+   "type": "built:bband009",
+   "at": [
+    11548,
+    14564
+   ],
+   "y": 23.08,
+   "yaw": 4.7132,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objatpi6",
+   "type": "built:bband009",
+   "at": [
+    11452,
+    14572
+   ],
+   "y": 23.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objxg7ik",
+   "type": "built:bband009",
+   "at": [
+    11548,
+    14572
+   ],
+   "y": 23.08,
+   "yaw": 4.7132,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objspzbh",
+   "type": "built:bband009",
+   "at": [
+    11452,
+    14580
+   ],
+   "y": 23.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objcz6yl",
+   "type": "built:bband009",
+   "at": [
+    11548,
+    14580
+   ],
+   "y": 23.08,
+   "yaw": 4.7132,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "obj69tzu",
+   "type": "built:bband009",
+   "at": [
+    11452,
+    14588
+   ],
+   "y": 23.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objfk81x",
+   "type": "built:bband009",
+   "at": [
+    11548,
+    14588
+   ],
+   "y": 23.08,
+   "yaw": 4.7132,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objonwrv",
+   "type": "built:bband009",
+   "at": [
+    11452,
+    14596
+   ],
+   "y": 23.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objc4w8c",
+   "type": "built:bband009",
+   "at": [
+    11548,
+    14596
+   ],
+   "y": 23.08,
+   "yaw": 4.7132,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objxm6j6",
+   "type": "built:bband009",
+   "at": [
+    11452,
+    14604
+   ],
+   "y": 23.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "obj5elnz",
+   "type": "built:bband009",
+   "at": [
+    11548,
+    14604
+   ],
+   "y": 23.08,
+   "yaw": 4.7132,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objf1vge",
+   "type": "built:bband009",
+   "at": [
+    11452,
+    14612
+   ],
+   "y": 23.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "obj4mfzz",
+   "type": "built:bband009",
+   "at": [
+    11548,
+    14612
+   ],
+   "y": 23.08,
+   "yaw": 4.7132,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objj310t",
+   "type": "built:bband009",
+   "at": [
+    11452,
+    14620
+   ],
+   "y": 23.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objhywmy",
+   "type": "built:bband009",
+   "at": [
+    11548,
+    14620
+   ],
+   "y": 23.08,
+   "yaw": 4.7132,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objzowiz",
+   "type": "built:bband009",
+   "at": [
+    11452,
+    14628
+   ],
+   "y": 23.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objpwegk",
+   "type": "built:bband009",
+   "at": [
+    11548,
+    14628
+   ],
+   "y": 23.08,
+   "yaw": 4.7132,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objyzcs6",
+   "type": "built:bband009",
+   "at": [
+    11452,
+    14636
+   ],
+   "y": 23.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objkd64n",
+   "type": "built:bband009",
+   "at": [
+    11548,
+    14636
+   ],
+   "y": 23.08,
+   "yaw": 4.7132,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.2,
+     1.1
+    ]
+   },
+   "height": 10.6
+  },
+  {
+   "id": "objbuz4r",
+   "type": "built:bband010",
+   "at": [
+    11488,
+    14645
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     4.5,
+     5.5
+    ]
+   },
+   "height": 16
+  },
+  {
+   "id": "objot34c",
+   "type": "built:bband010",
+   "at": [
+    11512,
+    14645
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     4.5,
+     5.5
+    ]
+   },
+   "height": 16
+  },
+  {
+   "id": "objatv8m",
+   "type": "built:bband008",
+   "at": [
+    11486,
+    14654
+   ],
+   "y": 23.08,
+   "yaw": 0.3,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     10,
+     4.88
+    ]
+   },
+   "height": 4.64
+  },
+  {
+   "id": "obj4vcfa",
+   "type": "built:bband008",
+   "at": [
+    11514,
+    14654
+   ],
+   "y": 23.08,
+   "yaw": 5.9832,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     10,
+     4.88
+    ]
+   },
+   "height": 4.64
+  },
+  {
+   "id": "objodgfj",
+   "type": "built:bband011",
+   "at": [
+    11480,
+    14644
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     3.6,
+     0.4
+    ]
+   },
+   "height": 6
+  },
+  {
+   "id": "objc0977",
+   "type": "built:b0ux0hq5",
+   "at": [
+    11491,
+    14636
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     0.5,
+     0.5
+    ]
+   },
+   "height": 7.4
+  },
+  {
+   "id": "obj5sivd",
+   "type": "built:b0ux0hq5",
+   "at": [
+    11509,
+    14636
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     0.5,
+     0.5
+    ]
+   },
+   "height": 7.4
+  },
+  {
+   "id": "obj44qbv",
+   "type": "built:bband001",
+   "at": [
+    11462,
+    14572
+   ],
+   "y": 23.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.6,
+     6.5
+    ]
+   },
+   "height": 5.13
+  },
+  {
+   "id": "objcbgsi",
+   "type": "built:bband001",
+   "at": [
+    11462,
+    14584
+   ],
+   "y": 23.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.6,
+     6.5
+    ]
+   },
+   "height": 5.13
+  },
+  {
+   "id": "objfgjdc",
+   "type": "built:bband001",
+   "at": [
+    11462,
+    14596
+   ],
+   "y": 23.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.6,
+     6.5
+    ]
+   },
+   "height": 5.13
+  },
+  {
+   "id": "objzew43",
+   "type": "built:bband002",
+   "at": [
+    11466,
+    14616
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     16,
+     16
+    ]
+   },
+   "height": 12
+  },
+  {
+   "id": "objfa2j1",
+   "type": "built:b1pkm4im",
+   "at": [
+    11478,
+    14631
+   ],
+   "y": 23.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     6.09,
+     8.2
+    ]
+   },
+   "height": 5.08
+  },
+  {
+   "id": "obj4xcpz",
+   "type": "built:b1pkm4im",
+   "at": [
+    11468,
+    14631
+   ],
+   "y": 23.08,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     6.09,
+     8.2
+    ]
+   },
+   "height": 5.08
+  },
+  {
+   "id": "objbbf55",
+   "type": "built:bband003",
+   "at": [
+    11541,
+    14594
+   ],
+   "y": 23.08,
+   "yaw": 4.7132,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8,
+     6.82
+    ]
+   },
+   "height": 5.58
+  },
+  {
+   "id": "obj5e4km",
+   "type": "built:bband003",
+   "at": [
+    11541,
+    14606
+   ],
+   "y": 23.08,
+   "yaw": 4.7132,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8,
+     6.82
+    ]
+   },
+   "height": 5.58
+  },
+  {
+   "id": "obj1uael",
+   "type": "built:bband005",
+   "at": [
+    11537,
+    14594
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "open": 3.41
+   },
+   "height": 1.1
+  },
+  {
+   "id": "obj64fr0",
+   "type": "built:bband005",
+   "at": [
+    11537,
+    14606
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "open": 3.41
+   },
+   "height": 1.1
+  },
+  {
+   "id": "obj6p03o",
+   "type": "built:bband004",
+   "at": [
+    11500,
+    14604
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "circle": 2.31
+   },
+   "height": 2.4
+  },
+  {
+   "id": "obj1pjxz",
+   "type": "built:b0rxq9cd",
+   "at": [
+    11495,
+    14604
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     5,
+     1.2
+    ]
+   },
+   "height": 1.2
+  },
+  {
+   "id": "objjm6fk",
+   "type": "built:b0rxq9cd",
+   "at": [
+    11505,
+    14604
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     5,
+     1.2
+    ]
+   },
+   "height": 1.2
+  },
+  {
+   "id": "obj0rn03",
+   "type": "built:b0rxq9cd",
+   "at": [
+    11500,
+    14609
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     5,
+     1.2
+    ]
+   },
+   "height": 1.2
+  },
+  {
+   "id": "objrt9bf",
+   "type": "built:b0rxq9cd",
+   "at": [
+    11500,
+    14599
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     5,
+     1.2
+    ]
+   },
+   "height": 1.2
+  },
+  {
+   "id": "objmizci",
+   "type": "built:bband012",
+   "at": [
+    11509,
+    14612
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "circle": 2.5
+   },
+   "height": 4
+  },
+  {
+   "id": "objiyrp7",
+   "type": "built:bband007",
+   "at": [
+    11480,
+    14588
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     6.95,
+     4.94
+    ]
+   },
+   "height": 2.2
+  },
+  {
+   "id": "objezpyl",
+   "type": "built:b1egjxte",
+   "at": [
+    11478,
+    14593
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     4.67,
+     4.72
+    ]
+   },
+   "height": 1.36
+  },
+  {
+   "id": "obj8ma1b",
+   "type": "built:b0zjuog2",
+   "at": [
+    11520,
+    14626
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     4.4,
+     4.4
+    ]
+   },
+   "height": 5.2
+  },
+  {
+   "id": "objpycq5",
+   "type": "built:b0zjuog2",
+   "at": [
+    11526,
+    14626
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     4.4,
+     4.4
+    ]
+   },
+   "height": 5.2
+  },
+  {
+   "id": "objfzay4",
+   "type": "built:bband006",
+   "at": [
+    11516,
+    14588
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     5.4,
+     3.01
+    ]
+   },
+   "height": 7
+  },
+  {
+   "id": "objhc6cb",
+   "type": "built:b1eghxrq",
+   "at": [
+    11524,
+    14588
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     5.5,
+     1.4
+    ]
+   },
+   "height": 7.8
+  },
+  {
+   "id": "obj4errp",
+   "type": "built:bvill005",
+   "at": [
+    11478,
+    14566
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     5.73,
+     3.22
+    ]
+   },
+   "height": 4.6
+  },
+  {
+   "id": "objhwm5h",
+   "type": "built:bvill002",
+   "at": [
+    11520,
+    14565
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     4.55,
+     2.65
+    ]
+   },
+   "height": 6
+  },
+  {
+   "id": "objhqszk",
+   "type": "built:bfort008",
+   "at": [
+    11530,
+    14582
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     1.66,
+     1.66
+    ]
+   },
+   "height": 4.9
+  },
+  {
+   "id": "obj9km8e",
+   "type": "built:b1f3mdty",
+   "at": [
+    11470,
+    14634
+   ],
+   "y": 23.08,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru055",
+   "footprint": {
+    "rect": [
+     8.47,
+     6.23
+    ]
+   },
+   "height": 5.4
+  },
+  {
+   "id": "objypm5b",
+   "type": "built:b0a5o5t6",
+   "at": [
+    11643,
+    16038
+   ],
+   "y": 61.91,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "rect": [
+     4.4,
+     3
+    ]
+   },
+   "height": 2.92
+  },
+  {
+   "id": "objpjvxz",
+   "type": "built:b0ypqb48",
+   "at": [
+    11643,
+    16040.6
+   ],
+   "y": 61.91,
+   "yaw": 3.14,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "rect": [
+     1.5,
+     1.5
+    ]
+   },
+   "height": 3.5
+  },
+  {
+   "id": "objodhrn",
+   "type": "built:b1s7wgg6",
+   "at": [
+    11631.5,
+    16036.5
+   ],
+   "y": 61.91,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "rect": [
+     3.6,
+     6.8
+    ]
+   },
+   "height": 0.8
+  },
+  {
+   "id": "obj1za60",
+   "type": "built:b1oprcgf",
+   "at": [
+    11631.5,
+    16044.6
+   ],
+   "y": 61.91,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "rect": [
+     3.4,
+     2.3
+    ]
+   },
+   "height": 2.85
+  },
+  {
+   "id": "obj4j2o2",
+   "type": "built:b1qrrb3m",
+   "at": [
+    11648.5,
+    16033.6
+   ],
+   "y": 61.91,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "rect": [
+     2.5,
+     1.76
+    ]
+   },
+   "height": 1.6
+  },
+  {
+   "id": "objty1p0",
+   "type": "built:b1k15tiy",
+   "at": [
+    11645.5,
+    16033.4
+   ],
+   "y": 61.91,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "open": 1.13
+   },
+   "height": 1.7
+  },
+  {
+   "id": "objc0xtk",
+   "type": "built:b1k15tiy",
+   "at": [
+    11646.6,
+    16034.4
+   ],
+   "y": 61.91,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "open": 1.13
+   },
+   "height": 1.7
+  },
+  {
+   "id": "objr5s1a",
+   "type": "built:bband006",
+   "at": [
+    11649,
+    16044
+   ],
+   "y": 61.91,
+   "yaw": 4.7132,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "rect": [
+     5.4,
+     3.01
+    ]
+   },
+   "height": 7
+  },
+  {
+   "id": "obj7lc59",
+   "type": "built:b1lyhd1t",
+   "at": [
+    11640,
+    16040
+   ],
+   "y": 65.31,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "open": 1
+   },
+   "height": 9.6
+  },
+  {
+   "id": "obj4jca2",
+   "type": "built:bband005",
+   "at": [
+    11679,
+    16073
+   ],
+   "y": 70.98,
+   "yaw": 1.57,
+   "scale": 1,
+   "template": "bstru057",
+   "footprint": {
+    "open": 3.41
+   },
+   "height": 1.1
+  },
+  {
+   "id": "objlps97",
+   "type": "built:bvill003",
+   "at": [
+    11675,
+    16068
+   ],
+   "y": 70.98,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru057",
+   "footprint": {
+    "rect": [
+     2.08,
+     2.08
+    ]
+   },
+   "height": 2
+  },
+  {
+   "id": "objsoy9l",
+   "type": "built:bfort008",
+   "at": [
+    11684.5,
+    16076
+   ],
+   "y": 80.98,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru057",
+   "footprint": {
+    "rect": [
+     1.66,
+     1.66
+    ]
+   },
+   "height": 4.9
+  },
+  {
+   "id": "obj8bmm2",
+   "type": "built:bfort008",
+   "at": [
+    11685.4,
+    16063.6
+   ],
+   "y": 80.98,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru057",
+   "footprint": {
+    "rect": [
+     1.66,
+     1.66
+    ]
+   },
+   "height": 4.9
+  },
+  {
+   "id": "objkxxoi",
+   "type": "built:b0ux0hq5",
+   "at": [
+    11680,
+    16063
+   ],
+   "y": 80.98,
+   "yaw": 0,
+   "scale": 1,
+   "template": "bstru057",
+   "footprint": {
+    "rect": [
+     0.5,
+     0.5
+    ]
+   },
+   "height": 7.4
+  },
+  {
+   "id": "objwffqf",
+   "type": "built:b0a5o5t6",
+   "at": [
+    11609.77,
+    16076.4
+   ],
+   "y": 61.14,
+   "yaw": 1.0472,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "rect": [
+     4.4,
+     3
+    ]
+   },
+   "height": 2.92
+  },
+  {
+   "id": "objaw8qh",
+   "type": "built:b0ypqb48",
+   "at": [
+    11612.02,
+    16077.7
+   ],
+   "y": 61.14,
+   "yaw": 4.1872,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "rect": [
+     1.5,
+     1.5
+    ]
+   },
+   "height": 3.5
+  },
+  {
+   "id": "objrpfsg",
+   "type": "built:b1s7wgg6",
+   "at": [
+    11602.72,
+    16085.61
+   ],
+   "y": 61.14,
+   "yaw": 1.0472,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "rect": [
+     3.6,
+     6.8
+    ]
+   },
+   "height": 0.8
+  },
+  {
+   "id": "objpc8qh",
+   "type": "built:b1oprcgf",
+   "at": [
+    11609.73,
+    16089.66
+   ],
+   "y": 61.14,
+   "yaw": 2.6172,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "rect": [
+     3.4,
+     2.3
+    ]
+   },
+   "height": 2.85
+  },
+  {
+   "id": "obj3yula",
+   "type": "built:b1qrrb3m",
+   "at": [
+    11608.71,
+    16069.44
+   ],
+   "y": 61.14,
+   "yaw": 1.0472,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "rect": [
+     2.5,
+     1.76
+    ]
+   },
+   "height": 1.6
+  },
+  {
+   "id": "objaj6c8",
+   "type": "built:b1k15tiy",
+   "at": [
+    11607.03,
+    16071.94
+   ],
+   "y": 61.14,
+   "yaw": 1.0472,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "open": 1.13
+   },
+   "height": 1.7
+  },
+  {
+   "id": "obj8c5d0",
+   "type": "built:b1k15tiy",
+   "at": [
+    11608.45,
+    16071.48
+   ],
+   "y": 61.14,
+   "yaw": 1.0472,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "open": 1.13
+   },
+   "height": 1.7
+  },
+  {
+   "id": "objwzs4j",
+   "type": "built:bband006",
+   "at": [
+    11617.96,
+    16074.21
+   ],
+   "y": 61.14,
+   "yaw": 5.7604,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "rect": [
+     5.4,
+     3.01
+    ]
+   },
+   "height": 7
+  },
+  {
+   "id": "obj9p62w",
+   "type": "built:b1lyhd1t",
+   "at": [
+    11610,
+    16080
+   ],
+   "y": 64.54,
+   "yaw": 1.0472,
+   "scale": 1,
+   "template": "bstru056",
+   "footprint": {
+    "open": 1
+   },
+   "height": 9.6
   }
  ],
- "slabs": []
+ "slabs": [
+  {
+   "id": "slabimil",
+   "at": [
+    11454,
+    23.18,
+    14562
+   ],
+   "turn": [
+    0,
+    0,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     92,
+     0
+    ],
+    [
+     92,
+     76
+    ],
+    [
+     0,
+     76
+    ]
+   ],
+   "thickness": 0.2,
+   "surface": "packedEarth",
+   "template": "bstru055"
+  },
+  {
+   "id": "slab56h0",
+   "at": [
+    11488,
+    24.08,
+    14564
+   ],
+   "turn": [
+    0,
+    0,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     24,
+     0
+    ],
+    [
+     24,
+     18
+    ],
+    [
+     0,
+     18
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "floorboards",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabdiv9",
+   "at": [
+    11488,
+    24.08,
+    14564
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     24,
+     0
+    ],
+    [
+     24,
+     16.36
+    ],
+    [
+     0,
+     16.36
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "logs",
+   "template": "bstru055"
+  },
+  {
+   "id": "slaba1ot",
+   "at": [
+    11512,
+    24.08,
+    14565.5
+   ],
+   "turn": [
+    -90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     15,
+     0
+    ],
+    [
+     15,
+     11.49
+    ],
+    [
+     0,
+     16.36
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "logs",
+   "holes": [
+    [
+     [
+      6,
+      4
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      9,
+      7
+     ],
+     [
+      9,
+      4
+     ]
+    ]
+   ],
+   "template": "bstru055"
+  },
+  {
+   "id": "slabburi",
+   "at": [
+    11512,
+    24.08,
+    14582
+   ],
+   "turn": [
+    -180,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     13.5,
+     0
+    ],
+    [
+     13.5,
+     9
+    ],
+    [
+     20.5,
+     9
+    ],
+    [
+     20.5,
+     0
+    ],
+    [
+     24,
+     0
+    ],
+    [
+     24,
+     11
+    ],
+    [
+     0,
+     11
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "logs",
+   "holes": [
+    [
+     [
+      5.5,
+      4
+     ],
+     [
+      5.5,
+      7
+     ],
+     [
+      8.5,
+      7
+     ],
+     [
+      8.5,
+      4
+     ]
+    ]
+   ],
+   "template": "bstru055"
+  },
+  {
+   "id": "slabgwfp",
+   "at": [
+    11488,
+    24.08,
+    14580.5
+   ],
+   "turn": [
+    90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     15,
+     0
+    ],
+    [
+     15,
+     16.36
+    ],
+    [
+     0,
+     11.49
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "logs",
+   "holes": [
+    [
+     [
+      4,
+      4
+     ],
+     [
+      4,
+      7
+     ],
+     [
+      7,
+      7
+     ],
+     [
+      7,
+      4
+     ]
+    ]
+   ],
+   "template": "bstru055"
+  },
+  {
+   "id": "slab0jr9",
+   "at": [
+    11486.5,
+    42.05,
+    14562.5
+   ],
+   "turn": [
+    180,
+    -18,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     -27,
+     0
+    ],
+    [
+     -27,
+     -22.08
+    ],
+    [
+     0,
+     -22.08
+    ]
+   ],
+   "thickness": 0.6,
+   "surface": "shingles",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabo6j4",
+   "at": [
+    11531,
+    24.08,
+    14562
+   ],
+   "turn": [
+    0,
+    0,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     14,
+     0
+    ],
+    [
+     14,
+     16
+    ],
+    [
+     0,
+     16
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "packedEarth",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabbgvk",
+   "at": [
+    11531,
+    24.08,
+    14562
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     1,
+     0
+    ],
+    [
+     1,
+     29
+    ],
+    [
+     0,
+     29
+    ]
+   ],
+   "thickness": 1,
+   "surface": "logs",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabdnz5",
+   "at": [
+    11544,
+    24.08,
+    14562
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     1,
+     0
+    ],
+    [
+     1,
+     29
+    ],
+    [
+     0,
+     29
+    ]
+   ],
+   "thickness": 1,
+   "surface": "logs",
+   "template": "bstru055"
+  },
+  {
+   "id": "slaba91z",
+   "at": [
+    11531,
+    24.08,
+    14577
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     1,
+     0
+    ],
+    [
+     1,
+     29
+    ],
+    [
+     0,
+     29
+    ]
+   ],
+   "thickness": 1,
+   "surface": "logs",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabra7s",
+   "at": [
+    11544,
+    24.08,
+    14577
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     1,
+     0
+    ],
+    [
+     1,
+     29
+    ],
+    [
+     0,
+     29
+    ]
+   ],
+   "thickness": 1,
+   "surface": "logs",
+   "template": "bstru055"
+  },
+  {
+   "id": "slab6rus",
+   "kind": "stairs",
+   "at": [
+    11545,
+    24.08,
+    14576
+   ],
+   "turn": [
+    -180,
+    -42.27,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     14.87
+    ],
+    [
+     0,
+     14.87
+    ]
+   ],
+   "thickness": 1,
+   "surface": "woodgrain",
+   "steps": 17,
+   "template": "bstru055"
+  },
+  {
+   "id": "slabup22",
+   "at": [
+    11531,
+    34.08,
+    14562
+   ],
+   "turn": [
+    0,
+    0,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     14,
+     0
+    ],
+    [
+     14,
+     3
+    ],
+    [
+     9,
+     3
+    ],
+    [
+     9,
+     14
+    ],
+    [
+     14,
+     14
+    ],
+    [
+     14,
+     16
+    ],
+    [
+     0,
+     16
+    ]
+   ],
+   "thickness": 1,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabk1q9",
+   "at": [
+    11545,
+    34.08,
+    14565
+   ],
+   "turn": [
+    -90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     11,
+     0
+    ],
+    [
+     11,
+     3
+    ],
+    [
+     0,
+     3
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabrisc",
+   "at": [
+    11545,
+    34.08,
+    14576
+   ],
+   "turn": [
+    -180,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     3
+    ],
+    [
+     0,
+     3
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slab5v2e",
+   "at": [
+    11540,
+    34.08,
+    14576
+   ],
+   "turn": [
+    90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     11,
+     0
+    ],
+    [
+     11,
+     3
+    ],
+    [
+     0,
+     3
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabf75o",
+   "at": [
+    11531,
+    34.08,
+    14562
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     14,
+     0
+    ],
+    [
+     14,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabqnx8",
+   "at": [
+    11545,
+    34.08,
+    14562.4
+   ],
+   "turn": [
+    -90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     15.2,
+     0
+    ],
+    [
+     15.2,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slab3cyy",
+   "at": [
+    11545,
+    34.08,
+    14578
+   ],
+   "turn": [
+    -180,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     14,
+     0
+    ],
+    [
+     14,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slab67yb",
+   "at": [
+    11531,
+    34.08,
+    14577.6
+   ],
+   "turn": [
+    90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     15.2,
+     0
+    ],
+    [
+     15.2,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slab9cda",
+   "kind": "stairs",
+   "at": [
+    11531,
+    34.08,
+    14564
+   ],
+   "turn": [
+    0,
+    -42.27,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     14.87
+    ],
+    [
+     0,
+     14.87
+    ]
+   ],
+   "thickness": 1,
+   "surface": "woodgrain",
+   "steps": 17,
+   "template": "bstru055"
+  },
+  {
+   "id": "slab3ryq",
+   "at": [
+    11531,
+    44.08,
+    14562
+   ],
+   "turn": [
+    0,
+    0,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     14,
+     0
+    ],
+    [
+     14,
+     16
+    ],
+    [
+     0,
+     16
+    ],
+    [
+     0,
+     13
+    ],
+    [
+     5,
+     13
+    ],
+    [
+     5,
+     2
+    ],
+    [
+     0,
+     2
+    ]
+   ],
+   "thickness": 1,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabtt4q",
+   "at": [
+    11531,
+    44.08,
+    14564
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     3
+    ],
+    [
+     0,
+     3
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabyiit",
+   "at": [
+    11536,
+    44.08,
+    14564
+   ],
+   "turn": [
+    -90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     11,
+     0
+    ],
+    [
+     11,
+     3
+    ],
+    [
+     0,
+     3
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slab4ugr",
+   "at": [
+    11531,
+    44.08,
+    14575
+   ],
+   "turn": [
+    90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     11,
+     0
+    ],
+    [
+     11,
+     3
+    ],
+    [
+     0,
+     3
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabtomu",
+   "at": [
+    11531,
+    44.08,
+    14562
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     14,
+     0
+    ],
+    [
+     14,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slab1xyi",
+   "at": [
+    11545,
+    44.08,
+    14562.4
+   ],
+   "turn": [
+    -90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     15.2,
+     0
+    ],
+    [
+     15.2,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabd6h9",
+   "at": [
+    11545,
+    44.08,
+    14578
+   ],
+   "turn": [
+    -180,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     14,
+     0
+    ],
+    [
+     14,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabx1ho",
+   "at": [
+    11531,
+    44.08,
+    14577.6
+   ],
+   "turn": [
+    90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     15.2,
+     0
+    ],
+    [
+     15.2,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabktdt",
+   "at": [
+    11529.5,
+    52.91,
+    14560.5
+   ],
+   "turn": [
+    90,
+    -30,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     -19,
+     0
+    ],
+    [
+     -10.5,
+     9.81
+    ],
+    [
+     -8.5,
+     9.81
+    ]
+   ],
+   "thickness": 0.6,
+   "surface": "shingles",
+   "template": "bstru055"
+  },
+  {
+   "id": "slab35wy",
+   "at": [
+    11546.5,
+    52.91,
+    14560.5
+   ],
+   "turn": [
+    -90,
+    -30,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     8.5,
+     9.81
+    ],
+    [
+     10.5,
+     9.81
+    ],
+    [
+     19,
+     0
+    ]
+   ],
+   "thickness": 0.6,
+   "surface": "shingles",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabq33a",
+   "at": [
+    11529.5,
+    52.91,
+    14560.5
+   ],
+   "turn": [
+    0,
+    -30,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     8.5,
+     9.81
+    ],
+    [
+     17,
+     0
+    ]
+   ],
+   "thickness": 0.6,
+   "surface": "shingles",
+   "template": "bstru055"
+  },
+  {
+   "id": "slab1hea",
+   "at": [
+    11529.5,
+    52.91,
+    14579.5
+   ],
+   "turn": [
+    180,
+    -30,
+    0
+   ],
+   "outline": [
+    [
+     -8.5,
+     9.81
+    ],
+    [
+     0,
+     0
+    ],
+    [
+     -17,
+     0
+    ]
+   ],
+   "thickness": 0.6,
+   "surface": "shingles",
+   "template": "bstru055"
+  },
+  {
+   "id": "slabnsbr",
+   "at": [
+    11628,
+    61.91,
+    16031
+   ],
+   "turn": [
+    0,
+    0,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     24,
+     0
+    ],
+    [
+     24,
+     18
+    ],
+    [
+     0,
+     18
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "floorboards",
+   "template": "bstru056"
+  },
+  {
+   "id": "slabv9ad",
+   "at": [
+    11628,
+    61.91,
+    16031
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     24,
+     0
+    ],
+    [
+     24,
+     16.36
+    ],
+    [
+     0,
+     16.36
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "logs",
+   "template": "bstru056"
+  },
+  {
+   "id": "slabgp9h",
+   "at": [
+    11652,
+    61.91,
+    16032.5
+   ],
+   "turn": [
+    -90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     15,
+     0
+    ],
+    [
+     15,
+     11.49
+    ],
+    [
+     0,
+     16.36
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "logs",
+   "holes": [
+    [
+     [
+      6,
+      4
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      9,
+      7
+     ],
+     [
+      9,
+      4
+     ]
+    ]
+   ],
+   "template": "bstru056"
+  },
+  {
+   "id": "slabfuda",
+   "at": [
+    11652,
+    61.91,
+    16049
+   ],
+   "turn": [
+    -180,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     13.5,
+     0
+    ],
+    [
+     13.5,
+     9
+    ],
+    [
+     20.5,
+     9
+    ],
+    [
+     20.5,
+     0
+    ],
+    [
+     24,
+     0
+    ],
+    [
+     24,
+     11
+    ],
+    [
+     0,
+     11
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "logs",
+   "holes": [
+    [
+     [
+      5.5,
+      4
+     ],
+     [
+      5.5,
+      7
+     ],
+     [
+      8.5,
+      7
+     ],
+     [
+      8.5,
+      4
+     ]
+    ]
+   ],
+   "template": "bstru056"
+  },
+  {
+   "id": "slabtwqc",
+   "at": [
+    11628,
+    61.91,
+    16047.5
+   ],
+   "turn": [
+    90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     15,
+     0
+    ],
+    [
+     15,
+     16.36
+    ],
+    [
+     0,
+     11.49
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "logs",
+   "holes": [
+    [
+     [
+      4,
+      4
+     ],
+     [
+      4,
+      7
+     ],
+     [
+      7,
+      7
+     ],
+     [
+      7,
+      4
+     ]
+    ]
+   ],
+   "template": "bstru056"
+  },
+  {
+   "id": "slabig7p",
+   "at": [
+    11626.5,
+    79.88,
+    16029.5
+   ],
+   "turn": [
+    180,
+    -18,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     -27,
+     0
+    ],
+    [
+     -27,
+     -22.08
+    ],
+    [
+     0,
+     -22.08
+    ]
+   ],
+   "thickness": 0.6,
+   "surface": "shingles",
+   "template": "bstru056"
+  },
+  {
+   "id": "slabrkhu",
+   "at": [
+    11673,
+    60.98,
+    16062
+   ],
+   "turn": [
+    0,
+    0,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     14,
+     0
+    ],
+    [
+     14,
+     16
+    ],
+    [
+     0,
+     16
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "packedEarth",
+   "template": "bstru057"
+  },
+  {
+   "id": "slabxtuh",
+   "at": [
+    11673,
+    60.98,
+    16062
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     1,
+     0
+    ],
+    [
+     1,
+     29
+    ],
+    [
+     0,
+     29
+    ]
+   ],
+   "thickness": 1,
+   "surface": "logs",
+   "template": "bstru057"
+  },
+  {
+   "id": "slabunm2",
+   "at": [
+    11686,
+    60.98,
+    16062
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     1,
+     0
+    ],
+    [
+     1,
+     29
+    ],
+    [
+     0,
+     29
+    ]
+   ],
+   "thickness": 1,
+   "surface": "logs",
+   "template": "bstru057"
+  },
+  {
+   "id": "slabt0ms",
+   "at": [
+    11673,
+    60.98,
+    16077
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     1,
+     0
+    ],
+    [
+     1,
+     29
+    ],
+    [
+     0,
+     29
+    ]
+   ],
+   "thickness": 1,
+   "surface": "logs",
+   "template": "bstru057"
+  },
+  {
+   "id": "slabi3mz",
+   "at": [
+    11686,
+    60.98,
+    16077
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     1,
+     0
+    ],
+    [
+     1,
+     29
+    ],
+    [
+     0,
+     29
+    ]
+   ],
+   "thickness": 1,
+   "surface": "logs",
+   "template": "bstru057"
+  },
+  {
+   "id": "slabmcs1",
+   "kind": "stairs",
+   "at": [
+    11687,
+    60.98,
+    16076
+   ],
+   "turn": [
+    -180,
+    -42.27,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     14.87
+    ],
+    [
+     0,
+     14.87
+    ]
+   ],
+   "thickness": 1,
+   "surface": "woodgrain",
+   "steps": 17,
+   "template": "bstru057"
+  },
+  {
+   "id": "slabbq8w",
+   "at": [
+    11673,
+    70.98,
+    16062
+   ],
+   "turn": [
+    0,
+    0,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     14,
+     0
+    ],
+    [
+     14,
+     3
+    ],
+    [
+     9,
+     3
+    ],
+    [
+     9,
+     14
+    ],
+    [
+     14,
+     14
+    ],
+    [
+     14,
+     16
+    ],
+    [
+     0,
+     16
+    ]
+   ],
+   "thickness": 1,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slab8a91",
+   "at": [
+    11687,
+    70.98,
+    16065
+   ],
+   "turn": [
+    -90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     11,
+     0
+    ],
+    [
+     11,
+     3
+    ],
+    [
+     0,
+     3
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slabuvuw",
+   "at": [
+    11687,
+    70.98,
+    16076
+   ],
+   "turn": [
+    -180,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     3
+    ],
+    [
+     0,
+     3
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slab0zwz",
+   "at": [
+    11682,
+    70.98,
+    16076
+   ],
+   "turn": [
+    90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     11,
+     0
+    ],
+    [
+     11,
+     3
+    ],
+    [
+     0,
+     3
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slab3vb6",
+   "at": [
+    11673,
+    70.98,
+    16062
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     14,
+     0
+    ],
+    [
+     14,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slab7zve",
+   "at": [
+    11687,
+    70.98,
+    16062.4
+   ],
+   "turn": [
+    -90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     15.2,
+     0
+    ],
+    [
+     15.2,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slabaipa",
+   "at": [
+    11687,
+    70.98,
+    16078
+   ],
+   "turn": [
+    -180,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     14,
+     0
+    ],
+    [
+     14,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slabuboz",
+   "at": [
+    11673,
+    70.98,
+    16077.6
+   ],
+   "turn": [
+    90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     15.2,
+     0
+    ],
+    [
+     15.2,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slabw146",
+   "kind": "stairs",
+   "at": [
+    11673,
+    70.98,
+    16064
+   ],
+   "turn": [
+    0,
+    -42.27,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     14.87
+    ],
+    [
+     0,
+     14.87
+    ]
+   ],
+   "thickness": 1,
+   "surface": "woodgrain",
+   "steps": 17,
+   "template": "bstru057"
+  },
+  {
+   "id": "slabx0cn",
+   "at": [
+    11673,
+    80.98,
+    16062
+   ],
+   "turn": [
+    0,
+    0,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     14,
+     0
+    ],
+    [
+     14,
+     16
+    ],
+    [
+     0,
+     16
+    ],
+    [
+     0,
+     13
+    ],
+    [
+     5,
+     13
+    ],
+    [
+     5,
+     2
+    ],
+    [
+     0,
+     2
+    ]
+   ],
+   "thickness": 1,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slab11yb",
+   "at": [
+    11673,
+    80.98,
+    16064
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     5,
+     0
+    ],
+    [
+     5,
+     3
+    ],
+    [
+     0,
+     3
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slab8xd1",
+   "at": [
+    11678,
+    80.98,
+    16064
+   ],
+   "turn": [
+    -90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     11,
+     0
+    ],
+    [
+     11,
+     3
+    ],
+    [
+     0,
+     3
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slab5qdx",
+   "at": [
+    11673,
+    80.98,
+    16075
+   ],
+   "turn": [
+    90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     11,
+     0
+    ],
+    [
+     11,
+     3
+    ],
+    [
+     0,
+     3
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slabhhjb",
+   "at": [
+    11673,
+    80.98,
+    16062
+   ],
+   "turn": [
+    0,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     14,
+     0
+    ],
+    [
+     14,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slab5k4v",
+   "at": [
+    11687,
+    80.98,
+    16062.4
+   ],
+   "turn": [
+    -90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     15.2,
+     0
+    ],
+    [
+     15.2,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slabhzwf",
+   "at": [
+    11687,
+    80.98,
+    16078
+   ],
+   "turn": [
+    -180,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     14,
+     0
+    ],
+    [
+     14,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slab282u",
+   "at": [
+    11673,
+    80.98,
+    16077.6
+   ],
+   "turn": [
+    90,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     15.2,
+     0
+    ],
+    [
+     15.2,
+     3.5
+    ],
+    [
+     0,
+     3.5
+    ]
+   ],
+   "thickness": 0.4,
+   "surface": "woodgrain",
+   "template": "bstru057"
+  },
+  {
+   "id": "slabuoiw",
+   "at": [
+    11671.5,
+    89.81,
+    16060.5
+   ],
+   "turn": [
+    90,
+    -30,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     -19,
+     0
+    ],
+    [
+     -10.5,
+     9.81
+    ],
+    [
+     -8.5,
+     9.81
+    ]
+   ],
+   "thickness": 0.6,
+   "surface": "shingles",
+   "template": "bstru057"
+  },
+  {
+   "id": "slabscc5",
+   "at": [
+    11688.5,
+    89.81,
+    16060.5
+   ],
+   "turn": [
+    -90,
+    -30,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     8.5,
+     9.81
+    ],
+    [
+     10.5,
+     9.81
+    ],
+    [
+     19,
+     0
+    ]
+   ],
+   "thickness": 0.6,
+   "surface": "shingles",
+   "template": "bstru057"
+  },
+  {
+   "id": "slabasow",
+   "at": [
+    11671.5,
+    89.81,
+    16060.5
+   ],
+   "turn": [
+    0,
+    -30,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     8.5,
+     9.81
+    ],
+    [
+     17,
+     0
+    ]
+   ],
+   "thickness": 0.6,
+   "surface": "shingles",
+   "template": "bstru057"
+  },
+  {
+   "id": "slabzplb",
+   "at": [
+    11671.5,
+    89.81,
+    16079.5
+   ],
+   "turn": [
+    180,
+    -30,
+    0
+   ],
+   "outline": [
+    [
+     -8.5,
+     9.81
+    ],
+    [
+     0,
+     0
+    ],
+    [
+     -17,
+     0
+    ]
+   ],
+   "thickness": 0.6,
+   "surface": "shingles",
+   "template": "bstru057"
+  },
+  {
+   "id": "slab2fv8",
+   "at": [
+    11596.21,
+    61.14,
+    16085.89
+   ],
+   "turn": [
+    60,
+    0,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     24,
+     0
+    ],
+    [
+     24,
+     18
+    ],
+    [
+     0,
+     18
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "floorboards",
+   "template": "bstru056"
+  },
+  {
+   "id": "slab0t8n",
+   "at": [
+    11596.21,
+    61.14,
+    16085.89
+   ],
+   "turn": [
+    60,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     24,
+     0
+    ],
+    [
+     24,
+     16.36
+    ],
+    [
+     0,
+     16.36
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "logs",
+   "template": "bstru056"
+  },
+  {
+   "id": "slabktqb",
+   "at": [
+    11609.5,
+    61.14,
+    16065.86
+   ],
+   "turn": [
+    -30,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     15,
+     0
+    ],
+    [
+     15,
+     11.49
+    ],
+    [
+     0,
+     16.36
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "logs",
+   "holes": [
+    [
+     [
+      6,
+      4
+     ],
+     [
+      6,
+      7
+     ],
+     [
+      9,
+      7
+     ],
+     [
+      9,
+      4
+     ]
+    ]
+   ],
+   "template": "bstru056"
+  },
+  {
+   "id": "slabcsl2",
+   "at": [
+    11623.79,
+    61.14,
+    16074.11
+   ],
+   "turn": [
+    -120,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     13.5,
+     0
+    ],
+    [
+     13.5,
+     9
+    ],
+    [
+     20.5,
+     9
+    ],
+    [
+     20.5,
+     0
+    ],
+    [
+     24,
+     0
+    ],
+    [
+     24,
+     11
+    ],
+    [
+     0,
+     11
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "logs",
+   "holes": [
+    [
+     [
+      5.5,
+      4
+     ],
+     [
+      5.5,
+      7
+     ],
+     [
+      8.5,
+      7
+     ],
+     [
+      8.5,
+      4
+     ]
+    ]
+   ],
+   "template": "bstru056"
+  },
+  {
+   "id": "slab5rv5",
+   "at": [
+    11610.5,
+    61.14,
+    16094.14
+   ],
+   "turn": [
+    150,
+    -90,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     15,
+     0
+    ],
+    [
+     15,
+     16.36
+    ],
+    [
+     0,
+     11.49
+    ]
+   ],
+   "thickness": 1.5,
+   "surface": "logs",
+   "holes": [
+    [
+     [
+      4,
+      4
+     ],
+     [
+      4,
+      7
+     ],
+     [
+      7,
+      7
+     ],
+     [
+      7,
+      4
+     ]
+    ]
+   ],
+   "template": "bstru056"
+  },
+  {
+   "id": "slab1l8w",
+   "at": [
+    11594.16,
+    79.11,
+    16086.44
+   ],
+   "turn": [
+    240,
+    -18,
+    0
+   ],
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     -27,
+     0
+    ],
+    [
+     -27,
+     -22.08
+    ],
+    [
+     0,
+     -22.08
+    ]
+   ],
+   "thickness": 0.6,
+   "surface": "shingles",
+   "template": "bstru056"
+  }
+ ]
 }

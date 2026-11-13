@@ -142,6 +142,15 @@
       "name": "Sack of Ashby Grain",
       "icon": "wheat",
       "description": "Oats, stamped with an A in tar. Chewed at one corner."
+    },
+    {
+      "id": "seedsack",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 20,
+      "name": "Sack of Seed Corn",
+      "icon": "wheat",
+      "description": "Next year's corn, in a sack marked with a W."
     }
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "id": "whhand00",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Morning.",
+      "choices": [
+        {
+          "text": "You've been a soldier.",
+          "next": "t0"
+        },
+        {
+          "text": "Will the barricade hold?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Long time ago. Different war. Fences now.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Against those? Long enough. Not forever.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

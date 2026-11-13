@@ -113,6 +113,80 @@
           "wander": 40
         }
       ]
+    },
+    {
+      "id": "sphillgp",
+      "area": "ahillgp0",
+      "notes": "Hill gap bandits, raiding Ashby and Westhill.",
+      "spawns": [
+        {
+          "density": 18,
+          "respawn": 120,
+          "creature": "stock/bandit-raider",
+          "levels": [
+            5,
+            6
+          ],
+          "wander": 20
+        },
+        {
+          "density": 8,
+          "respawn": 120,
+          "creature": "stock/bandit-thief",
+          "levels": [
+            4,
+            5
+          ],
+          "wander": 20
+        },
+        {
+          "density": 8,
+          "respawn": 120,
+          "creature": "stock/bandit-archer",
+          "levels": [
+            5,
+            6
+          ],
+          "wander": 20
+        }
+      ]
+    },
+    {
+      "id": "spwbandt",
+      "area": "awbandt0",
+      "notes": "Westhill bandits, holding the stolen seed.",
+      "spawns": [
+        {
+          "density": 14,
+          "respawn": 120,
+          "creature": "stock/bandit-raider",
+          "levels": [
+            5,
+            6
+          ],
+          "wander": 20
+        },
+        {
+          "density": 10,
+          "respawn": 120,
+          "creature": "stock/bandit-thief",
+          "levels": [
+            5,
+            6
+          ],
+          "wander": 20
+        },
+        {
+          "density": 10,
+          "respawn": 120,
+          "creature": "stock/bandit-archer",
+          "levels": [
+            5,
+            6
+          ],
+          "wander": 20
+        }
+      ]
     }
   ],
   "placed": [
@@ -2282,6 +2356,496 @@
       "respawn": 120,
       "wander": 40,
       "spawnArea": "spstags0"
+    },
+    {
+      "id": "whwidow0",
+      "npc": "farmfolk",
+      "wander": 0,
+      "name": "Marta Coyle",
+      "title": "Widow of Westhill",
+      "dialogue": "whwidow0",
+      "lean": "feminine",
+      "at": [
+        12346,
+        20.3,
+        16990
+      ],
+      "yaw": 180,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "whhand00",
+      "npc": "farmfolk",
+      "wander": 0,
+      "name": "Joss Harrow",
+      "title": "Hired Hand",
+      "dialogue": "whhand00",
+      "lean": "masculine",
+      "at": [
+        12318,
+        26,
+        16850
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "whyoung0",
+      "npc": "villkid0",
+      "wander": 8,
+      "name": "Pip Coyle",
+      "dialogue": "whyoung0",
+      "at": [
+        12262,
+        21,
+        17018
+      ],
+      "yaw": 200,
+      "levels": 1,
+      "respawn": 300
+    },
+    {
+      "id": "whshep00",
+      "npc": "villkid0",
+      "wander": 10,
+      "name": "Wat",
+      "title": "Shepherd",
+      "at": [
+        12440,
+        19.5,
+        17090
+      ],
+      "yaw": 270,
+      "levels": 1,
+      "respawn": 300
+    },
+    {
+      "id": "whsheep0",
+      "creature": "stock/sheep",
+      "wander": 15,
+      "at": [
+        12460,
+        19.8,
+        17100
+      ],
+      "yaw": 0,
+      "levels": 1,
+      "respawn": 180
+    },
+    {
+      "id": "whsheep1",
+      "creature": "stock/sheep",
+      "wander": 15,
+      "at": [
+        12475,
+        20.4,
+        17080
+      ],
+      "yaw": 80,
+      "levels": 1,
+      "respawn": 180
+    },
+    {
+      "id": "whsheep2",
+      "creature": "stock/sheep",
+      "wander": 15,
+      "at": [
+        12450,
+        19.1,
+        17120
+      ],
+      "yaw": 160,
+      "levels": 1,
+      "respawn": 180
+    },
+    {
+      "id": "whsheep3",
+      "creature": "stock/sheep",
+      "wander": 15,
+      "at": [
+        12490,
+        20.6,
+        17110
+      ],
+      "yaw": 240,
+      "levels": 1,
+      "respawn": 180
+    },
+    {
+      "id": "moberj9e",
+      "creature": "stock/bandit-raider",
+      "at": [
+        11450.4,
+        20.5,
+        14474.2
+      ],
+      "yaw": 272,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sphillgp"
+    },
+    {
+      "id": "mob5x043",
+      "creature": "stock/bandit-raider",
+      "at": [
+        11397.5,
+        25.5,
+        14675.9
+      ],
+      "yaw": 327,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sphillgp"
+    },
+    {
+      "id": "mob8j1xp",
+      "creature": "stock/bandit-raider",
+      "at": [
+        11571.3,
+        22.6,
+        14713.5
+      ],
+      "yaw": 336,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sphillgp"
+    },
+    {
+      "id": "mobotos5",
+      "creature": "stock/bandit-raider",
+      "at": [
+        11358.8,
+        28.8,
+        14620.1
+      ],
+      "yaw": 194,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sphillgp"
+    },
+    {
+      "id": "mobqga6z",
+      "creature": "stock/bandit-raider",
+      "at": [
+        11351.4,
+        28.6,
+        14527.4
+      ],
+      "yaw": 192,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sphillgp"
+    },
+    {
+      "id": "mobjizks",
+      "creature": "stock/bandit-raider",
+      "at": [
+        11480.4,
+        22.3,
+        14734.7
+      ],
+      "yaw": 201,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sphillgp"
+    },
+    {
+      "id": "mob4cli7",
+      "creature": "stock/bandit-thief",
+      "at": [
+        11414.2,
+        24.6,
+        14646.7
+      ],
+      "yaw": 267,
+      "levels": [
+        4,
+        5
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sphillgp"
+    },
+    {
+      "id": "mobpbd94",
+      "creature": "stock/bandit-thief",
+      "at": [
+        11595.1,
+        22,
+        14640.4
+      ],
+      "yaw": 57,
+      "levels": [
+        4,
+        5
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sphillgp"
+    },
+    {
+      "id": "mobf3k8m",
+      "creature": "stock/bandit-thief",
+      "at": [
+        11510.5,
+        22.2,
+        14614.7
+      ],
+      "yaw": 254,
+      "levels": [
+        4,
+        5
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sphillgp"
+    },
+    {
+      "id": "mobx99gh",
+      "creature": "stock/bandit-archer",
+      "at": [
+        11543,
+        22.6,
+        14553.4
+      ],
+      "yaw": 170,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sphillgp"
+    },
+    {
+      "id": "mob95ha9",
+      "creature": "stock/bandit-archer",
+      "at": [
+        11535.2,
+        22.4,
+        14721.3
+      ],
+      "yaw": 60,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sphillgp"
+    },
+    {
+      "id": "mobv9qw9",
+      "creature": "stock/bandit-archer",
+      "at": [
+        11629.3,
+        21.6,
+        14604.4
+      ],
+      "yaw": 279,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sphillgp"
+    },
+    {
+      "id": "mobccmct",
+      "creature": "stock/bandit-raider",
+      "at": [
+        11722.4,
+        60,
+        16041.9
+      ],
+      "yaw": 205,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spwbandt"
+    },
+    {
+      "id": "mobcunpn",
+      "creature": "stock/bandit-raider",
+      "at": [
+        11506.3,
+        63.5,
+        16077.3
+      ],
+      "yaw": 87,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spwbandt"
+    },
+    {
+      "id": "mobv3c82",
+      "creature": "stock/bandit-raider",
+      "at": [
+        11511.7,
+        64.7,
+        16007.7
+      ],
+      "yaw": 357,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spwbandt"
+    },
+    {
+      "id": "mob9s2od",
+      "creature": "stock/bandit-raider",
+      "at": [
+        11507,
+        63.8,
+        16108.3
+      ],
+      "yaw": 230,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spwbandt"
+    },
+    {
+      "id": "mobww7zy",
+      "creature": "stock/bandit-thief",
+      "at": [
+        11599.9,
+        63.7,
+        15930
+      ],
+      "yaw": 3,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spwbandt"
+    },
+    {
+      "id": "mobz323u",
+      "creature": "stock/bandit-thief",
+      "at": [
+        11777.5,
+        54.5,
+        16192.1
+      ],
+      "yaw": 305,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spwbandt"
+    },
+    {
+      "id": "mobapznx",
+      "creature": "stock/bandit-thief",
+      "at": [
+        11609,
+        62.1,
+        16074.7
+      ],
+      "yaw": 344,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spwbandt"
+    },
+    {
+      "id": "mobtjktn",
+      "creature": "stock/bandit-archer",
+      "at": [
+        11626,
+        64.5,
+        16007.7
+      ],
+      "yaw": 155,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spwbandt"
+    },
+    {
+      "id": "mobnkxcr",
+      "creature": "stock/bandit-archer",
+      "at": [
+        11758.8,
+        55.9,
+        15976
+      ],
+      "yaw": 105,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spwbandt"
+    },
+    {
+      "id": "mobiskby",
+      "creature": "stock/bandit-archer",
+      "at": [
+        11620.1,
+        58.8,
+        16175.3
+      ],
+      "yaw": 110,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spwbandt"
     }
   ]
 }
