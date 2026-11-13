@@ -708,6 +708,59 @@
           "wander": 20
         }
       ]
+    },
+    {
+      "id": "spfthtrg",
+      "area": "afthtrg0",
+      "notes": "Trogs coming down from the foothills.",
+      "spawns": [
+        {
+          "density": 22,
+          "respawn": 120,
+          "creature": "stock/trog-basher",
+          "levels": [
+            8,
+            10
+          ],
+          "wander": 20
+        },
+        {
+          "density": 14,
+          "respawn": 120,
+          "creature": "stock/trog-rockthrower",
+          "levels": [
+            8,
+            10
+          ],
+          "wander": 20
+        },
+        {
+          "density": 4,
+          "respawn": 120,
+          "creature": "stock/trog-earthcaller",
+          "levels": [
+            10,
+            10
+          ],
+          "wander": 20
+        }
+      ]
+    },
+    {
+      "id": "spsplepd",
+      "area": "asplepd0",
+      "spawns": [
+        {
+          "density": 14,
+          "respawn": 120,
+          "creature": "stock/leopard",
+          "levels": [
+            7,
+            9
+          ],
+          "wander": 40
+        }
+      ]
     }
   ],
   "placed": [
@@ -8438,6 +8491,694 @@
       "respawn": 120,
       "wander": 20,
       "spawnArea": "sptowrhl"
+    },
+    {
+      "id": "pgwarden",
+      "npc": "gatesol0",
+      "wander": 0,
+      "name": "Warden Brannoc Stell",
+      "title": "Warden of the Gate",
+      "dialogue": "pgwarden",
+      "lean": "masculine",
+      "at": [
+        15760,
+        27.1,
+        13290
+      ],
+      "yaw": 180,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "pgsmith0",
+      "npc": "farmfolk",
+      "wander": 0,
+      "name": "Hilde Ironside",
+      "title": "Smith",
+      "dialogue": "pgsmith0",
+      "lean": "feminine",
+      "at": [
+        15660,
+        34.6,
+        13450
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "pgmulet0",
+      "npc": "farmfolk",
+      "wander": 0,
+      "name": "Muleteer",
+      "at": [
+        15790,
+        30.5,
+        13470
+      ],
+      "yaw": 90,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "pgsentr1",
+      "npc": "gatesol0",
+      "wander": 0,
+      "name": "Sentry",
+      "at": [
+        15608,
+        32.4,
+        13262
+      ],
+      "yaw": 180,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "pgsoldr0",
+      "npc": "gatesol0",
+      "wander": 0,
+      "at": [
+        15740,
+        27.5,
+        13275
+      ],
+      "yaw": 180,
+      "levels": 13,
+      "respawn": 300
+    },
+    {
+      "id": "pgsoldr1",
+      "npc": "gatesol0",
+      "wander": 0,
+      "at": [
+        15782,
+        26,
+        13275
+      ],
+      "yaw": 180,
+      "levels": 13,
+      "respawn": 300
+    },
+    {
+      "id": "pgsoldr2",
+      "npc": "gatesol0",
+      "wander": 0,
+      "at": [
+        15860,
+        25.6,
+        13450
+      ],
+      "yaw": 0,
+      "levels": 13,
+      "respawn": 300
+    },
+    {
+      "id": "pgsoldr3",
+      "npc": "gatesol0",
+      "wander": 3,
+      "at": [
+        15700,
+        30.4,
+        13330
+      ],
+      "yaw": 90,
+      "levels": 13,
+      "respawn": 300
+    },
+    {
+      "id": "pgsoldr4",
+      "npc": "gatesol0",
+      "wander": 3,
+      "at": [
+        15880,
+        23,
+        13300
+      ],
+      "yaw": 200,
+      "levels": 13,
+      "respawn": 300
+    },
+    {
+      "id": "mobsis4v",
+      "creature": "stock/trog-basher",
+      "at": [
+        17338.2,
+        24.4,
+        13258.1
+      ],
+      "yaw": 301,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mob3e893",
+      "creature": "stock/trog-basher",
+      "at": [
+        17313.4,
+        21.8,
+        13286.3
+      ],
+      "yaw": 17,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mob9arob",
+      "creature": "stock/trog-basher",
+      "at": [
+        17185.4,
+        18.4,
+        13250.8
+      ],
+      "yaw": 317,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mobffwpa",
+      "creature": "stock/trog-basher",
+      "at": [
+        17150.1,
+        21.1,
+        13081.1
+      ],
+      "yaw": 293,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mobl1f1l",
+      "creature": "stock/trog-basher",
+      "at": [
+        17369.2,
+        30.3,
+        13188
+      ],
+      "yaw": 94,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mobnybs4",
+      "creature": "stock/trog-basher",
+      "at": [
+        17477.5,
+        39.8,
+        13154.6
+      ],
+      "yaw": 302,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mobl1jxm",
+      "creature": "stock/trog-basher",
+      "at": [
+        17456.4,
+        55.4,
+        13033
+      ],
+      "yaw": 156,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mobxqizc",
+      "creature": "stock/trog-basher",
+      "at": [
+        17320,
+        33.6,
+        13119
+      ],
+      "yaw": 247,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "moblzdd7",
+      "creature": "stock/trog-basher",
+      "at": [
+        17394.7,
+        58.6,
+        13011.3
+      ],
+      "yaw": 76,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mob9110i",
+      "creature": "stock/trog-basher",
+      "at": [
+        17313.8,
+        21.1,
+        13334.6
+      ],
+      "yaw": 11,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mob0sq89",
+      "creature": "stock/trog-basher",
+      "at": [
+        17141.8,
+        17.3,
+        13196.3
+      ],
+      "yaw": 87,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mobopvg5",
+      "creature": "stock/trog-basher",
+      "at": [
+        17325,
+        38.6,
+        13090.6
+      ],
+      "yaw": 65,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mob3l6px",
+      "creature": "stock/trog-basher",
+      "at": [
+        17117.1,
+        16.1,
+        13240.5
+      ],
+      "yaw": 333,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "moblsr7z",
+      "creature": "stock/trog-rockthrower",
+      "at": [
+        17276.2,
+        22.7,
+        13218.8
+      ],
+      "yaw": 211,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mobkjkp1",
+      "creature": "stock/trog-rockthrower",
+      "at": [
+        17364.7,
+        23.6,
+        13327.3
+      ],
+      "yaw": 327,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mobkrd5e",
+      "creature": "stock/trog-rockthrower",
+      "at": [
+        17474.2,
+        30.6,
+        13277.8
+      ],
+      "yaw": 61,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mobvxsyd",
+      "creature": "stock/trog-rockthrower",
+      "at": [
+        17125.2,
+        17.8,
+        13130.2
+      ],
+      "yaw": 83,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mobjlrff",
+      "creature": "stock/trog-rockthrower",
+      "at": [
+        17275.5,
+        22.1,
+        13391.5
+      ],
+      "yaw": 168,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mob2vnuh",
+      "creature": "stock/trog-rockthrower",
+      "at": [
+        17198.6,
+        21,
+        13354.9
+      ],
+      "yaw": 207,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mobrwzqa",
+      "creature": "stock/trog-rockthrower",
+      "at": [
+        17432.9,
+        40.1,
+        13142.3
+      ],
+      "yaw": 284,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mobju1r6",
+      "creature": "stock/trog-rockthrower",
+      "at": [
+        17135.5,
+        17.9,
+        13292.4
+      ],
+      "yaw": 259,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mob7ptlj",
+      "creature": "stock/trog-rockthrower",
+      "at": [
+        17346,
+        26,
+        13236
+      ],
+      "yaw": 209,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mob3uh8j",
+      "creature": "stock/trog-earthcaller",
+      "at": [
+        17300,
+        35.2,
+        13099.3
+      ],
+      "yaw": 30,
+      "levels": [
+        10,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mobnbm4f",
+      "creature": "stock/trog-earthcaller",
+      "at": [
+        17362.6,
+        23.9,
+        13289.1
+      ],
+      "yaw": 358,
+      "levels": [
+        10,
+        10
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfthtrg"
+    },
+    {
+      "id": "mob09ce4",
+      "creature": "stock/leopard",
+      "at": [
+        19333.2,
+        29.4,
+        13277.5
+      ],
+      "yaw": 187,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spsplepd"
+    },
+    {
+      "id": "mobg9knz",
+      "creature": "stock/leopard",
+      "at": [
+        19103.5,
+        79.2,
+        13024.1
+      ],
+      "yaw": 353,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spsplepd"
+    },
+    {
+      "id": "mobxstcx",
+      "creature": "stock/leopard",
+      "at": [
+        19449.7,
+        62.3,
+        13090.3
+      ],
+      "yaw": 301,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spsplepd"
+    },
+    {
+      "id": "mobsujri",
+      "creature": "stock/leopard",
+      "at": [
+        19114,
+        19.6,
+        13272.7
+      ],
+      "yaw": 155,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spsplepd"
+    },
+    {
+      "id": "mobea8vq",
+      "creature": "stock/leopard",
+      "at": [
+        19366.9,
+        55.8,
+        13110.9
+      ],
+      "yaw": 255,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spsplepd"
+    },
+    {
+      "id": "mobdi21k",
+      "creature": "stock/leopard",
+      "at": [
+        19302,
+        51,
+        13126.3
+      ],
+      "yaw": 248,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spsplepd"
+    },
+    {
+      "id": "mobx19kh",
+      "creature": "stock/leopard",
+      "at": [
+        19428.6,
+        85.1,
+        13023.6
+      ],
+      "yaw": 253,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spsplepd"
+    },
+    {
+      "id": "mobr1sa6",
+      "creature": "stock/leopard",
+      "at": [
+        19458.2,
+        32.9,
+        13281.4
+      ],
+      "yaw": 160,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spsplepd"
+    },
+    {
+      "id": "mob4h677",
+      "creature": "stock/leopard",
+      "at": [
+        19318.3,
+        41.5,
+        13175.4
+      ],
+      "yaw": 332,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spsplepd"
     }
   ]
 }

@@ -1,0 +1,54 @@
+{
+  "id": "pgwarden",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Stell. Warden.",
+      "choices": [
+        {
+          "text": "What is this place?",
+          "next": "t0"
+        },
+        {
+          "text": "What's Greyspur like?",
+          "next": "t1"
+        },
+        {
+          "text": "Any trouble?",
+          "next": "t2"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "The gate. Greyspur's beyond, up the pass.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Hard. Honest. Worth the climb.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t2": {
+      "text": "Trogs. From the foothills east.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

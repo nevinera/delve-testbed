@@ -1,0 +1,41 @@
+{
+  "id": "pgsmith0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Let's see your blade. Hm. HM. Who sharpened that, a goat?",
+      "choices": [
+        {
+          "text": "What do you make here?",
+          "next": "t0"
+        },
+        {
+          "text": "What's up the mountain?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Everything the wall needs and half of what it doesn't. Good iron comes down from the mountain. Better iron's up there. One day I'll go and see.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Greyspur. Mines older than the vale. Smiths who've forgotten more than I know. I'd give my best hammer to see their forges. Don't tell them that.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

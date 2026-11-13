@@ -1,0 +1,60 @@
+{
+  "id": "gatesol0",
+  "name": "Gate Soldier",
+  "creatureType": "humanoid",
+  "reaction": "friendly",
+  "levels": [
+    12,
+    14
+  ],
+  "says": [
+    "Cold up here.",
+    "Eyes north.",
+    "Greyspur's that way. Long walk."
+  ],
+  "look": {
+    "body": "humanoid",
+    "height": [
+      5.7,
+      6.3
+    ],
+    "build": [
+      0.5,
+      0.9
+    ],
+    "hair": [
+      "short",
+      "bald"
+    ],
+    "beard": [
+      "full",
+      "none"
+    ],
+    "colors": {
+      "primary": [
+        "#5a6a7a"
+      ],
+      "secondary": [
+        "#3a3a3a"
+      ]
+    },
+    "armor": {
+      "chest": {
+        "type": "plate",
+        "style": "plain"
+      },
+      "legs": {
+        "type": "chain",
+        "style": "plain"
+      },
+      "head": {
+        "type": "plate",
+        "style": "plain"
+      },
+      "feet": {
+        "type": "plate",
+        "style": "plain"
+      }
+    }
+  }
+}

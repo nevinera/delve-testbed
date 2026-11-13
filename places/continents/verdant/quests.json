@@ -2317,6 +2317,207 @@
           }
         ]
       }
+    },
+    {
+      "id": "lkgate01",
+      "name": "Up to the Gate",
+      "level": 8,
+      "zone": "brackenv",
+      "giver": "lkscout0",
+      "text": {
+        "offer": "Going north? Take the road up past the lake, all the way. Greyspur Gate. Tell Warden Stell that Benno says he's resting very hard. He'll know what that means. It means I'm not.",
+        "summary": "Go north to Greyspur Gate and speak with Warden Stell.",
+        "done": "Benno. Resting. Hm."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "talk": "pgwarden"
+        }
+      ],
+      "requiredLevel": 7,
+      "turnIn": "pgwarden"
+    },
+    {
+      "id": "pgtrog01",
+      "name": "Down from the Foothills",
+      "level": 9,
+      "zone": "brackenv",
+      "giver": "pgwarden",
+      "text": {
+        "offer": "Trogs. East, in the foothills. Kill ten.",
+        "summary": "Kill 10 trog bashers in the foothills east of Greyspur Gate.",
+        "waiting": "Ten.",
+        "done": "Good."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "stock/trog-basher",
+          "count": 10,
+          "area": "afthtrg0",
+          "text": "Trog bashers killed",
+          "mapAreas": [
+            "afthtrg0"
+          ]
+        }
+      ],
+      "requiredLevel": 8,
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/iron-greatsword"
+          },
+          {
+            "item": "stock/iron-mace"
+          },
+          {
+            "item": "stock/iron-dagger"
+          },
+          {
+            "item": "stock/ash-staff"
+          },
+          {
+            "item": "stock/hunting-bow"
+          },
+          {
+            "item": "stock/iron-knuckles"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pgbeac01",
+      "name": "The Signal Beacon",
+      "level": 10,
+      "zone": "brackenv",
+      "giver": "pgwarden",
+      "text": {
+        "offer": "Beacon on the west ridge. Out since the storm. Light it. Greyspur watches for it.",
+        "summary": "Light the signal beacon on the ridge west of the gate.",
+        "waiting": "Still dark.",
+        "done": "Greyspur will see it. Good. Go up when you're ready. They'll know you're coming."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "use": "objrj4zx",
+          "text": "Signal beacon lit",
+          "time": 5
+        }
+      ],
+      "requiredLevel": 9,
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/ringmail-vest"
+          },
+          {
+            "item": "stock/hide-leggings"
+          },
+          {
+            "item": "stock/linen-robe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pgore001",
+      "name": "Ore Samples",
+      "level": 9,
+      "zone": "brackenv",
+      "giver": "pgsmith0",
+      "text": {
+        "offer": "There's an old working on the slope west of the yard, the mine with the timber mouth. Lumps of ore lying all round it that nobody's bothered to pick up. Bring me six. I want to know what's in this mountain before I go up it.",
+        "summary": "Gather 6 lumps of ore round the old mine mouth west of the gate's yard.",
+        "waiting": "Ore?",
+        "done": "Look at that grain. Iron, and something brighter in it. Greyspur iron. I knew it."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "use": "pool:ore",
+          "count": 6,
+          "text": "Ore samples gathered",
+          "time": 2,
+          "mapAreas": [
+            "pool:ore"
+          ]
+        }
+      ],
+      "requiredLevel": 8,
+      "objectPools": [
+        {
+          "id": "ore",
+          "type": "built:bcave012",
+          "spots": [
+            {
+              "at": [
+                15500,
+                13360
+              ],
+              "yaw": 0.3,
+              "scale": 0.6
+            },
+            {
+              "at": [
+                15520,
+                13440
+              ],
+              "yaw": 1.6,
+              "scale": 0.6
+            },
+            {
+              "at": [
+                15560,
+                13355
+              ],
+              "yaw": 2.4,
+              "scale": 0.6
+            },
+            {
+              "at": [
+                15585,
+                13440
+              ],
+              "yaw": 0.9,
+              "scale": 0.6
+            },
+            {
+              "at": [
+                15490,
+                13420
+              ],
+              "yaw": 2.9,
+              "scale": 0.6
+            },
+            {
+              "at": [
+                15600,
+                13385
+              ],
+              "yaw": 1.2,
+              "scale": 0.6
+            },
+            {
+              "at": [
+                15530,
+                13460
+              ],
+              "yaw": 2,
+              "scale": 0.6
+            },
+            {
+              "at": [
+                15570,
+                13470
+              ],
+              "yaw": 0.5,
+              "scale": 0.6
+            }
+          ]
+        }
+      ]
     }
   ]
 }
