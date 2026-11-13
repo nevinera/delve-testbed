@@ -14,6 +14,11 @@
           "next": "t1"
         },
         {
+          "text": "Could you see to my wounds?",
+          "restore": true,
+          "next": "hello"
+        },
+        {
           "text": "Goodbye.",
           "do": "close"
         }

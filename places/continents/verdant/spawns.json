@@ -1,720 +1,728 @@
 {
- "version": 1,
- "spawnAreas": [],
- "placed": [
-  {
-   "id": "abbnovic",
-   "npc": "keeper01",
-   "name": "Novice Perrin",
-   "levels": 10,
-   "at": [
-    13065,
-    25.0,
-    12815
-   ],
-   "yaw": 300,
-   "wander": 0,
-   "title": "Novice",
-   "dialogue": "abbnovic"
-  },
-  {
-   "id": "abbabbot",
-   "npc": "keeper01",
-   "name": "Abbot Halden",
-   "levels": 10,
-   "at": [
-    13138,
-    27.3,
-    12982
-   ],
-   "yaw": 270,
-   "wander": 0,
-   "title": "Abbot of Wakewell",
-   "dialogue": "abbabbot"
-  },
-  {
-   "id": "abbwardn",
-   "npc": "keeper01",
-   "name": "Keeper Bryce Tallow",
-   "levels": 10,
-   "at": [
-    13105,
-    29.1,
-    12925
-   ],
-   "yaw": 270,
-   "wander": 0,
-   "title": "Warden",
-   "dialogue": "abbwardn"
-  },
-  {
-   "id": "abbherbl",
-   "npc": "keeper01",
-   "name": "Keeper Maudie Fenn",
-   "levels": 10,
-   "at": [
-    13110,
-    27.1,
-    13045
-   ],
-   "yaw": 270,
-   "wander": 0,
-   "title": "Herbalist",
-   "dialogue": "abbherbl"
-  },
-  {
-   "id": "abbquart",
-   "npc": "keeper01",
-   "name": "Keeper Osric Pell",
-   "levels": 10,
-   "at": [
-    13135,
-    27.5,
-    13085
-   ],
-   "yaw": 270,
-   "wander": 0,
-   "title": "Quartermaster",
-   "dialogue": "abbquart"
-  },
-  {
-   "id": "abbvalek",
-   "npc": "keeper01",
-   "name": "Keeper Tam Ridley",
-   "levels": 10,
-   "at": [
-    13075,
-    25.0,
-    13005
-   ],
-   "yaw": 270,
-   "wander": 0,
-   "dialogue": "abbvalek"
-  },
-  {
-   "id": "abblampl",
-   "npc": "keeper01",
-   "name": "Keeper Ilan",
-   "levels": 10,
-   "at": [
-    12997.0,
-    29.2,
-    12783.4
-   ],
-   "yaw": 200,
-   "wander": 0,
-   "title": "Lamplighter",
-   "dialogue": "abblampl"
-  },
-  {
-   "id": "abbwoken",
-   "npc": "villager",
-   "name": "Dazed Stranger",
-   "levels": 10,
-   "at": [
-    13060,
-    25.0,
-    12895
-   ],
-   "yaw": 200,
-   "wander": 25
-  },
-  {
-   "id": "ashfarmr",
-   "npc": "villager",
-   "name": "Edric Ashby",
-   "levels": 10,
-   "at": [
-    13620,
-    30,
-    15020
-   ],
-   "yaw": 0,
-   "wander": 0,
-   "title": "Farmer"
-  },
-  {
-   "id": "lkpriest",
-   "npc": "villager",
-   "name": "Father Aldous Wren",
-   "levels": 10,
-   "at": [
-    16020,
-    30,
-    17120
-   ],
-   "yaw": 0,
-   "wander": 0,
-   "title": "Priest of Lakeford"
-  },
-  {
-   "id": "mobgl001",
-   "creature": "stock/amber-ooze",
-   "at": [
-    12924.3,
-    26.1,
-    12913.5
-   ],
-   "yaw": 71,
-   "levels": [
-    1,
-    2
-   ],
-   "respawn": 45,
-   "wander": 10
-  },
-  {
-   "id": "mobgl002",
-   "creature": "stock/amber-ooze",
-   "at": [
-    12855.3,
-    29.4,
-    13070.4
-   ],
-   "yaw": 172,
-   "levels": [
-    1,
-    2
-   ],
-   "respawn": 45,
-   "wander": 10
-  },
-  {
-   "id": "mobgl003",
-   "creature": "stock/amber-ooze",
-   "at": [
-    12821.9,
-    30.5,
-    13190.2
-   ],
-   "yaw": 246,
-   "levels": [
-    1,
-    2
-   ],
-   "respawn": 45,
-   "wander": 10
-  },
-  {
-   "id": "mobgl004",
-   "creature": "stock/amber-ooze",
-   "at": [
-    12888.0,
-    30.0,
-    13018.4
-   ],
-   "yaw": 308,
-   "levels": [
-    1,
-    2
-   ],
-   "respawn": 45,
-   "wander": 10
-  },
-  {
-   "id": "mobgl005",
-   "creature": "stock/amber-ooze",
-   "at": [
-    12909.2,
-    32.4,
-    12967.1
-   ],
-   "yaw": 251,
-   "levels": [
-    1,
-    2
-   ],
-   "respawn": 45,
-   "wander": 10
-  },
-  {
-   "id": "mobgl006",
-   "creature": "stock/amber-ooze",
-   "at": [
-    12892.6,
-    28.9,
-    12937.6
-   ],
-   "yaw": 27,
-   "levels": [
-    1,
-    2
-   ],
-   "respawn": 45,
-   "wander": 10
-  },
-  {
-   "id": "mobgl007",
-   "creature": "stock/amber-ooze",
-   "at": [
-    12839.0,
-    24.7,
-    13030.3
-   ],
-   "yaw": 84,
-   "levels": [
-    1,
-    2
-   ],
-   "respawn": 45,
-   "wander": 10
-  },
-  {
-   "id": "mobgl008",
-   "creature": "stock/amber-ooze",
-   "at": [
-    12910.7,
-    27.2,
-    12875.0
-   ],
-   "yaw": 145,
-   "levels": [
-    1,
-    2
-   ],
-   "respawn": 45,
-   "wander": 10
-  },
-  {
-   "id": "mobgl009",
-   "creature": "stock/amber-ooze",
-   "at": [
-    12839.8,
-    31.5,
-    13218.1
-   ],
-   "yaw": 200,
-   "levels": [
-    1,
-    2
-   ],
-   "respawn": 45,
-   "wander": 10
-  },
-  {
-   "id": "mobgl010",
-   "creature": "stock/amber-ooze",
-   "at": [
-    12811.5,
-    34.3,
-    13291.7
-   ],
-   "yaw": 40,
-   "levels": [
-    1,
-    2
-   ],
-   "respawn": 45,
-   "wander": 10
-  },
-  {
-   "id": "mobgl011",
-   "creature": "stock/hornet",
-   "at": [
-    12560.6,
-    32.0,
-    13197.1
-   ],
-   "yaw": 119,
-   "levels": [
-    2,
-    3
-   ],
-   "respawn": 60,
-   "wander": 20
-  },
-  {
-   "id": "mobgl012",
-   "creature": "stock/hornet",
-   "at": [
-    12482.6,
-    34.0,
-    13092.3
-   ],
-   "yaw": 323,
-   "levels": [
-    2,
-    3
-   ],
-   "respawn": 60,
-   "wander": 20
-  },
-  {
-   "id": "mobgl013",
-   "creature": "stock/hornet",
-   "at": [
-    12497.5,
-    30.1,
-    13255.5
-   ],
-   "yaw": 231,
-   "levels": [
-    2,
-    3
-   ],
-   "respawn": 60,
-   "wander": 20
-  },
-  {
-   "id": "mobgl014",
-   "creature": "stock/hornet",
-   "at": [
-    12510.3,
-    29.4,
-    13130.0
-   ],
-   "yaw": 354,
-   "levels": [
-    2,
-    3
-   ],
-   "respawn": 60,
-   "wander": 20
-  },
-  {
-   "id": "mobgl015",
-   "creature": "stock/hornet",
-   "at": [
-    12457.0,
-    27.7,
-    13318.1
-   ],
-   "yaw": 253,
-   "levels": [
-    2,
-    3
-   ],
-   "respawn": 60,
-   "wander": 20
-  },
-  {
-   "id": "mobgl016",
-   "creature": "stock/hornet",
-   "at": [
-    12461.0,
-    25.1,
-    13173.5
-   ],
-   "yaw": 112,
-   "levels": [
-    2,
-    3
-   ],
-   "respawn": 60,
-   "wander": 20
-  },
-  {
-   "id": "mobgl017",
-   "creature": "stock/hornet",
-   "at": [
-    12539.8,
-    27.3,
-    13383.9
-   ],
-   "yaw": 150,
-   "levels": [
-    2,
-    3
-   ],
-   "respawn": 60,
-   "wander": 20
-  },
-  {
-   "id": "mobgl018",
-   "creature": "stock/hornet",
-   "at": [
-    12684.4,
-    24.7,
-    13323.3
-   ],
-   "yaw": 169,
-   "levels": [
-    2,
-    3
-   ],
-   "respawn": 60,
-   "wander": 20
-  },
-  {
-   "id": "mobgl019",
-   "creature": "stock/bandit-thief",
-   "at": [
-    12501.1,
-    24.8,
-    13725.3
-   ],
-   "yaw": 299,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 90,
-   "wander": 12
-  },
-  {
-   "id": "mobgl020",
-   "creature": "stock/bandit-thief",
-   "at": [
-    12501.9,
-    22.4,
-    13966.0
-   ],
-   "yaw": 103,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 90,
-   "wander": 12
-  },
-  {
-   "id": "mobgl021",
-   "creature": "stock/bandit-thief",
-   "at": [
-    12558.2,
-    24.1,
-    13761.4
-   ],
-   "yaw": 65,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 90,
-   "wander": 12
-  },
-  {
-   "id": "mobgl022",
-   "creature": "stock/bandit-thief",
-   "at": [
-    12551.1,
-    19.4,
-    13933.6
-   ],
-   "yaw": 218,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 90,
-   "wander": 12
-  },
-  {
-   "id": "mobgl023",
-   "creature": "stock/bandit-thief",
-   "at": [
-    12438.2,
-    23.6,
-    13775.8
-   ],
-   "yaw": 17,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 90,
-   "wander": 12
-  },
-  {
-   "id": "mobgl024",
-   "creature": "stock/bandit-thief",
-   "at": [
-    12643.0,
-    17.6,
-    13908.8
-   ],
-   "yaw": 336,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 90,
-   "wander": 12
-  },
-  {
-   "id": "mobgl025",
-   "creature": "stock/bandit-thief",
-   "at": [
-    12642.5,
-    23.7,
-    13776.7
-   ],
-   "yaw": 257,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 90,
-   "wander": 12
-  },
-  {
-   "id": "mobgl026",
-   "creature": "stock/kobold-runt",
-   "at": [
-    12766.7,
-    65.1,
-    12598.4
-   ],
-   "yaw": 136,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 60,
-   "wander": 12
-  },
-  {
-   "id": "mobgl027",
-   "creature": "stock/kobold-runt",
-   "at": [
-    12837.5,
-    66.0,
-    12656.8
-   ],
-   "yaw": 0,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 60,
-   "wander": 12
-  },
-  {
-   "id": "mobgl028",
-   "creature": "stock/kobold-runt",
-   "at": [
-    12716.9,
-    65.3,
-    12668.6
-   ],
-   "yaw": 262,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 60,
-   "wander": 12
-  },
-  {
-   "id": "mobgl029",
-   "creature": "stock/kobold-runt",
-   "at": [
-    12693.8,
-    67.4,
-    12541.7
-   ],
-   "yaw": 127,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 60,
-   "wander": 12
-  },
-  {
-   "id": "mobgl030",
-   "creature": "stock/kobold-runt",
-   "at": [
-    12833.8,
-    116.1,
-    12435.2
-   ],
-   "yaw": 354,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 60,
-   "wander": 12
-  },
-  {
-   "id": "mobgl031",
-   "creature": "stock/kobold-runt",
-   "at": [
-    12858.1,
-    66.0,
-    12633.7
-   ],
-   "yaw": 325,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 60,
-   "wander": 12
-  },
-  {
-   "id": "mobgl032",
-   "creature": "stock/kobold-runt",
-   "at": [
-    12864.9,
-    121.0,
-    12418.4
-   ],
-   "yaw": 44,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 60,
-   "wander": 12
-  },
-  {
-   "id": "mobgl033",
-   "creature": "stock/kobold-runt",
-   "at": [
-    12661.3,
-    65.5,
-    12620.1
-   ],
-   "yaw": 336,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 60,
-   "wander": 12
-  },
-  {
-   "id": "mobgl034",
-   "creature": "stock/kobold-runt",
-   "at": [
-    12718.1,
-    65.5,
-    12620.3
-   ],
-   "yaw": 325,
-   "levels": [
-    3,
-    4
-   ],
-   "respawn": 60,
-   "wander": 12
-  },
-  {
-   "id": "mobgl035",
-   "creature": "stock/kobold-geomancer",
-   "at": [
-    12756.4,
-    65.8,
-    12556.4
-   ],
-   "yaw": 53,
-   "levels": 5,
-   "respawn": 180
-  },
-  {
-   "id": "mobgl036",
-   "creature": "stock/zombie",
-   "at": [
-    13192.8,
-    25.6,
-    13672.1
-   ],
-   "yaw": 325,
-   "levels": 5,
-   "respawn": 120,
-   "wander": 40
-  }
- ]
+  "version": 1,
+  "spawnAreas": [],
+  "placed": [
+    {
+      "id": "abbnovic",
+      "npc": "keeper01",
+      "name": "Novice Perrin",
+      "levels": 10,
+      "at": [
+        13065,
+        25,
+        12815
+      ],
+      "yaw": 300,
+      "wander": 0,
+      "title": "Novice",
+      "dialogue": "abbnovic"
+    },
+    {
+      "id": "abbabbot",
+      "npc": "keeper01",
+      "name": "Abbot Halden",
+      "levels": 10,
+      "at": [
+        13138,
+        27.3,
+        12982
+      ],
+      "yaw": 270,
+      "wander": 0,
+      "title": "Abbot of Wakewell",
+      "dialogue": "abbabbot"
+    },
+    {
+      "id": "abbwardn",
+      "npc": "keeper01",
+      "name": "Keeper Bryce Tallow",
+      "levels": 10,
+      "at": [
+        13105,
+        29.1,
+        12925
+      ],
+      "yaw": 270,
+      "wander": 0,
+      "title": "Warden",
+      "dialogue": "abbwardn"
+    },
+    {
+      "id": "abbherbl",
+      "npc": "keeper01",
+      "name": "Keeper Maudie Fenn",
+      "levels": 10,
+      "at": [
+        13110,
+        27.1,
+        13045
+      ],
+      "yaw": 270,
+      "wander": 0,
+      "title": "Herbalist",
+      "dialogue": "abbherbl"
+    },
+    {
+      "id": "abbquart",
+      "npc": "keeper01",
+      "name": "Keeper Osric Pell",
+      "levels": 10,
+      "at": [
+        13135,
+        27.5,
+        13085
+      ],
+      "yaw": 270,
+      "wander": 0,
+      "title": "Quartermaster",
+      "dialogue": "abbquart",
+      "vendor": {
+        "sells": [
+          "stock/oat-cake",
+          "stock/well-water",
+          "stock/smoked-sausage",
+          "stock/mint-tea"
+        ]
+      }
+    },
+    {
+      "id": "abbvalek",
+      "npc": "keeper01",
+      "name": "Keeper Tam Ridley",
+      "levels": 10,
+      "at": [
+        13075,
+        25,
+        13005
+      ],
+      "yaw": 270,
+      "wander": 0,
+      "dialogue": "abbvalek"
+    },
+    {
+      "id": "abblampl",
+      "npc": "keeper01",
+      "name": "Keeper Ilan",
+      "levels": 10,
+      "at": [
+        12997,
+        29.2,
+        12783.4
+      ],
+      "yaw": 200,
+      "wander": 0,
+      "title": "Lamplighter",
+      "dialogue": "abblampl"
+    },
+    {
+      "id": "abbwoken",
+      "npc": "villager",
+      "name": "Dazed Stranger",
+      "levels": 10,
+      "at": [
+        13060,
+        25,
+        12895
+      ],
+      "yaw": 200,
+      "wander": 25
+    },
+    {
+      "id": "ashfarmr",
+      "npc": "villager",
+      "name": "Edric Ashby",
+      "levels": 10,
+      "at": [
+        13620,
+        30,
+        15020
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Farmer"
+    },
+    {
+      "id": "lkpriest",
+      "npc": "villager",
+      "name": "Father Aldous Wren",
+      "levels": 10,
+      "at": [
+        16020,
+        30,
+        17120
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Priest of Lakeford"
+    },
+    {
+      "id": "mobgl001",
+      "creature": "stock/amber-ooze",
+      "at": [
+        12924.3,
+        26.1,
+        12913.5
+      ],
+      "yaw": 71,
+      "levels": [
+        1,
+        2
+      ],
+      "respawn": 45,
+      "wander": 10
+    },
+    {
+      "id": "mobgl002",
+      "creature": "stock/amber-ooze",
+      "at": [
+        12855.3,
+        29.4,
+        13070.4
+      ],
+      "yaw": 172,
+      "levels": [
+        1,
+        2
+      ],
+      "respawn": 45,
+      "wander": 10
+    },
+    {
+      "id": "mobgl003",
+      "creature": "stock/amber-ooze",
+      "at": [
+        12821.9,
+        30.5,
+        13190.2
+      ],
+      "yaw": 246,
+      "levels": [
+        1,
+        2
+      ],
+      "respawn": 45,
+      "wander": 10
+    },
+    {
+      "id": "mobgl004",
+      "creature": "stock/amber-ooze",
+      "at": [
+        12888,
+        30,
+        13018.4
+      ],
+      "yaw": 308,
+      "levels": [
+        1,
+        2
+      ],
+      "respawn": 45,
+      "wander": 10
+    },
+    {
+      "id": "mobgl005",
+      "creature": "stock/amber-ooze",
+      "at": [
+        12909.2,
+        32.4,
+        12967.1
+      ],
+      "yaw": 251,
+      "levels": [
+        1,
+        2
+      ],
+      "respawn": 45,
+      "wander": 10
+    },
+    {
+      "id": "mobgl006",
+      "creature": "stock/amber-ooze",
+      "at": [
+        12892.6,
+        28.9,
+        12937.6
+      ],
+      "yaw": 27,
+      "levels": [
+        1,
+        2
+      ],
+      "respawn": 45,
+      "wander": 10
+    },
+    {
+      "id": "mobgl007",
+      "creature": "stock/amber-ooze",
+      "at": [
+        12839,
+        24.7,
+        13030.3
+      ],
+      "yaw": 84,
+      "levels": [
+        1,
+        2
+      ],
+      "respawn": 45,
+      "wander": 10
+    },
+    {
+      "id": "mobgl008",
+      "creature": "stock/amber-ooze",
+      "at": [
+        12910.7,
+        27.2,
+        12875
+      ],
+      "yaw": 145,
+      "levels": [
+        1,
+        2
+      ],
+      "respawn": 45,
+      "wander": 10
+    },
+    {
+      "id": "mobgl009",
+      "creature": "stock/amber-ooze",
+      "at": [
+        12839.8,
+        31.5,
+        13218.1
+      ],
+      "yaw": 200,
+      "levels": [
+        1,
+        2
+      ],
+      "respawn": 45,
+      "wander": 10
+    },
+    {
+      "id": "mobgl010",
+      "creature": "stock/amber-ooze",
+      "at": [
+        12811.5,
+        34.3,
+        13291.7
+      ],
+      "yaw": 40,
+      "levels": [
+        1,
+        2
+      ],
+      "respawn": 45,
+      "wander": 10
+    },
+    {
+      "id": "mobgl011",
+      "creature": "stock/hornet",
+      "at": [
+        12560.6,
+        32,
+        13197.1
+      ],
+      "yaw": 119,
+      "levels": [
+        2,
+        3
+      ],
+      "respawn": 60,
+      "wander": 20
+    },
+    {
+      "id": "mobgl012",
+      "creature": "stock/hornet",
+      "at": [
+        12482.6,
+        34,
+        13092.3
+      ],
+      "yaw": 323,
+      "levels": [
+        2,
+        3
+      ],
+      "respawn": 60,
+      "wander": 20
+    },
+    {
+      "id": "mobgl013",
+      "creature": "stock/hornet",
+      "at": [
+        12497.5,
+        30.1,
+        13255.5
+      ],
+      "yaw": 231,
+      "levels": [
+        2,
+        3
+      ],
+      "respawn": 60,
+      "wander": 20
+    },
+    {
+      "id": "mobgl014",
+      "creature": "stock/hornet",
+      "at": [
+        12510.3,
+        29.4,
+        13130
+      ],
+      "yaw": 354,
+      "levels": [
+        2,
+        3
+      ],
+      "respawn": 60,
+      "wander": 20
+    },
+    {
+      "id": "mobgl015",
+      "creature": "stock/hornet",
+      "at": [
+        12457,
+        27.7,
+        13318.1
+      ],
+      "yaw": 253,
+      "levels": [
+        2,
+        3
+      ],
+      "respawn": 60,
+      "wander": 20
+    },
+    {
+      "id": "mobgl016",
+      "creature": "stock/hornet",
+      "at": [
+        12461,
+        25.1,
+        13173.5
+      ],
+      "yaw": 112,
+      "levels": [
+        2,
+        3
+      ],
+      "respawn": 60,
+      "wander": 20
+    },
+    {
+      "id": "mobgl017",
+      "creature": "stock/hornet",
+      "at": [
+        12539.8,
+        27.3,
+        13383.9
+      ],
+      "yaw": 150,
+      "levels": [
+        2,
+        3
+      ],
+      "respawn": 60,
+      "wander": 20
+    },
+    {
+      "id": "mobgl018",
+      "creature": "stock/hornet",
+      "at": [
+        12684.4,
+        24.7,
+        13323.3
+      ],
+      "yaw": 169,
+      "levels": [
+        2,
+        3
+      ],
+      "respawn": 60,
+      "wander": 20
+    },
+    {
+      "id": "mobgl019",
+      "creature": "stock/bandit-thief",
+      "at": [
+        12501.1,
+        24.8,
+        13725.3
+      ],
+      "yaw": 299,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 90,
+      "wander": 12
+    },
+    {
+      "id": "mobgl020",
+      "creature": "stock/bandit-thief",
+      "at": [
+        12501.9,
+        22.4,
+        13966
+      ],
+      "yaw": 103,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 90,
+      "wander": 12
+    },
+    {
+      "id": "mobgl021",
+      "creature": "stock/bandit-thief",
+      "at": [
+        12558.2,
+        24.1,
+        13761.4
+      ],
+      "yaw": 65,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 90,
+      "wander": 12
+    },
+    {
+      "id": "mobgl022",
+      "creature": "stock/bandit-thief",
+      "at": [
+        12551.1,
+        19.4,
+        13933.6
+      ],
+      "yaw": 218,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 90,
+      "wander": 12
+    },
+    {
+      "id": "mobgl023",
+      "creature": "stock/bandit-thief",
+      "at": [
+        12438.2,
+        23.6,
+        13775.8
+      ],
+      "yaw": 17,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 90,
+      "wander": 12
+    },
+    {
+      "id": "mobgl024",
+      "creature": "stock/bandit-thief",
+      "at": [
+        12643,
+        17.6,
+        13908.8
+      ],
+      "yaw": 336,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 90,
+      "wander": 12
+    },
+    {
+      "id": "mobgl025",
+      "creature": "stock/bandit-thief",
+      "at": [
+        12642.5,
+        23.7,
+        13776.7
+      ],
+      "yaw": 257,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 90,
+      "wander": 12
+    },
+    {
+      "id": "mobgl026",
+      "creature": "stock/kobold-runt",
+      "at": [
+        12766.7,
+        65.1,
+        12598.4
+      ],
+      "yaw": 136,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 60,
+      "wander": 12
+    },
+    {
+      "id": "mobgl027",
+      "creature": "stock/kobold-runt",
+      "at": [
+        12837.5,
+        66,
+        12656.8
+      ],
+      "yaw": 0,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 60,
+      "wander": 12
+    },
+    {
+      "id": "mobgl028",
+      "creature": "stock/kobold-runt",
+      "at": [
+        12716.9,
+        65.3,
+        12668.6
+      ],
+      "yaw": 262,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 60,
+      "wander": 12
+    },
+    {
+      "id": "mobgl029",
+      "creature": "stock/kobold-runt",
+      "at": [
+        12693.8,
+        67.4,
+        12541.7
+      ],
+      "yaw": 127,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 60,
+      "wander": 12
+    },
+    {
+      "id": "mobgl030",
+      "creature": "stock/kobold-runt",
+      "at": [
+        12833.8,
+        116.1,
+        12435.2
+      ],
+      "yaw": 354,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 60,
+      "wander": 12
+    },
+    {
+      "id": "mobgl031",
+      "creature": "stock/kobold-runt",
+      "at": [
+        12858.1,
+        66,
+        12633.7
+      ],
+      "yaw": 325,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 60,
+      "wander": 12
+    },
+    {
+      "id": "mobgl032",
+      "creature": "stock/kobold-runt",
+      "at": [
+        12864.9,
+        121,
+        12418.4
+      ],
+      "yaw": 44,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 60,
+      "wander": 12
+    },
+    {
+      "id": "mobgl033",
+      "creature": "stock/kobold-runt",
+      "at": [
+        12661.3,
+        65.5,
+        12620.1
+      ],
+      "yaw": 336,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 60,
+      "wander": 12
+    },
+    {
+      "id": "mobgl034",
+      "creature": "stock/kobold-runt",
+      "at": [
+        12718.1,
+        65.5,
+        12620.3
+      ],
+      "yaw": 325,
+      "levels": [
+        3,
+        4
+      ],
+      "respawn": 60,
+      "wander": 12
+    },
+    {
+      "id": "mobgl035",
+      "creature": "stock/kobold-geomancer",
+      "at": [
+        12756.4,
+        65.8,
+        12556.4
+      ],
+      "yaw": 53,
+      "levels": 5,
+      "respawn": 180
+    },
+    {
+      "id": "mobgl036",
+      "creature": "stock/zombie",
+      "at": [
+        13192.8,
+        25.6,
+        13672.1
+      ],
+      "yaw": 325,
+      "levels": 5,
+      "respawn": 120,
+      "wander": 40
+    }
+  ]
 }
