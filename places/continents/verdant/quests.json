@@ -220,111 +220,20 @@
    "objectives": [
     {
      "id": "a",
-     "use": "pool:nests",
+     "use": "kind:built:b09614oq",
      "count": 4,
      "text": "Hornet nests smoked out",
      "time": 2,
      "mapAreas": [
-      "pool:nests"
-     ]
+      "aghornt0"
+     ],
+     "area": "aghornt0"
     }
    ],
    "after": [
     "glooze01"
    ],
-   "requiredLevel": 2,
-   "objectPools": [
-    {
-     "id": "nests",
-     "type": "built:b09614oq",
-     "spots": [
-      {
-       "at": [
-        12615.6,
-        13153.5
-       ],
-       "yaw": 0.83,
-       "scale": 1,
-       "colors": [
-        "#9a9080",
-        "#6a6050"
-       ]
-      },
-      {
-       "at": [
-        12619.8,
-        13060.6
-       ],
-       "yaw": 5.64,
-       "scale": 1,
-       "colors": [
-        "#9a9080",
-        "#6a6050"
-       ]
-      },
-      {
-       "at": [
-        12719.4,
-        13047.9
-       ],
-       "yaw": 5.35,
-       "scale": 1,
-       "colors": [
-        "#9a9080",
-        "#6a6050"
-       ]
-      },
-      {
-       "at": [
-        12601.5,
-        13389.5
-       ],
-       "yaw": 4.58,
-       "scale": 1,
-       "colors": [
-        "#9a9080",
-        "#6a6050"
-       ]
-      },
-      {
-       "at": [
-        12415.1,
-        13194.0
-       ],
-       "yaw": 3.53,
-       "scale": 1,
-       "colors": [
-        "#9a9080",
-        "#6a6050"
-       ]
-      },
-      {
-       "at": [
-        12666.1,
-        13047.7
-       ],
-       "yaw": 5.91,
-       "scale": 1,
-       "colors": [
-        "#9a9080",
-        "#6a6050"
-       ]
-      },
-      {
-       "at": [
-        12693.5,
-        13202.5
-       ],
-       "yaw": 5.0,
-       "scale": 1,
-       "colors": [
-        "#9a9080",
-        "#6a6050"
-       ]
-      }
-     ]
-    }
-   ]
+   "requiredLevel": 2
   },
   {
    "id": "glsupl01",
@@ -405,76 +314,20 @@
    "objectives": [
     {
      "id": "a",
-     "use": "pool:lanterns",
+     "use": "kind:built:broad007",
      "count": 4,
      "text": "Lanterns relit",
      "time": 2,
      "mapAreas": [
-      "pool:lanterns"
-     ]
+      "aglamps0"
+     ],
+     "area": "aglamps0"
     }
    ],
    "after": [
     "glrunt01"
    ],
-   "requiredLevel": 3,
-   "objectPools": [
-    {
-     "id": "lanterns",
-     "type": "built:broad007",
-     "spots": [
-      {
-       "at": [
-        13061.8,
-        12736.3
-       ],
-       "yaw": 3.71,
-       "scale": 1
-      },
-      {
-       "at": [
-        13009.0,
-        12794.5
-       ],
-       "yaw": 2.79,
-       "scale": 1
-      },
-      {
-       "at": [
-        12930.9,
-        12807.7
-       ],
-       "yaw": 2.39,
-       "scale": 1
-      },
-      {
-       "at": [
-        12864.0,
-        12810.2
-       ],
-       "yaw": 3.77,
-       "scale": 1
-      },
-      {
-       "at": [
-        12975.7,
-        12844.5
-       ],
-       "yaw": 2.27,
-       "scale": 1
-      },
-      {
-       "at": [
-        13065.4,
-        12817.3
-       ],
-       "yaw": 5.89,
-       "scale": 1
-      }
-     ],
-     "show": 4
-    }
-   ]
+   "requiredLevel": 3
   },
   {
    "id": "glkobd01",
