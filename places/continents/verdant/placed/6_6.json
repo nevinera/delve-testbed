@@ -1364,7 +1364,7 @@
    "type": "built:b09614oq",
    "at": [
     12415.1,
-    13194.0
+    13194
    ],
    "yaw": 3.53,
    "scale": 1,
@@ -1408,7 +1408,7 @@
     12693.5,
     13202.5
    ],
-   "yaw": 5.0,
+   "yaw": 5,
    "scale": 1,
    "colors": [
     "#9a9080",
@@ -1443,7 +1443,7 @@
    "id": "objwax40",
    "type": "built:broad007",
    "at": [
-    13009.0,
+    13009,
     12794.5
    ],
    "yaw": 2.79,
@@ -1477,7 +1477,7 @@
    "id": "obj4kff7",
    "type": "built:broad007",
    "at": [
-    12864.0,
+    12864,
     12810.2
    ],
    "yaw": 3.77,
@@ -1523,6 +1523,1601 @@
     ]
    },
    "height": 6
+  },
+  {
+   "id": "obj64qy5",
+   "type": "built:bcave009",
+   "at": [
+    13999,
+    13261.7
+   ],
+   "y": 86,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "obja3ni8",
+   "type": "built:bcave009",
+   "at": [
+    13999,
+    13253.1
+   ],
+   "y": 86,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "obj1bfxt",
+   "type": "built:bcave009",
+   "at": [
+    13999,
+    13244.5
+   ],
+   "y": 86,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objb0x8e",
+   "type": "built:bcave009",
+   "at": [
+    13999,
+    13235.9
+   ],
+   "y": 86,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objyets7",
+   "type": "built:bcave009",
+   "at": [
+    13999,
+    13227.3
+   ],
+   "y": 86,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "obj64hgp",
+   "type": "built:bcave009",
+   "at": [
+    13999,
+    13218.7
+   ],
+   "y": 84.76,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objq7np1",
+   "type": "built:bcave009",
+   "at": [
+    13999,
+    13210.1
+   ],
+   "y": 84,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "obj33mk2",
+   "type": "built:bcave009",
+   "at": [
+    13999,
+    13201.5
+   ],
+   "y": 84,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objk3eau",
+   "type": "built:bcave009",
+   "at": [
+    13999,
+    13192.9
+   ],
+   "y": 84,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "obj4423q",
+   "type": "built:bcave009",
+   "at": [
+    13999,
+    13184.3
+   ],
+   "y": 84,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objihx9t",
+   "type": "built:bcave009",
+   "at": [
+    13998.6,
+    13175.8
+   ],
+   "y": 84,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objkl1ht",
+   "type": "built:bcave009",
+   "at": [
+    13997.8,
+    13167.5
+   ],
+   "y": 84,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objpxd72",
+   "type": "built:bcave009",
+   "at": [
+    13996.9,
+    13159.2
+   ],
+   "y": 84,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objnmrwp",
+   "type": "built:bcave009",
+   "at": [
+    13996.1,
+    13150.8
+   ],
+   "y": 84,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objg0gzp",
+   "type": "built:bcave009",
+   "at": [
+    13995.2,
+    13142.5
+   ],
+   "y": 84,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objaz2pt",
+   "type": "built:bcave009",
+   "at": [
+    13994.4,
+    13134.2
+   ],
+   "y": 83.05,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objx60kw",
+   "type": "built:bcave009",
+   "at": [
+    13993.6,
+    13125.8
+   ],
+   "y": 82,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objs3sn1",
+   "type": "built:bcave009",
+   "at": [
+    13992.8,
+    13117.5
+   ],
+   "y": 82,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objszydc",
+   "type": "built:bcave009",
+   "at": [
+    13991.9,
+    13109.2
+   ],
+   "y": 82,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objmtucn",
+   "type": "built:bcave009",
+   "at": [
+    13991.1,
+    13100.8
+   ],
+   "y": 82,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objaozt6",
+   "type": "built:bcave009",
+   "at": [
+    13990.2,
+    13092.5
+   ],
+   "y": 82,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objwrdbb",
+   "type": "built:bcave009",
+   "at": [
+    13989.4,
+    13084.2
+   ],
+   "y": 82,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 4.21
+   },
+   "height": 0.6
+  },
+  {
+   "id": "objncdrm",
+   "type": "built:bcave008",
+   "at": [
+    13999,
+    13232
+   ],
+   "y": 86,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     4.1,
+     2.7
+    ]
+   },
+   "height": 3.9
+  },
+  {
+   "id": "objp9v5k",
+   "type": "built:bcave008",
+   "at": [
+    13991,
+    13112
+   ],
+   "y": 82,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     4.1,
+     2.7
+    ]
+   },
+   "height": 3.9
+  },
+  {
+   "id": "objksz1i",
+   "type": "built:bcave019",
+   "at": [
+    13991,
+    13222
+   ],
+   "y": 85.77,
+   "yaw": 1.5708,
+   "scale": 1.1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     1.54,
+     1.32
+    ]
+   },
+   "height": 9.46
+  },
+  {
+   "id": "objur6ml",
+   "type": "built:bcave019",
+   "at": [
+    14007,
+    13222
+   ],
+   "y": 85.69,
+   "yaw": 1.5708,
+   "scale": 1.1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     1.54,
+     1.32
+    ]
+   },
+   "height": 9.46
+  },
+  {
+   "id": "objirupo",
+   "type": "built:bcave019",
+   "at": [
+    13991,
+    13196
+   ],
+   "y": 84,
+   "yaw": 1.5708,
+   "scale": 1.1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     1.54,
+     1.32
+    ]
+   },
+   "height": 9.46
+  },
+  {
+   "id": "objt141l",
+   "type": "built:bcave019",
+   "at": [
+    14007,
+    13196
+   ],
+   "y": 84,
+   "yaw": 1.5708,
+   "scale": 1.1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     1.54,
+     1.32
+    ]
+   },
+   "height": 9.46
+  },
+  {
+   "id": "obj9pjwy",
+   "type": "built:bcave019",
+   "at": [
+    13988,
+    13145
+   ],
+   "y": 84,
+   "yaw": 1.5708,
+   "scale": 1.1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     1.54,
+     1.32
+    ]
+   },
+   "height": 9.46
+  },
+  {
+   "id": "objuyd1d",
+   "type": "built:bcave019",
+   "at": [
+    14004,
+    13145
+   ],
+   "y": 84,
+   "yaw": 1.5708,
+   "scale": 1.1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     1.54,
+     1.32
+    ]
+   },
+   "height": 9.46
+  },
+  {
+   "id": "objtluug",
+   "type": "built:bcave019",
+   "at": [
+    13984,
+    13100
+   ],
+   "y": 82,
+   "yaw": 1.5708,
+   "scale": 1.1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     1.54,
+     1.32
+    ]
+   },
+   "height": 9.46
+  },
+  {
+   "id": "objbgxov",
+   "type": "built:bcave019",
+   "at": [
+    14000,
+    13100
+   ],
+   "y": 82,
+   "yaw": 1.5708,
+   "scale": 1.1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     1.54,
+     1.32
+    ]
+   },
+   "height": 9.46
+  },
+  {
+   "id": "obj7y0yu",
+   "type": "built:bcave015",
+   "at": [
+    13992,
+    13230
+   ],
+   "y": 86,
+   "yaw": 4.7124,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     4.1,
+     0.9
+    ]
+   },
+   "height": 7
+  },
+  {
+   "id": "obj5u9ll",
+   "type": "built:bcave015",
+   "at": [
+    14005,
+    13160
+   ],
+   "y": 84,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     4.1,
+     0.9
+    ]
+   },
+   "height": 7
+  },
+  {
+   "id": "obj87gdi",
+   "type": "built:bcave015",
+   "at": [
+    13985,
+    13124
+   ],
+   "y": 82.05,
+   "yaw": 4.7124,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     4.1,
+     0.9
+    ]
+   },
+   "height": 7
+  },
+  {
+   "id": "obj4610b",
+   "type": "built:bcave016",
+   "at": [
+    14008,
+    13176
+   ],
+   "y": 84,
+   "yaw": 0.3491,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     4.75,
+     2.95
+    ]
+   },
+   "height": 3.8
+  },
+  {
+   "id": "obj3orvx",
+   "type": "built:bvill001",
+   "at": [
+    13990,
+    13188
+   ],
+   "y": 84,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     2.25,
+     2.25
+    ]
+   },
+   "height": 3
+  },
+  {
+   "id": "obj7aoel",
+   "type": "built:bvill003",
+   "at": [
+    13992,
+    13171
+   ],
+   "y": 84,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     2.08,
+     2.08
+    ]
+   },
+   "height": 2
+  },
+  {
+   "id": "obj2nn4n",
+   "type": "built:bcave017",
+   "at": [
+    13866,
+    13104
+   ],
+   "y": 80,
+   "yaw": 0.5236,
+   "scale": 1.4,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     9.8,
+     8.4
+    ]
+   },
+   "height": 4.34
+  },
+  {
+   "id": "objzarvw",
+   "type": "built:bcave012",
+   "at": [
+    13874,
+    13132
+   ],
+   "y": 80,
+   "yaw": 0.1745,
+   "scale": 1.2,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     5.04,
+     3.12
+    ]
+   },
+   "height": 1.68
+  },
+  {
+   "id": "objbeja8",
+   "type": "built:bcave012",
+   "at": [
+    13893,
+    13108
+   ],
+   "y": 80,
+   "yaw": 1.2217,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     4.2,
+     2.6
+    ]
+   },
+   "height": 1.4
+  },
+  {
+   "id": "obj6x9jh",
+   "type": "built:bcave011",
+   "at": [
+    13886,
+    13126
+   ],
+   "y": 80,
+   "yaw": 0.6981,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     3.7,
+     2.4
+    ]
+   },
+   "height": 0.3
+  },
+  {
+   "id": "obj8blol",
+   "type": "built:bcave018",
+   "at": [
+    13870,
+    13140
+   ],
+   "y": 80,
+   "yaw": 3.4907,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     5.31,
+     1.1
+    ]
+   },
+   "height": 4.32
+  },
+  {
+   "id": "objlrj70",
+   "type": "built:bcave008",
+   "at": [
+    13897,
+    13132
+   ],
+   "y": 80,
+   "yaw": 1.0472,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     4.1,
+     2.7
+    ]
+   },
+   "height": 3.9
+  },
+  {
+   "id": "obj6mc4a",
+   "type": "built:bcave016",
+   "at": [
+    13860,
+    13124
+   ],
+   "y": 80,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     4.75,
+     2.95
+    ]
+   },
+   "height": 3.8
+  },
+  {
+   "id": "obj8evju",
+   "type": "built:bcave015",
+   "at": [
+    13862,
+    13110
+   ],
+   "y": 80,
+   "yaw": 1.5708,
+   "scale": 1.2,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     4.92,
+     1.08
+    ]
+   },
+   "height": 8.4
+  },
+  {
+   "id": "obj93y8n",
+   "type": "built:bcave013",
+   "at": [
+    13894,
+    13104
+   ],
+   "y": 80,
+   "yaw": 0,
+   "scale": 1.3,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     6.76,
+     5.005
+    ]
+   },
+   "height": 1.963
+  },
+  {
+   "id": "objvr8et",
+   "type": "built:b0y8vjj1",
+   "at": [
+    13880,
+    13118
+   ],
+   "y": 80,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     2.2,
+     2.2
+    ]
+   },
+   "height": 4.6
+  },
+  {
+   "id": "objvukam",
+   "type": "built:bvill005",
+   "at": [
+    14166,
+    13174
+   ],
+   "y": 84,
+   "yaw": 3.1416,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     5.73,
+     3.22
+    ]
+   },
+   "height": 4.6
+  },
+  {
+   "id": "objqwkfq",
+   "type": "built:bvill002",
+   "at": [
+    14168,
+    13202
+   ],
+   "y": 84,
+   "yaw": 4.7124,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     4.55,
+     2.65
+    ]
+   },
+   "height": 6
+  },
+  {
+   "id": "objr9q2q",
+   "type": "built:bvill004",
+   "at": [
+    14160,
+    13208
+   ],
+   "y": 84,
+   "yaw": 0.2618,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     3.64,
+     3.64
+    ]
+   },
+   "height": 3.5
+  },
+  {
+   "id": "obj19n87",
+   "type": "built:bvill001",
+   "at": [
+    14140,
+    13208
+   ],
+   "y": 84,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     2.25,
+     2.25
+    ]
+   },
+   "height": 3
+  },
+  {
+   "id": "obj900v5",
+   "type": "built:bcave012",
+   "at": [
+    14134,
+    13176
+   ],
+   "y": 84,
+   "yaw": 2.0944,
+   "scale": 1.3,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     5.46,
+     3.38
+    ]
+   },
+   "height": 1.82
+  },
+  {
+   "id": "objoz0ii",
+   "type": "built:bcave017",
+   "at": [
+    14172,
+    13188
+   ],
+   "y": 84,
+   "yaw": 4.7124,
+   "scale": 1.2,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     8.4,
+     7.2
+    ]
+   },
+   "height": 3.72
+  },
+  {
+   "id": "obj1dlk3",
+   "type": "built:bcave015",
+   "at": [
+    14140,
+    13172
+   ],
+   "y": 84,
+   "yaw": 0,
+   "scale": 1.2,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     4.92,
+     1.08
+    ]
+   },
+   "height": 8.4
+  },
+  {
+   "id": "objaauzh",
+   "type": "built:b0y8vjj1",
+   "at": [
+    14150,
+    13190
+   ],
+   "y": 84,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     2.2,
+     2.2
+    ]
+   },
+   "height": 4.6
+  },
+  {
+   "id": "objw1hzf",
+   "type": "built:bcave018",
+   "at": [
+    14128,
+    13196
+   ],
+   "y": 84,
+   "yaw": 1.5708,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     5.31,
+     1.1
+    ]
+   },
+   "height": 4.32
+  },
+  {
+   "id": "objracht",
+   "type": "built:bcave019",
+   "at": [
+    13992,
+    13050
+   ],
+   "y": 82,
+   "yaw": 1.5708,
+   "scale": 1.1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     1.54,
+     1.32
+    ]
+   },
+   "height": 9.46
+  },
+  {
+   "id": "objuie7y",
+   "type": "built:bcave019",
+   "at": [
+    14008,
+    13046
+   ],
+   "y": 81.24,
+   "yaw": 1.5708,
+   "scale": 1.1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     1.54,
+     1.32
+    ]
+   },
+   "height": 9.46
+  },
+  {
+   "id": "objxpzv4",
+   "type": "built:bcave013",
+   "at": [
+    14012,
+    13020
+   ],
+   "y": 80,
+   "yaw": 0.5236,
+   "scale": 1.2,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     6.24,
+     4.62
+    ]
+   },
+   "height": 1.812
+  },
+  {
+   "id": "objh1tah",
+   "type": "built:b04wcic6",
+   "at": [
+    14004,
+    13030
+   ],
+   "y": 80,
+   "yaw": 1.3963,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 2.33
+   },
+   "height": 0.23
+  },
+  {
+   "id": "objmq4e4",
+   "type": "built:b056c415",
+   "at": [
+    14030,
+    12996
+   ],
+   "y": 80,
+   "yaw": 0.1745,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 2.23
+   },
+   "height": 0.23
+  },
+  {
+   "id": "objcqsyy",
+   "type": "built:bcave011",
+   "at": [
+    14024,
+    13008
+   ],
+   "y": 80,
+   "yaw": 2.618,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     3.7,
+     2.4
+    ]
+   },
+   "height": 0.3
+  },
+  {
+   "id": "objx91pr",
+   "type": "built:b05gbpq4",
+   "at": [
+    14045,
+    12990
+   ],
+   "y": 80,
+   "yaw": 3.4907,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 2.04
+   },
+   "height": 0.23
+  },
+  {
+   "id": "objbq6k3",
+   "type": "built:bruin014",
+   "at": [
+    14066,
+    12972
+   ],
+   "y": 80,
+   "yaw": 0.3491,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     7.62,
+     5.18
+    ]
+   },
+   "height": 3.25
+  },
+  {
+   "id": "objt4l1u",
+   "type": "built:bruin014",
+   "at": [
+    14056,
+    12989
+   ],
+   "y": 80,
+   "yaw": 3.4907,
+   "scale": 0.9,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     6.858,
+     4.662
+    ]
+   },
+   "height": 2.925
+  },
+  {
+   "id": "objdkb4r",
+   "type": "built:bcave013",
+   "at": [
+    14072,
+    12985
+   ],
+   "y": 80,
+   "yaw": 1.5708,
+   "scale": 1.3,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     6.76,
+     5.005
+    ]
+   },
+   "height": 1.963
+  },
+  {
+   "id": "objs9y4n",
+   "type": "built:bcave013",
+   "at": [
+    14052,
+    12978
+   ],
+   "y": 80,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     5.2,
+     3.85
+    ]
+   },
+   "height": 1.51
+  },
+  {
+   "id": "obj9tznp",
+   "type": "built:b0ulqiop",
+   "at": [
+    14085,
+    12980
+   ],
+   "y": 78.25,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "circle": 1.41
+   },
+   "height": 1.5
+  },
+  {
+   "id": "objd4x08",
+   "type": "built:b0u1rbar",
+   "at": [
+    14095,
+    12994
+   ],
+   "y": 78,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     2.51,
+     1.97
+    ]
+   },
+   "height": 1.5
+  },
+  {
+   "id": "obj2mzb1",
+   "type": "built:b04mcwn7",
+   "at": [
+    14100,
+    12985
+   ],
+   "y": 78,
+   "yaw": 0.6981,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 2.1
+   },
+   "height": 0.23
+  },
+  {
+   "id": "objqc4fo",
+   "type": "built:b136ooz6",
+   "at": [
+    14090,
+    12982
+   ],
+   "y": 78,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 0.71
+   },
+   "height": 6.4
+  },
+  {
+   "id": "obj23jey",
+   "type": "built:b136ooz6",
+   "at": [
+    14104,
+    12998
+   ],
+   "y": 78,
+   "yaw": 3.1416,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 0.71
+   },
+   "height": 6.4
+  },
+  {
+   "id": "obj09dsu",
+   "type": "built:b0g4ukku",
+   "at": [
+    14150,
+    13034
+   ],
+   "y": 78,
+   "yaw": 0,
+   "scale": 1.3,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     6.24,
+     10.92
+    ]
+   },
+   "height": 4.81
+  },
+  {
+   "id": "objc6ho0",
+   "type": "built:b1ra297v",
+   "at": [
+    14150,
+    13008
+   ],
+   "y": 78,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     6.4,
+     3.5
+    ]
+   },
+   "height": 3.58
+  },
+  {
+   "id": "obj8t0oh",
+   "type": "built:b1ii2dxz",
+   "at": [
+    14141,
+    13008
+   ],
+   "y": 78,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     2,
+     2
+    ]
+   },
+   "height": 5.5
+  },
+  {
+   "id": "objymdhs",
+   "type": "built:b1ii2dxz",
+   "at": [
+    14159,
+    13008
+   ],
+   "y": 78,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     2,
+     2
+    ]
+   },
+   "height": 5.5
+  },
+  {
+   "id": "objisce3",
+   "type": "built:b04ckfvd",
+   "at": [
+    14150,
+    13054
+   ],
+   "y": 78,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     2.6,
+     6.6
+    ]
+   },
+   "height": 1.35
+  },
+  {
+   "id": "objs1siz",
+   "type": "built:b1wuy1kn",
+   "at": [
+    14165.4,
+    13048.4
+   ],
+   "y": 78,
+   "yaw": 0.6981,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     7.22,
+     6.6
+    ]
+   },
+   "height": 1.65
+  },
+  {
+   "id": "objz64oa",
+   "type": "built:b0zqhliq",
+   "at": [
+    14173.6,
+    13034.2
+   ],
+   "y": 78,
+   "yaw": 1.3963,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     3.45,
+     8.05
+    ]
+   },
+   "height": 3.8
+  },
+  {
+   "id": "objb6hm0",
+   "type": "built:b04ckfvd",
+   "at": [
+    14170.8,
+    13018
+   ],
+   "y": 78,
+   "yaw": 2.0944,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     2.6,
+     6.6
+    ]
+   },
+   "height": 1.35
+  },
+  {
+   "id": "obj6wdq6",
+   "type": "built:b04ckfvd",
+   "at": [
+    14129.2,
+    13018
+   ],
+   "y": 78,
+   "yaw": 4.1888,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     2.6,
+     6.6
+    ]
+   },
+   "height": 1.35
+  },
+  {
+   "id": "objrdfys",
+   "type": "built:b1wuy1kn",
+   "at": [
+    14126.4,
+    13034.2
+   ],
+   "y": 78,
+   "yaw": 4.8869,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     7.22,
+     6.6
+    ]
+   },
+   "height": 1.65
+  },
+  {
+   "id": "obj928it",
+   "type": "built:b0zqhliq",
+   "at": [
+    14134.6,
+    13048.4
+   ],
+   "y": 78,
+   "yaw": 5.5851,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     3.45,
+     8.05
+    ]
+   },
+   "height": 3.8
+  },
+  {
+   "id": "objiy726",
+   "type": "built:b0ulqiop",
+   "at": [
+    14136,
+    13044
+   ],
+   "y": 78,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "circle": 1.41
+   },
+   "height": 1.5
+  },
+  {
+   "id": "obje19r3",
+   "type": "built:b0trrpls",
+   "at": [
+    14164,
+    13044
+   ],
+   "y": 78,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     2.04,
+     2.93
+    ]
+   },
+   "height": 1.5
+  },
+  {
+   "id": "objfrkjr",
+   "type": "built:b0vfpbrm",
+   "at": [
+    14134,
+    13018
+   ],
+   "y": 78,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "rect": [
+     1.81,
+     2.26
+    ]
+   },
+   "height": 1.5
+  },
+  {
+   "id": "objfmens",
+   "type": "built:b0x9tw20",
+   "at": [
+    14165,
+    13020
+   ],
+   "y": 78,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "circle": 1.98
+   },
+   "height": 1.34
+  },
+  {
+   "id": "obja2evf",
+   "type": "built:b04wcic6",
+   "at": [
+    14144,
+    13048
+   ],
+   "y": 78,
+   "yaw": 0,
+   "scale": 1,
+   "cave": "old-mine",
+   "footprint": {
+    "open": 2.33
+   },
+   "height": 0.23
   }
  ],
  "slabs": [

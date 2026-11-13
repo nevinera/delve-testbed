@@ -723,6 +723,531 @@
       "levels": 5,
       "respawn": 120,
       "wander": 40
+    },
+    {
+      "id": "mobsvvdj",
+      "creature": "stock/kobold-spearman",
+      "wander": 4,
+      "at": [
+        13997,
+        84.3,
+        13214
+      ],
+      "yaw": 0,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobvtwky",
+      "creature": "stock/kobold-slinger",
+      "wander": 4,
+      "at": [
+        14003,
+        84.2,
+        13152
+      ],
+      "yaw": 0,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mob519lr",
+      "creature": "stock/kobold-runt",
+      "wander": 4,
+      "at": [
+        13994,
+        84.2,
+        13186
+      ],
+      "yaw": 90,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mob037pu",
+      "creature": "stock/kobold-runt",
+      "wander": 4,
+      "at": [
+        14006,
+        84.2,
+        13180
+      ],
+      "yaw": 270,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "moby1m8o",
+      "creature": "stock/kobold-spearman",
+      "wander": 4,
+      "at": [
+        13990,
+        82.2,
+        13094
+      ],
+      "yaw": 0,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobehkew",
+      "creature": "stock/kobold-skulker",
+      "wander": 4,
+      "at": [
+        13985,
+        82.2,
+        13110
+      ],
+      "yaw": 0,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobbld6t",
+      "creature": "stock/kobold-spearman",
+      "wander": 4,
+      "at": [
+        13872,
+        80.2,
+        13112
+      ],
+      "yaw": 45,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobxj458",
+      "creature": "stock/kobold-spearman",
+      "wander": 4,
+      "at": [
+        13890,
+        80.2,
+        13130
+      ],
+      "yaw": 220,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobqmuak",
+      "creature": "stock/kobold-slinger",
+      "wander": 4,
+      "at": [
+        13868,
+        80.2,
+        13128
+      ],
+      "yaw": 90,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mob5vq2d",
+      "creature": "stock/kobold-geomancer",
+      "wander": 4,
+      "at": [
+        13882,
+        80.2,
+        13104
+      ],
+      "yaw": 0,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobc4g6q",
+      "creature": "stock/kobold-skulker",
+      "wander": 4,
+      "at": [
+        13900,
+        80.2,
+        13118
+      ],
+      "yaw": 270,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobaz91d",
+      "creature": "stock/kobold-runt",
+      "wander": 4,
+      "at": [
+        13878,
+        80.2,
+        13140
+      ],
+      "yaw": 180,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobqt4do",
+      "creature": "stock/kobold-spearman",
+      "wander": 4,
+      "at": [
+        14140,
+        84.2,
+        13186
+      ],
+      "yaw": 90,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobze5gh",
+      "creature": "stock/kobold-slinger",
+      "wander": 4,
+      "at": [
+        14158,
+        84.2,
+        13196
+      ],
+      "yaw": 270,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobk0ad0",
+      "creature": "stock/kobold-spearman",
+      "wander": 4,
+      "at": [
+        14162,
+        84.2,
+        13182
+      ],
+      "yaw": 300,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobqc3m8",
+      "creature": "stock/kobold-geomancer",
+      "wander": 4,
+      "at": [
+        14152,
+        84.2,
+        13202
+      ],
+      "yaw": 180,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobmzlun",
+      "creature": "stock/kobold-runt",
+      "wander": 4,
+      "at": [
+        14134,
+        84.2,
+        13198
+      ],
+      "yaw": 60,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobku9wt",
+      "creature": "stock/kobold-skulker",
+      "wander": 4,
+      "at": [
+        14110,
+        84.2,
+        13192
+      ],
+      "yaw": 90,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobtkyo9",
+      "creature": "stock/kobold-spearman",
+      "wander": 4,
+      "at": [
+        14002,
+        80.3,
+        13036
+      ],
+      "yaw": 0,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mob9y3u9",
+      "creature": "stock/kobold-spearman",
+      "wander": 4,
+      "at": [
+        14010,
+        80.2,
+        13028
+      ],
+      "yaw": 0,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobkmcab",
+      "creature": "stock/kobold-slinger",
+      "wander": 4,
+      "at": [
+        13998,
+        82.1,
+        13048
+      ],
+      "yaw": 0,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobeythk",
+      "creature": "stock/kobold-geomancer",
+      "wander": 4,
+      "at": [
+        14004,
+        82.2,
+        13058
+      ],
+      "yaw": 0,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobnxym7",
+      "creature": "stock/skeleton-warrior",
+      "wander": 4,
+      "at": [
+        14028,
+        80.2,
+        13004
+      ],
+      "yaw": 180,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobm1ymf",
+      "creature": "stock/skeleton-warrior",
+      "wander": 4,
+      "at": [
+        14038,
+        80.2,
+        12994
+      ],
+      "yaw": 180,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobayrpk",
+      "creature": "stock/zombie",
+      "wander": 4,
+      "at": [
+        14058,
+        80.2,
+        12982
+      ],
+      "yaw": 230,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobixj6l",
+      "creature": "stock/skeleton-warrior",
+      "wander": 4,
+      "at": [
+        14098,
+        78.2,
+        12990
+      ],
+      "yaw": 270,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mob5zc8q",
+      "creature": "stock/skeleton-archer",
+      "wander": 4,
+      "at": [
+        14116,
+        78.2,
+        12996
+      ],
+      "yaw": 250,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobtnnob",
+      "creature": "stock/skeleton-warrior",
+      "wander": 4,
+      "at": [
+        14134,
+        78.2,
+        13018
+      ],
+      "yaw": 220,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "moblm47v",
+      "creature": "stock/skeleton-warrior",
+      "wander": 4,
+      "at": [
+        14168,
+        78.2,
+        13044
+      ],
+      "yaw": 140,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "moba8pmy",
+      "creature": "stock/skeleton-archer",
+      "wander": 4,
+      "at": [
+        14168,
+        78.2,
+        13016
+      ],
+      "yaw": 260,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobhmqbc",
+      "creature": "stock/zombie",
+      "wander": 4,
+      "at": [
+        14136,
+        78.2,
+        13046
+      ],
+      "yaw": 90,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mobrbrve",
+      "creature": "stock/skeleton-mage",
+      "wander": 4,
+      "at": [
+        14158,
+        78.2,
+        13052
+      ],
+      "yaw": 180,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 240
+    },
+    {
+      "id": "mob0k2sa",
+      "creature": "barrowld",
+      "wander": 0,
+      "at": [
+        14150,
+        78.2,
+        13014
+      ],
+      "yaw": 0,
+      "levels": 8,
+      "respawn": 300
     }
   ]
 }
