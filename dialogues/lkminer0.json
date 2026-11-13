@@ -1,0 +1,23 @@
+{
+  "id": "lkminer0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Garrick wants ore faster than the carts bring it. Learn to dig and he'll buy every lump.",
+      "choices": [
+        {
+          "text": "Can you teach me mining?",
+          "do": "train"
+        },
+        {
+          "text": "What have you got for sale?",
+          "do": "vendor"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    }
+  }
+}

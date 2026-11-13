@@ -1,0 +1,23 @@
+{
+  "id": "lktailr0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Homespun, linen, a good cloak for the road. And if you'd rather sew your own, sit down.",
+      "choices": [
+        {
+          "text": "Can you teach me tailoring?",
+          "do": "train"
+        },
+        {
+          "text": "What have you got for sale?",
+          "do": "vendor"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    }
+  }
+}

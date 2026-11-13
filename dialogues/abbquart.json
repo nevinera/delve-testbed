@@ -14,7 +14,11 @@
           "next": "t1"
         },
         {
-          "text": "Have you food and drink to spare?",
+          "text": "Can you teach me cooking?",
+          "do": "train"
+        },
+        {
+          "text": "What have you got for sale?",
           "do": "vendor"
         },
         {

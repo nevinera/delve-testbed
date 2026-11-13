@@ -19,6 +19,10 @@
           "next": "hello"
         },
         {
+          "text": "Can you teach me first aid?",
+          "do": "train"
+        },
+        {
           "text": "Goodbye.",
           "do": "close"
         }

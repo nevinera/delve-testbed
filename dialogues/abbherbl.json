@@ -14,6 +14,10 @@
           "next": "t1"
         },
         {
+          "text": "Can you teach me herbalism?",
+          "do": "train"
+        },
+        {
           "text": "Goodbye.",
           "do": "close"
         }

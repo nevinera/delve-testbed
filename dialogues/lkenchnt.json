@@ -1,0 +1,23 @@
+{
+  "id": "lkenchnt",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Everything holds a little magic, if you know where to press. I can teach you where.",
+      "choices": [
+        {
+          "text": "Can you teach me enchanting?",
+          "do": "train"
+        },
+        {
+          "text": "What have you got for sale?",
+          "do": "vendor"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    }
+  }
+}

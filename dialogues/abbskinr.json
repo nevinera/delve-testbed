@@ -1,0 +1,23 @@
+{
+  "id": "abbskinr",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Nothing that falls in the vale goes to waste here. Hides, sinew, all of it. Want to learn?",
+      "choices": [
+        {
+          "text": "Can you teach me skinning?",
+          "do": "train"
+        },
+        {
+          "text": "What have you got for sale?",
+          "do": "vendor"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    }
+  }
+}

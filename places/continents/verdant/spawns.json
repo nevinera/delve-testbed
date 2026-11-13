@@ -777,7 +777,11 @@
       "yaw": 300,
       "wander": 0,
       "title": "Novice",
-      "dialogue": "abbnovic"
+      "dialogue": "abbnovic",
+      "trains": {
+        "profession": "first-aid",
+        "upTo": "Apprentice"
+      }
     },
     {
       "id": "abbabbot",
@@ -822,7 +826,11 @@
       "yaw": 270,
       "wander": 0,
       "title": "Herbalist",
-      "dialogue": "abbherbl"
+      "dialogue": "abbherbl",
+      "trains": {
+        "profession": "herbalism",
+        "upTo": "Journeyman"
+      }
     },
     {
       "id": "abbquart",
@@ -843,8 +851,14 @@
           "stock/oat-cake",
           "stock/well-water",
           "stock/smoked-sausage",
-          "stock/mint-tea"
+          "stock/mint-tea",
+          "stock/mild-spices",
+          "stock/flour"
         ]
+      },
+      "trains": {
+        "profession": "cooking",
+        "upTo": "Apprentice"
       }
     },
     {
@@ -918,7 +932,11 @@
       "wander": 0,
       "title": "Priest of Lakeford",
       "dialogue": "lkpriest",
-      "lean": "masculine"
+      "lean": "masculine",
+      "trains": {
+        "profession": "first-aid",
+        "upTo": "Journeyman"
+      }
     },
     {
       "id": "mobgl001",
@@ -2028,7 +2046,14 @@
       ],
       "yaw": 160,
       "levels": 10,
-      "respawn": 300
+      "respawn": 300,
+      "vendor": {
+        "sells": [
+          "stock/oat-cake",
+          "stock/well-water",
+          "stock/flour"
+        ]
+      }
     },
     {
       "id": "asheldst",
@@ -2948,7 +2973,14 @@
       ],
       "yaw": 180,
       "levels": 10,
-      "respawn": 300
+      "respawn": 300,
+      "vendor": {
+        "sells": [
+          "stock/oat-cake",
+          "stock/well-water",
+          "stock/mild-spices"
+        ]
+      }
     },
     {
       "id": "whhand00",
@@ -3455,7 +3487,25 @@
       ],
       "yaw": 0,
       "levels": 10,
-      "respawn": 300
+      "respawn": 300,
+      "vendor": {
+        "sells": [
+          "stock/oat-cake",
+          "stock/well-water",
+          "stock/smoked-sausage",
+          "stock/mint-tea",
+          "stock/roast-fowl",
+          "stock/honeyed-milk",
+          "stock/mild-spices",
+          "stock/hot-spices",
+          "stock/flour",
+          "stock/cooking-oil"
+        ]
+      },
+      "trains": {
+        "profession": "cooking",
+        "upTo": "Journeyman"
+      }
     },
     {
       "id": "lkfisher",
@@ -3472,7 +3522,16 @@
       ],
       "yaw": 180,
       "levels": 10,
-      "respawn": 300
+      "respawn": 300,
+      "vendor": {
+        "sells": [
+          "stock/fishing-pole"
+        ]
+      },
+      "trains": {
+        "profession": "fishing",
+        "upTo": "Journeyman"
+      }
     },
     {
       "id": "lkhunter",
@@ -3489,7 +3548,17 @@
       ],
       "yaw": 0,
       "levels": 10,
-      "respawn": 300
+      "respawn": 300,
+      "vendor": {
+        "sells": [
+          "stock/skinning-knife",
+          "stock/salt"
+        ]
+      },
+      "trains": {
+        "profession": "skinning",
+        "upTo": "Journeyman"
+      }
     },
     {
       "id": "lkmessgr",
@@ -3559,7 +3628,7 @@
       "id": "lkstall0",
       "npc": "townfolk",
       "wander": 0,
-      "name": "Stall Keeper",
+      "name": "Dora Mayhew",
       "at": [
         15950,
         20.4,
@@ -3567,7 +3636,24 @@
       ],
       "yaw": 180,
       "levels": 10,
-      "respawn": 300
+      "respawn": 300,
+      "vendor": {
+        "sells": [
+          "stock/oat-cake",
+          "stock/well-water",
+          "stock/smoked-sausage",
+          "stock/mint-tea",
+          "stock/coarse-thread",
+          "stock/glass-vial",
+          "stock/enchanting-vellum",
+          "stock/mining-pick",
+          "stock/skinning-knife",
+          "stock/fishing-pole",
+          "stock/smithing-hammer",
+          "stock/spanner"
+        ]
+      },
+      "title": "General Goods"
     },
     {
       "id": "lkkid001",
@@ -5261,7 +5347,18 @@
       ],
       "yaw": 180,
       "levels": 10,
-      "respawn": 300
+      "respawn": 300,
+      "vendor": {
+        "sells": [
+          "stock/fishing-pole",
+          "stock/pitchfork",
+          "stock/boar-spear"
+        ]
+      },
+      "trains": {
+        "profession": "fishing",
+        "upTo": "Journeyman"
+      }
     },
     {
       "id": "swcook00",
@@ -5278,7 +5375,23 @@
       ],
       "yaw": 0,
       "levels": 10,
-      "respawn": 300
+      "respawn": 300,
+      "vendor": {
+        "sells": [
+          "stock/oat-cake",
+          "stock/well-water",
+          "stock/smoked-sausage",
+          "stock/mint-tea",
+          "stock/mild-spices",
+          "stock/salt",
+          "stock/cooking-oil",
+          "stock/flour"
+        ]
+      },
+      "trains": {
+        "profession": "cooking",
+        "upTo": "Journeyman"
+      }
     },
     {
       "id": "swdefnd1",
@@ -5331,7 +5444,14 @@
       ],
       "yaw": 200,
       "levels": 10,
-      "respawn": 300
+      "respawn": 300,
+      "vendor": {
+        "sells": [
+          "stock/fishing-pole",
+          "stock/coarse-thread",
+          "stock/salt"
+        ]
+      }
     },
     {
       "id": "swnetmn2",
@@ -6609,7 +6729,15 @@
       ],
       "yaw": 180,
       "levels": 10,
-      "respawn": 300
+      "respawn": 300,
+      "vendor": {
+        "sells": [
+          "stock/short-bow",
+          "stock/longbow",
+          "stock/small-crossbow",
+          "stock/heavy-crossbow"
+        ]
+      }
     },
     {
       "id": "rwrecrt0",
@@ -6638,7 +6766,15 @@
       ],
       "yaw": 0,
       "levels": 10,
-      "respawn": 300
+      "respawn": 300,
+      "vendor": {
+        "sells": [
+          "stock/smoked-sausage",
+          "stock/mint-tea",
+          "stock/roast-fowl",
+          "stock/honeyed-milk"
+        ]
+      }
     },
     {
       "id": "rwsoldr0",
@@ -8524,7 +8660,24 @@
       ],
       "yaw": 0,
       "levels": 10,
-      "respawn": 300
+      "respawn": 300,
+      "vendor": {
+        "sells": [
+          "stock/smithing-hammer",
+          "stock/mining-pick",
+          "stock/battered-helm",
+          "stock/battered-breastplate",
+          "stock/battered-legplates",
+          "stock/militia-helm",
+          "stock/militia-breastplate",
+          "stock/militia-legplates",
+          "stock/militia-shield"
+        ]
+      },
+      "trains": {
+        "profession": "blacksmithing",
+        "upTo": "Journeyman"
+      }
     },
     {
       "id": "pgmulet0",
@@ -8538,7 +8691,15 @@
       ],
       "yaw": 90,
       "levels": 10,
-      "respawn": 300
+      "respawn": 300,
+      "vendor": {
+        "sells": [
+          "stock/smoked-sausage",
+          "stock/mint-tea",
+          "stock/roast-fowl",
+          "stock/honeyed-milk"
+        ]
+      }
     },
     {
       "id": "pgsentr1",
@@ -9179,6 +9340,407 @@
       "respawn": 120,
       "wander": 40,
       "spawnArea": "spsplepd"
+    },
+    {
+      "id": "abbminer",
+      "npc": "keeper01",
+      "wander": 2,
+      "vendor": {
+        "sells": [
+          "stock/mining-pick"
+        ]
+      },
+      "trains": {
+        "profession": "mining",
+        "upTo": "Journeyman"
+      },
+      "name": "Keeper Corra Flint",
+      "title": "Miner",
+      "dialogue": "abbminer",
+      "at": [
+        13090,
+        26.3,
+        13065
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "abbskinr",
+      "npc": "keeper01",
+      "wander": 2,
+      "vendor": {
+        "sells": [
+          "stock/skinning-knife",
+          "stock/salt"
+        ]
+      },
+      "trains": {
+        "profession": "skinning",
+        "upTo": "Journeyman"
+      },
+      "name": "Keeper Edda Thorne",
+      "title": "Skinner",
+      "dialogue": "abbskinr",
+      "at": [
+        13055,
+        25.6,
+        13040
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "abbfishr",
+      "npc": "keeper01",
+      "wander": 2,
+      "vendor": {
+        "sells": [
+          "stock/fishing-pole"
+        ]
+      },
+      "trains": {
+        "profession": "fishing",
+        "upTo": "Journeyman"
+      },
+      "name": "Keeper Silas Reed",
+      "title": "Fisher",
+      "dialogue": "abbfishr",
+      "at": [
+        13035,
+        27.6,
+        13010
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lksmith0",
+      "npc": "townfolk",
+      "wander": 2,
+      "vendor": {
+        "sells": [
+          "stock/smithing-hammer",
+          "stock/mining-pick",
+          "stock/ringmail-coif",
+          "stock/ringmail-spaulders",
+          "stock/ringmail-gloves",
+          "stock/ringmail-leggings",
+          "stock/battered-helm",
+          "stock/battered-pauldrons",
+          "stock/battered-breastplate",
+          "stock/battered-vambraces",
+          "stock/battered-gauntlets",
+          "stock/battered-girdle",
+          "stock/battered-legplates",
+          "stock/battered-sabatons",
+          "stock/plank-buckler",
+          "stock/militia-shield",
+          "stock/worn-shortsword",
+          "stock/worn-hatchet",
+          "stock/worn-cudgel",
+          "stock/worn-greatsword",
+          "stock/worn-sledge",
+          "stock/felling-axe",
+          "stock/broadsword",
+          "stock/bearded-axe",
+          "stock/flanged-mace"
+        ]
+      },
+      "trains": {
+        "profession": "blacksmithing",
+        "upTo": "Journeyman"
+      },
+      "name": "Garrick Hale",
+      "title": "Blacksmith",
+      "dialogue": "lksmith0",
+      "at": [
+        16090,
+        18.2,
+        16905
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lkminer0",
+      "npc": "townfolk",
+      "wander": 2,
+      "vendor": {
+        "sells": [
+          "stock/mining-pick"
+        ]
+      },
+      "trains": {
+        "profession": "mining",
+        "upTo": "Journeyman"
+      },
+      "name": "Agnes Cobb",
+      "title": "Miner",
+      "dialogue": "lkminer0",
+      "at": [
+        16125,
+        18.3,
+        16900
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lkherbl0",
+      "npc": "townfolk",
+      "wander": 2,
+      "trains": {
+        "profession": "herbalism",
+        "upTo": "Journeyman"
+      },
+      "name": "Rosalind Pike",
+      "title": "Herbalist",
+      "dialogue": "lkherbl0",
+      "at": [
+        15935,
+        16.7,
+        16890
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lkalchm0",
+      "npc": "townfolk",
+      "wander": 2,
+      "vendor": {
+        "sells": [
+          "stock/glass-vial",
+          "stock/leaded-vial"
+        ]
+      },
+      "trains": {
+        "profession": "alchemy",
+        "upTo": "Journeyman"
+      },
+      "name": "Ned Tansy",
+      "title": "Alchemist",
+      "dialogue": "lkalchm0",
+      "at": [
+        15905,
+        12.7,
+        16760
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lkenchnt",
+      "npc": "townfolk",
+      "wander": 2,
+      "vendor": {
+        "sells": [
+          "stock/enchanting-vellum",
+          "stock/copper-rod"
+        ]
+      },
+      "trains": {
+        "profession": "enchanting",
+        "upTo": "Journeyman"
+      },
+      "name": "Ysolde Varn",
+      "title": "Enchanter",
+      "dialogue": "lkenchnt",
+      "at": [
+        15935,
+        12.4,
+        16760
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lktailr0",
+      "npc": "townfolk",
+      "wander": 2,
+      "vendor": {
+        "sells": [
+          "stock/coarse-thread",
+          "stock/fine-thread",
+          "stock/linen-hood",
+          "stock/linen-mantle",
+          "stock/linen-cuffs",
+          "stock/homespun-hood",
+          "stock/homespun-mantle",
+          "stock/homespun-robe",
+          "stock/homespun-cuffs",
+          "stock/homespun-gloves",
+          "stock/homespun-sash",
+          "stock/homespun-trousers",
+          "stock/homespun-shoes",
+          "stock/travelers-cloak",
+          "stock/oak-wand",
+          "stock/yew-wand",
+          "stock/walking-staff",
+          "stock/quarterstaff",
+          "stock/polished-orb"
+        ]
+      },
+      "trains": {
+        "profession": "tailoring",
+        "upTo": "Journeyman"
+      },
+      "name": "Mercy Whitlock",
+      "title": "Tailor",
+      "dialogue": "lktailr0",
+      "at": [
+        15990,
+        13.8,
+        16775
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lktannr0",
+      "npc": "townfolk",
+      "wander": 2,
+      "vendor": {
+        "sells": [
+          "stock/coarse-thread",
+          "stock/fine-thread",
+          "stock/salt",
+          "stock/hide-cap",
+          "stock/hide-shoulderpads",
+          "stock/tanned-cap",
+          "stock/tanned-shoulderpads",
+          "stock/tanned-jerkin",
+          "stock/tanned-bracers",
+          "stock/tanned-gloves",
+          "stock/tanned-belt",
+          "stock/tanned-leggings",
+          "stock/tanned-boots",
+          "stock/worn-dagger",
+          "stock/stiletto",
+          "stock/worn-knuckles",
+          "stock/brass-knuckles"
+        ]
+      },
+      "trains": {
+        "profession": "leatherworking",
+        "upTo": "Journeyman"
+      },
+      "name": "Bram Hollis",
+      "title": "Leatherworker",
+      "dialogue": "lktannr0",
+      "at": [
+        15880,
+        30.8,
+        17165
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lktinkr0",
+      "npc": "townfolk",
+      "wander": 2,
+      "vendor": {
+        "sells": [
+          "stock/spanner",
+          "stock/pitted-musket",
+          "stock/fowling-piece"
+        ]
+      },
+      "trains": {
+        "profession": "engineering",
+        "upTo": "Journeyman"
+      },
+      "name": "Pim Gearing",
+      "title": "Engineer",
+      "dialogue": "lktinkr0",
+      "at": [
+        16010,
+        21.5,
+        16960
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "rwquart0",
+      "npc": "soldier0",
+      "wander": 2,
+      "vendor": {
+        "sells": [
+          "stock/chainmail-coif",
+          "stock/chainmail-spaulders",
+          "stock/chainmail-hauberk",
+          "stock/chainmail-bracers",
+          "stock/chainmail-gloves",
+          "stock/chainmail-belt",
+          "stock/chainmail-leggings",
+          "stock/chainmail-boots",
+          "stock/militia-helm",
+          "stock/militia-pauldrons",
+          "stock/militia-breastplate",
+          "stock/militia-vambraces",
+          "stock/militia-gauntlets",
+          "stock/militia-girdle",
+          "stock/militia-legplates",
+          "stock/militia-sabatons",
+          "stock/militia-shield",
+          "stock/broadsword",
+          "stock/flanged-mace",
+          "stock/claymore",
+          "stock/battle-axe",
+          "stock/war-maul",
+          "stock/boar-spear"
+        ]
+      },
+      "name": "Quartermaster Ilsa Brook",
+      "title": "Quartermaster",
+      "dialogue": "rwquart0",
+      "at": [
+        20200,
+        62.8,
+        16385
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "pgminer0",
+      "npc": "gatesol0",
+      "wander": 2,
+      "vendor": {
+        "sells": [
+          "stock/mining-pick"
+        ]
+      },
+      "trains": {
+        "profession": "mining",
+        "upTo": "Journeyman"
+      },
+      "name": "Tobias Rake",
+      "title": "Miner",
+      "dialogue": "pgminer0",
+      "at": [
+        15580,
+        40.1,
+        13430
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
     }
   ]
 }

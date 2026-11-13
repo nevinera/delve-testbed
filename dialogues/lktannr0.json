@@ -1,0 +1,23 @@
+{
+  "id": "lktannr0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Smell's the tannery, not me. Mostly. Leather for the road, or lessons, take your pick.",
+      "choices": [
+        {
+          "text": "Can you teach me leatherworking?",
+          "do": "train"
+        },
+        {
+          "text": "What have you got for sale?",
+          "do": "vendor"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    }
+  }
+}

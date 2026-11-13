@@ -10,6 +10,14 @@
           "next": "t0"
         },
         {
+          "text": "Can you teach me cooking?",
+          "do": "train"
+        },
+        {
+          "text": "What have you got for sale?",
+          "do": "vendor"
+        },
+        {
           "text": "Goodbye.",
           "do": "close"
         }

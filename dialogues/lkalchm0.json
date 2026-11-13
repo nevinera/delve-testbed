@@ -1,0 +1,23 @@
+{
+  "id": "lkalchm0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Don't touch the green one. Or the other green one. What can I do for you?",
+      "choices": [
+        {
+          "text": "Can you teach me alchemy?",
+          "do": "train"
+        },
+        {
+          "text": "What have you got for sale?",
+          "do": "vendor"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    }
+  }
+}

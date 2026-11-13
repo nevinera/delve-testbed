@@ -10,6 +10,10 @@
           "next": "t0"
         },
         {
+          "text": "What have you got for sale?",
+          "do": "vendor"
+        },
+        {
           "text": "Goodbye.",
           "do": "close"
         }

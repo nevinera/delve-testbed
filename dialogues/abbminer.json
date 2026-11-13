@@ -1,0 +1,23 @@
+{
+  "id": "abbminer",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "The abbey's walls came out of that hill, a stone at a time. I can show you how to find what's still in it.",
+      "choices": [
+        {
+          "text": "Can you teach me mining?",
+          "do": "train"
+        },
+        {
+          "text": "What have you got for sale?",
+          "do": "vendor"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    }
+  }
+}

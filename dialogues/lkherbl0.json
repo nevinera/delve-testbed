@@ -1,0 +1,19 @@
+{
+  "id": "lkherbl0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Father Wren lets me keep the chapel garden. Half of it's weeds, and the weeds are the useful half.",
+      "choices": [
+        {
+          "text": "Can you teach me herbalism?",
+          "do": "train"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    }
+  }
+}

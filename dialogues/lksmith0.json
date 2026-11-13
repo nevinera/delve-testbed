@@ -1,0 +1,23 @@
+{
+  "id": "lksmith0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Mind the sparks. If it's iron and it's broken, I can mend it. If it isn't made yet, I can make it.",
+      "choices": [
+        {
+          "text": "Can you teach me smithing?",
+          "do": "train"
+        },
+        {
+          "text": "What have you got for sale?",
+          "do": "vendor"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    }
+  }
+}

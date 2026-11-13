@@ -1,0 +1,23 @@
+{
+  "id": "lktinkr0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "It's a clock. Or it will be. Or it'll be a very small explosion. Either way, it's engineering.",
+      "choices": [
+        {
+          "text": "Can you teach me engineering?",
+          "do": "train"
+        },
+        {
+          "text": "What have you got for sale?",
+          "do": "vendor"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    }
+  }
+}

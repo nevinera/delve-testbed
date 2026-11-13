@@ -1,0 +1,23 @@
+{
+  "id": "pgminer0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "The old working's played out, they say. They're wrong. The trogs know it too.",
+      "choices": [
+        {
+          "text": "Can you teach me mining?",
+          "do": "train"
+        },
+        {
+          "text": "What have you got for sale?",
+          "do": "vendor"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    }
+  }
+}

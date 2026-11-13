@@ -1,0 +1,19 @@
+{
+  "id": "rwquart0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Riverwatch outfits anyone who'll stand a watch. You pay, mind. The crown doesn't.",
+      "choices": [
+        {
+          "text": "What have you got for sale?",
+          "do": "vendor"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    }
+  }
+}

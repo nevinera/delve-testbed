@@ -1,0 +1,23 @@
+{
+  "id": "abbfishr",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Patience is a virtue, they tell me. I practise mine with a line in the water.",
+      "choices": [
+        {
+          "text": "Can you teach me fishing?",
+          "do": "train"
+        },
+        {
+          "text": "What have you got for sale?",
+          "do": "vendor"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    }
+  }
+}
