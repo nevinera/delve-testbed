@@ -57,11 +57,11 @@
       ]
     },
     {
-      "id": "gathgycc",
+      "id": "gathh0ic",
       "profession": "herbalism",
       "at": [
-        -75.2,
-        1648
+        -1947.8,
+        -73.6
       ],
       "nodes": [
         "chamomile",
@@ -71,11 +71,11 @@
       "filled": true
     },
     {
-      "id": "gathweyp",
+      "id": "gath95s6",
       "profession": "herbalism",
       "at": [
-        -2628.5,
-        -1489.1
+        88.6,
+        -1124.9
       ],
       "nodes": [
         "chamomile",
@@ -85,11 +85,11 @@
       "filled": true
     },
     {
-      "id": "gath5go7",
+      "id": "gathz37a",
       "profession": "herbalism",
       "at": [
-        -2072.1,
-        1342.5
+        -831,
+        -2297
       ],
       "nodes": [
         "chamomile",
@@ -99,11 +99,11 @@
       "filled": true
     },
     {
-      "id": "gatha5es",
+      "id": "gathk0iu",
       "profession": "herbalism",
       "at": [
-        -164.4,
-        -948.5
+        -593.8,
+        -732.2
       ],
       "nodes": [
         "chamomile",
@@ -113,11 +113,11 @@
       "filled": true
     },
     {
-      "id": "gath2oht",
+      "id": "gath001i",
       "profession": "herbalism",
       "at": [
-        -302.2,
-        2102.8
+        -1790.3,
+        2390.8
       ],
       "nodes": [
         "chamomile",
@@ -127,11 +127,11 @@
       "filled": true
     },
     {
-      "id": "gathbxcp",
+      "id": "gath6f93",
       "profession": "herbalism",
       "at": [
-        -1684,
-        421.8
+        -1471.5,
+        630.2
       ],
       "nodes": [
         "chamomile",
@@ -141,11 +141,11 @@
       "filled": true
     },
     {
-      "id": "gathoriu",
+      "id": "gathzqs4",
       "profession": "herbalism",
       "at": [
-        -2031.7,
-        -1231.2
+        -2412.6,
+        -1007.2
       ],
       "nodes": [
         "chamomile",
@@ -155,11 +155,11 @@
       "filled": true
     },
     {
-      "id": "gathscv0",
+      "id": "gathnhfi",
       "profession": "herbalism",
       "at": [
-        -2062.7,
-        256.2
+        -2464.3,
+        452.2
       ],
       "nodes": [
         "chamomile",
@@ -169,11 +169,11 @@
       "filled": true
     },
     {
-      "id": "gatha4ay",
+      "id": "gathseyq",
       "profession": "herbalism",
       "at": [
-        48,
-        2327.7
+        -1412.4,
+        2623.6
       ],
       "nodes": [
         "chamomile",
@@ -183,11 +183,11 @@
       "filled": true
     },
     {
-      "id": "gathksz5",
+      "id": "gathhxil",
       "profession": "herbalism",
       "at": [
-        -1369,
-        2066.4
+        -22.2,
+        2300.9
       ],
       "nodes": [
         "chamomile",
@@ -197,11 +197,11 @@
       "filled": true
     },
     {
-      "id": "gathnj7q",
+      "id": "gathlko8",
       "profession": "herbalism",
       "at": [
-        -2432.8,
-        -2395.3
+        34.2,
+        -2224.3
       ],
       "nodes": [
         "chamomile",
@@ -211,11 +211,823 @@
       "filled": true
     },
     {
-      "id": "gathmyyc",
+      "id": "gathrv2z",
+      "profession": "herbalism",
+      "at": [
+        -544.4,
+        -1506.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathmumw",
+      "profession": "herbalism",
+      "at": [
+        -291.6,
+        966.6
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathyexk",
+      "profession": "herbalism",
+      "at": [
+        -17.1,
+        -1691.2
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathss3s",
+      "profession": "herbalism",
+      "at": [
+        -2625.9,
+        1910.9
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathpio6",
+      "profession": "herbalism",
+      "at": [
+        -1588.5,
+        -503.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathpy0z",
+      "profession": "herbalism",
+      "at": [
+        -703.3,
+        -328.2
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathuv1x",
+      "profession": "herbalism",
+      "at": [
+        -1075.9,
+        1968.2
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath0x5o",
+      "profession": "herbalism",
+      "at": [
+        -2447.8,
+        1726
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathe9ck",
+      "profession": "herbalism",
+      "at": [
+        -608.2,
+        -2104.2
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathbweh",
+      "profession": "herbalism",
+      "at": [
+        97.1,
+        1195.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath8gvw",
+      "profession": "herbalism",
+      "at": [
+        -1175.2,
+        -941.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathq3gb",
+      "profession": "herbalism",
+      "at": [
+        -1376.7,
+        -1106.4
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathxgb8",
+      "profession": "herbalism",
+      "at": [
+        134.8,
+        -931.6
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathea6a",
+      "profession": "herbalism",
+      "at": [
+        -887,
+        1544
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath35ex",
+      "profession": "herbalism",
+      "at": [
+        -149,
+        502.9
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath3ovx",
+      "profession": "herbalism",
+      "at": [
+        -1825.4,
+        1135
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath9q3g",
+      "profession": "herbalism",
+      "at": [
+        -666.6,
+        100.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathevws",
+      "profession": "herbalism",
+      "at": [
+        -195.1,
+        -1031.9
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath79fr",
+      "profession": "herbalism",
+      "at": [
+        -2526.1,
+        2187.4
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathmnaq",
+      "profession": "herbalism",
+      "at": [
+        -49.5,
+        2495.7
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathy7qw",
+      "profession": "herbalism",
+      "at": [
+        -1327.5,
+        2012.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathgv4i",
+      "profession": "herbalism",
+      "at": [
+        32.9,
+        973.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathd9fl",
+      "profession": "herbalism",
+      "at": [
+        -2624,
+        -1572.2
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathulpo",
+      "profession": "herbalism",
+      "at": [
+        -1977.3,
+        -575
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathjwnd",
+      "profession": "herbalism",
+      "at": [
+        -1451.2,
+        1490.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathxclz",
+      "profession": "herbalism",
+      "at": [
+        -618.5,
+        325
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gatho369",
+      "profession": "herbalism",
+      "at": [
+        173.9,
+        567.9
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathvzwv",
+      "profession": "herbalism",
+      "at": [
+        -497.8,
+        -392.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathyzah",
+      "profession": "herbalism",
+      "at": [
+        -1515.8,
+        809.7
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathw63l",
+      "profession": "herbalism",
+      "at": [
+        -2075.9,
+        455.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath6vt0",
+      "profession": "herbalism",
+      "at": [
+        -2366,
+        -1863.4
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathkzdy",
+      "profession": "herbalism",
+      "at": [
+        -2296.2,
+        -2072.2
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathdkvs",
+      "profession": "herbalism",
+      "at": [
+        -311,
+        -1946.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathbhpe",
+      "profession": "herbalism",
+      "at": [
+        -2128.5,
+        930.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathf3x4",
+      "profession": "herbalism",
+      "at": [
+        -1177.9,
+        379.9
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathj85g",
+      "profession": "herbalism",
+      "at": [
+        -424,
+        2188.2
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathlrdm",
+      "profession": "herbalism",
+      "at": [
+        -2514.6,
+        -1223.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath5k8r",
+      "profession": "herbalism",
+      "at": [
+        -1907.3,
+        2571.9
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath5akp",
+      "profession": "herbalism",
+      "at": [
+        -1029,
+        -1310.7
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathlmps",
+      "profession": "herbalism",
+      "at": [
+        -2385.8,
+        31
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathufqr",
+      "profession": "herbalism",
+      "at": [
+        -405.9,
+        486.4
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathce6v",
+      "profession": "herbalism",
+      "at": [
+        -86.7,
+        -2044.9
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath91ht",
+      "profession": "herbalism",
+      "at": [
+        -387,
+        689.4
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gatht6w0",
+      "profession": "herbalism",
+      "at": [
+        -1586.7,
+        -2588.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathzsiv",
+      "profession": "herbalism",
+      "at": [
+        -235.5,
+        -1349.7
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathds13",
+      "profession": "herbalism",
+      "at": [
+        -2454.4,
+        1382.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathevjz",
+      "profession": "herbalism",
+      "at": [
+        -1418.6,
+        -1710.4
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathob64",
+      "profession": "herbalism",
+      "at": [
+        -2060,
+        -2314.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathe44h",
+      "profession": "herbalism",
+      "at": [
+        -108.3,
+        -551.9
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathoa6o",
+      "profession": "herbalism",
+      "at": [
+        -1893.1,
+        1844.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gatho686",
+      "profession": "herbalism",
+      "at": [
+        -2381.6,
+        -1644.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathutwg",
+      "profession": "herbalism",
+      "at": [
+        -2073.8,
+        171.9
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathivzv",
+      "profession": "herbalism",
+      "at": [
+        -1294.4,
+        -1937.9
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathv2r5",
+      "profession": "herbalism",
+      "at": [
+        -59.9,
+        -1260.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath9rdo",
+      "profession": "herbalism",
+      "at": [
+        -2309.9,
+        1888.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath7agj",
+      "profession": "herbalism",
+      "at": [
+        -2375.6,
+        -820.4
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gatho048",
+      "profession": "herbalism",
+      "at": [
+        -385.5,
+        1845.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath12wb",
+      "profession": "herbalism",
+      "at": [
+        -1335.5,
+        -1370.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath3hv0",
       "profession": "herbalism",
       "at": [
         -127.3,
-        -1690.7
+        1419.8
       ],
       "nodes": [
         "chamomile",
@@ -225,11 +1037,11 @@
       "filled": true
     },
     {
-      "id": "gath7yqg",
+      "id": "gathn9xz",
       "profession": "herbalism",
       "at": [
-        -2452.1,
-        771.7
+        -696.4,
+        847.8
       ],
       "nodes": [
         "chamomile",
@@ -239,11 +1051,11 @@
       "filled": true
     },
     {
-      "id": "gathv17x",
+      "id": "gathrtdk",
       "profession": "herbalism",
       "at": [
-        -2446.1,
-        -1845.5
+        103,
+        1949.5
       ],
       "nodes": [
         "chamomile",
@@ -253,11 +1065,11 @@
       "filled": true
     },
     {
-      "id": "gathemd3",
+      "id": "gath1suz",
       "profession": "herbalism",
       "at": [
-        -1131.2,
-        1619.5
+        -934.1,
+        -610.9
       ],
       "nodes": [
         "chamomile",
@@ -267,11 +1079,11 @@
       "filled": true
     },
     {
-      "id": "gathlbv7",
+      "id": "gathl1da",
       "profession": "herbalism",
       "at": [
-        -1169.1,
-        -708.9
+        -1491.7,
+        -102.3
       ],
       "nodes": [
         "chamomile",
@@ -281,11 +1093,11 @@
       "filled": true
     },
     {
-      "id": "gathtjt6",
+      "id": "gathtsv3",
       "profession": "herbalism",
       "at": [
-        -299,
-        -528.4
+        -2617.1,
+        -1032.3
       ],
       "nodes": [
         "chamomile",
@@ -295,11 +1107,11 @@
       "filled": true
     },
     {
-      "id": "gathmpyi",
+      "id": "gathbgnl",
       "profession": "herbalism",
       "at": [
-        -2421,
-        1741.3
+        -1586.6,
+        1005.9
       ],
       "nodes": [
         "chamomile",
@@ -309,11 +1121,11 @@
       "filled": true
     },
     {
-      "id": "gathtczn",
+      "id": "gath87iv",
       "profession": "herbalism",
       "at": [
-        -980.5,
-        1467.7
+        -2169.1,
+        -724.9
       ],
       "nodes": [
         "chamomile",
@@ -323,11 +1135,11 @@
       "filled": true
     },
     {
-      "id": "gathwhzp",
+      "id": "gath09og",
       "profession": "herbalism",
       "at": [
-        -210.5,
-        -2290.7
+        -2576.4,
+        -725.5
       ],
       "nodes": [
         "chamomile",
@@ -337,11 +1149,11 @@
       "filled": true
     },
     {
-      "id": "gathbq8c",
+      "id": "gath6rfm",
       "profession": "herbalism",
       "at": [
-        -513.9,
-        936
+        -1692,
+        -344.9
       ],
       "nodes": [
         "chamomile",
@@ -351,11 +1163,11 @@
       "filled": true
     },
     {
-      "id": "gath6gl8",
+      "id": "gathw5ll",
       "profession": "herbalism",
       "at": [
-        -791.1,
-        -1130.3
+        -311.8,
+        -715.2
       ],
       "nodes": [
         "chamomile",
@@ -365,11 +1177,11 @@
       "filled": true
     },
     {
-      "id": "gath82w8",
+      "id": "gath1rz3",
       "profession": "herbalism",
       "at": [
-        -970.3,
-        -1286.3
+        -411.5,
+        147.4
       ],
       "nodes": [
         "chamomile",
@@ -379,11 +1191,11 @@
       "filled": true
     },
     {
-      "id": "gath356g",
+      "id": "gathy5wr",
       "profession": "herbalism",
       "at": [
-        -2284.6,
-        -1101.1
+        -2487.7,
+        661
       ],
       "nodes": [
         "chamomile",
@@ -393,11 +1205,11 @@
       "filled": true
     },
     {
-      "id": "gathkr3b",
+      "id": "gathbocz",
       "profession": "herbalism",
       "at": [
-        -2588,
-        344.5
+        166.8,
+        -1485.5
       ],
       "nodes": [
         "chamomile",
@@ -407,11 +1219,11 @@
       "filled": true
     },
     {
-      "id": "gathhd7w",
+      "id": "gath9509",
       "profession": "herbalism",
       "at": [
-        -2066.8,
-        887.2
+        -1740.3,
+        410.8
       ],
       "nodes": [
         "chamomile",
@@ -421,11 +1233,11 @@
       "filled": true
     },
     {
-      "id": "gathehbd",
+      "id": "gathdanj",
       "profession": "herbalism",
       "at": [
-        -289,
-        -107
+        -368.8,
+        1575.7
       ],
       "nodes": [
         "chamomile",
@@ -435,11 +1247,11 @@
       "filled": true
     },
     {
-      "id": "gathx68l",
+      "id": "gathjjci",
       "profession": "herbalism",
       "at": [
-        -1867.5,
-        2535.3
+        -1531.9,
+        1666.1
       ],
       "nodes": [
         "chamomile",
@@ -449,11 +1261,11 @@
       "filled": true
     },
     {
-      "id": "gathheq1",
+      "id": "gath90gf",
       "profession": "herbalism",
       "at": [
-        -2627,
-        -1166.8
+        -891.2,
+        -947.6
       ],
       "nodes": [
         "chamomile",
@@ -463,11 +1275,11 @@
       "filled": true
     },
     {
-      "id": "gathmnz4",
+      "id": "gathebjb",
       "profession": "herbalism",
       "at": [
-        -1060.3,
-        1890.8
+        112.8,
+        1668
       ],
       "nodes": [
         "chamomile",
@@ -477,11 +1289,11 @@
       "filled": true
     },
     {
-      "id": "gathfl9g",
+      "id": "gath3xee",
       "profession": "herbalism",
       "at": [
-        -1421.1,
-        2256
+        -1493.2,
+        1172.5
       ],
       "nodes": [
         "chamomile",
@@ -491,11 +1303,11 @@
       "filled": true
     },
     {
-      "id": "gathj3kx",
+      "id": "gath5c6k",
       "profession": "herbalism",
       "at": [
-        130.1,
-        1748.9
+        -12.7,
+        -2567.7
       ],
       "nodes": [
         "chamomile",
@@ -505,11 +1317,11 @@
       "filled": true
     },
     {
-      "id": "gathyrsk",
+      "id": "gath3ths",
       "profession": "herbalism",
       "at": [
-        -2220.7,
-        -1782.9
+        124.5,
+        -1926.2
       ],
       "nodes": [
         "chamomile",
@@ -519,11 +1331,11 @@
       "filled": true
     },
     {
-      "id": "gathvqmo",
+      "id": "gath87og",
       "profession": "herbalism",
       "at": [
-        -1565.7,
-        -766.9
+        -1584.6,
+        2430.1
       ],
       "nodes": [
         "chamomile",
@@ -533,11 +1345,11 @@
       "filled": true
     },
     {
-      "id": "gath48kt",
+      "id": "gathz1z0",
       "profession": "herbalism",
       "at": [
-        170.6,
-        1204.2
+        -1256.2,
+        1096.4
       ],
       "nodes": [
         "chamomile",
@@ -547,11 +1359,11 @@
       "filled": true
     },
     {
-      "id": "gathoq7s",
+      "id": "gathlkag",
       "profession": "herbalism",
       "at": [
-        -2448.4,
-        -211.1
+        -1976.1,
+        -1260.6
       ],
       "nodes": [
         "chamomile",
@@ -561,11 +1373,11 @@
       "filled": true
     },
     {
-      "id": "gathdy77",
+      "id": "gathpjqb",
       "profession": "herbalism",
       "at": [
-        -75.6,
-        365.7
+        -2547.9,
+        -2138.8
       ],
       "nodes": [
         "chamomile",
@@ -575,11 +1387,11 @@
       "filled": true
     },
     {
-      "id": "gath5m92",
+      "id": "gatheb63",
       "profession": "herbalism",
       "at": [
-        -95.2,
-        -589.2
+        -2419.9,
+        2580.8
       ],
       "nodes": [
         "chamomile",
@@ -589,11 +1401,11 @@
       "filled": true
     },
     {
-      "id": "gaths25d",
+      "id": "gathjnn5",
       "profession": "herbalism",
       "at": [
-        -34.4,
-        572.8
+        -2288.6,
+        2327
       ],
       "nodes": [
         "chamomile",
@@ -603,11 +1415,11 @@
       "filled": true
     },
     {
-      "id": "gath0ykx",
+      "id": "gathgdyz",
       "profession": "herbalism",
       "at": [
-        -1986.6,
-        -2073.2
+        135.6,
+        -507.3
       ],
       "nodes": [
         "chamomile",
@@ -617,11 +1429,11 @@
       "filled": true
     },
     {
-      "id": "gath3rkr",
+      "id": "gath63sk",
       "profession": "herbalism",
       "at": [
-        -1897.6,
-        -2263.4
+        -2032.3,
+        -1552.8
       ],
       "nodes": [
         "chamomile",
@@ -631,11 +1443,11 @@
       "filled": true
     },
     {
-      "id": "gathfz7y",
+      "id": "gathanbo",
       "profession": "herbalism",
       "at": [
-        98.8,
-        -2147.6
+        -2274.4,
+        1214
       ],
       "nodes": [
         "chamomile",
@@ -645,11 +1457,11 @@
       "filled": true
     },
     {
-      "id": "gathq6p7",
+      "id": "gath15po",
       "profession": "herbalism",
       "at": [
-        -333.1,
-        -715
+        -2354.1,
+        -630.9
       ],
       "nodes": [
         "chamomile",
@@ -659,11 +1471,11 @@
       "filled": true
     },
     {
-      "id": "gathwrqa",
+      "id": "gathrq7d",
       "profession": "herbalism",
       "at": [
-        -1245.9,
-        709.1
+        -1564.1,
+        -938
       ],
       "nodes": [
         "chamomile",
@@ -673,11 +1485,11 @@
       "filled": true
     },
     {
-      "id": "gathbfh8",
+      "id": "gathh15d",
       "profession": "herbalism",
       "at": [
-        -770.1,
-        185.2
+        -449.2,
+        -2465.2
       ],
       "nodes": [
         "chamomile",
@@ -687,11 +1499,11 @@
       "filled": true
     },
     {
-      "id": "gathiq98",
+      "id": "gath1kbb",
       "profession": "herbalism",
       "at": [
-        -1773.8,
-        1941.2
+        -1415.5,
+        64.8
       ],
       "nodes": [
         "chamomile",
@@ -701,11 +1513,11 @@
       "filled": true
     },
     {
-      "id": "gath1a5n",
+      "id": "gathtvef",
       "profession": "herbalism",
       "at": [
-        -2088.4,
-        -1420.4
+        -852.6,
+        566.3
       ],
       "nodes": [
         "chamomile",
@@ -715,11 +1527,11 @@
       "filled": true
     },
     {
-      "id": "gath0khq",
+      "id": "gath3ybk",
       "profession": "herbalism",
       "at": [
-        -417.6,
-        2288.1
+        -2270.2,
+        660.7
       ],
       "nodes": [
         "chamomile",
@@ -729,11 +1541,11 @@
       "filled": true
     },
     {
-      "id": "gathpp3c",
+      "id": "gathqr6n",
       "profession": "herbalism",
       "at": [
-        -612.5,
-        -1514.4
+        -691.1,
+        2534.9
       ],
       "nodes": [
         "chamomile",
@@ -743,11 +1555,11 @@
       "filled": true
     },
     {
-      "id": "gathtqxm",
+      "id": "gathf7yi",
       "profession": "herbalism",
       "at": [
-        -1978.5,
-        -166
+        -1858.7,
+        1471.1
       ],
       "nodes": [
         "chamomile",
@@ -757,11 +1569,11 @@
       "filled": true
     },
     {
-      "id": "gathy5ni",
+      "id": "gathgqu1",
       "profession": "herbalism",
       "at": [
-        -2532.9,
-        -2216.1
+        -1206.1,
+        655.1
       ],
       "nodes": [
         "chamomile",
@@ -771,11 +1583,11 @@
       "filled": true
     },
     {
-      "id": "gathhy1f",
+      "id": "gathdc1y",
       "profession": "herbalism",
       "at": [
-        -905.6,
-        508.5
+        -2533.1,
+        -2412
       ],
       "nodes": [
         "chamomile",
@@ -785,11 +1597,11 @@
       "filled": true
     },
     {
-      "id": "gathhf4f",
+      "id": "gath3k75",
       "profession": "herbalism",
       "at": [
-        174.2,
-        -1527.3
+        -782.7,
+        -1924.3
       ],
       "nodes": [
         "chamomile",
@@ -799,11 +1611,11 @@
       "filled": true
     },
     {
-      "id": "gathof07",
+      "id": "gathq7zv",
       "profession": "herbalism",
       "at": [
-        -344.8,
-        115.7
+        -1209,
+        2209
       ],
       "nodes": [
         "chamomile",
@@ -813,11 +1625,11 @@
       "filled": true
     },
     {
-      "id": "gathfohn",
+      "id": "gathbzbk",
       "profession": "herbalism",
       "at": [
-        -818.6,
-        1110.1
+        -2188.4,
+        2632.1
       ],
       "nodes": [
         "chamomile",
@@ -827,291 +1639,947 @@
       "filled": true
     },
     {
-      "id": "gathsaga",
-      "profession": "herbalism",
+      "id": "gatha85q",
+      "profession": "mining",
       "at": [
-        -1014.9,
-        -1899.3
+        146.6,
+        213.2
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathe324",
-      "profession": "herbalism",
+      "id": "gathi72d",
+      "profession": "mining",
       "at": [
-        -1669.7,
-        -2515.3
+        -89.8,
+        211.2
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathyiny",
-      "profession": "herbalism",
+      "id": "gathcsz2",
+      "profession": "mining",
       "at": [
-        -2548.4,
-        -688.7
+        -1938.7,
+        862.6
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathqe2m",
-      "profession": "herbalism",
+      "id": "gath42d6",
+      "profession": "mining",
       "at": [
-        -423.8,
-        1569.4
+        -1044,
+        1538.9
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gath991u",
-      "profession": "herbalism",
+      "id": "gathehfb",
+      "profession": "mining",
       "at": [
-        -1674.8,
-        -206.9
+        -305.4,
+        -142.5
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathbrsr",
-      "profession": "herbalism",
+      "id": "gath2wh3",
+      "profession": "mining",
       "at": [
-        -1967.2,
-        -1849.1
+        -810.1,
+        -13.4
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gath1bn4",
-      "profession": "herbalism",
+      "id": "gathmkg8",
+      "profession": "mining",
       "at": [
-        -787.5,
-        2489.5
+        -1631.7,
+        367.3
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathwqvz",
-      "profession": "herbalism",
+      "id": "gathpeu3",
+      "profession": "mining",
       "at": [
-        -1711.1,
-        -17.1
+        -2543.6,
+        -1390.8
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathgxdv",
-      "profession": "herbalism",
+      "id": "gaths7td",
+      "profession": "mining",
       "at": [
-        -916,
-        -2136.6
+        -2005.9,
+        -378.1
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathruxx",
-      "profession": "herbalism",
+      "id": "gathqdvd",
+      "profession": "mining",
       "at": [
-        -811.7,
-        1632.2
+        -935,
+        2550.3
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathcafk",
-      "profession": "herbalism",
+      "id": "gath37om",
+      "profession": "mining",
       "at": [
-        -2428.9,
-        -1540.1
+        -1534.9,
+        -2582.3
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathb4td",
-      "profession": "herbalism",
+      "id": "gathwogz",
+      "profession": "mining",
       "at": [
-        -1986.5,
-        -1015.7
+        -1178.5,
+        1741.8
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gath3lrk",
-      "profession": "herbalism",
+      "id": "gath5grh",
+      "profession": "mining",
       "at": [
-        -1749.4,
-        1624.1
+        -1456.6,
+        -736.6
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathu1bb",
-      "profession": "herbalism",
+      "id": "gath3l84",
+      "profession": "mining",
       "at": [
-        -927.9,
-        -1582.9
+        12.9,
+        -1210.8
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathi7ki",
-      "profession": "herbalism",
+      "id": "gath8ctm",
+      "profession": "mining",
       "at": [
-        -1343.9,
-        1165.3
+        -647.2,
+        2388.3
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathu7gt",
-      "profession": "herbalism",
+      "id": "gathhxyz",
+      "profession": "mining",
       "at": [
-        -1367.4,
-        2616.6
+        -1706.6,
+        954.4
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathomo8",
-      "profession": "herbalism",
+      "id": "gath22wg",
+      "profession": "mining",
       "at": [
-        -2105.4,
-        654.8
+        -411.6,
+        -991.7
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathye5g",
-      "profession": "herbalism",
+      "id": "gathiig8",
+      "profession": "mining",
       "at": [
-        185.1,
-        -1169.4
+        -1374.4,
+        -1454.5
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathuwi0",
-      "profession": "herbalism",
+      "id": "gathbawr",
+      "profession": "mining",
       "at": [
-        -548.8,
-        -813.9
+        107.6,
+        -2409.4
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gathgz4d",
-      "profession": "herbalism",
+      "id": "gathg2yb",
+      "profession": "mining",
+      "at": [
+        -2431,
+        2142.1
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathzc3q",
+      "profession": "mining",
+      "at": [
+        33.8,
+        -1781.2
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathh7lw",
+      "profession": "mining",
       "at": [
         -1105.6,
         -286.8
       ],
       "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
+        "copper-vein"
       ],
       "filled": true
     },
     {
-      "id": "gath5bl4",
+      "id": "gath89vq",
+      "profession": "mining",
+      "at": [
+        -1547.2,
+        1574
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gatho36o",
+      "profession": "mining",
+      "at": [
+        -1288.1,
+        -2381.8
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathdyvp",
+      "profession": "mining",
+      "at": [
+        -2213.5,
+        -1617.6
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathsdnf",
+      "profession": "mining",
+      "at": [
+        -1742.9,
+        -2324.5
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathq9qg",
+      "profession": "mining",
+      "at": [
+        -1783.6,
+        -1539.9
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath85nc",
+      "profession": "mining",
+      "at": [
+        -1412.4,
+        -146.8
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathq4if",
+      "profession": "mining",
+      "at": [
+        -2192.4,
+        -2135.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath17uc",
+      "profession": "mining",
+      "at": [
+        -2527.7,
+        -1715.6
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath73zo",
+      "profession": "mining",
+      "at": [
+        -586.3,
+        -1289.1
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath2noi",
+      "profession": "mining",
+      "at": [
+        -466.6,
+        744.8
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath0kvu",
+      "profession": "mining",
+      "at": [
+        -2335.7,
+        48.1
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathbo9d",
+      "profession": "mining",
+      "at": [
+        -404.3,
+        2054.5
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathkfi4",
+      "profession": "mining",
+      "at": [
+        -1768.6,
+        1829.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathlcin",
+      "profession": "mining",
+      "at": [
+        -1773.9,
+        130.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathbguq",
+      "profession": "mining",
+      "at": [
+        -449.4,
+        271.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathx4vf",
+      "profession": "mining",
+      "at": [
+        -658.3,
+        -505.7
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathk9xd",
+      "profession": "mining",
+      "at": [
+        18.9,
+        2355.6
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathhs1w",
+      "profession": "mining",
+      "at": [
+        -1666.9,
+        -861.7
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathf3c0",
+      "profession": "mining",
+      "at": [
+        -32,
+        849.1
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathkfaq",
+      "profession": "mining",
+      "at": [
+        -1296.8,
+        72.3
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathnqbv",
+      "profession": "mining",
+      "at": [
+        -1472.4,
+        2030.7
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathiekk",
+      "profession": "mining",
+      "at": [
+        -2302.1,
+        905.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathd2kp",
+      "profession": "mining",
+      "at": [
+        -2215.6,
+        -1094.3
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathy16p",
+      "profession": "mining",
+      "at": [
+        128.5,
+        -591.5
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathkhsq",
+      "profession": "mining",
+      "at": [
+        -743.1,
+        851.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathwali",
+      "profession": "mining",
+      "at": [
+        -1151.8,
+        -788.1
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathqx5c",
+      "profession": "mining",
+      "at": [
+        -781,
+        586.9
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathpmt5",
+      "profession": "mining",
+      "at": [
+        -795.3,
+        -1714.3
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath8bq5",
+      "profession": "mining",
+      "at": [
+        -2565.9,
+        -486.6
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathhdvx",
+      "profession": "mining",
+      "at": [
+        -673.5,
+        -2004.2
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathy4g9",
+      "profession": "mining",
+      "at": [
+        -2497.3,
+        1893.5
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathzpdo",
+      "profession": "mining",
+      "at": [
+        -929.2,
+        -731
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathsp7k",
+      "profession": "mining",
+      "at": [
+        -1979.1,
+        -826.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathnvgl",
+      "profession": "mining",
+      "at": [
+        -1250.3,
+        1446.8
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathdhrq",
+      "profession": "mining",
+      "at": [
+        -2604.8,
+        -2087.6
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathpoak",
+      "profession": "mining",
+      "at": [
+        -6.2,
+        1584.3
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathcyde",
+      "profession": "mining",
+      "at": [
+        -1301.9,
+        -2130.2
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathhcf8",
+      "profession": "mining",
+      "at": [
+        -2129.1,
+        1244.9
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathz0bd",
+      "profession": "mining",
+      "at": [
+        -2418.4,
+        2551.1
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathkyfx",
+      "profession": "mining",
+      "at": [
+        -456,
+        51
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathv3cj",
+      "profession": "mining",
+      "at": [
+        -2026.9,
+        105.6
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathm614",
+      "profession": "mining",
+      "at": [
+        -96.6,
+        1375.8
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathq81l",
+      "profession": "mining",
+      "at": [
+        -2086.5,
+        2408.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath3flv",
+      "profession": "mining",
+      "at": [
+        -972,
+        -2473.2
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath9dpz",
+      "profession": "mining",
+      "at": [
+        -1813.6,
+        1552.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathkoqd",
+      "profession": "mining",
+      "at": [
+        -1716,
+        -529
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathftmj",
+      "profession": "mining",
+      "at": [
+        -1907.3,
+        2571.9
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathrdd1",
+      "profession": "mining",
+      "at": [
+        -1698.8,
+        -1872.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathyfpg",
+      "profession": "mining",
+      "at": [
+        -448.8,
+        -1976.8
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathu2xv",
+      "profession": "mining",
+      "at": [
+        -1804.5,
+        -1111.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathvdtn",
+      "profession": "mining",
+      "at": [
+        -448.9,
+        1149
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathm0zc",
+      "profession": "mining",
+      "at": [
+        -1475.3,
+        2568.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath9uns",
+      "profession": "mining",
+      "at": [
+        -1873.3,
+        -2145.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gatha6oy",
+      "profession": "mining",
+      "at": [
+        -661.4,
+        2155.3
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathzxsw",
+      "profession": "mining",
+      "at": [
+        -64.8,
+        2100.8
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath60an",
+      "profession": "mining",
+      "at": [
+        140.6,
+        -2189.3
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathrx4n",
       "profession": "herbalism",
       "at": [
-        -1018,
-        2417.9
+        2029.2,
+        -447.6
       ],
       "nodes": [
         "chamomile",
@@ -1121,11 +2589,11 @@
       "filled": true
     },
     {
-      "id": "gathusul",
+      "id": "gathd7x7",
       "profession": "herbalism",
       "at": [
-        -1612.4,
-        792.7
+        2326.7,
+        216.8
       ],
       "nodes": [
         "chamomile",
@@ -1135,11 +2603,11 @@
       "filled": true
     },
     {
-      "id": "gathnflu",
+      "id": "gathd2dx",
       "profession": "herbalism",
       "at": [
-        -953.2,
-        764.7
+        2605,
+        1006.5
       ],
       "nodes": [
         "chamomile",
@@ -1149,11 +2617,11 @@
       "filled": true
     },
     {
-      "id": "gath20ya",
+      "id": "gathx2pz",
       "profession": "herbalism",
       "at": [
-        -1769.9,
-        -931.9
+        695.6,
+        86.1
       ],
       "nodes": [
         "chamomile",
@@ -1163,11 +2631,11 @@
       "filled": true
     },
     {
-      "id": "gathem1j",
+      "id": "gathvbfb",
       "profession": "herbalism",
       "at": [
-        -2164.5,
-        -931.9
+        977.4,
+        -1275.5
       ],
       "nodes": [
         "chamomile",
@@ -1177,11 +2645,11 @@
       "filled": true
     },
     {
-      "id": "gathmc2v",
+      "id": "gath3ocf",
       "profession": "herbalism",
       "at": [
-        -1848.5,
-        305.5
+        256.6,
+        -383.4
       ],
       "nodes": [
         "chamomile",
@@ -1191,11 +2659,11 @@
       "filled": true
     },
     {
-      "id": "gathpzto",
+      "id": "gathxr0w",
       "profession": "herbalism",
       "at": [
-        -1295.9,
-        -543.3
+        1707.1,
+        -1781.1
       ],
       "nodes": [
         "chamomile",
@@ -1205,10 +2673,1074 @@
       "filled": true
     },
     {
-      "id": "gath9vw6",
+      "id": "gathtrnc",
       "profession": "herbalism",
       "at": [
-        104.4,
+        382.9,
+        1102.6
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath75sv",
+      "profession": "herbalism",
+      "at": [
+        2588.6,
+        2537.4
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathyej8",
+      "profession": "herbalism",
+      "at": [
+        2254.5,
+        -1657.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathea1b",
+      "profession": "herbalism",
+      "at": [
+        495.6,
+        1267.9
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath5qyx",
+      "profession": "herbalism",
+      "at": [
+        1156,
+        -127.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathiw6l",
+      "profession": "herbalism",
+      "at": [
+        2451.6,
+        2016.6
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath9gkv",
+      "profession": "herbalism",
+      "at": [
+        745.5,
+        -1977.7
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathvpr2",
+      "profession": "herbalism",
+      "at": [
+        1528.9,
+        935.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath3ja7",
+      "profession": "herbalism",
+      "at": [
+        1448.5,
+        -351.2
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathhsh9",
+      "profession": "herbalism",
+      "at": [
+        1994.5,
+        1848.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathz9a3",
+      "profession": "herbalism",
+      "at": [
+        1142,
+        1968.6
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathvq1o",
+      "profession": "herbalism",
+      "at": [
+        1715.7,
+        -1153
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathp38k",
+      "profession": "herbalism",
+      "at": [
+        2255,
+        1193.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath9c5g",
+      "profession": "herbalism",
+      "at": [
+        1095.4,
+        104.9
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathuqej",
+      "profession": "herbalism",
+      "at": [
+        1370.7,
+        -1458
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath76d8",
+      "profession": "herbalism",
+      "at": [
+        1463.7,
+        -549.2
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath1q6f",
+      "profession": "herbalism",
+      "at": [
+        331.8,
+        -1813.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathy73v",
+      "profession": "herbalism",
+      "at": [
+        332.1,
+        -2538.8
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathmwi6",
+      "profession": "herbalism",
+      "at": [
+        2049.1,
+        375.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathm79m",
+      "profession": "herbalism",
+      "at": [
+        977.1,
+        1454
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathsg67",
+      "profession": "herbalism",
+      "at": [
+        2564.6,
+        2166.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath2buv",
+      "profession": "herbalism",
+      "at": [
+        1771.7,
+        1207.7
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathyctn",
+      "profession": "herbalism",
+      "at": [
+        827.7,
+        1630
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath2vnx",
+      "profession": "herbalism",
+      "at": [
+        737.8,
+        -934.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath5l8w",
+      "profession": "herbalism",
+      "at": [
+        1905,
+        -2626.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathkda4",
+      "profession": "herbalism",
+      "at": [
+        2371.9,
+        -258.8
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathdfy5",
+      "profession": "herbalism",
+      "at": [
+        1583.5,
+        -1911.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathexjy",
+      "profession": "herbalism",
+      "at": [
+        2191.8,
+        -2553.9
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathi8oj",
+      "profession": "herbalism",
+      "at": [
+        693.1,
+        2303
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath3gwp",
+      "profession": "herbalism",
+      "at": [
+        548.2,
+        -1573.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathp2lt",
+      "profession": "herbalism",
+      "at": [
+        1507,
+        -734.2
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathig61",
+      "profession": "herbalism",
+      "at": [
+        1744.4,
+        -1507.8
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath08e0",
+      "profession": "herbalism",
+      "at": [
+        1661.7,
+        -101.8
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathf4sm",
+      "profession": "herbalism",
+      "at": [
+        230.6,
+        1578
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath8zuz",
+      "profession": "herbalism",
+      "at": [
+        966,
+        2183.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathbxz8",
+      "profession": "herbalism",
+      "at": [
+        1749.9,
+        1851.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathl8px",
+      "profession": "herbalism",
+      "at": [
+        1422.3,
+        1104.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathdvg3",
+      "profession": "herbalism",
+      "at": [
+        1984.5,
+        -1868
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath32nn",
+      "profession": "herbalism",
+      "at": [
+        2524.2,
+        -1176.8
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathzwj2",
+      "profession": "herbalism",
+      "at": [
+        1820.8,
+        928.9
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathpxgs",
+      "profession": "herbalism",
+      "at": [
+        2380,
+        388.7
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gatht9uf",
+      "profession": "herbalism",
+      "at": [
+        1462.5,
+        -2635.7
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath54iq",
+      "profession": "herbalism",
+      "at": [
+        910.4,
+        -2208.4
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gatheuns",
+      "profession": "herbalism",
+      "at": [
+        2405.8,
+        -850.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath86zt",
+      "profession": "herbalism",
+      "at": [
+        2061.5,
+        -1352.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathld0e",
+      "profession": "herbalism",
+      "at": [
+        445.5,
+        -1275
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath6an3",
+      "profession": "herbalism",
+      "at": [
+        1171.2,
+        -2379.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathcni3",
+      "profession": "herbalism",
+      "at": [
+        790.3,
+        672.9
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathma6c",
+      "profession": "herbalism",
+      "at": [
+        938.7,
+        953.2
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath66zt",
+      "profession": "herbalism",
+      "at": [
+        1729.8,
+        2299.2
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath8rhk",
+      "profession": "herbalism",
+      "at": [
+        2472.1,
+        -2210.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath7ltd",
+      "profession": "herbalism",
+      "at": [
+        746.1,
+        1224.4
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath0c3j",
+      "profession": "herbalism",
+      "at": [
+        2296.2,
+        1580.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathfxzd",
+      "profession": "herbalism",
+      "at": [
+        1390.2,
+        623.8
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathkc1c",
+      "profession": "herbalism",
+      "at": [
+        2093.3,
+        26.8
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath1klq",
+      "profession": "herbalism",
+      "at": [
+        1871.8,
+        -2286
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathg6m6",
+      "profession": "herbalism",
+      "at": [
+        1694.8,
+        549.7
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathg7dg",
+      "profession": "herbalism",
+      "at": [
+        1613.9,
+        1491.7
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathud9h",
+      "profession": "herbalism",
+      "at": [
+        1582.2,
+        2449
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathr4tc",
+      "profession": "herbalism",
+      "at": [
+        1232.3,
+        909.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathlezo",
+      "profession": "herbalism",
+      "at": [
+        576.4,
+        1815.4
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath36ti",
+      "profession": "herbalism",
+      "at": [
+        1349.6,
+        -2228.5
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath4ip6",
+      "profession": "herbalism",
+      "at": [
+        1775,
+        85.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathice9",
+      "profession": "herbalism",
+      "at": [
+        1935.9,
+        2329
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath7fsw",
+      "profession": "herbalism",
+      "at": [
+        2532.9,
+        140.7
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathoqx6",
+      "profession": "herbalism",
+      "at": [
+        396,
+        1966.6
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathncgq",
+      "profession": "herbalism",
+      "at": [
+        574,
+        -465.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathuqjv",
+      "profession": "herbalism",
+      "at": [
+        2102.1,
+        771
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathl8u1",
+      "profession": "herbalism",
+      "at": [
+        2148.7,
+        -978.7
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath0jp9",
+      "profession": "herbalism",
+      "at": [
+        1310.8,
+        1779.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathhik4",
+      "profession": "herbalism",
+      "at": [
+        1743.9,
+        -634.3
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath4opk",
+      "profession": "herbalism",
+      "at": [
+        2588.8,
+        -1688.4
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathw0jg",
+      "profession": "herbalism",
+      "at": [
+        1856.1,
+        2092.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathimpl",
+      "profession": "herbalism",
+      "at": [
+        487.2,
+        2589.1
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath22fm",
+      "profession": "herbalism",
+      "at": [
+        1050.1,
+        -1703
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathqc7k",
+      "profession": "herbalism",
+      "at": [
+        256.3,
+        -2211.2
+      ],
+      "nodes": [
+        "chamomile",
+        "sage",
+        "burdock"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath2nc1",
+      "profession": "herbalism",
+      "at": [
+        1291.4,
         -912
       ],
       "nodes": [
@@ -1219,11 +3751,11 @@
       "filled": true
     },
     {
-      "id": "gathw1i4",
+      "id": "gathtp69",
       "profession": "herbalism",
       "at": [
-        -2391.3,
-        352.2
+        272.3,
+        -1538.3
       ],
       "nodes": [
         "chamomile",
@@ -1233,11 +3765,11 @@
       "filled": true
     },
     {
-      "id": "gath98df",
+      "id": "gath5156",
       "profession": "herbalism",
       "at": [
-        -1350.2,
-        218.7
+        2186.4,
+        -311
       ],
       "nodes": [
         "chamomile",
@@ -1247,11 +3779,11 @@
       "filled": true
     },
     {
-      "id": "gath9n73",
+      "id": "gath8utb",
       "profession": "herbalism",
       "at": [
-        -1742.6,
-        1325.4
+        1111.4,
+        1653.8
       ],
       "nodes": [
         "chamomile",
@@ -1261,11 +3793,11 @@
       "filled": true
     },
     {
-      "id": "gath4x7k",
+      "id": "gathy2ux",
       "profession": "herbalism",
       "at": [
-        -60.3,
-        1377.4
+        1730.2,
+        -2546.8
       ],
       "nodes": [
         "chamomile",
@@ -1275,11 +3807,11 @@
       "filled": true
     },
     {
-      "id": "gath9qak",
+      "id": "gathsfwd",
       "profession": "herbalism",
       "at": [
-        -504.9,
-        -1134.5
+        2384.7,
+        2389.9
       ],
       "nodes": [
         "chamomile",
@@ -1289,11 +3821,11 @@
       "filled": true
     },
     {
-      "id": "gathebsh",
+      "id": "gathcstq",
       "profession": "herbalism",
       "at": [
-        -1257.9,
-        1413.8
+        1164.4,
+        -749
       ],
       "nodes": [
         "chamomile",
@@ -1303,11 +3835,11 @@
       "filled": true
     },
     {
-      "id": "gath2vzs",
+      "id": "gath6ek1",
       "profession": "herbalism",
       "at": [
-        -1732.6,
-        947.1
+        333.7,
+        1739.5
       ],
       "nodes": [
         "chamomile",
@@ -1317,11 +3849,11 @@
       "filled": true
     },
     {
-      "id": "gath3hv9",
+      "id": "gathgq1x",
       "profession": "herbalism",
       "at": [
-        -2205.3,
-        2511.8
+        1174.7,
+        -1228.5
       ],
       "nodes": [
         "chamomile",
@@ -1331,11 +3863,11 @@
       "filled": true
     },
     {
-      "id": "gathm9vm",
+      "id": "gathkg3f",
       "profession": "herbalism",
       "at": [
-        -2291.4,
-        -2113.3
+        1328.7,
+        2155.2
       ],
       "nodes": [
         "chamomile",
@@ -1345,11 +3877,11 @@
       "filled": true
     },
     {
-      "id": "gathdnbm",
+      "id": "gathaxf0",
       "profession": "herbalism",
       "at": [
-        -2612.4,
-        1329
+        365.9,
+        -2008.9
       ],
       "nodes": [
         "chamomile",
@@ -1359,11 +3891,11 @@
       "filled": true
     },
     {
-      "id": "gathfut2",
+      "id": "gathnvyj",
       "profession": "herbalism",
       "at": [
-        -115.1,
-        2136.9
+        1370,
+        257.4
       ],
       "nodes": [
         "chamomile",
@@ -1373,11 +3905,11 @@
       "filled": true
     },
     {
-      "id": "gathmzwq",
+      "id": "gath5d0v",
       "profession": "herbalism",
       "at": [
-        -1572.9,
-        -1451
+        1473.7,
+        2605.2
       ],
       "nodes": [
         "chamomile",
@@ -1387,11 +3919,11 @@
       "filled": true
     },
     {
-      "id": "gath5cwg",
+      "id": "gathxcq5",
       "profession": "herbalism",
       "at": [
-        -2143.2,
-        -2350.2
+        1943,
+        2572.9
       ],
       "nodes": [
         "chamomile",
@@ -1401,11 +3933,11 @@
       "filled": true
     },
     {
-      "id": "gath7qi0",
+      "id": "gath0clu",
       "profession": "herbalism",
       "at": [
-        -835,
-        2049.7
+        1285.5,
+        1464.6
       ],
       "nodes": [
         "chamomile",
@@ -1415,11 +3947,11 @@
       "filled": true
     },
     {
-      "id": "gathnowe",
+      "id": "gath7zpe",
       "profession": "herbalism",
       "at": [
-        -2308,
-        -648.4
+        2515,
+        -1885.8
       ],
       "nodes": [
         "chamomile",
@@ -1429,11 +3961,11 @@
       "filled": true
     },
     {
-      "id": "gathqyej",
+      "id": "gatho5md",
       "profession": "herbalism",
       "at": [
-        -1624.4,
-        -1747.1
+        2167.2,
+        -574.3
       ],
       "nodes": [
         "chamomile",
@@ -1443,207 +3975,11 @@
       "filled": true
     },
     {
-      "id": "gathnkc4",
-      "profession": "herbalism",
-      "at": [
-        -44.8,
-        942.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathsopw",
-      "profession": "herbalism",
-      "at": [
-        -1955.8,
-        -833.9
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathl8yn",
-      "profession": "herbalism",
-      "at": [
-        -1191.7,
-        -1151
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathuoj1",
-      "profession": "herbalism",
-      "at": [
-        -744,
-        385.7
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathwg9f",
-      "profession": "herbalism",
-      "at": [
-        -2612.1,
-        1743
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath6ed9",
-      "profession": "herbalism",
-      "at": [
-        187.9,
-        420.7
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathoebh",
-      "profession": "herbalism",
-      "at": [
-        -496.6,
-        -2497.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathr4tb",
-      "profession": "herbalism",
-      "at": [
-        -2529,
-        2544.4
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathzxbl",
-      "profession": "herbalism",
-      "at": [
-        152,
-        1010.6
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gatho0m6",
-      "profession": "herbalism",
-      "at": [
-        -2070.5,
-        2298.1
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathmoqn",
-      "profession": "herbalism",
-      "at": [
-        -204.8,
-        1171.6
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathn666",
-      "profession": "herbalism",
-      "at": [
-        -2126.5,
-        -2614
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathjsz4",
-      "profession": "herbalism",
-      "at": [
-        -608,
-        2611.8
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathexce",
-      "profession": "herbalism",
-      "at": [
-        -387.5,
-        -2130.8
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath1py4",
+      "id": "gathliar",
       "profession": "mining",
       "at": [
-        -2461,
-        1146.8
+        1430.6,
+        423.3
       ],
       "nodes": [
         "copper-vein"
@@ -1651,11 +3987,11 @@
       "filled": true
     },
     {
-      "id": "gathyhqx",
+      "id": "gathab7g",
       "profession": "mining",
       "at": [
-        -413.8,
-        -103.8
+        1053.4,
+        52.4
       ],
       "nodes": [
         "copper-vein"
@@ -1663,11 +3999,11 @@
       "filled": true
     },
     {
-      "id": "gath4kds",
+      "id": "gathun53",
       "profession": "mining",
       "at": [
-        -1167.1,
-        512
+        1906.6,
+        -2576.7
       ],
       "nodes": [
         "copper-vein"
@@ -1675,11 +4011,11 @@
       "filled": true
     },
     {
-      "id": "gathjztq",
+      "id": "gathuwdn",
       "profession": "mining",
       "at": [
-        -179.4,
-        1127.8
+        2207.6,
+        138.3
       ],
       "nodes": [
         "copper-vein"
@@ -1687,11 +4023,11 @@
       "filled": true
     },
     {
-      "id": "gathhjr1",
+      "id": "gatht86x",
       "profession": "mining",
       "at": [
-        -585.2,
-        -465.5
+        817.6,
+        2620.3
       ],
       "nodes": [
         "copper-vein"
@@ -1699,11 +4035,11 @@
       "filled": true
     },
     {
-      "id": "gathrpfr",
+      "id": "gath4zee",
       "profession": "mining",
       "at": [
-        -1101.7,
-        -345.2
+        1472.4,
+        1536.7
       ],
       "nodes": [
         "copper-vein"
@@ -1711,11 +4047,11 @@
       "filled": true
     },
     {
-      "id": "gathzx9v",
+      "id": "gathq4lp",
       "profession": "mining",
       "at": [
-        -1945.6,
-        62.1
+        2114.9,
+        -1651.5
       ],
       "nodes": [
         "copper-vein"
@@ -1723,11 +4059,11 @@
       "filled": true
     },
     {
-      "id": "gathf4ar",
+      "id": "gath38jq",
       "profession": "mining",
       "at": [
-        6.9,
-        -1751.1
+        1591.2,
+        825.5
       ],
       "nodes": [
         "copper-vein"
@@ -1735,11 +4071,11 @@
       "filled": true
     },
     {
-      "id": "gathq7gg",
+      "id": "gathlcxk",
       "profession": "mining",
       "at": [
-        -2284.5,
-        -705.9
+        379.3,
+        -2501.9
       ],
       "nodes": [
         "copper-vein"
@@ -1747,11 +4083,11 @@
       "filled": true
     },
     {
-      "id": "gathsb2h",
+      "id": "gathxg5p",
       "profession": "mining",
       "at": [
-        -139,
-        2134.6
+        1103.3,
+        1164.2
       ],
       "nodes": [
         "copper-vein"
@@ -1759,11 +4095,11 @@
       "filled": true
     },
     {
-      "id": "gathhfkc",
+      "id": "gathkjfb",
       "profession": "mining",
       "at": [
-        -376.2,
-        1353.4
+        750.6,
+        2292.3
       ],
       "nodes": [
         "copper-vein"
@@ -1771,10 +4107,298 @@
       "filled": true
     },
     {
-      "id": "gathwpyq",
+      "id": "gath9is6",
       "profession": "mining",
       "at": [
-        -1741.7,
+        1849,
+        2128.6
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath2tzz",
+      "profession": "mining",
+      "at": [
+        1617.4,
+        -1268.9
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath10wf",
+      "profession": "mining",
+      "at": [
+        993.3,
+        -2129.9
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathuqq2",
+      "profession": "mining",
+      "at": [
+        644.2,
+        -548.1
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathene5",
+      "profession": "mining",
+      "at": [
+        547.4,
+        736.7
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathe1hj",
+      "profession": "mining",
+      "at": [
+        1948.6,
+        -253.2
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath7crz",
+      "profession": "mining",
+      "at": [
+        215.8,
+        -1167.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathai1o",
+      "profession": "mining",
+      "at": [
+        1023.9,
+        739.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath4osh",
+      "profession": "mining",
+      "at": [
+        2470.1,
+        1227.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathwnce",
+      "profession": "mining",
+      "at": [
+        2058.5,
+        828.3
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath78z2",
+      "profession": "mining",
+      "at": [
+        2344.3,
+        855.2
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathuq6d",
+      "profession": "mining",
+      "at": [
+        2408.3,
+        -1808
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathdjgv",
+      "profession": "mining",
+      "at": [
+        2075.1,
+        2582.8
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathx1od",
+      "profession": "mining",
+      "at": [
+        1790.7,
+        -747.1
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathq36a",
+      "profession": "mining",
+      "at": [
+        1525.7,
+        2512.2
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath3sip",
+      "profession": "mining",
+      "at": [
+        2252.5,
+        -1214.4
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathy5fd",
+      "profession": "mining",
+      "at": [
+        615.8,
+        1749.9
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathdmjs",
+      "profession": "mining",
+      "at": [
+        253,
+        374.1
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathx1yf",
+      "profession": "mining",
+      "at": [
+        405.3,
+        2260.3
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath6qon",
+      "profession": "mining",
+      "at": [
+        1206.5,
+        -1946.8
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gatho9y6",
+      "profession": "mining",
+      "at": [
+        2611.3,
+        -2063.1
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gathg5i9",
+      "profession": "mining",
+      "at": [
+        2449.4,
+        -554.7
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath0h0i",
+      "profession": "mining",
+      "at": [
+        2595.1,
+        -249.1
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath4aon",
+      "profession": "mining",
+      "at": [
+        1890,
+        1110.1
+      ],
+      "nodes": [
+        "copper-vein"
+      ],
+      "filled": true
+    },
+    {
+      "id": "gath6bp0",
+      "profession": "mining",
+      "at": [
+        807.5,
         -1075.7
       ],
       "nodes": [
@@ -1783,11 +4407,11 @@
       "filled": true
     },
     {
-      "id": "gathsumt",
+      "id": "gath8jq0",
       "profession": "mining",
       "at": [
-        -259,
-        -1534
+        1781,
+        -1904.9
       ],
       "nodes": [
         "copper-vein"
@@ -1795,11 +4419,11 @@
       "filled": true
     },
     {
-      "id": "gath0nf9",
+      "id": "gath7e31",
       "profession": "mining",
       "at": [
-        -2154.5,
-        -65.7
+        1251,
+        -991.6
       ],
       "nodes": [
         "copper-vein"
@@ -1807,11 +4431,11 @@
       "filled": true
     },
     {
-      "id": "gathf8oe",
+      "id": "gath4rp9",
       "profession": "mining",
       "at": [
-        136.1,
-        1975.1
+        1472.7,
+        2103.6
       ],
       "nodes": [
         "copper-vein"
@@ -1819,11 +4443,11 @@
       "filled": true
     },
     {
-      "id": "gathe1pn",
+      "id": "gath2qbt",
       "profession": "mining",
       "at": [
-        -102.9,
-        2632.6
+        694,
+        208.7
       ],
       "nodes": [
         "copper-vein"
@@ -1831,11 +4455,11 @@
       "filled": true
     },
     {
-      "id": "gathqrij",
+      "id": "gath0t4x",
       "profession": "mining",
       "at": [
-        -1509.5,
-        579.9
+        463.2,
+        -1966.9
       ],
       "nodes": [
         "copper-vein"
@@ -1843,11 +4467,11 @@
       "filled": true
     },
     {
-      "id": "gathr1xd",
+      "id": "gathk40a",
       "profession": "mining",
       "at": [
-        -705.5,
-        -1294.4
+        933,
+        -1670.5
       ],
       "nodes": [
         "copper-vein"
@@ -1855,11 +4479,11 @@
       "filled": true
     },
     {
-      "id": "gath7jp6",
+      "id": "gathj1f6",
       "profession": "mining",
       "at": [
-        -1589.1,
-        2389.2
+        445,
+        1098.9
       ],
       "nodes": [
         "copper-vein"
@@ -1867,11 +4491,11 @@
       "filled": true
     },
     {
-      "id": "gath78df",
+      "id": "gathxv4p",
       "profession": "mining",
       "at": [
-        -1266.6,
-        2378.8
+        383.5,
+        1629
       ],
       "nodes": [
         "copper-vein"
@@ -1879,11 +4503,11 @@
       "filled": true
     },
     {
-      "id": "gath0503",
+      "id": "gathrfr3",
       "profession": "mining",
       "at": [
-        -1666.9,
-        -1782.2
+        1350.8,
+        945.4
       ],
       "nodes": [
         "copper-vein"
@@ -1891,11 +4515,11 @@
       "filled": true
     },
     {
-      "id": "gathbn2y",
+      "id": "gathoam8",
       "profession": "mining",
       "at": [
-        -1604,
-        1728.9
+        2218,
+        2375.9
       ],
       "nodes": [
         "copper-vein"
@@ -1903,11 +4527,11 @@
       "filled": true
     },
     {
-      "id": "gathg2e7",
+      "id": "gath524d",
       "profession": "mining",
       "at": [
-        -244.4,
-        -2094.7
+        2555.9,
+        -850.2
       ],
       "nodes": [
         "copper-vein"
@@ -1915,11 +4539,11 @@
       "filled": true
     },
     {
-      "id": "gath1yzz",
+      "id": "gathg3l2",
       "profession": "mining",
       "at": [
-        -1386.3,
-        -613.7
+        1735.3,
+        2585.8
       ],
       "nodes": [
         "copper-vein"
@@ -1927,11 +4551,11 @@
       "filled": true
     },
     {
-      "id": "gathohxl",
+      "id": "gath0vij",
       "profession": "mining",
       "at": [
-        -706.8,
-        1166.2
+        2191.8,
+        -2553.9
       ],
       "nodes": [
         "copper-vein"
@@ -1939,11 +4563,11 @@
       "filled": true
     },
     {
-      "id": "gaths3ao",
+      "id": "gathuh5d",
       "profession": "mining",
       "at": [
-        -2488.4,
-        -1931.8
+        2287.4,
+        449.3
       ],
       "nodes": [
         "copper-vein"
@@ -1951,11 +4575,11 @@
       "filled": true
     },
     {
-      "id": "gathf9a1",
+      "id": "gathtur7",
       "profession": "mining",
       "at": [
-        -2069.9,
-        -1866.1
+        1130.1,
+        2460.1
       ],
       "nodes": [
         "copper-vein"
@@ -1963,11 +4587,11 @@
       "filled": true
     },
     {
-      "id": "gatha8rw",
+      "id": "gathykqc",
       "profession": "mining",
       "at": [
-        -1698.4,
-        -455.6
+        334.7,
+        667.9
       ],
       "nodes": [
         "copper-vein"
@@ -1975,11 +4599,11 @@
       "filled": true
     },
     {
-      "id": "gatha553",
+      "id": "gath5f5l",
       "profession": "mining",
       "at": [
-        -2455.8,
-        -2457.8
+        1525.1,
+        -426.7
       ],
       "nodes": [
         "copper-vein"
@@ -1987,11 +4611,11 @@
       "filled": true
     },
     {
-      "id": "gathdmad",
+      "id": "gathah4e",
       "profession": "mining",
       "at": [
-        -633,
-        2381.2
+        1575.8,
+        -96.2
       ],
       "nodes": [
         "copper-vein"
@@ -1999,11 +4623,11 @@
       "filled": true
     },
     {
-      "id": "gatho7qn",
+      "id": "gathqjrg",
       "profession": "mining",
       "at": [
-        30.4,
-        -2046.3
+        1649.8,
+        -2513.9
       ],
       "nodes": [
         "copper-vein"
@@ -2011,11 +4635,11 @@
       "filled": true
     },
     {
-      "id": "gathilhs",
+      "id": "gathm46i",
       "profession": "mining",
       "at": [
-        -850.8,
-        -1606
+        830.6,
+        -333
       ],
       "nodes": [
         "copper-vein"
@@ -2023,11 +4647,11 @@
       "filled": true
     },
     {
-      "id": "gathk5dc",
+      "id": "gathi1u5",
       "profession": "mining",
       "at": [
-        -1771.5,
-        407.7
+        335.9,
+        -1789.5
       ],
       "nodes": [
         "copper-vein"
@@ -2035,11 +4659,11 @@
       "filled": true
     },
     {
-      "id": "gathbad0",
+      "id": "gathxrzz",
       "profession": "mining",
       "at": [
-        -129.8,
-        -532.6
+        1310.2,
+        25
       ],
       "nodes": [
         "copper-vein"
@@ -2047,11 +4671,11 @@
       "filled": true
     },
     {
-      "id": "gathy3ip",
+      "id": "gathrswv",
       "profession": "mining",
       "at": [
-        -2604.5,
-        -268.8
+        2551.9,
+        1469.1
       ],
       "nodes": [
         "copper-vein"
@@ -2059,11 +4683,11 @@
       "filled": true
     },
     {
-      "id": "gathhf19",
+      "id": "gathu81i",
       "profession": "mining",
       "at": [
-        -2458.5,
-        1693
+        2377.1,
+        2104.7
       ],
       "nodes": [
         "copper-vein"
@@ -2071,11 +4695,11 @@
       "filled": true
     },
     {
-      "id": "gathpke0",
+      "id": "gath6ylm",
       "profession": "mining",
       "at": [
-        -972.4,
-        1435.8
+        1368,
+        -1487.1
       ],
       "nodes": [
         "copper-vein"
@@ -2083,11 +4707,11 @@
       "filled": true
     },
     {
-      "id": "gathux9l",
+      "id": "gatha3lk",
       "profession": "mining",
       "at": [
-        -779.7,
-        -61.2
+        588.3,
+        -1546
       ],
       "nodes": [
         "copper-vein"
@@ -2095,11 +4719,11 @@
       "filled": true
     },
     {
-      "id": "gathz4ss",
+      "id": "gath8whh",
       "profession": "mining",
       "at": [
-        -941.5,
-        -820.5
+        1456.2,
+        -2185.9
       ],
       "nodes": [
         "copper-vein"
@@ -2107,11 +4731,11 @@
       "filled": true
     },
     {
-      "id": "gathd3sq",
+      "id": "gathr4py",
       "profession": "mining",
       "at": [
-        -2015.3,
-        1990.6
+        515.5,
+        -84.5
       ],
       "nodes": [
         "copper-vein"
@@ -2119,11 +4743,11 @@
       "filled": true
     },
     {
-      "id": "gath3ool",
+      "id": "gathzc7k",
       "profession": "mining",
       "at": [
-        -686.3,
-        -1754.5
+        285,
+        -291.2
       ],
       "nodes": [
         "copper-vein"
@@ -2131,11 +4755,11 @@
       "filled": true
     },
     {
-      "id": "gathlwus",
+      "id": "gath3zso",
       "profession": "mining",
       "at": [
-        -2023.1,
-        -314.1
+        809.2,
+        1454.6
       ],
       "nodes": [
         "copper-vein"
@@ -2143,11 +4767,11 @@
       "filled": true
     },
     {
-      "id": "gath9va0",
+      "id": "gath37u7",
       "profession": "mining",
       "at": [
-        -1945.1,
-        -1176.2
+        2146.2,
+        2067.4
       ],
       "nodes": [
         "copper-vein"
@@ -2155,2635 +4779,11 @@
       "filled": true
     },
     {
-      "id": "gath8x7h",
+      "id": "gathxhw4",
       "profession": "mining",
       "at": [
-        -2086.4,
-        533.4
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath6pfg",
-      "profession": "mining",
-      "at": [
-        -1581.2,
-        -256.1
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathyrdt",
-      "profession": "mining",
-      "at": [
-        -664.6,
-        1630.2
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathvub8",
-      "profession": "mining",
-      "at": [
-        -2510.7,
-        -1422.7
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathgsft",
-      "profession": "mining",
-      "at": [
-        -138.7,
-        -912.9
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathhhw3",
-      "profession": "mining",
-      "at": [
-        16,
-        491.8
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath3qdn",
-      "profession": "mining",
-      "at": [
-        -1417.5,
-        -1114.6
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathklc6",
-      "profession": "mining",
-      "at": [
-        -1336.4,
-        274.5
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathwdfa",
-      "profession": "mining",
-      "at": [
-        -1070.1,
-        -2017.4
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathgfpq",
-      "profession": "mining",
-      "at": [
-        -942.9,
-        -2325.9
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath9j0n",
-      "profession": "mining",
-      "at": [
-        -1689.8,
-        1502.4
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathlwdv",
-      "profession": "mining",
-      "at": [
-        -2260.8,
-        -1142.7
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathwn2s",
-      "profession": "mining",
-      "at": [
-        -47.5,
-        -2454.6
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathmjik",
-      "profession": "mining",
-      "at": [
-        -2051.7,
-        1208.4
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathta06",
-      "profession": "mining",
-      "at": [
-        -1595.1,
-        -2449.1
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath5xv6",
-      "profession": "mining",
-      "at": [
-        -821.8,
-        847.9
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathrrdz",
-      "profession": "mining",
-      "at": [
-        -2112,
-        2300.5
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathjbtu",
-      "profession": "mining",
-      "at": [
-        -391.7,
-        1051.4
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathw5lg",
-      "profession": "mining",
-      "at": [
-        -2526.1,
-        2187.4
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathoc45",
-      "profession": "mining",
-      "at": [
-        -1610.3,
-        2137.7
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath2smg",
-      "profession": "mining",
-      "at": [
-        -2346.2,
-        -231.4
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathtqzu",
-      "profession": "mining",
-      "at": [
-        -1315.4,
-        2029.1
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath1u8o",
-      "profession": "mining",
-      "at": [
-        -194.3,
-        665
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathemcf",
-      "profession": "mining",
-      "at": [
-        -929.7,
-        1124.7
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathz2jq",
-      "profession": "mining",
-      "at": [
-        -1971.4,
-        -852.3
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathr69b",
-      "profession": "mining",
-      "at": [
-        -1087,
-        2173.8
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathb7jv",
-      "profession": "mining",
-      "at": [
-        -1976.4,
-        -2169.5
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathhanr",
-      "profession": "mining",
-      "at": [
-        -2475.5,
-        579.7
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath0aw5",
-      "profession": "mining",
-      "at": [
-        -2088.4,
-        -1420.4
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathrtyn",
-      "profession": "mining",
-      "at": [
-        -1378.2,
-        764.6
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathbgle",
-      "profession": "mining",
-      "at": [
-        -1537.3,
-        2608.8
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathnmdi",
-      "profession": "mining",
-      "at": [
-        -675.1,
-        2164.7
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathture",
-      "profession": "mining",
-      "at": [
-        -2154.5,
-        -2457.8
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathvnt2",
-      "profession": "mining",
-      "at": [
-        -874.5,
-        -433.1
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathggem",
-      "profession": "mining",
-      "at": [
-        -445.5,
-        2499.9
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathpgxh",
-      "profession": "herbalism",
-      "at": [
-        1325.9,
-        433.9
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathfpwl",
-      "profession": "herbalism",
-      "at": [
-        788.1,
-        -1128.1
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathks36",
-      "profession": "herbalism",
-      "at": [
-        334.3,
-        -947.2
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathe5er",
-      "profession": "herbalism",
-      "at": [
-        1391.2,
-        -464.2
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath72dn",
-      "profession": "herbalism",
-      "at": [
-        1180.1,
-        2172.9
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathgj17",
-      "profession": "herbalism",
-      "at": [
-        1663.7,
-        -1806.2
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathnj7c",
-      "profession": "herbalism",
-      "at": [
-        933.4,
-        -954.6
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath7j5i",
-      "profession": "herbalism",
-      "at": [
-        2395.1,
-        -2346.1
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathd9ig",
-      "profession": "herbalism",
-      "at": [
-        2048.7,
-        496.9
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathsb16",
-      "profession": "herbalism",
-      "at": [
-        1312.4,
-        1984.8
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath8ng7",
-      "profession": "herbalism",
-      "at": [
-        550,
-        -324.3
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathnvs2",
-      "profession": "herbalism",
-      "at": [
-        494.6,
-        -2177.6
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathz5xs",
-      "profession": "herbalism",
-      "at": [
-        2138.5,
-        658.3
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath39jv",
-      "profession": "herbalism",
-      "at": [
-        1819.4,
-        -694
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath25ye",
-      "profession": "herbalism",
-      "at": [
-        1188.7,
-        1463.4
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathmb3l",
-      "profession": "herbalism",
-      "at": [
-        1426.9,
-        -2540.1
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathlzob",
-      "profession": "herbalism",
-      "at": [
-        1113.2,
-        368.7
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathwhsw",
-      "profession": "herbalism",
-      "at": [
-        2130.8,
-        -906
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathzmoz",
-      "profession": "herbalism",
-      "at": [
-        689.3,
-        1305.6
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath9v5n",
-      "profession": "herbalism",
-      "at": [
-        2302.7,
-        1394.3
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathxjag",
-      "profession": "herbalism",
-      "at": [
-        2370.7,
-        -1702.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathzm59",
-      "profession": "herbalism",
-      "at": [
-        1469.3,
-        618.6
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathqz4v",
-      "profession": "herbalism",
-      "at": [
-        1771.3,
-        -448.2
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathw45m",
-      "profession": "herbalism",
-      "at": [
-        2054.5,
-        -2026.2
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathmr42",
-      "profession": "herbalism",
-      "at": [
-        2132.1,
-        -1092
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathbfmm",
-      "profession": "herbalism",
-      "at": [
-        1035.1,
-        -2382.3
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath7kxe",
-      "profession": "herbalism",
-      "at": [
-        1007,
-        1472.4
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath8yy7",
-      "profession": "herbalism",
-      "at": [
-        1905.8,
-        2492.1
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath2sq9",
-      "profession": "herbalism",
-      "at": [
-        285.1,
-        -138.3
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathnuri",
-      "profession": "herbalism",
-      "at": [
-        2130.6,
-        861.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathnya9",
-      "profession": "herbalism",
-      "at": [
-        1315.2,
-        1615.6
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathszih",
-      "profession": "herbalism",
-      "at": [
-        970.8,
-        660.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathn4m5",
-      "profession": "herbalism",
-      "at": [
-        595.8,
-        2383.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath4d5t",
-      "profession": "herbalism",
-      "at": [
-        1977.3,
-        1028.2
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath8ad3",
-      "profession": "herbalism",
-      "at": [
-        1423.1,
-        -1489.3
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath9kb0",
-      "profession": "herbalism",
-      "at": [
-        635.2,
-        -773.6
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathjmel",
-      "profession": "herbalism",
-      "at": [
-        2249.1,
-        -2458.6
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath8c9l",
-      "profession": "herbalism",
-      "at": [
-        1848.1,
-        1705
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath6z7y",
-      "profession": "herbalism",
-      "at": [
-        1224.7,
-        -2142
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathc00s",
-      "profession": "herbalism",
-      "at": [
-        2179.2,
-        -1284.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathroih",
-      "profession": "herbalism",
-      "at": [
-        1727.9,
-        2309.7
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gatha1an",
-      "profession": "herbalism",
-      "at": [
-        737.5,
-        -284.7
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathh6aa",
-      "profession": "herbalism",
-      "at": [
-        2414.9,
-        -2048.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath1uk7",
-      "profession": "herbalism",
-      "at": [
-        2343.4,
-        -662.2
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathxo5x",
-      "profession": "herbalism",
-      "at": [
-        1377.3,
-        970.4
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathfqmt",
-      "profession": "herbalism",
-      "at": [
-        2124.6,
-        1587.3
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathwluh",
-      "profession": "herbalism",
-      "at": [
-        474.8,
-        1298.3
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathgt6u",
-      "profession": "herbalism",
-      "at": [
-        649.7,
-        536.6
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gatho5ze",
-      "profession": "herbalism",
-      "at": [
-        229.6,
-        -2372.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathgqa6",
-      "profession": "herbalism",
-      "at": [
-        793.1,
-        -1702
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathr7vt",
-      "profession": "herbalism",
-      "at": [
-        612.5,
-        -144.1
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath0j6b",
-      "profession": "herbalism",
-      "at": [
-        589.9,
-        2124.4
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath6c91",
-      "profession": "herbalism",
-      "at": [
-        659.3,
-        -1389
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath96e0",
-      "profession": "herbalism",
-      "at": [
-        302,
-        -1863.7
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath9sqp",
-      "profession": "herbalism",
-      "at": [
-        2532.4,
-        2389.6
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathpjne",
-      "profession": "herbalism",
-      "at": [
-        1140.6,
-        -1830.9
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathnfn1",
-      "profession": "herbalism",
-      "at": [
-        971.8,
-        86.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath9rqv",
-      "profession": "herbalism",
-      "at": [
-        502.7,
-        369.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath6suu",
-      "profession": "herbalism",
-      "at": [
-        450.8,
-        1724.2
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathhgny",
-      "profession": "herbalism",
-      "at": [
-        2381.5,
-        615.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathovsf",
-      "profession": "herbalism",
-      "at": [
-        825,
-        194.7
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathpj6b",
-      "profession": "herbalism",
-      "at": [
-        1673.5,
-        2107.7
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath1a6l",
-      "profession": "herbalism",
-      "at": [
-        1014.8,
-        1013.2
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathzfdz",
-      "profession": "herbalism",
-      "at": [
-        1592.5,
-        45.1
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath7tlt",
-      "profession": "herbalism",
-      "at": [
-        692.9,
-        2635.9
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath2fix",
-      "profession": "herbalism",
-      "at": [
-        324.4,
-        -491.6
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathcgjl",
-      "profession": "herbalism",
-      "at": [
-        618.2,
-        -1644.2
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathp8te",
-      "profession": "herbalism",
-      "at": [
-        2166.8,
-        -31.1
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathrdsi",
-      "profession": "herbalism",
-      "at": [
-        345.7,
-        933.1
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath68m6",
-      "profession": "herbalism",
-      "at": [
-        297.5,
-        1889.9
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathexu7",
-      "profession": "herbalism",
-      "at": [
-        1737.5,
-        1223.6
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathoq0y",
-      "profession": "herbalism",
-      "at": [
-        2449.9,
-        -444.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathfnk3",
-      "profession": "herbalism",
-      "at": [
-        667.3,
-        1775.2
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathqe36",
-      "profession": "herbalism",
-      "at": [
-        1547.7,
-        1367.7
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathr7g0",
-      "profession": "herbalism",
-      "at": [
-        1255.5,
-        -1019.2
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathpy00",
-      "profession": "herbalism",
-      "at": [
-        1991.5,
-        228.4
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathj269",
-      "profession": "herbalism",
-      "at": [
-        381.5,
-        -1507.1
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathqcno",
-      "profession": "herbalism",
-      "at": [
-        2451.1,
-        1180.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathkfsu",
-      "profession": "herbalism",
-      "at": [
-        2433.4,
-        -1167
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathmwlk",
-      "profession": "herbalism",
-      "at": [
-        2446.6,
-        2057.3
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathsjaa",
-      "profession": "herbalism",
-      "at": [
-        2456.6,
-        -151.7
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathab91",
-      "profession": "herbalism",
-      "at": [
-        822.3,
-        -2207.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath3097",
-      "profession": "herbalism",
-      "at": [
-        589.3,
-        1531.3
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath6hvv",
-      "profession": "herbalism",
-      "at": [
-        2390,
-        2531.2
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathbipa",
-      "profession": "herbalism",
-      "at": [
-        1748.6,
-        -2248.6
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathhatt",
-      "profession": "herbalism",
-      "at": [
-        293.9,
-        1327.9
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathgbhs",
-      "profession": "herbalism",
-      "at": [
-        2136.7,
-        1311.8
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathoez8",
-      "profession": "herbalism",
-      "at": [
-        1973.4,
-        -1463.7
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath9a1u",
-      "profession": "herbalism",
-      "at": [
-        218.3,
-        -307.4
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathn55n",
-      "profession": "herbalism",
-      "at": [
-        2270.6,
-        1074
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath64di",
-      "profession": "herbalism",
-      "at": [
-        1114.5,
-        1806.9
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath1rqb",
-      "profession": "herbalism",
-      "at": [
-        941,
-        2554.4
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath0vvc",
-      "profession": "herbalism",
-      "at": [
-        1851.7,
-        -1291.3
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathrwkk",
-      "profession": "herbalism",
-      "at": [
-        1507.6,
-        1137.8
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath2kjz",
-      "profession": "herbalism",
-      "at": [
-        1871.1,
-        -1777.1
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathcvgo",
-      "profession": "herbalism",
-      "at": [
-        1606,
-        -2384.2
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathim3d",
-      "profession": "herbalism",
-      "at": [
-        1706.6,
-        2567.1
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath22yr",
-      "profession": "herbalism",
-      "at": [
-        2509.9,
-        1532.4
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathh29x",
-      "profession": "herbalism",
-      "at": [
-        1050.6,
-        -2579.9
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathek93",
-      "profession": "herbalism",
-      "at": [
-        2066.6,
-        -293.5
-      ],
-      "nodes": [
-        "chamomile",
-        "sage",
-        "burdock"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath11pw",
-      "profession": "mining",
-      "at": [
-        2459.8,
-        -2451
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath2t07",
-      "profession": "mining",
-      "at": [
-        263.8,
-        -551.3
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gaths3we",
-      "profession": "mining",
-      "at": [
-        1420.7,
-        -466.7
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathizul",
-      "profession": "mining",
-      "at": [
-        495.9,
-        1983.7
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathohrk",
-      "profession": "mining",
-      "at": [
-        1138.7,
-        887.8
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathkrp3",
-      "profession": "mining",
-      "at": [
-        1299.8,
-        -2275.9
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathlsy5",
-      "profession": "mining",
-      "at": [
-        2414.4,
-        178.8
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathhmom",
-      "profession": "mining",
-      "at": [
-        844.9,
-        2336.6
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathlma1",
-      "profession": "mining",
-      "at": [
-        2046.7,
-        2348.9
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathc5fx",
-      "profession": "mining",
-      "at": [
-        1272.6,
-        530
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath7kgk",
-      "profession": "mining",
-      "at": [
-        418.4,
-        1657.2
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath3plk",
-      "profession": "mining",
-      "at": [
-        1550.2,
-        1515
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath8ty8",
-      "profession": "mining",
-      "at": [
-        808.3,
-        -1864.1
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathe49t",
-      "profession": "mining",
-      "at": [
-        1543.2,
-        2473.7
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathkyno",
-      "profession": "mining",
-      "at": [
-        2288.9,
-        -1170.7
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathkvdr",
-      "profession": "mining",
-      "at": [
-        1447.2,
-        96.5
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathplyo",
-      "profession": "mining",
-      "at": [
-        1145.9,
-        -854.2
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath6uvh",
-      "profession": "mining",
-      "at": [
-        1846.9,
-        -1834.4
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathcitl",
-      "profession": "mining",
-      "at": [
-        1927.9,
-        102.8
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath3m5d",
-      "profession": "mining",
-      "at": [
-        2618.4,
-        586.8
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath9iyt",
-      "profession": "mining",
-      "at": [
-        470,
-        220.5
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathw0j7",
-      "profession": "mining",
-      "at": [
-        1626,
-        -2435.3
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathw2gy",
-      "profession": "mining",
-      "at": [
-        1754.4,
-        1933
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath1zjx",
-      "profession": "mining",
-      "at": [
-        965.3,
-        -1352.4
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathf9cz",
-      "profession": "mining",
-      "at": [
-        1209.9,
-        1853.9
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathkd1j",
-      "profession": "mining",
-      "at": [
-        1475.4,
-        -1820.6
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathumk5",
-      "profession": "mining",
-      "at": [
-        288.5,
-        1094
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathcp01",
-      "profession": "mining",
-      "at": [
-        1901.6,
-        -266.3
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathawi0",
-      "profession": "mining",
-      "at": [
-        2140.9,
-        219.1
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathv4gb",
-      "profession": "mining",
-      "at": [
-        2541.8,
-        1569
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath37nj",
-      "profession": "mining",
-      "at": [
-        429.1,
-        -2555.4
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathtqvx",
-      "profession": "mining",
-      "at": [
-        1675.6,
-        -1149.9
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath52jv",
-      "profession": "mining",
-      "at": [
-        1778,
-        -850.9
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathejxt",
-      "profession": "mining",
-      "at": [
-        2108,
-        446.9
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathdrlx",
-      "profession": "mining",
-      "at": [
-        2449.6,
-        -1697.6
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath9g4b",
-      "profession": "mining",
-      "at": [
-        985,
-        -2491.3
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathu0zs",
-      "profession": "mining",
-      "at": [
-        450.1,
-        -1580.9
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathi08d",
-      "profession": "mining",
-      "at": [
-        1154.6,
-        1444.6
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath0zty",
-      "profession": "mining",
-      "at": [
-        2333.9,
-        -404.6
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathx3ws",
-      "profession": "mining",
-      "at": [
-        2097.9,
-        -2627
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath6frx",
-      "profession": "mining",
-      "at": [
-        647.3,
-        465.8
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathyjmz",
-      "profession": "mining",
-      "at": [
-        257.4,
-        2208
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath55qw",
-      "profession": "mining",
-      "at": [
-        2450.6,
-        2149.1
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathdwtv",
-      "profession": "mining",
-      "at": [
-        2499.6,
-        936.8
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathv4m2",
-      "profession": "mining",
-      "at": [
-        226.2,
-        -2217.4
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathdcgj",
-      "profession": "mining",
-      "at": [
-        1861.8,
-        311.9
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathur90",
-      "profession": "mining",
-      "at": [
-        1645.2,
-        344.9
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath6nd3",
-      "profession": "mining",
-      "at": [
-        1904,
-        1746.5
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath4azq",
-      "profession": "mining",
-      "at": [
-        1742.6,
-        -1444.1
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathyik8",
-      "profession": "mining",
-      "at": [
-        1489.7,
-        -125.9
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathg74j",
-      "profession": "mining",
-      "at": [
-        834.2,
-        1809
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath8wk4",
-      "profession": "mining",
-      "at": [
-        749.4,
-        -1022.1
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathxnss",
-      "profession": "mining",
-      "at": [
-        780.1,
-        -706.1
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathjs7q",
-      "profession": "mining",
-      "at": [
-        2451.2,
-        -980.9
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath28gy",
-      "profession": "mining",
-      "at": [
-        2589.1,
-        -608.7
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathqa4i",
-      "profession": "mining",
-      "at": [
-        504.6,
-        2224
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath54n3",
-      "profession": "mining",
-      "at": [
-        1063.3,
-        267.4
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathf33f",
-      "profession": "mining",
-      "at": [
-        1966.5,
-        -2421.3
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath7mcp",
-      "profession": "mining",
-      "at": [
-        510.9,
-        -584.6
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath5di9",
-      "profession": "mining",
-      "at": [
-        2228.5,
-        817
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathofdb",
-      "profession": "mining",
-      "at": [
-        2050.8,
-        1463
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathvneq",
-      "profession": "mining",
-      "at": [
-        588.2,
-        -2112.8
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gath0mg0",
-      "profession": "mining",
-      "at": [
-        2218.6,
-        -2164.1
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gaths2wp",
-      "profession": "mining",
-      "at": [
-        2149.1,
-        -732.5
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathcpkc",
-      "profession": "mining",
-      "at": [
-        1388.8,
-        2013.1
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathcwfm",
-      "profession": "mining",
-      "at": [
-        486.2,
-        833.8
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathzf3n",
-      "profession": "mining",
-      "at": [
-        1807.1,
-        1405.1
-      ],
-      "nodes": [
-        "copper-vein"
-      ],
-      "filled": true
-    },
-    {
-      "id": "gathuu4l",
-      "profession": "mining",
-      "at": [
-        1025,
-        2111.8
+        2510.7,
+        -2327.3
       ],
       "nodes": [
         "copper-vein"
