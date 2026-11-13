@@ -1524,16 +1524,16 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/woodsmans-axe"
+            "item": "stock/bearded-axe"
           },
           {
-            "item": "stock/iron-maul"
+            "item": "stock/war-maul"
           },
           {
-            "item": "stock/ash-spear"
+            "item": "stock/boar-spear"
           },
           {
-            "item": "stock/old-blunderbuss"
+            "item": "stock/fowling-piece"
           }
         ]
       }
@@ -1699,13 +1699,16 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/patched-cloak"
+            "item": "stock/chainmail-boots"
           },
           {
-            "item": "stock/hide-belt"
+            "item": "stock/tanned-belt"
           },
           {
-            "item": "stock/ringmail-boots"
+            "item": "stock/travelers-cloak"
+          },
+          {
+            "item": "stock/militia-sabatons"
           }
         ]
       }
@@ -1741,22 +1744,22 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/iron-greatsword"
+            "item": "stock/claymore"
           },
           {
-            "item": "stock/iron-mace"
+            "item": "stock/flanged-mace"
           },
           {
-            "item": "stock/iron-dagger"
+            "item": "stock/stiletto"
           },
           {
-            "item": "stock/ash-staff"
+            "item": "stock/quarterstaff"
           },
           {
-            "item": "stock/light-crossbow"
+            "item": "stock/heavy-crossbow"
           },
           {
-            "item": "stock/iron-shortsword"
+            "item": "stock/broadsword"
           }
         ]
       }
@@ -1842,22 +1845,22 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/woodsmans-axe"
+            "item": "stock/bearded-axe"
           },
           {
-            "item": "stock/iron-maul"
+            "item": "stock/war-maul"
           },
           {
-            "item": "stock/ash-spear"
+            "item": "stock/boar-spear"
           },
           {
-            "item": "stock/hunting-bow"
+            "item": "stock/longbow"
           },
           {
-            "item": "stock/birch-wand"
+            "item": "stock/yew-wand"
           },
           {
-            "item": "stock/iron-knuckles"
+            "item": "stock/brass-knuckles"
           }
         ]
       }
@@ -1953,13 +1956,16 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/hide-leggings"
+            "item": "stock/homespun-robe"
           },
           {
-            "item": "stock/ringmail-vest"
+            "item": "stock/tanned-jerkin"
           },
           {
-            "item": "stock/linen-robe"
+            "item": "stock/chainmail-hauberk"
+          },
+          {
+            "item": "stock/militia-breastplate"
           }
         ]
       }
@@ -2021,22 +2027,22 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/iron-greatsword"
+            "item": "stock/claymore"
           },
           {
-            "item": "stock/woodsmans-axe"
+            "item": "stock/bearded-axe"
           },
           {
-            "item": "stock/iron-maul"
+            "item": "stock/war-maul"
           },
           {
-            "item": "stock/ash-spear"
+            "item": "stock/boar-spear"
           },
           {
-            "item": "stock/hunting-bow"
+            "item": "stock/longbow"
           },
           {
-            "item": "stock/ash-staff"
+            "item": "stock/quarterstaff"
           }
         ]
       }
@@ -2111,13 +2117,16 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/ringmail-boots"
+            "item": "stock/homespun-gloves"
           },
           {
-            "item": "stock/hide-belt"
+            "item": "stock/tanned-gloves"
           },
           {
-            "item": "stock/patched-cloak"
+            "item": "stock/chainmail-gloves"
+          },
+          {
+            "item": "stock/militia-gauntlets"
           }
         ]
       }
@@ -2194,22 +2203,22 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/iron-greatsword"
+            "item": "stock/claymore"
           },
           {
-            "item": "stock/iron-mace"
+            "item": "stock/flanged-mace"
           },
           {
-            "item": "stock/iron-dagger"
+            "item": "stock/stiletto"
           },
           {
-            "item": "stock/ash-staff"
+            "item": "stock/quarterstaff"
           },
           {
-            "item": "stock/birch-wand"
+            "item": "stock/yew-wand"
           },
           {
-            "item": "stock/iron-shortsword"
+            "item": "stock/broadsword"
           }
         ]
       }
@@ -2307,13 +2316,13 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/hunting-bow"
+            "item": "stock/longbow"
           },
           {
-            "item": "stock/light-crossbow"
+            "item": "stock/heavy-crossbow"
           },
           {
-            "item": "stock/old-blunderbuss"
+            "item": "stock/fowling-piece"
           }
         ]
       }
@@ -2366,22 +2375,22 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/iron-greatsword"
+            "item": "stock/claymore"
           },
           {
-            "item": "stock/iron-mace"
+            "item": "stock/flanged-mace"
           },
           {
-            "item": "stock/iron-dagger"
+            "item": "stock/stiletto"
           },
           {
-            "item": "stock/ash-staff"
+            "item": "stock/quarterstaff"
           },
           {
-            "item": "stock/hunting-bow"
+            "item": "stock/longbow"
           },
           {
-            "item": "stock/iron-knuckles"
+            "item": "stock/brass-knuckles"
           }
         ]
       }
@@ -2410,13 +2419,16 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/ringmail-vest"
+            "item": "stock/homespun-mantle"
           },
           {
-            "item": "stock/hide-leggings"
+            "item": "stock/tanned-shoulderpads"
           },
           {
-            "item": "stock/linen-robe"
+            "item": "stock/chainmail-spaulders"
+          },
+          {
+            "item": "stock/militia-pauldrons"
           }
         ]
       }
