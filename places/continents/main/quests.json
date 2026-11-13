@@ -340,6 +340,30 @@
       "notes": "Limited to one class."
     },
     {
+      "id": "tbskill1",
+      "name": "Needs 5 Mining",
+      "level": 1,
+      "zone": "tbwest01",
+      "giver": "elsa0001",
+      "requiresProfession": {
+        "profession": "mining",
+        "skill": 5
+      },
+      "text": {
+        "offer": "Offered only with 5 or more skill in Mining. Learn mining and mine a few veins, and it shows.",
+        "summary": "Speak with Tove.",
+        "waiting": "Not yet.",
+        "done": "Well done."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "talk": "tove0001"
+        }
+      ],
+      "notes": "Offered only from a profession's skill."
+    },
+    {
       "id": "tbrewrd1",
       "name": "Rewards: fixed and a choice",
       "level": 1,
