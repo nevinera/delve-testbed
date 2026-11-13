@@ -160,7 +160,17 @@
      ],
      "show": 8
     }
-   ]
+   ],
+   "rewards": {
+    "choice": [
+     {
+      "item": "stock/linen-shoes"
+     },
+     {
+      "item": "stock/hide-bracers"
+     }
+    ]
+   }
   },
   {
    "id": "glvial01",
@@ -233,7 +243,20 @@
    "after": [
     "glooze01"
    ],
-   "requiredLevel": 2
+   "requiredLevel": 2,
+   "rewards": {
+    "choice": [
+     {
+      "item": "stock/hide-gloves"
+     },
+     {
+      "item": "stock/linen-sash"
+     },
+     {
+      "item": "stock/ringmail-bracers"
+     }
+    ]
+   }
   },
   {
    "id": "glsupl01",
@@ -268,7 +291,20 @@
    "after": [
     "glherb01"
    ],
-   "requiredLevel": 2
+   "requiredLevel": 2,
+   "rewards": {
+    "choice": [
+     {
+      "item": "stock/linen-trousers"
+     },
+     {
+      "item": "stock/hide-jerkin"
+     },
+     {
+      "item": "stock/wool-cloak"
+     }
+    ]
+   }
   },
   {
    "id": "glrunt01",
@@ -372,7 +408,20 @@
       }
      ]
     }
-   ]
+   ],
+   "rewards": {
+    "choice": [
+     {
+      "item": "stock/hide-boots"
+     },
+     {
+      "item": "stock/linen-gloves"
+     },
+     {
+      "item": "stock/ringmail-belt"
+     }
+    ]
+   }
   },
   {
    "id": "glring01",
@@ -436,7 +485,53 @@
    "after": [
     "glkobd01"
    ],
-   "requiredLevel": 4
+   "requiredLevel": 4,
+   "rewards": {
+    "choice": [
+     {
+      "item": "stock/iron-hatchet"
+     },
+     {
+      "item": "stock/hunting-bow"
+     },
+     {
+      "item": "stock/light-crossbow"
+     },
+     {
+      "item": "stock/iron-dagger"
+     },
+     {
+      "item": "stock/iron-knuckles"
+     },
+     {
+      "item": "stock/woodsmans-axe"
+     },
+     {
+      "item": "stock/iron-greatsword"
+     },
+     {
+      "item": "stock/old-blunderbuss"
+     },
+     {
+      "item": "stock/iron-mace"
+     },
+     {
+      "item": "stock/iron-maul"
+     },
+     {
+      "item": "stock/ash-spear"
+     },
+     {
+      "item": "stock/ash-staff"
+     },
+     {
+      "item": "stock/iron-shortsword"
+     },
+     {
+      "item": "stock/birch-wand"
+     }
+    ]
+   }
   },
   {
    "id": "gldrem01",
@@ -481,7 +576,20 @@
       }
      ]
     }
-   ]
+   ],
+   "rewards": {
+    "choice": [
+     {
+      "item": "stock/hide-belt"
+     },
+     {
+      "item": "stock/patched-cloak"
+     },
+     {
+      "item": "stock/ringmail-boots"
+     }
+    ]
+   }
   },
   {
    "id": "glashb01",
@@ -535,7 +643,20 @@
    "after": [
     "glring01"
    ],
-   "requiredLevel": 4
+   "requiredLevel": 4,
+   "rewards": {
+    "choice": [
+     {
+      "item": "stock/linen-robe"
+     },
+     {
+      "item": "stock/hide-leggings"
+     },
+     {
+      "item": "stock/ringmail-vest"
+     }
+    ]
+   }
   }
  ]
 }
