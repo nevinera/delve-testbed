@@ -196,6 +196,33 @@
       "name": "Pouch of Barrow Earth",
       "icon": "powder",
       "description": "Dark earth from the Southwood barrow. It is cold, and stays cold."
+    },
+    {
+      "id": "keepsak1",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 20,
+      "name": "Fennick's Keepsake",
+      "icon": "locked-chest",
+      "description": "A small box of someone's things, salvaged from the ruins."
+    },
+    {
+      "id": "frtotem1",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 20,
+      "name": "Frogman Totem",
+      "icon": "totem-head",
+      "description": "Shell and bone, tied with kelp. It smells of deep water."
+    },
+    {
+      "id": "crabmt01",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 20,
+      "name": "Strand Crab Meat",
+      "icon": "meat",
+      "description": "Sweet, pale and a little sandy."
     }
   ]
 }

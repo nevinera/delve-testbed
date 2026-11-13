@@ -1,0 +1,28 @@
+{
+  "id": "swsister",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Did you come from the west? Did you see anyone from Fennick's? A woman called Morwen, about my height?",
+      "choices": [
+        {
+          "text": "Who was Morwen?",
+          "next": "t0"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "My sister. She married a Fennick's man. Is. She is my sister. ... Excuse me.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

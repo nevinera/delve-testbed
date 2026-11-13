@@ -1,0 +1,41 @@
+{
+  "id": "swharpnr",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Kett Brine. I put iron in fish for a living. Bigger fish lately. Wetter ones.",
+      "choices": [
+        {
+          "text": "Tell me about the frogmen.",
+          "next": "t0"
+        },
+        {
+          "text": "Any advice?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "The wet ones? They don't run when they're beaten. They walk back into the sea and come again next night. Something's driving them. Somebody, I'd bet.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Aim for the throat. They've only got the one.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

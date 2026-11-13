@@ -1,0 +1,41 @@
+{
+  "id": "swharbor",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Stroud. Harbourmaster. You're not from here, so you're either lost or useful.",
+      "choices": [
+        {
+          "text": "What's happening here?",
+          "next": "t0"
+        },
+        {
+          "text": "Can Saltwick hold?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Frogmen. Out of the sea a month ago. They took Fennick's Landing, west past the river, and since then they've tried us every night. Nine boats left. Forty-one people. I count them every morning.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Long enough. I don't say more than that.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

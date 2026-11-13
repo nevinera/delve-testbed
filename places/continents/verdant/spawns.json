@@ -346,6 +346,167 @@
           "wander": 20
         }
       ]
+    },
+    {
+      "id": "spruinv0",
+      "area": "aruinv00",
+      "notes": "Frogmen holding the ruins of Fennick's Landing.",
+      "spawns": [
+        {
+          "density": 20,
+          "respawn": 120,
+          "creature": "stock/amphen-hunter",
+          "levels": [
+            7,
+            9
+          ],
+          "wander": 20
+        },
+        {
+          "density": 14,
+          "respawn": 120,
+          "creature": "stock/amphen-spearthrower",
+          "levels": [
+            7,
+            9
+          ],
+          "wander": 20
+        }
+      ]
+    },
+    {
+      "id": "spfrraid",
+      "area": "afrraid0",
+      "notes": "Frogmen raiders between the ruins and Saltwick.",
+      "spawns": [
+        {
+          "density": 20,
+          "respawn": 120,
+          "creature": "stock/amphen-hunter",
+          "levels": [
+            7,
+            8
+          ],
+          "wander": 20
+        },
+        {
+          "density": 12,
+          "respawn": 120,
+          "creature": "stock/amphen-spearthrower",
+          "levels": [
+            7,
+            8
+          ],
+          "wander": 20
+        }
+      ]
+    },
+    {
+      "id": "spfrsieg",
+      "area": "afrsieg0",
+      "notes": "The frogmen's siege line before Saltwick.",
+      "spawns": [
+        {
+          "density": 22,
+          "respawn": 120,
+          "creature": "stock/amphen-hunter",
+          "levels": [
+            8,
+            9
+          ],
+          "wander": 20
+        },
+        {
+          "density": 14,
+          "respawn": 120,
+          "creature": "stock/amphen-spearthrower",
+          "levels": [
+            8,
+            9
+          ],
+          "wander": 20
+        },
+        {
+          "density": 6,
+          "respawn": 120,
+          "creature": "stock/amphen-tidecaller",
+          "levels": [
+            8,
+            9
+          ],
+          "wander": 20
+        }
+      ]
+    },
+    {
+      "id": "spfreast",
+      "area": "afreast0",
+      "notes": "Frogmen raiding Saltwick from the east.",
+      "spawns": [
+        {
+          "density": 20,
+          "respawn": 120,
+          "creature": "stock/amphen-hunter",
+          "levels": [
+            8,
+            9
+          ],
+          "wander": 20
+        },
+        {
+          "density": 14,
+          "respawn": 120,
+          "creature": "stock/amphen-spearthrower",
+          "levels": [
+            8,
+            9
+          ],
+          "wander": 20
+        }
+      ]
+    },
+    {
+      "id": "sptidec0",
+      "area": "atidec00",
+      "notes": "The tidecaller's guard.",
+      "spawns": [
+        {
+          "density": 18,
+          "respawn": 120,
+          "creature": "stock/amphen-hunter",
+          "levels": [
+            9,
+            9
+          ],
+          "wander": 20
+        },
+        {
+          "density": 10,
+          "respawn": 120,
+          "creature": "stock/amphen-tidecaller",
+          "levels": [
+            9,
+            9
+          ],
+          "wander": 20
+        }
+      ]
+    },
+    {
+      "id": "spstrand",
+      "area": "astrand0",
+      "spawns": [
+        {
+          "density": 24,
+          "respawn": 120,
+          "creature": "stock/sand-crab",
+          "levels": [
+            6,
+            7
+          ],
+          "wander": 30
+        }
+      ]
     }
   ],
   "placed": [
@@ -4797,6 +4958,1354 @@
       "respawn": 120,
       "wander": 20,
       "spawnArea": "spswbarw"
+    },
+    {
+      "id": "swharbor",
+      "npc": "saltfolk",
+      "wander": 0,
+      "name": "Harbourmaster Agna Stroud",
+      "title": "Harbourmaster",
+      "dialogue": "swharbor",
+      "lean": "feminine",
+      "at": [
+        17660,
+        7.5,
+        20420
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "swsister",
+      "npc": "townfolk",
+      "wander": 0,
+      "name": "Wenna Pollard",
+      "dialogue": "swsister",
+      "lean": "feminine",
+      "at": [
+        17520,
+        11,
+        20275
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "swharpnr",
+      "npc": "saltfolk",
+      "wander": 0,
+      "name": "Kett Brine",
+      "title": "Harpooner",
+      "dialogue": "swharpnr",
+      "lean": "masculine",
+      "at": [
+        17570,
+        3,
+        20600
+      ],
+      "yaw": 180,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "swcook00",
+      "npc": "farmfolk",
+      "wander": 0,
+      "name": "Mother Dorrit",
+      "title": "Cook",
+      "dialogue": "swcook00",
+      "lean": "feminine",
+      "at": [
+        17700,
+        11,
+        20270
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "swdefnd1",
+      "npc": "saltfolk",
+      "wander": 4,
+      "at": [
+        17420,
+        11,
+        20230
+      ],
+      "yaw": 270,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "swdefnd2",
+      "npc": "saltfolk",
+      "wander": 4,
+      "at": [
+        17430,
+        10.5,
+        20460
+      ],
+      "yaw": 270,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "swdefnd3",
+      "npc": "saltfolk",
+      "wander": 2,
+      "at": [
+        17405,
+        11,
+        20300
+      ],
+      "yaw": 270,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "swnetmn1",
+      "npc": "farmfolk",
+      "wander": 0,
+      "name": "Net Mender",
+      "at": [
+        17630,
+        3,
+        20520
+      ],
+      "yaw": 200,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "swnetmn2",
+      "npc": "farmfolk",
+      "wander": 0,
+      "name": "Net Mender",
+      "lean": "feminine",
+      "at": [
+        17645,
+        3,
+        20528
+      ],
+      "yaw": 160,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "swkid001",
+      "npc": "villkid0",
+      "wander": 0,
+      "name": "Lookout Tam",
+      "at": [
+        17440,
+        11,
+        20350
+      ],
+      "yaw": 270,
+      "levels": 1,
+      "respawn": 300
+    },
+    {
+      "id": "swcat000",
+      "creature": "stock/cat",
+      "wander": 6,
+      "at": [
+        17560,
+        10.3,
+        20400
+      ],
+      "yaw": 0,
+      "levels": 1,
+      "respawn": 180
+    },
+    {
+      "id": "swtidecl",
+      "creature": "tidecllr",
+      "wander": 0,
+      "at": [
+        14500,
+        3,
+        20705
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "mob41kf7",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        15992.2,
+        10.5,
+        20610.3
+      ],
+      "yaw": 176,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spruinv0"
+    },
+    {
+      "id": "mobewx27",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        15707.7,
+        11,
+        20516.2
+      ],
+      "yaw": 131,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spruinv0"
+    },
+    {
+      "id": "mobd5ree",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        15833.7,
+        11,
+        20521.8
+      ],
+      "yaw": 220,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spruinv0"
+    },
+    {
+      "id": "mobkqtmh",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        15897.2,
+        11,
+        20349.1
+      ],
+      "yaw": 288,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spruinv0"
+    },
+    {
+      "id": "mobb87cd",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        15979.4,
+        11,
+        20303.3
+      ],
+      "yaw": 68,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spruinv0"
+    },
+    {
+      "id": "mob9oa92",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        15756.5,
+        10.1,
+        20590.4
+      ],
+      "yaw": 324,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spruinv0"
+    },
+    {
+      "id": "mobx9319",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        15801.2,
+        11,
+        20542.3
+      ],
+      "yaw": 162,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spruinv0"
+    },
+    {
+      "id": "mobhbgcq",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        15735,
+        11.2,
+        20419.6
+      ],
+      "yaw": 90,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spruinv0"
+    },
+    {
+      "id": "mobvdpev",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        15900.4,
+        11,
+        20562.3
+      ],
+      "yaw": 264,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spruinv0"
+    },
+    {
+      "id": "mobu4vdj",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        15792.5,
+        11.4,
+        20310.3
+      ],
+      "yaw": 59,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spruinv0"
+    },
+    {
+      "id": "mob7p19o",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        15783.5,
+        10,
+        20600.1
+      ],
+      "yaw": 334,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spruinv0"
+    },
+    {
+      "id": "mobet3b8",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        15971.9,
+        11,
+        20468.9
+      ],
+      "yaw": 73,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spruinv0"
+    },
+    {
+      "id": "mobnqwz2",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        15804.7,
+        10.8,
+        20566.7
+      ],
+      "yaw": 164,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spruinv0"
+    },
+    {
+      "id": "mobo54uq",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        15879.5,
+        11,
+        20452.5
+      ],
+      "yaw": 197,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spruinv0"
+    },
+    {
+      "id": "mobcqn6p",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        15706.9,
+        8.7,
+        20604.8
+      ],
+      "yaw": 156,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spruinv0"
+    },
+    {
+      "id": "mob2vx2q",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        16625.4,
+        10.8,
+        20671.1
+      ],
+      "yaw": 25,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrraid"
+    },
+    {
+      "id": "mobn9xyk",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        16433.6,
+        11,
+        20431.3
+      ],
+      "yaw": 58,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrraid"
+    },
+    {
+      "id": "mob4b7xf",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        16634.8,
+        11,
+        20522.6
+      ],
+      "yaw": 258,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrraid"
+    },
+    {
+      "id": "mobfftlk",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        16356.8,
+        10.8,
+        20651.7
+      ],
+      "yaw": 336,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrraid"
+    },
+    {
+      "id": "mobq6z12",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        16655.4,
+        11,
+        20651.4
+      ],
+      "yaw": 6,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrraid"
+    },
+    {
+      "id": "mobgln44",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        16652.2,
+        11,
+        20447.2
+      ],
+      "yaw": 215,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrraid"
+    },
+    {
+      "id": "mobr3r5l",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        16447.6,
+        11,
+        20446.9
+      ],
+      "yaw": 13,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrraid"
+    },
+    {
+      "id": "moblc5ra",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        16578.4,
+        11,
+        20421.5
+      ],
+      "yaw": 311,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrraid"
+    },
+    {
+      "id": "mob96600",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        16480.9,
+        10.8,
+        20660.2
+      ],
+      "yaw": 245,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrraid"
+    },
+    {
+      "id": "mob1h3e8",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        16470.1,
+        11,
+        20490
+      ],
+      "yaw": 241,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrraid"
+    },
+    {
+      "id": "mobqfysg",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        16503.1,
+        11,
+        20530.2
+      ],
+      "yaw": 183,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrraid"
+    },
+    {
+      "id": "mobkhfjj",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        17139.3,
+        11,
+        20532.6
+      ],
+      "yaw": 7,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrsieg"
+    },
+    {
+      "id": "mobxkavy",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        17240.6,
+        3,
+        20689.3
+      ],
+      "yaw": 240,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrsieg"
+    },
+    {
+      "id": "mobaclnv",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        17093.2,
+        10.4,
+        20604.2
+      ],
+      "yaw": 308,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrsieg"
+    },
+    {
+      "id": "mob651gq",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        17194.5,
+        3,
+        20684.4
+      ],
+      "yaw": 277,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrsieg"
+    },
+    {
+      "id": "mob11vxm",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        17167,
+        6.9,
+        20613
+      ],
+      "yaw": 122,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrsieg"
+    },
+    {
+      "id": "mobjw8qs",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        17208.6,
+        10,
+        20551.5
+      ],
+      "yaw": 190,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrsieg"
+    },
+    {
+      "id": "mob89mkh",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        17032.9,
+        11,
+        20597.7
+      ],
+      "yaw": 105,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrsieg"
+    },
+    {
+      "id": "mobgxzp1",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        17074.7,
+        3.4,
+        20706.4
+      ],
+      "yaw": 334,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrsieg"
+    },
+    {
+      "id": "mobk9yzh",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        17068.6,
+        8.2,
+        20656.7
+      ],
+      "yaw": 96,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrsieg"
+    },
+    {
+      "id": "mob9tm7n",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        17030.9,
+        6.7,
+        20688.6
+      ],
+      "yaw": 290,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrsieg"
+    },
+    {
+      "id": "mobegr2v",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        17133.6,
+        6.2,
+        20638.5
+      ],
+      "yaw": 359,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrsieg"
+    },
+    {
+      "id": "mobzdyjv",
+      "creature": "stock/amphen-tidecaller",
+      "at": [
+        17223.5,
+        7.3,
+        20587.8
+      ],
+      "yaw": 235,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrsieg"
+    },
+    {
+      "id": "mobjps4q",
+      "creature": "stock/amphen-tidecaller",
+      "at": [
+        16948.5,
+        11,
+        20601.8
+      ],
+      "yaw": 287,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfrsieg"
+    },
+    {
+      "id": "mob3sxdn",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        18615.1,
+        3,
+        20299.6
+      ],
+      "yaw": 30,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfreast"
+    },
+    {
+      "id": "mobb7p45",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        18778.5,
+        3.3,
+        20280
+      ],
+      "yaw": 251,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfreast"
+    },
+    {
+      "id": "mobnp2ax",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        18725.5,
+        3,
+        20318
+      ],
+      "yaw": 255,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfreast"
+    },
+    {
+      "id": "mobidgeg",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        18854.4,
+        4.6,
+        20268.7
+      ],
+      "yaw": 102,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfreast"
+    },
+    {
+      "id": "mobhnkcj",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        18710.5,
+        5.4,
+        20248
+      ],
+      "yaw": 325,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfreast"
+    },
+    {
+      "id": "mobkszh4",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        18719.4,
+        8.9,
+        20200.5
+      ],
+      "yaw": 252,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfreast"
+    },
+    {
+      "id": "mobx7qrb",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        18781.9,
+        11,
+        20091
+      ],
+      "yaw": 347,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfreast"
+    },
+    {
+      "id": "mobov9ee",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        18610.2,
+        7.4,
+        20227.9
+      ],
+      "yaw": 21,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfreast"
+    },
+    {
+      "id": "mob0j640",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        18582.2,
+        3,
+        20375.8
+      ],
+      "yaw": 291,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfreast"
+    },
+    {
+      "id": "mobeqafa",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        18585.5,
+        3.8,
+        20270.8
+      ],
+      "yaw": 83,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfreast"
+    },
+    {
+      "id": "mob0fy1m",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        18650.5,
+        3,
+        20334.3
+      ],
+      "yaw": 218,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfreast"
+    },
+    {
+      "id": "mobog3cs",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        18728.4,
+        6.5,
+        20233.4
+      ],
+      "yaw": 28,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfreast"
+    },
+    {
+      "id": "mob89gzj",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        18741.6,
+        11,
+        20102.4
+      ],
+      "yaw": 271,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfreast"
+    },
+    {
+      "id": "mobwrbz5",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        18892,
+        8.6,
+        20221.3
+      ],
+      "yaw": 247,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spfreast"
+    },
+    {
+      "id": "mobhsxh4",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        14482.3,
+        3,
+        20782.6
+      ],
+      "yaw": 233,
+      "levels": [
+        9,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptidec0"
+    },
+    {
+      "id": "mob6mcqu",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        14629.6,
+        3,
+        20779.4
+      ],
+      "yaw": 111,
+      "levels": [
+        9,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptidec0"
+    },
+    {
+      "id": "mob8hzf7",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        14530.5,
+        8.9,
+        20617.2
+      ],
+      "yaw": 167,
+      "levels": [
+        9,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptidec0"
+    },
+    {
+      "id": "mob4bgl5",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        14417.6,
+        3,
+        20738.9
+      ],
+      "yaw": 335,
+      "levels": [
+        9,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptidec0"
+    },
+    {
+      "id": "mobie26v",
+      "creature": "stock/amphen-tidecaller",
+      "at": [
+        14606.5,
+        3,
+        20755.2
+      ],
+      "yaw": 144,
+      "levels": [
+        9,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptidec0"
+    },
+    {
+      "id": "mob00arj",
+      "creature": "stock/amphen-tidecaller",
+      "at": [
+        14459.2,
+        6.7,
+        20640.3
+      ],
+      "yaw": 306,
+      "levels": [
+        9,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "sptidec0"
+    },
+    {
+      "id": "mobdbzf7",
+      "creature": "stock/sand-crab",
+      "at": [
+        13193.1,
+        3,
+        20654.7
+      ],
+      "yaw": 238,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spstrand"
+    },
+    {
+      "id": "mob99xbu",
+      "creature": "stock/sand-crab",
+      "at": [
+        13288.8,
+        3,
+        20640.9
+      ],
+      "yaw": 2,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spstrand"
+    },
+    {
+      "id": "mobhwn83",
+      "creature": "stock/sand-crab",
+      "at": [
+        13334.1,
+        2,
+        20742.4
+      ],
+      "yaw": 209,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spstrand"
+    },
+    {
+      "id": "mobi2jbk",
+      "creature": "stock/sand-crab",
+      "at": [
+        13272.4,
+        3,
+        20664.8
+      ],
+      "yaw": 298,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spstrand"
+    },
+    {
+      "id": "mobhhxn7",
+      "creature": "stock/sand-crab",
+      "at": [
+        13352.5,
+        2.8,
+        20726.4
+      ],
+      "yaw": 263,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spstrand"
+    },
+    {
+      "id": "mob7sxtk",
+      "creature": "stock/sand-crab",
+      "at": [
+        13280.8,
+        2.9,
+        20708
+      ],
+      "yaw": 202,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spstrand"
+    },
+    {
+      "id": "mob1komg",
+      "creature": "stock/sand-crab",
+      "at": [
+        13346.9,
+        3,
+        20655.8
+      ],
+      "yaw": 229,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spstrand"
+    },
+    {
+      "id": "mobakmky",
+      "creature": "stock/sand-crab",
+      "at": [
+        13148.7,
+        6.5,
+        20526
+      ],
+      "yaw": 283,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spstrand"
+    },
+    {
+      "id": "mobg7nqk",
+      "creature": "stock/sand-crab",
+      "at": [
+        13375.3,
+        2.8,
+        20734.4
+      ],
+      "yaw": 210,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spstrand"
+    },
+    {
+      "id": "mobrxbda",
+      "creature": "stock/sand-crab",
+      "at": [
+        13364.6,
+        3,
+        20634
+      ],
+      "yaw": 23,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "spstrand"
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "id": "swcook00",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Eat. No, don't argue, eat. You're all bones. Everybody's all bones.",
+      "choices": [
+        {
+          "text": "How are the supplies?",
+          "next": "t0"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Bad, dearie. Nobody can fish with frogmen in the water. Crab, though. Crabs don't care about frogmen. The strand west of the ruins is thick with them.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

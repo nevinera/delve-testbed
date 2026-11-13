@@ -1537,6 +1537,362 @@
           }
         ]
       }
+    },
+    {
+      "id": "frsalt01",
+      "name": "Saltwick Needs Help",
+      "level": 7,
+      "zone": "brackenv",
+      "giver": "lkmessgr",
+      "text": {
+        "offer": "Saltwick's on the coast, south down the road past the woods. Agna, our harbourmaster, she sent me for fighters. Please go. Tell her Lise sent you, and that I'm coming back as soon as I've stopped shaking.",
+        "summary": "Go to Saltwick and speak with Harbourmaster Agna Stroud.",
+        "done": "Lise found someone. Good. I'll take you."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "talk": "swharbor"
+        }
+      ],
+      "requiredLevel": 6,
+      "turnIn": "swharbor",
+      "next": "frvill01"
+    },
+    {
+      "id": "frvill01",
+      "name": "The Silent Village",
+      "level": 7,
+      "zone": "brackenv",
+      "giver": "swharbor",
+      "text": {
+        "offer": "Fennick's Landing went quiet a month ago. West along the shore, past the river mouth. We've seen smoke, then nothing. Go and look for anyone left. I'm not hopeful. Go anyway.",
+        "summary": "Search the ruins of Fennick's Landing, west along the shore past the river mouth.",
+        "waiting": "Well?",
+        "done": "None. ... I'll tell them. No. You've done enough. I'll tell them."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "reach": "aruinv00",
+          "text": "Fennick's Landing searched",
+          "mapAreas": [
+            "aruinv00"
+          ]
+        }
+      ],
+      "requiredLevel": 6,
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/ringmail-vest"
+          },
+          {
+            "item": "stock/hide-leggings"
+          },
+          {
+            "item": "stock/linen-robe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "frkeep01",
+      "name": "What's Left",
+      "level": 8,
+      "zone": "brackenv",
+      "giver": "swsister",
+      "text": {
+        "offer": "There'll be things. In the houses, in the boats. Small things people kept. Bring what you can find. Six, if there are six. Someone should have them.",
+        "summary": "Bring back 6 of Fennick's Keepsakes from the ruins of Fennick's Landing.",
+        "waiting": "Did you find any?",
+        "done": "This was Morwen's. ... Thank you. I'll see the others get the rest."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "use": "pool:keeps",
+          "count": 6,
+          "text": "Keepsakes recovered",
+          "time": 2,
+          "mapAreas": [
+            "pool:keeps"
+          ]
+        }
+      ],
+      "requiredLevel": 7,
+      "objectPools": [
+        {
+          "id": "keeps",
+          "type": "built:b12n4nn4",
+          "spots": [
+            {
+              "at": [
+                15745,
+                20428
+              ],
+              "yaw": 0.4,
+              "scale": 0.7
+            },
+            {
+              "at": [
+                15862,
+                20470
+              ],
+              "yaw": 2.2,
+              "scale": 0.7
+            },
+            {
+              "at": [
+                15800,
+                20368
+              ],
+              "yaw": 1.1,
+              "scale": 0.7
+            },
+            {
+              "at": [
+                15925,
+                20395
+              ],
+              "yaw": 2.9,
+              "scale": 0.7
+            },
+            {
+              "at": [
+                15720,
+                20540
+              ],
+              "yaw": 1.8,
+              "scale": 0.7
+            },
+            {
+              "at": [
+                15830,
+                20590
+              ],
+              "yaw": 0.7,
+              "scale": 0.7
+            },
+            {
+              "at": [
+                15950,
+                20555
+              ],
+              "yaw": 2.5,
+              "scale": 0.7
+            },
+            {
+              "at": [
+                15780,
+                20450
+              ],
+              "yaw": 1.4,
+              "scale": 0.7
+            }
+          ]
+        }
+      ],
+      "after": [
+        "frvill01"
+      ],
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/patched-cloak"
+          },
+          {
+            "item": "stock/hide-belt"
+          },
+          {
+            "item": "stock/ringmail-boots"
+          }
+        ]
+      }
+    },
+    {
+      "id": "frsieg01",
+      "name": "The Siege Line",
+      "level": 8,
+      "zone": "brackenv",
+      "giver": "swharbor",
+      "text": {
+        "offer": "They gather west of the barricade every evening, along the dunes, and come at us after dark. Break their line before they're ready. Ten will do. Twenty would be better.",
+        "summary": "Kill 10 frogmen at the siege line west of Saltwick.",
+        "waiting": "They're still out there.",
+        "done": "Quiet last night. First quiet night in a month. We'll sleep in shifts."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "stock/amphen-hunter",
+          "count": 10,
+          "area": "afrsieg0",
+          "text": "Frogmen hunters killed at the siege line",
+          "mapAreas": [
+            "afrsieg0"
+          ]
+        }
+      ],
+      "requiredLevel": 7,
+      "after": [
+        "frvill01"
+      ],
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/iron-greatsword"
+          },
+          {
+            "item": "stock/iron-mace"
+          },
+          {
+            "item": "stock/iron-dagger"
+          },
+          {
+            "item": "stock/ash-staff"
+          },
+          {
+            "item": "stock/light-crossbow"
+          },
+          {
+            "item": "stock/iron-shortsword"
+          }
+        ]
+      }
+    },
+    {
+      "id": "frtotm01",
+      "name": "Who Leads Them",
+      "level": 9,
+      "zone": "brackenv",
+      "giver": "swharpnr",
+      "text": {
+        "offer": "The wet ones carry these. Shell, bone, kelp. Same marks on every one. Somebody makes them. Bring me six from the raiders, west by the river or east past the point, and I'll tell you who.",
+        "summary": "Bring 6 Frogman Totems from the frogmen raiders west or east of Saltwick.",
+        "waiting": "Six. Wet ones have plenty.",
+        "done": "Same marks. A caller. A tidecaller, the old fishers said, though I thought it was a story. He'll be on the shore somewhere, far west, away from the fighting."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "frtotem1",
+          "count": 6,
+          "text": "Frogman Totem",
+          "drops": [
+            {
+              "creature": "stock/amphen-hunter",
+              "area": "afrraid0",
+              "chance": 0.5
+            },
+            {
+              "creature": "stock/amphen-hunter",
+              "area": "afreast0",
+              "chance": 0.5
+            },
+            {
+              "creature": "stock/amphen-spearthrower",
+              "area": "afrraid0",
+              "chance": 0.5
+            },
+            {
+              "creature": "stock/amphen-spearthrower",
+              "area": "afreast0",
+              "chance": 0.5
+            }
+          ],
+          "mapAreas": [
+            "afrraid0",
+            "afreast0"
+          ]
+        }
+      ],
+      "requiredLevel": 7,
+      "after": [
+        "frvill01"
+      ]
+    },
+    {
+      "id": "frtide01",
+      "name": "The Tidecaller",
+      "level": 9,
+      "zone": "brackenv",
+      "giver": "swharbor",
+      "text": {
+        "offer": "Kett says there's one who calls them. Far west on the shore, past the ruins, a few huts on the sand. Kill him, and they've no reason to come back. Kill him, and I'll stop counting every morning.",
+        "summary": "Kill Murk-Eye the Tidecaller at his huts on the shore far west of Saltwick.",
+        "waiting": "Is he dead?",
+        "done": "Then it's done. Forty-one people. I counted this morning. I'll count tomorrow too, but I'll sleep first."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "tidecllr",
+          "text": "Murk-Eye the Tidecaller slain",
+          "mapAreas": [
+            "atidec00"
+          ]
+        }
+      ],
+      "requiredLevel": 8,
+      "after": [
+        "frtotm01",
+        "frsieg01"
+      ],
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/woodsmans-axe"
+          },
+          {
+            "item": "stock/iron-maul"
+          },
+          {
+            "item": "stock/ash-spear"
+          },
+          {
+            "item": "stock/hunting-bow"
+          },
+          {
+            "item": "stock/birch-wand"
+          },
+          {
+            "item": "stock/iron-knuckles"
+          }
+        ]
+      }
+    },
+    {
+      "id": "swcrab01",
+      "name": "Crab for the Pot",
+      "level": 8,
+      "zone": "brackenv",
+      "giver": "swcook00",
+      "text": {
+        "offer": "Crab, dearie. The strand west of the ruins, past the tidecaller's huts if you're brave and before them if you're sensible. Eight crabs' worth. I'll make a soup that'll put meat on Agna, if she'd ever sit down to eat it.",
+        "summary": "Bring 8 Strand Crab Meat from the sand crabs on the strand far west of Saltwick.",
+        "waiting": "Crab?",
+        "done": "Lovely. Lovely! Sit. Sit. Eat."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "crabmt01",
+          "count": 8,
+          "text": "Strand Crab Meat",
+          "drops": [
+            {
+              "creature": "stock/sand-crab",
+              "area": "astrand0",
+              "chance": 0.7
+            }
+          ],
+          "mapAreas": [
+            "astrand0"
+          ]
+        }
+      ],
+      "requiredLevel": 6
     }
   ]
 }
