@@ -63,7 +63,11 @@
           "stock/light-leather",
           "stock/enchanting-vellum",
           "stock/copper-rod",
-          "stock/silver-rod"
+          "stock/silver-rod",
+          "stock/spanner",
+          "stock/copper-bar",
+          "stock/shale",
+          "stock/agate"
         ]
       }
     },
@@ -1161,6 +1165,24 @@
       "title": "Enchanting Trainer",
       "trains": {
         "profession": "enchanting",
+        "upTo": "Journeyman"
+      }
+    },
+    {
+      "id": "engi0001",
+      "npc": "villager",
+      "name": "Tinker Wendle",
+      "levels": 10,
+      "at": [
+        -133,
+        50,
+        -19
+      ],
+      "yaw": 0,
+      "wander": 0,
+      "title": "Engineering Trainer",
+      "trains": {
+        "profession": "engineering",
         "upTo": "Journeyman"
       }
     }
