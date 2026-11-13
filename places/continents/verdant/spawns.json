@@ -187,6 +187,165 @@
           "wander": 20
         }
       ]
+    },
+    {
+      "id": "splkedge",
+      "area": "alkedge0",
+      "notes": "Risen dead wandering at Lakeford's western edge.",
+      "spawns": [
+        {
+          "density": 22,
+          "respawn": 120,
+          "creature": "stock/zombie",
+          "levels": [
+            6,
+            7
+          ],
+          "wander": 20
+        },
+        {
+          "density": 12,
+          "respawn": 120,
+          "creature": "stock/skeleton-warrior",
+          "levels": [
+            6,
+            7
+          ],
+          "wander": 20
+        }
+      ]
+    },
+    {
+      "id": "splkshor",
+      "area": "alkshor0",
+      "notes": "Frogmen scouts on the lakeshore, far inland.",
+      "spawns": [
+        {
+          "density": 18,
+          "respawn": 120,
+          "creature": "stock/amphen-hunter",
+          "levels": [
+            5,
+            7
+          ],
+          "wander": 20
+        },
+        {
+          "density": 12,
+          "respawn": 120,
+          "creature": "stock/amphen-spearthrower",
+          "levels": [
+            5,
+            7
+          ],
+          "wander": 20
+        }
+      ]
+    },
+    {
+      "id": "sphornmd",
+      "area": "ahornmd0",
+      "spawns": [
+        {
+          "density": 24,
+          "respawn": 120,
+          "creature": "stock/hornet",
+          "levels": [
+            5,
+            6
+          ],
+          "wander": 30
+        }
+      ]
+    },
+    {
+      "id": "splowbor",
+      "area": "alowbor0",
+      "spawns": [
+        {
+          "density": 16,
+          "respawn": 120,
+          "creature": "stock/boar",
+          "levels": [
+            6,
+            7
+          ],
+          "wander": 40
+        }
+      ]
+    },
+    {
+      "id": "spswbear",
+      "area": "aswbear0",
+      "spawns": [
+        {
+          "density": 16,
+          "respawn": 120,
+          "creature": "stock/black-bear",
+          "levels": [
+            6,
+            8
+          ],
+          "wander": 40
+        }
+      ]
+    },
+    {
+      "id": "spwwolf0",
+      "area": "awwolf00",
+      "spawns": [
+        {
+          "density": 18,
+          "respawn": 120,
+          "creature": "stock/wolf",
+          "levels": [
+            5,
+            7
+          ],
+          "wander": 40,
+          "pack": [
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spswbarw",
+      "area": "aswbarw0",
+      "notes": "Risen dead at the Southwood barrow.",
+      "spawns": [
+        {
+          "density": 22,
+          "respawn": 120,
+          "creature": "stock/zombie",
+          "levels": [
+            7,
+            9
+          ],
+          "wander": 20
+        },
+        {
+          "density": 14,
+          "respawn": 120,
+          "creature": "stock/skeleton-warrior",
+          "levels": [
+            7,
+            9
+          ],
+          "wander": 20
+        },
+        {
+          "density": 8,
+          "respawn": 120,
+          "creature": "stock/skeleton-archer",
+          "levels": [
+            7,
+            8
+          ],
+          "wander": 20
+        }
+      ]
     }
   ],
   "placed": [
@@ -332,17 +491,19 @@
     },
     {
       "id": "lkpriest",
-      "npc": "villager",
+      "npc": "townfolk",
       "name": "Father Aldous Wren",
       "levels": 10,
       "at": [
-        16020,
-        30,
-        17120
+        15960,
+        15.8,
+        16884
       ],
       "yaw": 0,
       "wander": 0,
-      "title": "Priest of Lakeford"
+      "title": "Priest of Lakeford",
+      "dialogue": "lkpriest",
+      "lean": "masculine"
     },
     {
       "id": "mobgl001",
@@ -2846,6 +3007,1796 @@
       "respawn": 120,
       "wander": 20,
       "spawnArea": "spwbandt"
+    },
+    {
+      "id": "lksergnt",
+      "npc": "watchmn0",
+      "wander": 0,
+      "name": "Sergeant Holt Draycott",
+      "title": "Lakeford Watch",
+      "dialogue": "lksergnt",
+      "lean": "masculine",
+      "at": [
+        15742,
+        26.3,
+        17180
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lkinnkpr",
+      "npc": "townfolk",
+      "wander": 0,
+      "name": "Bess Merriweather",
+      "title": "Innkeeper",
+      "dialogue": "lkinnkpr",
+      "lean": "feminine",
+      "at": [
+        16052,
+        22,
+        17046
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lkfisher",
+      "npc": "farmfolk",
+      "wander": 0,
+      "name": "Old Gil Rushby",
+      "title": "Fisher",
+      "dialogue": "lkfisher",
+      "lean": "masculine",
+      "at": [
+        16030,
+        2.8,
+        16526
+      ],
+      "yaw": 180,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lkhunter",
+      "npc": "farmfolk",
+      "wander": 0,
+      "name": "Corin Vale",
+      "title": "Hunter",
+      "dialogue": "lkhunter",
+      "lean": "masculine",
+      "at": [
+        15852,
+        34,
+        17252
+      ],
+      "yaw": 0,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lkmessgr",
+      "npc": "townfolk",
+      "wander": 0,
+      "name": "Lise Gannet",
+      "title": "Saltwick Messenger",
+      "dialogue": "lkmessgr",
+      "lean": "feminine",
+      "at": [
+        15985,
+        19.4,
+        16938
+      ],
+      "yaw": 90,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lkscout0",
+      "npc": "watchmn0",
+      "wander": 0,
+      "name": "Benno Crake",
+      "title": "Gate Scout",
+      "dialogue": "lkscout0",
+      "lean": "masculine",
+      "at": [
+        16112,
+        24.3,
+        17048
+      ],
+      "yaw": 300,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lkdrink1",
+      "npc": "villager",
+      "wander": 0,
+      "name": "Drinker",
+      "dialogue": "lkdrink0",
+      "at": [
+        16020,
+        23.3,
+        17052
+      ],
+      "yaw": 30,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lkdrink2",
+      "npc": "villager",
+      "wander": 0,
+      "name": "Drinker",
+      "dialogue": "lkdrink0",
+      "at": [
+        16030,
+        23.6,
+        17058
+      ],
+      "yaw": 220,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lkstall0",
+      "npc": "townfolk",
+      "wander": 0,
+      "name": "Stall Keeper",
+      "at": [
+        15950,
+        20.4,
+        16962
+      ],
+      "yaw": 180,
+      "levels": 10,
+      "respawn": 300
+    },
+    {
+      "id": "lkkid001",
+      "npc": "villkid0",
+      "wander": 20,
+      "name": "Nell",
+      "lean": "feminine",
+      "at": [
+        16000,
+        19,
+        16925
+      ],
+      "yaw": 0,
+      "levels": 1,
+      "respawn": 300
+    },
+    {
+      "id": "lkkid002",
+      "npc": "villkid0",
+      "wander": 20,
+      "name": "Hob",
+      "lean": "masculine",
+      "at": [
+        16008,
+        19.5,
+        16930
+      ],
+      "yaw": 0,
+      "levels": 1,
+      "respawn": 300
+    },
+    {
+      "id": "lkwatch1",
+      "npc": "watchmn0",
+      "wander": 0,
+      "at": [
+        16015,
+        27.7,
+        17115
+      ],
+      "yaw": 135,
+      "levels": 13,
+      "respawn": 300
+    },
+    {
+      "id": "lkwatch2",
+      "npc": "watchmn0",
+      "wander": 0,
+      "at": [
+        15880,
+        18.4,
+        16930
+      ],
+      "yaw": 300,
+      "levels": 13,
+      "respawn": 300
+    },
+    {
+      "id": "lkcat000",
+      "creature": "stock/cat",
+      "wander": 6,
+      "at": [
+        16070,
+        22.6,
+        17050
+      ],
+      "yaw": 0,
+      "levels": 1,
+      "respawn": 180
+    },
+    {
+      "id": "mob58ldy",
+      "creature": "stock/zombie",
+      "at": [
+        15281.4,
+        17.5,
+        17277.6
+      ],
+      "yaw": 167,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkedge"
+    },
+    {
+      "id": "mobcltj9",
+      "creature": "stock/zombie",
+      "at": [
+        15286.5,
+        17.7,
+        17373
+      ],
+      "yaw": 276,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkedge"
+    },
+    {
+      "id": "mob7e18p",
+      "creature": "stock/zombie",
+      "at": [
+        15377.7,
+        19.7,
+        17437
+      ],
+      "yaw": 344,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkedge"
+    },
+    {
+      "id": "mob5uvsw",
+      "creature": "stock/zombie",
+      "at": [
+        15251.4,
+        17.5,
+        17322.7
+      ],
+      "yaw": 139,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkedge"
+    },
+    {
+      "id": "mobye5d0",
+      "creature": "stock/zombie",
+      "at": [
+        15430.9,
+        22.3,
+        17506.1
+      ],
+      "yaw": 216,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkedge"
+    },
+    {
+      "id": "mobomw0t",
+      "creature": "stock/zombie",
+      "at": [
+        15448.9,
+        22,
+        17354.9
+      ],
+      "yaw": 304,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkedge"
+    },
+    {
+      "id": "mobfkj6c",
+      "creature": "stock/zombie",
+      "at": [
+        15309.2,
+        18.6,
+        17491.4
+      ],
+      "yaw": 277,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkedge"
+    },
+    {
+      "id": "mobz01nm",
+      "creature": "stock/zombie",
+      "at": [
+        15396.1,
+        20.3,
+        17449.5
+      ],
+      "yaw": 253,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkedge"
+    },
+    {
+      "id": "mobxfk2x",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        15412.6,
+        19,
+        17250.2
+      ],
+      "yaw": 145,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkedge"
+    },
+    {
+      "id": "mobo4i5s",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        15399.3,
+        20.2,
+        17364.3
+      ],
+      "yaw": 100,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkedge"
+    },
+    {
+      "id": "mobvkav9",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        15260.5,
+        17.5,
+        17362.2
+      ],
+      "yaw": 209,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkedge"
+    },
+    {
+      "id": "mobml6vf",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        15214,
+        17.8,
+        17389.7
+      ],
+      "yaw": 186,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkedge"
+    },
+    {
+      "id": "mob4kkev",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        16731.5,
+        2.6,
+        16055
+      ],
+      "yaw": 296,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mob16qzp",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        17085.9,
+        32.6,
+        16182.5
+      ],
+      "yaw": 61,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "moblmk1a",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        16851.3,
+        6.7,
+        16077.6
+      ],
+      "yaw": 66,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mobbutmu",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        17005.6,
+        28.2,
+        16026.4
+      ],
+      "yaw": 245,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mob3tj56",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        16829.2,
+        6.4,
+        16018.5
+      ],
+      "yaw": 106,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mob2vm8e",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        17001.7,
+        26.9,
+        15970.6
+      ],
+      "yaw": 90,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mob47aka",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        16927.9,
+        14.5,
+        15877.4
+      ],
+      "yaw": 327,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mobqf5t4",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        17082.5,
+        48.1,
+        16059.7
+      ],
+      "yaw": 250,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mobhn0p5",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        16790.8,
+        4.1,
+        16128.8
+      ],
+      "yaw": 6,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mobn1dn7",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        16931.3,
+        14.8,
+        15966.4
+      ],
+      "yaw": 222,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mobubvgx",
+      "creature": "stock/amphen-hunter",
+      "at": [
+        16745.7,
+        2.8,
+        16075.5
+      ],
+      "yaw": 237,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mobg7ovb",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        16865.9,
+        7.4,
+        16093.9
+      ],
+      "yaw": 8,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mobx1318",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        16708.7,
+        3.3,
+        15986.4
+      ],
+      "yaw": 149,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mob4l72p",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        17063.8,
+        30.9,
+        16169.3
+      ],
+      "yaw": 116,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mob0p0fb",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        16899.7,
+        10.3,
+        16069.5
+      ],
+      "yaw": 3,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mobzdu9m",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        16746.4,
+        2.3,
+        16192.6
+      ],
+      "yaw": 231,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mob3ed35",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        17095.8,
+        53.7,
+        15894.2
+      ],
+      "yaw": 4,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mobzi0g4",
+      "creature": "stock/amphen-spearthrower",
+      "at": [
+        16896.5,
+        10.3,
+        16049.1
+      ],
+      "yaw": 84,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "splkshor"
+    },
+    {
+      "id": "mobpghs0",
+      "creature": "stock/hornet",
+      "at": [
+        17365.6,
+        44.2,
+        17834.8
+      ],
+      "yaw": 161,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "sphornmd"
+    },
+    {
+      "id": "mobwtctq",
+      "creature": "stock/hornet",
+      "at": [
+        17177.5,
+        31.9,
+        17637.1
+      ],
+      "yaw": 257,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "sphornmd"
+    },
+    {
+      "id": "mob0ls03",
+      "creature": "stock/hornet",
+      "at": [
+        17498.9,
+        48.4,
+        17782.7
+      ],
+      "yaw": 328,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "sphornmd"
+    },
+    {
+      "id": "mobuy2cm",
+      "creature": "stock/hornet",
+      "at": [
+        17478,
+        47.6,
+        17853.5
+      ],
+      "yaw": 271,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "sphornmd"
+    },
+    {
+      "id": "mobt6g76",
+      "creature": "stock/hornet",
+      "at": [
+        17244.8,
+        29.9,
+        17543.1
+      ],
+      "yaw": 148,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "sphornmd"
+    },
+    {
+      "id": "mobok56w",
+      "creature": "stock/hornet",
+      "at": [
+        17112,
+        25.9,
+        17580.3
+      ],
+      "yaw": 57,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "sphornmd"
+    },
+    {
+      "id": "mob3hx3q",
+      "creature": "stock/hornet",
+      "at": [
+        17383.2,
+        45.4,
+        17880.8
+      ],
+      "yaw": 75,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "sphornmd"
+    },
+    {
+      "id": "mobzwz98",
+      "creature": "stock/hornet",
+      "at": [
+        17196.8,
+        37.4,
+        17715
+      ],
+      "yaw": 281,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "sphornmd"
+    },
+    {
+      "id": "mobeuht6",
+      "creature": "stock/hornet",
+      "at": [
+        17418.7,
+        44.8,
+        17812.8
+      ],
+      "yaw": 307,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "sphornmd"
+    },
+    {
+      "id": "mobrvsog",
+      "creature": "stock/hornet",
+      "at": [
+        17159.8,
+        24.9,
+        17526.7
+      ],
+      "yaw": 70,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "sphornmd"
+    },
+    {
+      "id": "mobfduh4",
+      "creature": "stock/hornet",
+      "at": [
+        17353.2,
+        38.4,
+        17687.7
+      ],
+      "yaw": 335,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "sphornmd"
+    },
+    {
+      "id": "moby7a8r",
+      "creature": "stock/hornet",
+      "at": [
+        17178.9,
+        26.2,
+        17519.9
+      ],
+      "yaw": 156,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "sphornmd"
+    },
+    {
+      "id": "mobwvfcf",
+      "creature": "stock/hornet",
+      "at": [
+        17363.2,
+        41.6,
+        17759.7
+      ],
+      "yaw": 191,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "sphornmd"
+    },
+    {
+      "id": "mob5f0zr",
+      "creature": "stock/hornet",
+      "at": [
+        17268.1,
+        31,
+        17553.4
+      ],
+      "yaw": 331,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "sphornmd"
+    },
+    {
+      "id": "mob6sqqt",
+      "creature": "stock/hornet",
+      "at": [
+        17121.1,
+        32,
+        17676.5
+      ],
+      "yaw": 43,
+      "levels": [
+        5,
+        6
+      ],
+      "respawn": 120,
+      "wander": 30,
+      "spawnArea": "sphornmd"
+    },
+    {
+      "id": "mobsnlad",
+      "creature": "stock/boar",
+      "at": [
+        15124.9,
+        11.7,
+        18850.1
+      ],
+      "yaw": 263,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "splowbor"
+    },
+    {
+      "id": "mob45wap",
+      "creature": "stock/boar",
+      "at": [
+        14981.8,
+        9.6,
+        18927.4
+      ],
+      "yaw": 104,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "splowbor"
+    },
+    {
+      "id": "mobyobsh",
+      "creature": "stock/boar",
+      "at": [
+        15048.8,
+        8.7,
+        18977.3
+      ],
+      "yaw": 240,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "splowbor"
+    },
+    {
+      "id": "mobrhd2p",
+      "creature": "stock/boar",
+      "at": [
+        14904.8,
+        14.2,
+        18734
+      ],
+      "yaw": 284,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "splowbor"
+    },
+    {
+      "id": "mobny3wu",
+      "creature": "stock/boar",
+      "at": [
+        15004.8,
+        10.4,
+        18899.8
+      ],
+      "yaw": 325,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "splowbor"
+    },
+    {
+      "id": "mobphgy0",
+      "creature": "stock/boar",
+      "at": [
+        14976,
+        13,
+        18824.2
+      ],
+      "yaw": 146,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "splowbor"
+    },
+    {
+      "id": "mobkrc83",
+      "creature": "stock/boar",
+      "at": [
+        14955.9,
+        9.3,
+        18943.7
+      ],
+      "yaw": 22,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "splowbor"
+    },
+    {
+      "id": "mob1t5ft",
+      "creature": "stock/boar",
+      "at": [
+        14863.6,
+        8.4,
+        19021.4
+      ],
+      "yaw": 97,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "splowbor"
+    },
+    {
+      "id": "mobketf8",
+      "creature": "stock/boar",
+      "at": [
+        14926.9,
+        12.6,
+        18838.2
+      ],
+      "yaw": 226,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "splowbor"
+    },
+    {
+      "id": "mob3f4xw",
+      "creature": "stock/boar",
+      "at": [
+        14920.4,
+        8.5,
+        19008.8
+      ],
+      "yaw": 256,
+      "levels": [
+        6,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "splowbor"
+    },
+    {
+      "id": "mobc3jbu",
+      "creature": "stock/black-bear",
+      "at": [
+        14244.7,
+        11.7,
+        18413.6
+      ],
+      "yaw": 359,
+      "levels": [
+        6,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spswbear"
+    },
+    {
+      "id": "mobf6zv9",
+      "creature": "stock/black-bear",
+      "at": [
+        14392.3,
+        15.8,
+        18135.5
+      ],
+      "yaw": 355,
+      "levels": [
+        6,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spswbear"
+    },
+    {
+      "id": "mobnywt5",
+      "creature": "stock/black-bear",
+      "at": [
+        14399.6,
+        14,
+        18200.8
+      ],
+      "yaw": 116,
+      "levels": [
+        6,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spswbear"
+    },
+    {
+      "id": "mobn3oo4",
+      "creature": "stock/black-bear",
+      "at": [
+        14208.9,
+        17,
+        18112.8
+      ],
+      "yaw": 23,
+      "levels": [
+        6,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spswbear"
+    },
+    {
+      "id": "mobf3qbp",
+      "creature": "stock/black-bear",
+      "at": [
+        14260.9,
+        12.9,
+        18257.2
+      ],
+      "yaw": 202,
+      "levels": [
+        6,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spswbear"
+    },
+    {
+      "id": "mob6mq7f",
+      "creature": "stock/black-bear",
+      "at": [
+        14202.8,
+        12.6,
+        18494.2
+      ],
+      "yaw": 143,
+      "levels": [
+        6,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spswbear"
+    },
+    {
+      "id": "mobjgbnb",
+      "creature": "stock/black-bear",
+      "at": [
+        14018.5,
+        12.1,
+        18355
+      ],
+      "yaw": 120,
+      "levels": [
+        6,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spswbear"
+    },
+    {
+      "id": "mobk5vn9",
+      "creature": "stock/black-bear",
+      "at": [
+        14315,
+        12.3,
+        18282.3
+      ],
+      "yaw": 111,
+      "levels": [
+        6,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spswbear"
+    },
+    {
+      "id": "mobi22fk",
+      "creature": "stock/black-bear",
+      "at": [
+        14118.1,
+        13,
+        18289.3
+      ],
+      "yaw": 218,
+      "levels": [
+        6,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spswbear"
+    },
+    {
+      "id": "mobxmc8s",
+      "creature": "stock/black-bear",
+      "at": [
+        14066.7,
+        12.5,
+        18418.6
+      ],
+      "yaw": 227,
+      "levels": [
+        6,
+        8
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "spawnArea": "spswbear"
+    },
+    {
+      "id": "mob1h3a9",
+      "creature": "stock/wolf",
+      "at": [
+        12396.9,
+        17.9,
+        18323.9
+      ],
+      "yaw": 0,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packryne",
+      "spawnArea": "spwwolf0"
+    },
+    {
+      "id": "mobw5eo9",
+      "creature": "stock/wolf",
+      "at": [
+        12400.9,
+        17.8,
+        18323.4
+      ],
+      "yaw": 359,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packryne",
+      "spawnArea": "spwwolf0"
+    },
+    {
+      "id": "mob3j4ch",
+      "creature": "stock/wolf",
+      "at": [
+        12291.6,
+        19.1,
+        18498
+      ],
+      "yaw": 189,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packj41d",
+      "spawnArea": "spwwolf0"
+    },
+    {
+      "id": "mob2yw62",
+      "creature": "stock/wolf",
+      "at": [
+        12293.9,
+        19,
+        18491.1
+      ],
+      "yaw": 292,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packj41d",
+      "spawnArea": "spwwolf0"
+    },
+    {
+      "id": "mobggyie",
+      "creature": "stock/wolf",
+      "at": [
+        12289.7,
+        19,
+        18492.7
+      ],
+      "yaw": 241,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packj41d",
+      "spawnArea": "spwwolf0"
+    },
+    {
+      "id": "mob37mcp",
+      "creature": "stock/wolf",
+      "at": [
+        12517.9,
+        16.9,
+        18327.7
+      ],
+      "yaw": 160,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "pack1wy4",
+      "spawnArea": "spwwolf0"
+    },
+    {
+      "id": "mob72gbs",
+      "creature": "stock/wolf",
+      "at": [
+        12520.6,
+        17.1,
+        18331.5
+      ],
+      "yaw": 24,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "pack1wy4",
+      "spawnArea": "spwwolf0"
+    },
+    {
+      "id": "mobidkzj",
+      "creature": "stock/wolf",
+      "at": [
+        12247,
+        19.8,
+        18368.3
+      ],
+      "yaw": 56,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packcoat",
+      "spawnArea": "spwwolf0"
+    },
+    {
+      "id": "mobp447g",
+      "creature": "stock/wolf",
+      "at": [
+        12244.8,
+        19.9,
+        18363.3
+      ],
+      "yaw": 34,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packcoat",
+      "spawnArea": "spwwolf0"
+    },
+    {
+      "id": "mob3ngy1",
+      "creature": "stock/wolf",
+      "at": [
+        12387.7,
+        14.5,
+        18182.8
+      ],
+      "yaw": 170,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packhury",
+      "spawnArea": "spwwolf0"
+    },
+    {
+      "id": "mobsc41b",
+      "creature": "stock/wolf",
+      "at": [
+        12390.7,
+        14.3,
+        18175.6
+      ],
+      "yaw": 63,
+      "levels": [
+        5,
+        7
+      ],
+      "respawn": 120,
+      "wander": 40,
+      "pack": "packhury",
+      "spawnArea": "spwwolf0"
+    },
+    {
+      "id": "mobcipfa",
+      "creature": "stock/zombie",
+      "at": [
+        14692.7,
+        21,
+        18654.4
+      ],
+      "yaw": 132,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
+    },
+    {
+      "id": "mobysf98",
+      "creature": "stock/zombie",
+      "at": [
+        14767.5,
+        11,
+        18848.9
+      ],
+      "yaw": 96,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
+    },
+    {
+      "id": "mob92gj4",
+      "creature": "stock/zombie",
+      "at": [
+        14820,
+        12.5,
+        18585.6
+      ],
+      "yaw": 345,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
+    },
+    {
+      "id": "mobk6sz2",
+      "creature": "stock/zombie",
+      "at": [
+        14783.3,
+        14.1,
+        18618.2
+      ],
+      "yaw": 300,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
+    },
+    {
+      "id": "mob161jz",
+      "creature": "stock/zombie",
+      "at": [
+        14687.9,
+        14,
+        18781.7
+      ],
+      "yaw": 219,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
+    },
+    {
+      "id": "mobb42pc",
+      "creature": "stock/zombie",
+      "at": [
+        14688.1,
+        21.3,
+        18706.3
+      ],
+      "yaw": 124,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
+    },
+    {
+      "id": "mobx5tsr",
+      "creature": "stock/zombie",
+      "at": [
+        14565.2,
+        15.6,
+        18692.8
+      ],
+      "yaw": 53,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
+    },
+    {
+      "id": "mob2iuz4",
+      "creature": "stock/zombie",
+      "at": [
+        14756.8,
+        11.7,
+        18590.3
+      ],
+      "yaw": 130,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
+    },
+    {
+      "id": "mobx0y5v",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        14758.9,
+        11.4,
+        18828.9
+      ],
+      "yaw": 98,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
+    },
+    {
+      "id": "mobczxi1",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        14849.3,
+        12.7,
+        18818
+      ],
+      "yaw": 131,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
+    },
+    {
+      "id": "moboex36",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        14684.2,
+        10.7,
+        18820.2
+      ],
+      "yaw": 89,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
+    },
+    {
+      "id": "mob12ly2",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        14763.3,
+        19.9,
+        18722.5
+      ],
+      "yaw": 130,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
+    },
+    {
+      "id": "mob6142y",
+      "creature": "stock/skeleton-warrior",
+      "at": [
+        14653.6,
+        21.6,
+        18694.1
+      ],
+      "yaw": 305,
+      "levels": [
+        7,
+        9
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
+    },
+    {
+      "id": "mobwuo7q",
+      "creature": "stock/skeleton-archer",
+      "at": [
+        14800.7,
+        12.8,
+        18796.8
+      ],
+      "yaw": 171,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
+    },
+    {
+      "id": "mobeevyk",
+      "creature": "stock/skeleton-archer",
+      "at": [
+        14725.5,
+        21.2,
+        18705.4
+      ],
+      "yaw": 89,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
+    },
+    {
+      "id": "mobxrfhc",
+      "creature": "stock/skeleton-archer",
+      "at": [
+        14679.4,
+        15.3,
+        18621.8
+      ],
+      "yaw": 174,
+      "levels": [
+        7,
+        8
+      ],
+      "respawn": 120,
+      "wander": 20,
+      "spawnArea": "spswbarw"
     }
   ]
 }

@@ -151,6 +151,51 @@
       "name": "Sack of Seed Corn",
       "icon": "wheat",
       "description": "Next year's corn, in a sack marked with a W."
+    },
+    {
+      "id": "risenbn1",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 20,
+      "name": "Risen Bone",
+      "icon": "broken-bone",
+      "description": "A thighbone, still twitching."
+    },
+    {
+      "id": "alekeg01",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 1,
+      "name": "Keg of Merriweather Ale",
+      "icon": "beer-stein",
+      "description": "Heavy, sloshing, and promised to Edric Ashby a week ago."
+    },
+    {
+      "id": "venison1",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 20,
+      "name": "Haunch of Venison",
+      "icon": "meat",
+      "description": "Good meat for Bess's stew."
+    },
+    {
+      "id": "bearclw1",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 20,
+      "name": "Bear Claw",
+      "icon": "bear-face",
+      "description": "Long, black and still sharp."
+    },
+    {
+      "id": "barrowe1",
+      "quality": "common",
+      "itemLevel": 1,
+      "stack": 20,
+      "name": "Pouch of Barrow Earth",
+      "icon": "powder",
+      "description": "Dark earth from the Southwood barrow. It is cold, and stays cold."
     }
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "id": "lkmessgr",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Please, are you going south? Are you a fighter? Please.",
+      "choices": [
+        {
+          "text": "What's wrong?",
+          "next": "t0"
+        },
+        {
+          "text": "Where is Saltwick?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Saltwick. On the coast. The frogmen came up out of the sea and took Fennick's Landing, and now they're at our barricades every night. Agna sent me for help. Nobody here has any.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "South, down the road past the woods, where the river meets the sea.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

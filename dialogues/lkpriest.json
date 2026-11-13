@@ -1,0 +1,46 @@
+{
+  "id": "lkpriest",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Peace to you. Mind the step; it was laid crooked in my predecessor's time, and he would not hear of mending it.",
+      "choices": [
+        {
+          "text": "What troubles Lakeford?",
+          "next": "t0"
+        },
+        {
+          "text": "Tell me about the barrows.",
+          "next": "t1"
+        },
+        {
+          "text": "Could you see to my wounds?",
+          "restore": true,
+          "next": "hello"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "The dead, I'm afraid. 'What is buried keeps,' the old rite says, 'until it is called.' Something is calling. I mean to find out what.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "There are four across the vale, older than any village here. Chieftains and their people. They kept quiet for a thousand years. They are not keeping quiet now.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

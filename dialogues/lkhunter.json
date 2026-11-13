@@ -1,0 +1,41 @@
+{
+  "id": "lkhunter",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Vale. Corin Vale. Best tracker in the vale, ask anyone. Ask Gil. No, don't ask Gil.",
+      "choices": [
+        {
+          "text": "Any good hunting?",
+          "next": "t0"
+        },
+        {
+          "text": "What's the bet?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Bears in the south wood. Big as a cart. Bigger. I took one with a knife once. A small knife.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Bess says I can't bring in eight bear claws before the month's out. I say I can. You say you'll help me. We both win.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

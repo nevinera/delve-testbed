@@ -1,0 +1,28 @@
+{
+  "id": "lkdrink0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Whassat? Oh. Hello.",
+      "choices": [
+        {
+          "text": "Having a good night?",
+          "next": "t0"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Every night's a good night at Bess's. Until the morning.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

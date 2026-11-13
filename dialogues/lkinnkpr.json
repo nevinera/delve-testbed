@@ -1,0 +1,41 @@
+{
+  "id": "lkinnkpr",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Come in, come in! Sit anywhere that isn't Gil. He's been in that chair since the lake froze last winter.",
+      "choices": [
+        {
+          "text": "What's the news?",
+          "next": "t0"
+        },
+        {
+          "text": "A room?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Depends what you're buying. Edric Ashby's not speaking to his sister. Corin Vale bet his boots on a bear and lost. And Father Wren's been reading old books with the door shut, which he never does.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Best beds this side of the mountains. Only beds this side of the mountains, but still.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

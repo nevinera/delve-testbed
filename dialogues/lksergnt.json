@@ -1,0 +1,41 @@
+{
+  "id": "lksergnt",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Draycott. Sergeant. Lakeford Watch.",
+      "choices": [
+        {
+          "text": "How's the watch?",
+          "next": "t0"
+        },
+        {
+          "text": "Anything I can do?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Eleven men. Need thirty. Dead men at the edge of town, frogmen at the lake, bandits on every road. Eleven.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Ask me that again when you've got a strong arm and a short memory.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

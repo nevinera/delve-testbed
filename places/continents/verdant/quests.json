@@ -656,7 +656,8 @@
             "item": "stock/ringmail-vest"
           }
         ]
-      }
+      },
+      "next": "udopen01"
     },
     {
       "id": "kbstor01",
@@ -911,7 +912,8 @@
         }
       ],
       "requiredLevel": 5,
-      "turnIn": "lkpriest"
+      "turnIn": "lkpriest",
+      "next": "udopen01"
     },
     {
       "id": "bdfenc01",
@@ -1171,6 +1173,370 @@
       "requiredLevel": 5,
       "breadcrumbFor": "bdfenc01",
       "turnIn": "whwidow0"
+    },
+    {
+      "id": "udbone01",
+      "name": "Bones at the Edge",
+      "level": 6,
+      "zone": "brackenv",
+      "giver": "lksergnt",
+      "text": {
+        "offer": "Report. Dead men at the town's west edge, three nights running. My lads won't go near. Bring me six of their bones, and I'll take them to Father Wren, so he'll stop telling me it's my imagination. ... No. You take them to him. I've a town to watch.",
+        "summary": "Bring 6 Risen Bones from the dead at Lakeford's western edge to Father Wren.",
+        "done": "The sergeant sent you? Then it isn't only the Ashbys' fields. Let me see them. Ah."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "risenbn1",
+          "count": 6,
+          "text": "Risen Bone",
+          "drops": [
+            {
+              "creature": "stock/zombie",
+              "area": "alkedge0",
+              "chance": 0.6
+            },
+            {
+              "creature": "stock/skeleton-warrior",
+              "area": "alkedge0",
+              "chance": 0.6
+            }
+          ],
+          "mapAreas": [
+            "alkedge0"
+          ]
+        }
+      ],
+      "requiredLevel": 5,
+      "turnIn": "lkpriest",
+      "next": "udopen01"
+    },
+    {
+      "id": "udopen01",
+      "name": "The Open Barrow",
+      "level": 6,
+      "zone": "brackenv",
+      "giver": "lkpriest",
+      "text": {
+        "offer": "The old barrows were sealed with a door stone, and the rites say the stone falls outward only when the dead push it. Go to the Ashby barrow, north-west of here in the fields, and look at its door stone. Tell me which way it fell.",
+        "summary": "Examine the door stone of the Ashby barrow.",
+        "waiting": "Which way did it fall?",
+        "done": "Outward. Then they were called, and they came out on their own feet. 'What is buried keeps, until it is called.' Someone is calling."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "use": "obj0v5xu",
+          "text": "Door stone examined",
+          "time": 3,
+          "mapAreas": [
+            "abarrw00"
+          ]
+        }
+      ],
+      "requiredLevel": 5,
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/ringmail-vest"
+          },
+          {
+            "item": "stock/linen-robe"
+          },
+          {
+            "item": "stock/hide-leggings"
+          }
+        ]
+      }
+    },
+    {
+      "id": "udsoil01",
+      "name": "Barrow Earth",
+      "level": 7,
+      "zone": "brackenv",
+      "giver": "lkpriest",
+      "text": {
+        "offer": "Earth remembers what passes through it. If I have earth from another barrow, I can read which way the calling comes from. The Southwood barrow lies south-west, in the woods past the boar fields. Bring me five pouches of its earth, from the mounds round its door.",
+        "summary": "Gather 5 Pouches of Barrow Earth at the Southwood barrow.",
+        "waiting": "The earth, if you please.",
+        "done": "Cold. Feel it. ... It pulls. North-east, toward the hills past the river."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "barrowe1",
+          "count": 5,
+          "text": "Pouch of Barrow Earth",
+          "drops": [
+            {
+              "objectKind": "built:b01i0d6z",
+              "area": "aswbarw0",
+              "chance": 1,
+              "time": 2
+            }
+          ],
+          "mapAreas": [
+            "aswbarw0"
+          ]
+        }
+      ],
+      "requiredLevel": 6,
+      "after": [
+        "udopen01"
+      ],
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/iron-mace"
+          },
+          {
+            "item": "stock/ash-staff"
+          },
+          {
+            "item": "stock/iron-shortsword"
+          },
+          {
+            "item": "stock/hunting-bow"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lkale001",
+      "name": "The Ale Order",
+      "level": 6,
+      "zone": "brackenv",
+      "giver": "lkinnkpr",
+      "text": {
+        "offer": "Edric Ashby ordered a keg a week ago and hasn't been in for it, because Edric Ashby won't come within a mile of anyone who might mention his sister. Take it up to him, would you? North-west up the road. Tell him it's paid for. It isn't.",
+        "summary": "Take the Keg of Merriweather Ale to Edric Ashby at Ashby farm.",
+        "done": "Bess's ale? Finally. Paid for? ... It isn't, is it."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "alekeg01",
+          "count": 1,
+          "text": "Keg of Merriweather Ale"
+        }
+      ],
+      "requiredLevel": 5,
+      "given": [
+        {
+          "item": "alekeg01",
+          "count": 1
+        }
+      ],
+      "turnIn": "ashfarmr"
+    },
+    {
+      "id": "lkvens01",
+      "name": "Venison for the Stew",
+      "level": 7,
+      "zone": "brackenv",
+      "giver": "lkinnkpr",
+      "text": {
+        "offer": "My stew's famous. My stew is also out of venison. The stags graze in the meadows north of Ashby's, under the hills. Six haunches, and you eat free tonight.",
+        "summary": "Bring 6 Haunches of Venison from the stags in the meadows north of Ashby farm.",
+        "waiting": "Smell that? That's stew without venison. Sad stew.",
+        "done": "Lovely. Sit down, you've earned a bowl. Two bowls."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "venison1",
+          "count": 6,
+          "text": "Haunch of Venison",
+          "drops": [
+            {
+              "creature": "stock/stag",
+              "chance": 0.7
+            }
+          ],
+          "mapAreas": [
+            "astags00"
+          ]
+        }
+      ],
+      "requiredLevel": 5
+    },
+    {
+      "id": "lkfrog01",
+      "name": "Frogmen at the Lake",
+      "level": 7,
+      "zone": "brackenv",
+      "giver": "lksergnt",
+      "text": {
+        "offer": "Frogmen. On the north-east shore of the lake. Never come this far inland. Not in my time. Kill eight. Then I'll know they can be killed, and so will my lads.",
+        "summary": "Kill 8 frogmen on the lake's north-east shore.",
+        "waiting": "Report.",
+        "done": "Eight. Good. They're scouting. For what, I don't know. Saltwick might."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "kill": "stock/amphen-hunter",
+          "count": 8,
+          "area": "alkshor0",
+          "text": "Frogmen hunters killed",
+          "mapAreas": [
+            "alkshor0"
+          ]
+        }
+      ],
+      "requiredLevel": 6,
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/ringmail-boots"
+          },
+          {
+            "item": "stock/hide-belt"
+          },
+          {
+            "item": "stock/patched-cloak"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lkweir01",
+      "name": "The Fish Weir",
+      "level": 8,
+      "zone": "brackenv",
+      "giver": "lkfisher",
+      "text": {
+        "offer": "Weir's down. Where the river leaves the lake, east of the dock. Posts are knocked flat. Stand five back up. ... Lake gives what it gives. Weir helps.",
+        "summary": "Set 5 of the fish weir's posts upright where the river leaves the lake.",
+        "waiting": "Weir's still down.",
+        "done": "Hm. Good. Fish tonight."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "use": "pool:weir",
+          "count": 5,
+          "text": "Weir posts set",
+          "time": 3,
+          "mapAreas": [
+            "pool:weir"
+          ]
+        }
+      ],
+      "requiredLevel": 6,
+      "objectPools": [
+        {
+          "id": "weir",
+          "type": "built:bmill002",
+          "spots": [
+            {
+              "at": [
+                16300,
+                16500
+              ],
+              "yaw": 1.4,
+              "scale": 0.6
+            },
+            {
+              "at": [
+                16315,
+                16512
+              ],
+              "yaw": 0.2,
+              "scale": 0.6
+            },
+            {
+              "at": [
+                16330,
+                16505
+              ],
+              "yaw": 2,
+              "scale": 0.6
+            },
+            {
+              "at": [
+                16345,
+                16520
+              ],
+              "yaw": 1.1,
+              "scale": 0.6
+            },
+            {
+              "at": [
+                16360,
+                16508
+              ],
+              "yaw": 0.6,
+              "scale": 0.6
+            },
+            {
+              "at": [
+                16372,
+                16525
+              ],
+              "yaw": 2.6,
+              "scale": 0.6
+            },
+            {
+              "at": [
+                16325,
+                16530
+              ],
+              "yaw": 1.8,
+              "scale": 0.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lkbear01",
+      "name": "A Hunter's Wager",
+      "level": 9,
+      "zone": "brackenv",
+      "giver": "lkhunter",
+      "text": {
+        "offer": "Eight bear claws. South wood, south-west of town, past the boar fields. The black bears there are big as a cart. Bigger. You bring the claws, I win the bet, I buy you a drink with Bess's money. Everyone wins but Bess.",
+        "summary": "Bring 8 Bear Claws from the black bears in the south wood.",
+        "waiting": "Claws?",
+        "done": "Eight! Bess! BESS! Pay up!"
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "bring": "bearclw1",
+          "count": 8,
+          "text": "Bear Claw",
+          "drops": [
+            {
+              "creature": "stock/black-bear",
+              "area": "aswbear0",
+              "chance": 0.6
+            }
+          ],
+          "mapAreas": [
+            "aswbear0"
+          ]
+        }
+      ],
+      "requiredLevel": 7,
+      "rewards": {
+        "choice": [
+          {
+            "item": "stock/woodsmans-axe"
+          },
+          {
+            "item": "stock/iron-maul"
+          },
+          {
+            "item": "stock/ash-spear"
+          },
+          {
+            "item": "stock/old-blunderbuss"
+          }
+        ]
+      }
     }
   ]
 }

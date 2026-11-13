@@ -1,0 +1,41 @@
+{
+  "id": "lkfisher",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Hm.",
+      "choices": [
+        {
+          "text": "Good fishing?",
+          "next": "t0"
+        },
+        {
+          "text": "Seen anything strange?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Lake gives what it gives.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "Frogmen. Lake side. Never used to come this far. Lake's changing.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}

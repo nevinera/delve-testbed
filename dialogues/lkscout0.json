@@ -1,0 +1,41 @@
+{
+  "id": "lkscout0",
+  "start": "hello",
+  "lines": {
+    "hello": {
+      "text": "Mm. Afternoon. Is it afternoon? Feels like afternoon.",
+      "choices": [
+        {
+          "text": "Who are you?",
+          "next": "t0"
+        },
+        {
+          "text": "What's at Greyspur Gate?",
+          "next": "t1"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t0": {
+      "text": "Benno. Scout, up at Greyspur Gate. On leave. Supposed to be resting. Can't rest down here. Air's too thick.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    },
+    "t1": {
+      "text": "The road up into the mountains, and the wall across it. Cold, quiet, and the best view in the world. You'd like it. Go and see.",
+      "choices": [
+        {
+          "text": "I see.",
+          "next": "hello"
+        }
+      ]
+    }
+  }
+}
