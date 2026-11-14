@@ -36,6 +36,29 @@
           "next": "hello"
         }
       ]
+    },
+    "mended": {
+      "text": "Marta came by Sunday. First time in eleven years. Brought bread, said it was too much for one house. It wasn't. Mother cried. Don't tell her I said so.",
+      "choices": [
+        {
+          "text": "What's the trouble now?",
+          "next": "t0"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
     }
-  }
+  },
+  "openings": [
+    {
+      "line": "mended",
+      "when": {
+        "finished": [
+          "bdchif01"
+        ]
+      }
+    }
+  ]
 }

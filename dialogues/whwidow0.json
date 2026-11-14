@@ -40,6 +40,42 @@
           "next": "hello"
         }
       ]
+    },
+    "mended": {
+      "text": "Dace Merrin's dead, they say. Good. I walked to Edric's on Sunday. He's let the east fence go. Somebody had to tell him.",
+      "choices": [
+        {
+          "text": "Your brother sends his regards.",
+          "next": "t2"
+        },
+        {
+          "text": "What have you got for sale?",
+          "do": "vendor"
+        },
+        {
+          "text": "Goodbye.",
+          "do": "close"
+        }
+      ]
+    },
+    "t2": {
+      "text": "He would. Tell him the bread comes Sunday. Tell him to fix the fence.",
+      "choices": [
+        {
+          "text": "I will.",
+          "next": "mended"
+        }
+      ]
     }
-  }
+  },
+  "openings": [
+    {
+      "line": "mended",
+      "when": {
+        "finished": [
+          "bdchif01"
+        ]
+      }
+    }
+  ]
 }
