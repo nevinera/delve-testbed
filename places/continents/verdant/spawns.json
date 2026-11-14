@@ -8428,7 +8428,10 @@
           "stock/smoked-sausage",
           "stock/mint-tea",
           "stock/mild-spices",
-          "stock/flour"
+          "stock/flour",
+          "stock/cloth-pouch",
+          "stock/canvas-satchel",
+          "stock/travelers-haversack"
         ]
       },
       "trains": {
@@ -10137,7 +10140,10 @@
           "stock/skinning-knife",
           "stock/fishing-pole",
           "stock/smithing-hammer",
-          "stock/spanner"
+          "stock/spanner",
+          "stock/cloth-pouch",
+          "stock/canvas-satchel",
+          "stock/travelers-haversack"
         ]
       },
       "title": "General Goods"
@@ -11119,7 +11125,10 @@
           "stock/claymore",
           "stock/battle-axe",
           "stock/war-maul",
-          "stock/boar-spear"
+          "stock/boar-spear",
+          "stock/cloth-pouch",
+          "stock/canvas-satchel",
+          "stock/travelers-haversack"
         ]
       },
       "name": "Quartermaster Ilsa Brook",

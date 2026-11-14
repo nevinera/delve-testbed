@@ -268,6 +268,48 @@
       "name": "Signed Orders",
       "icon": "scroll-unfurled",
       "description": "Patrol times for Riverwatch, and orders to take the road. Signed 'D.M.'"
+    },
+    {
+      "id": "abbsatch",
+      "name": "Quartermaster's Satchel",
+      "icon": "shoulder-bag",
+      "quality": "common",
+      "itemLevel": 5,
+      "slots": 6,
+      "price": 500,
+      "colors": [
+        "#8a7a5a",
+        "#4a3a2a"
+      ],
+      "description": "Patched twice, and stamped with the abbey's mark."
+    },
+    {
+      "id": "rwsatch1",
+      "name": "Ranger's Satchel",
+      "icon": "knapsack",
+      "quality": "common",
+      "itemLevel": 10,
+      "slots": 8,
+      "price": 2500,
+      "colors": [
+        "#5a6a3a",
+        "#3a2a1a"
+      ],
+      "description": "Waxed against the rain, with room for dispatches and more."
+    },
+    {
+      "id": "dmsack01",
+      "name": "Merrin's Take",
+      "icon": "swap-bag",
+      "quality": "common",
+      "itemLevel": 12,
+      "slots": 8,
+      "price": 2500,
+      "colors": [
+        "#6a4a3a",
+        "#c8a050"
+      ],
+      "description": "The sack Dace Merrin kept his share in."
     }
   ]
 }

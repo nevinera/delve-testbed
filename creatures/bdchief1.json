@@ -191,5 +191,15 @@
     ]
   },
   "title": "Bandit Chief",
-  "notes": "Lives in: his hidden camp between the autumn wood and the Saltwick road, leading the bandit gang."
+  "notes": "Lives in: his hidden camp between the autumn wood and the Saltwick road, leading the bandit gang.",
+  "loot": {
+    "junk": 0.5,
+    "gear": 0.05,
+    "items": [
+      {
+        "item": "dmsack01",
+        "chance": 0.25
+      }
+    ]
+  }
 }

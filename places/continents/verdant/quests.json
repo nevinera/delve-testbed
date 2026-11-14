@@ -303,6 +303,11 @@
           {
             "item": "stock/wool-cloak"
           }
+        ],
+        "items": [
+          {
+            "item": "abbsatch"
+          }
         ]
       }
     },
@@ -1996,7 +2001,14 @@
       "requiredLevel": 7,
       "after": [
         "bdroad01"
-      ]
+      ],
+      "rewards": {
+        "items": [
+          {
+            "item": "rwsatch1"
+          }
+        ]
+      }
     },
     {
       "id": "bdchif01",
