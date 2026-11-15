@@ -402,6 +402,41 @@
       "notes": "Shows fixed rewards and a choice of one, paid as you hand it in."
     },
     {
+      "id": "tbmail01",
+      "name": "Rewards: by mail",
+      "level": 1,
+      "zone": "tbwest01",
+      "giver": "elsa0001",
+      "rewards": {
+        "mail": {
+          "from": "Tove",
+          "subject": "For your trouble",
+          "body": "You walked all that way to talk to me, so here's something for the road.",
+          "money": 250,
+          "items": [
+            {
+              "item": "stock/oat-cake",
+              "count": 3
+            }
+          ],
+          "delay": 10
+        }
+      },
+      "text": {
+        "offer": "Mails you a reward from Tove 10 seconds after you hand it in.",
+        "summary": "Speak with Tove.",
+        "waiting": "Not yet.",
+        "done": "Well done. Watch your mail."
+      },
+      "objectives": [
+        {
+          "id": "a",
+          "talk": "tove0001"
+        }
+      ],
+      "notes": "Mails you a reward from Tove 10 seconds after you hand it in."
+    },
+    {
       "id": "tbdrop01",
       "name": "Bring: creature drops",
       "level": 1,
