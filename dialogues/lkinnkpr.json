@@ -18,6 +18,10 @@
           "do": "train"
         },
         {
+          "text": "Any mail for me?",
+          "do": "mail"
+        },
+        {
           "text": "What have you got for sale?",
           "do": "vendor"
         },

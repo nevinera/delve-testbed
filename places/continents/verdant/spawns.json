@@ -9969,6 +9969,7 @@
       "name": "Bess Merriweather",
       "title": "Innkeeper",
       "dialogue": "lkinnkpr",
+      "mail": true,
       "lean": "feminine",
       "at": [
         16060,
