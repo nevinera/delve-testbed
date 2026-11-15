@@ -8379,9 +8379,9 @@
       "name": "Keeper Bryce Tallow",
       "levels": 10,
       "at": [
-        13184,
+        13196,
         28,
-        12968
+        12984
       ],
       "yaw": 270,
       "wander": 0,
@@ -8394,11 +8394,11 @@
       "name": "Keeper Maudie Fenn",
       "levels": 10,
       "at": [
-        13202,
+        13196,
         28,
-        12938
+        12975
       ],
-      "yaw": 90,
+      "yaw": 270,
       "wander": 0,
       "title": "Herbalist",
       "dialogue": "abbherbl",
