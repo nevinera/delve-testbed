@@ -8364,9 +8364,9 @@
       "name": "Abbot Halden",
       "levels": 10,
       "at": [
-        13138,
-        27.3,
-        12982
+        13277,
+        28,
+        12980
       ],
       "yaw": 270,
       "wander": 0,
@@ -8379,9 +8379,9 @@
       "name": "Keeper Bryce Tallow",
       "levels": 10,
       "at": [
-        13105,
-        29.1,
-        12925
+        13184,
+        28,
+        12968
       ],
       "yaw": 270,
       "wander": 0,
@@ -8394,11 +8394,11 @@
       "name": "Keeper Maudie Fenn",
       "levels": 10,
       "at": [
-        13110,
-        27.1,
-        13045
+        13202,
+        28,
+        12938
       ],
-      "yaw": 270,
+      "yaw": 90,
       "wander": 0,
       "title": "Herbalist",
       "dialogue": "abbherbl",
@@ -8413,11 +8413,11 @@
       "name": "Keeper Osric Pell",
       "levels": 10,
       "at": [
-        13135,
-        27.5,
-        13085
+        13202,
+        28,
+        12912
       ],
-      "yaw": 270,
+      "yaw": 90,
       "wander": 0,
       "title": "Quartermaster",
       "dialogue": "abbquart",
@@ -8445,11 +8445,11 @@
       "name": "Keeper Tam Ridley",
       "levels": 10,
       "at": [
-        13075,
-        25,
-        13005
+        13192,
+        28,
+        12956
       ],
-      "yaw": 270,
+      "yaw": 0,
       "wander": 0,
       "dialogue": "abbvalek"
     },
@@ -8502,9 +8502,9 @@
       "name": "Father Aldous Wren",
       "levels": 10,
       "at": [
-        15960,
-        15.8,
-        16884
+        15953,
+        16.52,
+        16804
       ],
       "yaw": 0,
       "wander": 0,
@@ -9971,9 +9971,9 @@
       "dialogue": "lkinnkpr",
       "lean": "feminine",
       "at": [
-        16052,
-        22,
-        17046
+        16060,
+        22.75,
+        16962
       ],
       "yaw": 0,
       "levels": 10,
@@ -10226,11 +10226,11 @@
       "dialogue": "swharbor",
       "lean": "feminine",
       "at": [
-        17660,
-        7.5,
-        20420
+        17647,
+        10.01,
+        20384
       ],
-      "yaw": 0,
+      "yaw": 90,
       "levels": 10,
       "respawn": 300
     },
@@ -10288,10 +10288,10 @@
       "lean": "feminine",
       "at": [
         17700,
-        11,
-        20270
+        12.01,
+        20220
       ],
-      "yaw": 0,
+      "yaw": 180,
       "levels": 10,
       "respawn": 300,
       "vendor": {
@@ -10435,11 +10435,11 @@
       "dialogue": "rwcaptn0",
       "lean": "masculine",
       "at": [
-        20250,
-        68.4,
-        16350
+        20242,
+        69.47,
+        16304
       ],
-      "yaw": 0,
+      "yaw": 180,
       "levels": 10,
       "respawn": 300
     },
@@ -10468,11 +10468,11 @@
       "title": "Fletcher",
       "dialogue": "rwfletch",
       "at": [
-        20200,
-        64,
-        16444
+        20216,
+        64.91,
+        16484
       ],
-      "yaw": 180,
+      "yaw": 90,
       "levels": 10,
       "respawn": 300,
       "vendor": {
@@ -10621,9 +10621,9 @@
       "dialogue": "pgwarden",
       "lean": "masculine",
       "at": [
-        15760,
-        27.1,
-        13290
+        15852,
+        26.28,
+        13404
       ],
       "yaw": 180,
       "levels": 10,
@@ -10638,11 +10638,11 @@
       "dialogue": "pgsmith0",
       "lean": "feminine",
       "at": [
-        15660,
-        34.6,
-        13450
+        15666,
+        35.26,
+        13409
       ],
-      "yaw": 0,
+      "yaw": 180,
       "levels": 10,
       "respawn": 300,
       "vendor": {
@@ -10767,7 +10767,7 @@
     {
       "id": "abbminer",
       "npc": "keeper01",
-      "wander": 2,
+      "wander": 0,
       "vendor": {
         "sells": [
           "stock/mining-pick"
@@ -10781,18 +10781,18 @@
       "title": "Miner",
       "dialogue": "abbminer",
       "at": [
-        13090,
-        26.3,
-        13065
+        13266,
+        28,
+        12914
       ],
-      "yaw": 0,
+      "yaw": 270,
       "levels": 10,
       "respawn": 300
     },
     {
       "id": "abbskinr",
       "npc": "keeper01",
-      "wander": 2,
+      "wander": 0,
       "vendor": {
         "sells": [
           "stock/skinning-knife",
@@ -10807,18 +10807,18 @@
       "title": "Skinner",
       "dialogue": "abbskinr",
       "at": [
-        13055,
-        25.6,
-        13040
+        13264,
+        28,
+        12940
       ],
-      "yaw": 0,
+      "yaw": 270,
       "levels": 10,
       "respawn": 300
     },
     {
       "id": "abbfishr",
       "npc": "keeper01",
-      "wander": 2,
+      "wander": 0,
       "vendor": {
         "sells": [
           "stock/fishing-pole"
@@ -10832,18 +10832,18 @@
       "title": "Fisher",
       "dialogue": "abbfishr",
       "at": [
-        13035,
-        27.6,
-        13010
+        13192,
+        28,
+        13004
       ],
-      "yaw": 0,
+      "yaw": 180,
       "levels": 10,
       "respawn": 300
     },
     {
       "id": "lksmith0",
       "npc": "townfolk",
-      "wander": 2,
+      "wander": 0,
       "vendor": {
         "sells": [
           "stock/smithing-hammer",
@@ -10881,11 +10881,11 @@
       "title": "Blacksmith",
       "dialogue": "lksmith0",
       "at": [
-        16090,
-        18.2,
-        16905
+        16096,
+        17.21,
+        16859
       ],
-      "yaw": 0,
+      "yaw": 180,
       "levels": 10,
       "respawn": 300
     },
@@ -10937,7 +10937,7 @@
     {
       "id": "lkalchm0",
       "npc": "townfolk",
-      "wander": 2,
+      "wander": 0,
       "vendor": {
         "sells": [
           "stock/glass-vial",
@@ -10952,9 +10952,9 @@
       "title": "Alchemist",
       "dialogue": "lkalchm0",
       "at": [
-        15905,
-        12.7,
-        16760
+        15911,
+        10.99,
+        16690
       ],
       "yaw": 0,
       "levels": 10,
@@ -10963,7 +10963,7 @@
     {
       "id": "lkenchnt",
       "npc": "townfolk",
-      "wander": 2,
+      "wander": 0,
       "vendor": {
         "sells": [
           "stock/enchanting-vellum",
@@ -10978,18 +10978,18 @@
       "title": "Enchanter",
       "dialogue": "lkenchnt",
       "at": [
-        15935,
-        12.4,
-        16760
+        16054,
+        11.8,
+        16740
       ],
-      "yaw": 0,
+      "yaw": 90,
       "levels": 10,
       "respawn": 300
     },
     {
       "id": "lktailr0",
       "npc": "townfolk",
-      "wander": 2,
+      "wander": 0,
       "vendor": {
         "sells": [
           "stock/coarse-thread",
@@ -11021,9 +11021,9 @@
       "title": "Tailor",
       "dialogue": "lktailr0",
       "at": [
-        15990,
-        13.8,
-        16775
+        15992,
+        10.6,
+        16685
       ],
       "yaw": 0,
       "levels": 10,
@@ -11100,7 +11100,7 @@
     {
       "id": "rwquart0",
       "npc": "soldier0",
-      "wander": 2,
+      "wander": 0,
       "vendor": {
         "sells": [
           "stock/chainmail-coif",
@@ -11135,11 +11135,11 @@
       "title": "Quartermaster",
       "dialogue": "rwquart0",
       "at": [
-        20200,
-        62.8,
-        16385
+        20272,
+        69.47,
+        16295
       ],
-      "yaw": 0,
+      "yaw": 270,
       "levels": 10,
       "respawn": 300
     },
