@@ -2712,12 +2712,12 @@
         13232,
         12980
       ],
-      "shown": true,
+      "goal": 3.5,
       "levels": [
         1,
         5
       ],
-      "goal": 3.5
+      "shown": true
     },
     {
       "id": "hub00001",
@@ -2727,12 +2727,12 @@
         13600,
         15000
       ],
-      "shown": true,
+      "goal": 0.6,
       "levels": [
         5,
         6
       ],
-      "goal": 0.6
+      "shown": true
     },
     {
       "id": "hub00002",
@@ -2742,13 +2742,13 @@
         16000,
         17100
       ],
-      "shown": true,
+      "goal": 0.7,
       "levels": [
         7,
         8
       ],
-      "goal": 0.5,
-      "reach": 600
+      "reach": 600,
+      "shown": true
     },
     {
       "id": "hub00003",
@@ -2758,12 +2758,12 @@
         15768,
         13300
       ],
-      "shown": true,
+      "goal": 0.3,
       "levels": [
         10,
         10
       ],
-      "goal": 0.3
+      "shown": true
     },
     {
       "id": "hub00004",
@@ -2773,12 +2773,12 @@
         20266,
         16405
       ],
-      "shown": true,
+      "goal": 0.4,
       "levels": [
         9,
         10
       ],
-      "goal": 0.5
+      "shown": true
     },
     {
       "id": "hub00005",
@@ -2788,12 +2788,12 @@
         17600,
         20300
       ],
-      "shown": true,
+      "goal": 0.3,
       "levels": [
         8,
         9
       ],
-      "goal": 0.4
+      "shown": true
     },
     {
       "id": "hubwestf",
@@ -2803,12 +2803,12 @@
         12300,
         16900
       ],
-      "shown": true,
+      "goal": 0.3,
       "levels": [
         6,
         7
       ],
-      "goal": 0.3
+      "shown": true
     }
   ],
   "dungeons": [],

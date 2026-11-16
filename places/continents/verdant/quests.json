@@ -729,7 +729,8 @@
           {
             "item": "stock/patched-cloak"
           }
-        ]
+        ],
+        "xpScale": 0.4
       },
       "hub": "hub00001"
     },
@@ -759,7 +760,10 @@
       "after": [
         "kbstor01"
       ],
-      "hub": "hub00001"
+      "hub": "hub00001",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "kbbarw01",
@@ -784,7 +788,10 @@
       ],
       "turnIn": "ashgranm",
       "next": "kblord01",
-      "hub": "hub00001"
+      "hub": "hub00001",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "kblord01",
@@ -829,7 +836,8 @@
           {
             "item": "stock/iron-shortsword"
           }
-        ]
+        ],
+        "xpScale": 0.4
       },
       "hub": "hub00001"
     },
@@ -868,7 +876,8 @@
           {
             "item": "stock/ringmail-vest"
           }
-        ]
+        ],
+        "xpScale": 0.4
       },
       "hub": "hub00001"
     },
@@ -908,7 +917,8 @@
           {
             "item": "stock/ringmail-belt"
           }
-        ]
+        ],
+        "xpScale": 0.4
       },
       "hub": "hub00001"
     },
@@ -938,7 +948,10 @@
       "requiredLevel": 5,
       "turnIn": "lkpriest",
       "next": "udopen01",
-      "hub": "hub00001"
+      "hub": "hub00001",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "bdfenc01",
@@ -976,7 +989,8 @@
           {
             "item": "stock/linen-robe"
           }
-        ]
+        ],
+        "xpScale": 0.4
       },
       "hub": "hubwestf"
     },
@@ -1038,7 +1052,8 @@
           {
             "item": "stock/iron-knuckles"
           }
-        ]
+        ],
+        "xpScale": 0.4
       },
       "hub": "hubwestf"
     },
@@ -1079,7 +1094,8 @@
           {
             "item": "stock/ringmail-belt"
           }
-        ]
+        ],
+        "xpScale": 0.4
       },
       "hub": "hubwestf"
     },
@@ -1180,7 +1196,10 @@
           ]
         }
       ],
-      "hub": "hubwestf"
+      "hub": "hubwestf",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "bdwest01",
@@ -1202,7 +1221,10 @@
       "requiredLevel": 5,
       "breadcrumbFor": "bdfenc01",
       "turnIn": "whwidow0",
-      "hub": "hub00001"
+      "hub": "hub00001",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "udbone01",
@@ -1241,7 +1263,10 @@
       "requiredLevel": 5,
       "turnIn": "lkpriest",
       "next": "udopen01",
-      "hub": "hub00002"
+      "hub": "hub00002",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "udopen01",
@@ -1278,7 +1303,8 @@
           {
             "item": "stock/hide-leggings"
           }
-        ]
+        ],
+        "xpScale": 0.4
       },
       "hub": "hub00002"
     },
@@ -1331,7 +1357,8 @@
           {
             "item": "stock/hunting-bow"
           }
-        ]
+        ],
+        "xpScale": 0.4
       },
       "hub": "hub00002"
     },
@@ -1362,7 +1389,10 @@
         }
       ],
       "turnIn": "ashfarmr",
-      "hub": "hub00002"
+      "hub": "hub00002",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "lkvens01",
@@ -1394,7 +1424,10 @@
         }
       ],
       "requiredLevel": 5,
-      "hub": "hub00002"
+      "hub": "hub00002",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "lkfrog01",
@@ -1432,7 +1465,8 @@
           {
             "item": "stock/patched-cloak"
           }
-        ]
+        ],
+        "xpScale": 0.4
       },
       "hub": "hub00002"
     },
@@ -1525,7 +1559,10 @@
           ]
         }
       ],
-      "hub": "hub00002"
+      "hub": "hub00002",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "lkbear01",
@@ -1572,7 +1609,8 @@
           {
             "item": "stock/fowling-piece"
           }
-        ]
+        ],
+        "xpScale": 0.4
       },
       "hub": "hub00002"
     },
@@ -1596,7 +1634,10 @@
       "requiredLevel": 6,
       "turnIn": "swharbor",
       "next": "frvill01",
-      "hub": "hub00002"
+      "hub": "hub00002",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "frvill01",
@@ -1632,7 +1673,8 @@
           {
             "item": "stock/linen-robe"
           }
-        ]
+        ],
+        "xpScale": 0.4
       },
       "hub": "hub00005"
     },
@@ -1750,7 +1792,8 @@
           {
             "item": "stock/militia-sabatons"
           }
-        ]
+        ],
+        "xpScale": 0.4
       },
       "hub": "hub00005"
     },
@@ -1802,7 +1845,8 @@
           {
             "item": "stock/broadsword"
           }
-        ]
+        ],
+        "xpScale": 0.4
       },
       "hub": "hub00005"
     },
@@ -1856,7 +1900,10 @@
       "after": [
         "frvill01"
       ],
-      "hub": "hub00005"
+      "hub": "hub00005",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "frtide01",
@@ -1905,7 +1952,8 @@
           {
             "item": "stock/brass-knuckles"
           }
-        ]
+        ],
+        "xpScale": 0.4
       },
       "hub": "hub00005"
     },
@@ -1940,7 +1988,10 @@
         }
       ],
       "requiredLevel": 6,
-      "hub": "hub00005"
+      "hub": "hub00005",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "bdordr01",
@@ -1972,7 +2023,10 @@
         "bdseed01"
       ],
       "turnIn": "rwcaptn0",
-      "hub": "hubwestf"
+      "hub": "hubwestf",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "bdroad01",
@@ -2013,7 +2067,8 @@
           {
             "item": "stock/militia-breastplate"
           }
-        ]
+        ],
+        "xpScale": 0.45
       },
       "hub": "hub00004"
     },
@@ -2049,7 +2104,8 @@
           {
             "item": "rwsatch1"
           }
-        ]
+        ],
+        "xpScale": 0.45
       },
       "hub": "hub00004"
     },
@@ -2099,7 +2155,8 @@
           {
             "item": "stock/quarterstaff"
           }
-        ]
+        ],
+        "xpScale": 0.45
       },
       "hub": "hub00004"
     },
@@ -2125,7 +2182,10 @@
         "udsoil01"
       ],
       "turnIn": "rwcaptn0",
-      "hub": "hub00002"
+      "hub": "hub00002",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "udrivr01",
@@ -2185,7 +2245,8 @@
           {
             "item": "stock/militia-gauntlets"
           }
-        ]
+        ],
+        "xpScale": 0.45
       },
       "hub": "hub00004"
     },
@@ -2219,7 +2280,10 @@
       "after": [
         "udrivr01"
       ],
-      "hub": "hub00004"
+      "hub": "hub00004",
+      "rewards": {
+        "xpScale": 0.45
+      }
     },
     {
       "id": "udnecr01",
@@ -2279,7 +2343,8 @@
           {
             "item": "stock/broadsword"
           }
-        ]
+        ],
+        "xpScale": 0.45
       },
       "hub": "hub00004"
     },
@@ -2313,7 +2378,10 @@
         "udnecr01"
       ],
       "turnIn": "lkpriest",
-      "hub": "hub00004"
+      "hub": "hub00004",
+      "rewards": {
+        "xpScale": 0.45
+      }
     },
     {
       "id": "udsalt01",
@@ -2342,7 +2410,10 @@
         }
       ],
       "turnIn": "rwcaptn0",
-      "hub": "hub00002"
+      "hub": "hub00002",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "rwsilk01",
@@ -2386,7 +2457,8 @@
           {
             "item": "stock/fowling-piece"
           }
-        ]
+        ],
+        "xpScale": 0.45
       },
       "hub": "hub00004"
     },
@@ -2409,7 +2481,10 @@
       ],
       "requiredLevel": 7,
       "turnIn": "pgwarden",
-      "hub": "hub00002"
+      "hub": "hub00002",
+      "rewards": {
+        "xpScale": 0.4
+      }
     },
     {
       "id": "pgtrog01",
@@ -2456,7 +2531,8 @@
           {
             "item": "stock/brass-knuckles"
           }
-        ]
+        ],
+        "xpScale": 0.8
       },
       "hub": "hub00003"
     },
@@ -2495,7 +2571,8 @@
           {
             "item": "stock/militia-pauldrons"
           }
-        ]
+        ],
+        "xpScale": 0.8
       },
       "hub": "hub00003"
     },
@@ -2596,7 +2673,10 @@
           ]
         }
       ],
-      "hub": "hub00003"
+      "hub": "hub00003",
+      "rewards": {
+        "xpScale": 0.8
+      }
     }
   ]
 }
