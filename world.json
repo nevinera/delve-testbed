@@ -36,62 +36,6 @@
     "fishing": "stock",
     "cooking": "stock"
   },
-  "restPoints": [
-    {
-      "id": "rpabbey0",
-      "continent": "verdant",
-      "name": "Wakewell Abbey",
-      "at": [
-        13150,
-        12995
-      ]
-    },
-    {
-      "id": "rplkinn0",
-      "continent": "verdant",
-      "name": "The Lakeford Inn",
-      "at": [
-        16060,
-        17050
-      ]
-    },
-    {
-      "id": "rpsaltw0",
-      "continent": "verdant",
-      "name": "Saltwick",
-      "at": [
-        17620,
-        20300
-      ]
-    },
-    {
-      "id": "rprivwt0",
-      "continent": "verdant",
-      "name": "Riverwatch",
-      "at": [
-        20250,
-        16385
-      ]
-    },
-    {
-      "id": "rpgate00",
-      "continent": "verdant",
-      "name": "Greyspur Gate",
-      "at": [
-        15770,
-        13330
-      ]
-    },
-    {
-      "id": "rpashby0",
-      "continent": "verdant",
-      "name": "Ashby Farm",
-      "at": [
-        13700,
-        14985
-      ]
-    }
-  ],
   "graveyards": [
     {
       "id": "gyabbey0",

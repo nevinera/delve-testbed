@@ -687,12 +687,6 @@
       ]
     }
   },
-  "lore": {
-    "abbeyTitles": {
-      "name": "Abbey titles",
-      "summary": "Abbey folk are titled 'Keeper', since they serve the Sleepers rather than worship them; the head is 'Abbot'."
-    }
-  },
   "sides": {
     "brackenv": {
       "name": "Brackenvale side quests",

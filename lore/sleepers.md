@@ -1,0 +1,12 @@
+---
+name: The Sleepers
+type: topic
+status: draft
+summary: Kept moderately vague.
+---
+
+Kept moderately vague. Player characters were sleeping in a dream realm until just now, and wake in places where that realm touches the world. Small abbeys dedicated to the Sleepers stand at such places, and their people help the new-wakened and get them on their feet. The abbeys are not a religion of the Sleepers: they are dedicated to helping Sleepers as they wake. The Dream comes up more later.
+
+## IP
+
+Checked 2026-11-10: a well-known series has a cult of a single Sleeper; ours is plural, benign, and the abbey helps rather than worships. Judged fine.
