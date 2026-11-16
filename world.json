@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "Testbed",
+  "levelCap": 20,
   "continents": [
     {
       "key": "main",
