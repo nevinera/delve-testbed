@@ -11,174 +11,6 @@
       ],
       "points": [
         [
-          20848.1,
-          20520
-        ],
-        [
-          20581,
-          20501
-        ],
-        [
-          20097,
-          20490
-        ],
-        [
-          19627,
-          20499
-        ],
-        [
-          19156,
-          20484
-        ],
-        [
-          18686,
-          20449
-        ],
-        [
-          18235,
-          20463
-        ],
-        [
-          17805,
-          20583
-        ],
-        [
-          17377,
-          20774
-        ],
-        [
-          16930,
-          20924
-        ],
-        [
-          16466,
-          20954
-        ],
-        [
-          16000,
-          20894
-        ],
-        [
-          15539,
-          20838
-        ],
-        [
-          15078,
-          20839
-        ],
-        [
-          14611,
-          20863
-        ],
-        [
-          14148,
-          20849
-        ],
-        [
-          13692,
-          20792
-        ],
-        [
-          13234,
-          20744
-        ],
-        [
-          12765,
-          20733
-        ],
-        [
-          12298,
-          20705
-        ],
-        [
-          11870,
-          20572
-        ],
-        [
-          11503,
-          20317
-        ],
-        [
-          11170,
-          20029
-        ],
-        [
-          10812,
-          19820
-        ],
-        [
-          10652.9,
-          19782.2
-        ],
-        [
-          10656,
-          19572
-        ],
-        [
-          10811,
-          19302
-        ],
-        [
-          11237,
-          19077
-        ],
-        [
-          11255,
-          18800
-        ],
-        [
-          11277,
-          18473
-        ],
-        [
-          11204,
-          18177
-        ],
-        [
-          11545,
-          18052
-        ],
-        [
-          11671,
-          17778
-        ],
-        [
-          11678,
-          17473
-        ],
-        [
-          11181,
-          17073
-        ],
-        [
-          10895,
-          16848
-        ],
-        [
-          10666,
-          16605
-        ],
-        [
-          10794,
-          16142
-        ],
-        [
-          10715,
-          15801
-        ],
-        [
-          10773,
-          15498
-        ],
-        [
-          10755,
-          14939
-        ],
-        [
-          10650,
-          14875
-        ],
-        [
           10648,
           14543
         ],
@@ -785,8 +617,177 @@
         [
           20851,
           20506
+        ],
+        [
+          20848.1,
+          20520
+        ],
+        [
+          20581,
+          20501
+        ],
+        [
+          20097,
+          20490
+        ],
+        [
+          19627,
+          20499
+        ],
+        [
+          19156,
+          20484
+        ],
+        [
+          18686,
+          20449
+        ],
+        [
+          18235,
+          20463
+        ],
+        [
+          17805,
+          20583
+        ],
+        [
+          17377,
+          20774
+        ],
+        [
+          16930,
+          20924
+        ],
+        [
+          16466,
+          20954
+        ],
+        [
+          16000,
+          20894
+        ],
+        [
+          15539,
+          20838
+        ],
+        [
+          15078,
+          20839
+        ],
+        [
+          14611,
+          20863
+        ],
+        [
+          14148,
+          20849
+        ],
+        [
+          13692,
+          20792
+        ],
+        [
+          13234,
+          20744
+        ],
+        [
+          12765,
+          20733
+        ],
+        [
+          12298,
+          20705
+        ],
+        [
+          11870,
+          20572
+        ],
+        [
+          11503,
+          20317
+        ],
+        [
+          11170,
+          20029
+        ],
+        [
+          10812,
+          19820
+        ],
+        [
+          10652.9,
+          19782.2
+        ],
+        [
+          10656,
+          19572
+        ],
+        [
+          10811,
+          19302
+        ],
+        [
+          11237,
+          19077
+        ],
+        [
+          11255,
+          18800
+        ],
+        [
+          11277,
+          18473
+        ],
+        [
+          11204,
+          18177
+        ],
+        [
+          11545,
+          18052
+        ],
+        [
+          11671,
+          17778
+        ],
+        [
+          11678,
+          17473
+        ],
+        [
+          11181,
+          17073
+        ],
+        [
+          10895,
+          16848
+        ],
+        [
+          10666,
+          16605
+        ],
+        [
+          10794,
+          16142
+        ],
+        [
+          10715,
+          15801
+        ],
+        [
+          10773,
+          15498
+        ],
+        [
+          10755,
+          14939
+        ],
+        [
+          10650,
+          14875
         ]
-      ]
+      ],
+      "regionsProtected": true
     },
     {
       "id": "greyspur",
@@ -3243,6 +3244,152 @@
         20760
       ],
       "shown": false
+    }
+  ],
+  "locations": [
+    {
+      "id": "l0j5uzzk",
+      "name": "Wakewell Abbey",
+      "area": "areaiody",
+      "regionArea": "areaw3tn"
+    },
+    {
+      "id": "0jv3b5zp",
+      "name": "The Old Mine",
+      "area": "areac0z4",
+      "regionArea": "areaozoj"
+    },
+    {
+      "id": "lt966pyb",
+      "name": "Hill Gap Bandit Camp",
+      "area": "area9lhw",
+      "regionArea": "areaehme"
+    },
+    {
+      "id": "8oet9e5y",
+      "name": "Ashby Farm",
+      "area": "areac2y7",
+      "regionArea": "area3aug"
+    },
+    {
+      "id": "leg7kyh3",
+      "name": "Westhill Farmstead",
+      "area": "area8569",
+      "regionArea": "areapp8e"
+    },
+    {
+      "id": "sjede1p2",
+      "name": "Ruins of Parin's Landing",
+      "area": "area8b6l",
+      "regionArea": "areahv61"
+    },
+    {
+      "id": "po1316lh",
+      "name": "Saltwick",
+      "area": "arealuvj",
+      "regionArea": "area5txr"
+    },
+    {
+      "id": "yg73gbqm",
+      "name": "The Autumnwood",
+      "area": "areatt44",
+      "regionArea": "areaz8i9"
+    },
+    {
+      "id": "i20jzn3w",
+      "name": "Lakeford",
+      "area": "area51ya",
+      "regionArea": "arealu2z"
+    },
+    {
+      "id": "d716znjp",
+      "name": "Ashby Barrow",
+      "area": "areadlmp",
+      "regionArea": "area40wj"
+    },
+    {
+      "id": "7d8psof0",
+      "name": "Southwood Barrow",
+      "area": "areardr1",
+      "regionArea": "arealq6h"
+    },
+    {
+      "id": "v6g3v3la",
+      "name": "Southwood",
+      "area": "area3qg6",
+      "regionArea": "areaze4p"
+    },
+    {
+      "id": "jbo8eglf",
+      "name": "The Broken Tower",
+      "area": "areaesv5",
+      "regionArea": "aream3v5"
+    },
+    {
+      "id": "c405bl1n",
+      "name": "Greyspur Gate",
+      "area": "areacv4y",
+      "regionArea": "area15fe"
+    },
+    {
+      "id": "gtgvo3i4",
+      "name": "River Barrow",
+      "area": "area3jyo",
+      "regionArea": "areakms5"
+    },
+    {
+      "id": "zc5olh22",
+      "name": "Riverwatch",
+      "area": "area0c86",
+      "regionArea": "areasn61"
+    },
+    {
+      "id": "uafpzbx9",
+      "name": "East River Road",
+      "area": "areao5xz",
+      "regionArea": "area2dw1"
+    },
+    {
+      "id": "h5bv4798",
+      "name": "Saltreach Road",
+      "area": "areauj8f",
+      "regionArea": "area44d5"
+    },
+    {
+      "id": "4pbalexy",
+      "name": "Ashby Trail",
+      "area": "areaj0lx",
+      "regionArea": "areax9cf"
+    },
+    {
+      "id": "a7egg2ox",
+      "name": "Greyspur Road",
+      "area": "area2dzp",
+      "regionArea": "areaw01f"
+    },
+    {
+      "id": "ozbt096x",
+      "name": "Wakewell Path",
+      "area": "areaail7",
+      "regionArea": "areahyc0"
+    },
+    {
+      "id": "wpj4vwp0",
+      "name": "Wakewell Ruins",
+      "area": "area5xas",
+      "regionArea": "area0ykc"
+    },
+    {
+      "id": "vg3jm8vy",
+      "name": "West Saltmeadow Highway",
+      "area": "areataf9",
+      "regionArea": "area1w0f"
+    },
+    {
+      "id": "o4i2kr13",
+      "name": "Saltmeadow Highway",
+      "area": "areaqajy",
+      "regionArea": "area8xry"
     }
   ]
 }
