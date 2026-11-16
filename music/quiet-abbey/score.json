@@ -1,0 +1,92 @@
+{
+  "name": "Quiet abbey",
+  "description": "Choir and harp by day with celesta glints; by night a choir alone over a soft walking cello. Holy, calm, never grand.",
+  "mood": [
+    "serene",
+    "holy",
+    "calm"
+  ],
+  "suits": [
+    "abbey",
+    "temple",
+    "monastery",
+    "settlement"
+  ],
+  "instruments": [
+    "choir",
+    "harp",
+    "celesta",
+    "cello"
+  ],
+  "soundfont": "orchestral",
+  "timing": {
+    "silence": [
+      120,
+      180
+    ]
+  },
+  "pieces": [
+    {
+      "file": "abbey-day.mid",
+      "title": "Wakewell, morning light",
+      "kind": "explore",
+      "when": "day"
+    },
+    {
+      "file": "abbey-night.mid",
+      "title": "Wakewell, vespers",
+      "kind": "explore",
+      "when": "night"
+    },
+    {
+      "file": "enter-1.mid",
+      "title": "Coming in 1",
+      "kind": "enter"
+    },
+    {
+      "file": "enter-2.mid",
+      "title": "Coming in 2",
+      "kind": "enter"
+    },
+    {
+      "file": "enter-3.mid",
+      "title": "Coming in 3",
+      "kind": "enter"
+    },
+    {
+      "file": "quest-done-1.mid",
+      "title": "Quest done 1",
+      "kind": "questDone"
+    },
+    {
+      "file": "quest-done-2.mid",
+      "title": "Quest done 2",
+      "kind": "questDone"
+    },
+    {
+      "file": "quest-done-3.mid",
+      "title": "Quest done 3",
+      "kind": "questDone"
+    },
+    {
+      "file": "level-up-1.mid",
+      "title": "Level up 1",
+      "kind": "levelUp"
+    },
+    {
+      "file": "level-up-2.mid",
+      "title": "Level up 2",
+      "kind": "levelUp"
+    },
+    {
+      "file": "death-1.mid",
+      "title": "Death 1",
+      "kind": "death"
+    },
+    {
+      "file": "death-2.mid",
+      "title": "Death 2",
+      "kind": "death"
+    }
+  ]
+}

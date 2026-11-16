@@ -1,0 +1,86 @@
+{
+  "name": "Barrow mounds",
+  "description": "High tremolo, a low choir, an out-of-key celesta and a bassoon groping in the dark: the old dead, not quite asleep.",
+  "mood": [
+    "dread",
+    "eerie",
+    "cold"
+  ],
+  "suits": [
+    "barrows",
+    "graveyard",
+    "tomb",
+    "undead"
+  ],
+  "instruments": [
+    "tremolo",
+    "choir",
+    "celesta",
+    "bassoon"
+  ],
+  "soundfont": "orchestral",
+  "timing": {
+    "silence": [
+      60,
+      120
+    ]
+  },
+  "pieces": [
+    {
+      "file": "barrow-mounds.mid",
+      "title": "The barrows",
+      "kind": "explore",
+      "when": "any"
+    },
+    {
+      "file": "enter-1.mid",
+      "title": "Coming in 1",
+      "kind": "enter"
+    },
+    {
+      "file": "enter-2.mid",
+      "title": "Coming in 2",
+      "kind": "enter"
+    },
+    {
+      "file": "enter-3.mid",
+      "title": "Coming in 3",
+      "kind": "enter"
+    },
+    {
+      "file": "quest-done-1.mid",
+      "title": "Quest done 1",
+      "kind": "questDone"
+    },
+    {
+      "file": "quest-done-2.mid",
+      "title": "Quest done 2",
+      "kind": "questDone"
+    },
+    {
+      "file": "quest-done-3.mid",
+      "title": "Quest done 3",
+      "kind": "questDone"
+    },
+    {
+      "file": "level-up-1.mid",
+      "title": "Level up 1",
+      "kind": "levelUp"
+    },
+    {
+      "file": "level-up-2.mid",
+      "title": "Level up 2",
+      "kind": "levelUp"
+    },
+    {
+      "file": "death-1.mid",
+      "title": "Death 1",
+      "kind": "death"
+    },
+    {
+      "file": "death-2.mid",
+      "title": "Death 2",
+      "kind": "death"
+    }
+  ]
+}

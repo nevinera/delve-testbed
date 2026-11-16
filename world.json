@@ -8,7 +8,8 @@
     },
     {
       "key": "verdant",
-      "name": "Verdant Isle"
+      "name": "Verdant Isle",
+      "score": "open-vale"
     }
   ],
   "spawn": {
@@ -182,5 +183,15 @@
         18000
       ]
     }
+  ],
+  "scores": [
+    "barrow-mounds",
+    "broken-tower",
+    "harbor-watch",
+    "hearth-village",
+    "old-mine",
+    "open-vale",
+    "quiet-abbey",
+    "wary-farmstead"
   ]
 }

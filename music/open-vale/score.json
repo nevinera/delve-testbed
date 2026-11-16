@@ -1,0 +1,100 @@
+{
+  "name": "Open vale",
+  "description": "Rolling open country: strings, harp and woodwinds trading phrases by day, a guitar walking under a clarinet, and low strings and vibraphone at night.",
+  "mood": [
+    "pastoral",
+    "gentle",
+    "open"
+  ],
+  "suits": [
+    "grassland",
+    "countryside",
+    "road",
+    "valley"
+  ],
+  "instruments": [
+    "strings",
+    "harp",
+    "oboe",
+    "flute",
+    "guitar",
+    "clarinet"
+  ],
+  "soundfont": "orchestral",
+  "timing": {
+    "silence": [
+      120,
+      240
+    ]
+  },
+  "pieces": [
+    {
+      "file": "vale-day.mid",
+      "title": "Brackenvale",
+      "kind": "explore",
+      "when": "day"
+    },
+    {
+      "file": "vale-wander.mid",
+      "title": "The long road",
+      "kind": "explore",
+      "when": "day"
+    },
+    {
+      "file": "vale-night.mid",
+      "title": "Starlight on the vale",
+      "kind": "explore",
+      "when": "night"
+    },
+    {
+      "file": "enter-1.mid",
+      "title": "Coming in 1",
+      "kind": "enter"
+    },
+    {
+      "file": "enter-2.mid",
+      "title": "Coming in 2",
+      "kind": "enter"
+    },
+    {
+      "file": "enter-3.mid",
+      "title": "Coming in 3",
+      "kind": "enter"
+    },
+    {
+      "file": "quest-done-1.mid",
+      "title": "Quest done 1",
+      "kind": "questDone"
+    },
+    {
+      "file": "quest-done-2.mid",
+      "title": "Quest done 2",
+      "kind": "questDone"
+    },
+    {
+      "file": "quest-done-3.mid",
+      "title": "Quest done 3",
+      "kind": "questDone"
+    },
+    {
+      "file": "level-up-1.mid",
+      "title": "Level up 1",
+      "kind": "levelUp"
+    },
+    {
+      "file": "level-up-2.mid",
+      "title": "Level up 2",
+      "kind": "levelUp"
+    },
+    {
+      "file": "death-1.mid",
+      "title": "Death 1",
+      "kind": "death"
+    },
+    {
+      "file": "death-2.mid",
+      "title": "Death 2",
+      "kind": "death"
+    }
+  ]
+}

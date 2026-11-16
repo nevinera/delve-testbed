@@ -1,0 +1,86 @@
+{
+  "name": "Broken tower",
+  "description": "Trombones and tuba swell while a choir chants on one note over timpani rolls: a brooding ruin with something at the top.",
+  "mood": [
+    "brooding",
+    "ominous",
+    "dark"
+  ],
+  "suits": [
+    "tower",
+    "ruin",
+    "dungeon",
+    "cultists"
+  ],
+  "instruments": [
+    "trombone",
+    "tuba",
+    "choir",
+    "timpani"
+  ],
+  "soundfont": "orchestral",
+  "timing": {
+    "silence": [
+      10,
+      20
+    ]
+  },
+  "pieces": [
+    {
+      "file": "tower-brooding.mid",
+      "title": "The broken tower",
+      "kind": "explore",
+      "when": "any"
+    },
+    {
+      "file": "enter-1.mid",
+      "title": "Coming in 1",
+      "kind": "enter"
+    },
+    {
+      "file": "enter-2.mid",
+      "title": "Coming in 2",
+      "kind": "enter"
+    },
+    {
+      "file": "enter-3.mid",
+      "title": "Coming in 3",
+      "kind": "enter"
+    },
+    {
+      "file": "quest-done-1.mid",
+      "title": "Quest done 1",
+      "kind": "questDone"
+    },
+    {
+      "file": "quest-done-2.mid",
+      "title": "Quest done 2",
+      "kind": "questDone"
+    },
+    {
+      "file": "quest-done-3.mid",
+      "title": "Quest done 3",
+      "kind": "questDone"
+    },
+    {
+      "file": "level-up-1.mid",
+      "title": "Level up 1",
+      "kind": "levelUp"
+    },
+    {
+      "file": "level-up-2.mid",
+      "title": "Level up 2",
+      "kind": "levelUp"
+    },
+    {
+      "file": "death-1.mid",
+      "title": "Death 1",
+      "kind": "death"
+    },
+    {
+      "file": "death-2.mid",
+      "title": "Death 2",
+      "kind": "death"
+    }
+  ]
+}

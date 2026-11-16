@@ -1,0 +1,85 @@
+{
+  "name": "Wary farmstead",
+  "description": "An oboe over open fifths and a soft timpani heartbeat: a farm short of hands, with trouble close by.",
+  "mood": [
+    "wary",
+    "lonely",
+    "uneasy"
+  ],
+  "suits": [
+    "farm",
+    "homestead",
+    "frontier",
+    "settlement"
+  ],
+  "instruments": [
+    "oboe",
+    "timpani",
+    "strings"
+  ],
+  "soundfont": "orchestral",
+  "timing": {
+    "silence": [
+      120,
+      180
+    ]
+  },
+  "pieces": [
+    {
+      "file": "westhill-wary.mid",
+      "title": "Westhill holds",
+      "kind": "explore",
+      "when": "any"
+    },
+    {
+      "file": "enter-1.mid",
+      "title": "Coming in 1",
+      "kind": "enter"
+    },
+    {
+      "file": "enter-2.mid",
+      "title": "Coming in 2",
+      "kind": "enter"
+    },
+    {
+      "file": "enter-3.mid",
+      "title": "Coming in 3",
+      "kind": "enter"
+    },
+    {
+      "file": "quest-done-1.mid",
+      "title": "Quest done 1",
+      "kind": "questDone"
+    },
+    {
+      "file": "quest-done-2.mid",
+      "title": "Quest done 2",
+      "kind": "questDone"
+    },
+    {
+      "file": "quest-done-3.mid",
+      "title": "Quest done 3",
+      "kind": "questDone"
+    },
+    {
+      "file": "level-up-1.mid",
+      "title": "Level up 1",
+      "kind": "levelUp"
+    },
+    {
+      "file": "level-up-2.mid",
+      "title": "Level up 2",
+      "kind": "levelUp"
+    },
+    {
+      "file": "death-1.mid",
+      "title": "Death 1",
+      "kind": "death"
+    },
+    {
+      "file": "death-2.mid",
+      "title": "Death 2",
+      "kind": "death"
+    }
+  ]
+}
