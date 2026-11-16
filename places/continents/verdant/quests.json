@@ -255,13 +255,13 @@
       "rewards": {
         "choice": [
           {
+            "item": "stock/ringmail-bracers"
+          },
+          {
             "item": "stock/hide-gloves"
           },
           {
-            "item": "stock/linen-sash"
-          },
-          {
-            "item": "stock/ringmail-bracers"
+            "item": "stock/linen-cuffs"
           }
         ],
         "xpScale": 1.34
@@ -305,13 +305,13 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/linen-trousers"
+            "item": "stock/battered-legplates"
           },
           {
-            "item": "stock/hide-jerkin"
+            "item": "stock/ringmail-gloves"
           },
           {
-            "item": "stock/wool-cloak"
+            "item": "stock/linen-sash"
           }
         ],
         "items": [
@@ -437,13 +437,10 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/hide-boots"
+            "item": "stock/battered-sabatons"
           },
           {
-            "item": "stock/linen-gloves"
-          },
-          {
-            "item": "stock/ringmail-belt"
+            "item": "stock/hide-jerkin"
           }
         ],
         "xpScale": 1.34
@@ -521,43 +518,19 @@
         "xpScale": 1.34,
         "choice": [
           {
+            "item": "stock/iron-shortsword"
+          },
+          {
             "item": "stock/iron-hatchet"
           },
           {
-            "item": "stock/hunting-bow"
-          },
-          {
-            "item": "stock/light-crossbow"
+            "item": "stock/iron-mace"
           },
           {
             "item": "stock/iron-dagger"
           },
           {
             "item": "stock/iron-knuckles"
-          },
-          {
-            "item": "stock/woodsmans-axe"
-          },
-          {
-            "item": "stock/iron-greatsword"
-          },
-          {
-            "item": "stock/old-blunderbuss"
-          },
-          {
-            "item": "stock/iron-mace"
-          },
-          {
-            "item": "stock/iron-maul"
-          },
-          {
-            "item": "stock/ash-spear"
-          },
-          {
-            "item": "stock/ash-staff"
-          },
-          {
-            "item": "stock/iron-shortsword"
           },
           {
             "item": "stock/birch-wand"
@@ -613,13 +586,10 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/hide-belt"
+            "item": "stock/ringmail-coif"
           },
           {
-            "item": "stock/patched-cloak"
-          },
-          {
-            "item": "stock/ringmail-boots"
+            "item": "stock/battered-helm"
           }
         ],
         "xpScale": 1.34
@@ -686,13 +656,10 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/linen-robe"
+            "item": "stock/hide-cap"
           },
           {
-            "item": "stock/hide-leggings"
-          },
-          {
-            "item": "stock/ringmail-vest"
+            "item": "stock/ringmail-belt"
           }
         ],
         "xpScale": 1.34
@@ -744,13 +711,10 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/hide-belt"
+            "item": "stock/battered-pauldrons"
           },
           {
-            "item": "stock/ringmail-boots"
-          },
-          {
-            "item": "stock/patched-cloak"
+            "item": "stock/linen-hood"
           }
         ],
         "xpScale": 0.49
@@ -845,19 +809,16 @@
             "item": "stock/iron-greatsword"
           },
           {
-            "item": "stock/iron-mace"
+            "item": "stock/woodsmans-axe"
           },
           {
-            "item": "stock/iron-dagger"
+            "item": "stock/iron-maul"
+          },
+          {
+            "item": "stock/ash-spear"
           },
           {
             "item": "stock/ash-staff"
-          },
-          {
-            "item": "stock/hunting-bow"
-          },
-          {
-            "item": "stock/iron-shortsword"
           }
         ],
         "xpScale": 0.49
@@ -891,13 +852,10 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/linen-robe"
+            "item": "stock/hide-boots"
           },
           {
-            "item": "stock/hide-leggings"
-          },
-          {
-            "item": "stock/ringmail-vest"
+            "item": "stock/ringmail-leggings"
           }
         ],
         "xpScale": 0.49
@@ -932,13 +890,10 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/hide-boots"
+            "item": "stock/battered-breastplate"
           },
           {
-            "item": "stock/linen-gloves"
-          },
-          {
-            "item": "stock/ringmail-belt"
+            "item": "stock/linen-trousers"
           }
         ],
         "xpScale": 0.49
@@ -1004,13 +959,10 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/hide-leggings"
+            "item": "stock/hide-shoulderpads"
           },
           {
-            "item": "stock/ringmail-vest"
-          },
-          {
-            "item": "stock/linen-robe"
+            "item": "stock/ringmail-spaulders"
           }
         ],
         "xpScale": 0.49
@@ -1064,16 +1016,10 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/iron-hatchet"
+            "item": "stock/battered-vambraces"
           },
           {
-            "item": "stock/light-crossbow"
-          },
-          {
-            "item": "stock/birch-wand"
-          },
-          {
-            "item": "stock/iron-knuckles"
+            "item": "stock/linen-mantle"
           }
         ],
         "xpScale": 0.49
@@ -1109,13 +1055,10 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/hide-boots"
+            "item": "stock/battered-gauntlets"
           },
           {
             "item": "stock/linen-gloves"
-          },
-          {
-            "item": "stock/ringmail-belt"
           }
         ],
         "xpScale": 0.49
@@ -1318,13 +1261,10 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/ringmail-vest"
+            "item": "stock/hide-belt"
           },
           {
-            "item": "stock/linen-robe"
-          },
-          {
-            "item": "stock/hide-leggings"
+            "item": "stock/ringmail-boots"
           }
         ],
         "xpScale": 0.49
@@ -1369,16 +1309,13 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/iron-mace"
-          },
-          {
-            "item": "stock/ash-staff"
-          },
-          {
-            "item": "stock/iron-shortsword"
-          },
-          {
             "item": "stock/hunting-bow"
+          },
+          {
+            "item": "stock/light-crossbow"
+          },
+          {
+            "item": "stock/old-blunderbuss"
           }
         ],
         "xpScale": 0.49
@@ -1480,13 +1417,13 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/ringmail-boots"
+            "item": "stock/hide-leggings"
           },
           {
-            "item": "stock/hide-belt"
+            "item": "stock/ringmail-vest"
           },
           {
-            "item": "stock/patched-cloak"
+            "item": "stock/wool-cloak"
           }
         ],
         "xpScale": 0.49
@@ -1621,16 +1558,16 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/bearded-axe"
+            "item": "stock/homespun-hood"
           },
           {
-            "item": "stock/war-maul"
+            "item": "stock/tanned-jerkin"
           },
           {
-            "item": "stock/boar-spear"
+            "item": "stock/chainmail-gloves"
           },
           {
-            "item": "stock/fowling-piece"
+            "item": "stock/militia-legplates"
           }
         ],
         "xpScale": 0.49
@@ -1688,13 +1625,13 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/ringmail-vest"
-          },
-          {
-            "item": "stock/hide-leggings"
+            "item": "stock/battered-girdle"
           },
           {
             "item": "stock/linen-robe"
+          },
+          {
+            "item": "stock/patched-cloak"
           }
         ],
         "xpScale": 0.49
@@ -1804,16 +1741,16 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/chainmail-boots"
+            "item": "stock/tanned-bracers"
           },
           {
-            "item": "stock/tanned-belt"
-          },
-          {
-            "item": "stock/travelers-cloak"
+            "item": "stock/chainmail-belt"
           },
           {
             "item": "stock/militia-sabatons"
+          },
+          {
+            "item": "stock/homespun-mantle"
           }
         ],
         "xpScale": 0.49
@@ -1851,7 +1788,10 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/claymore"
+            "item": "stock/broadsword"
+          },
+          {
+            "item": "stock/bearded-axe"
           },
           {
             "item": "stock/flanged-mace"
@@ -1860,13 +1800,10 @@
             "item": "stock/stiletto"
           },
           {
-            "item": "stock/quarterstaff"
+            "item": "stock/brass-knuckles"
           },
           {
-            "item": "stock/heavy-crossbow"
-          },
-          {
-            "item": "stock/broadsword"
+            "item": "stock/militia-shield"
           }
         ],
         "xpScale": 0.49
@@ -1925,7 +1862,21 @@
       ],
       "hub": "hub00005",
       "rewards": {
-        "xpScale": 0.49
+        "xpScale": 0.49,
+        "choice": [
+          {
+            "item": "stock/chainmail-leggings"
+          },
+          {
+            "item": "stock/militia-helm"
+          },
+          {
+            "item": "stock/homespun-robe"
+          },
+          {
+            "item": "stock/tanned-gloves"
+          }
+        ]
       }
     },
     {
@@ -1958,22 +1909,16 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/bearded-axe"
+            "item": "stock/militia-pauldrons"
           },
           {
-            "item": "stock/war-maul"
+            "item": "stock/homespun-cuffs"
           },
           {
-            "item": "stock/boar-spear"
+            "item": "stock/tanned-belt"
           },
           {
-            "item": "stock/longbow"
-          },
-          {
-            "item": "stock/yew-wand"
-          },
-          {
-            "item": "stock/brass-knuckles"
+            "item": "stock/chainmail-boots"
           }
         ],
         "xpScale": 0.49
@@ -2079,13 +2024,13 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/homespun-robe"
+            "item": "stock/homespun-gloves"
           },
           {
-            "item": "stock/tanned-jerkin"
+            "item": "stock/tanned-leggings"
           },
           {
-            "item": "stock/chainmail-hauberk"
+            "item": "stock/chainmail-coif"
           },
           {
             "item": "stock/militia-breastplate"
@@ -2164,16 +2109,13 @@
             "item": "stock/claymore"
           },
           {
-            "item": "stock/bearded-axe"
+            "item": "stock/battle-axe"
           },
           {
             "item": "stock/war-maul"
           },
           {
             "item": "stock/boar-spear"
-          },
-          {
-            "item": "stock/longbow"
           },
           {
             "item": "stock/quarterstaff"
@@ -2257,16 +2199,13 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/homespun-gloves"
+            "item": "stock/tanned-boots"
           },
           {
-            "item": "stock/tanned-gloves"
+            "item": "stock/chainmail-spaulders"
           },
           {
-            "item": "stock/chainmail-gloves"
-          },
-          {
-            "item": "stock/militia-gauntlets"
+            "item": "stock/militia-vambraces"
           }
         ],
         "xpScale": 0.55
@@ -2305,7 +2244,18 @@
       ],
       "hub": "hub00004",
       "rewards": {
-        "xpScale": 0.55
+        "xpScale": 0.55,
+        "choice": [
+          {
+            "item": "stock/homespun-sash"
+          },
+          {
+            "item": "stock/chainmail-hauberk"
+          },
+          {
+            "item": "stock/militia-gauntlets"
+          }
+        ]
       }
     },
     {
@@ -2349,22 +2299,10 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/claymore"
-          },
-          {
-            "item": "stock/flanged-mace"
-          },
-          {
-            "item": "stock/stiletto"
-          },
-          {
-            "item": "stock/quarterstaff"
-          },
-          {
             "item": "stock/yew-wand"
           },
           {
-            "item": "stock/broadsword"
+            "item": "stock/polished-orb"
           }
         ],
         "xpScale": 0.55
@@ -2537,22 +2475,16 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/claymore"
+            "item": "stock/homespun-trousers"
           },
           {
-            "item": "stock/flanged-mace"
+            "item": "stock/tanned-cap"
           },
           {
-            "item": "stock/stiletto"
+            "item": "stock/militia-girdle"
           },
           {
-            "item": "stock/quarterstaff"
-          },
-          {
-            "item": "stock/longbow"
-          },
-          {
-            "item": "stock/brass-knuckles"
+            "item": "stock/travelers-cloak"
           }
         ],
         "xpScale": 0.97
@@ -2583,16 +2515,13 @@
       "rewards": {
         "choice": [
           {
-            "item": "stock/homespun-mantle"
+            "item": "stock/homespun-shoes"
           },
           {
             "item": "stock/tanned-shoulderpads"
           },
           {
-            "item": "stock/chainmail-spaulders"
-          },
-          {
-            "item": "stock/militia-pauldrons"
+            "item": "stock/chainmail-bracers"
           }
         ],
         "xpScale": 0.97
