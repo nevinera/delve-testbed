@@ -19386,176 +19386,6 @@
       "spawnArea": "swild004"
     },
     {
-      "id": "mobid95x",
-      "creature": "stock/leopard",
-      "at": [
-        20357.2,
-        null,
-        12076.5
-      ],
-      "yaw": 245,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 240,
-      "wander": 50,
-      "spawnArea": "swild005"
-    },
-    {
-      "id": "moboljd4",
-      "creature": "stock/leopard",
-      "at": [
-        20602.1,
-        null,
-        12658.3
-      ],
-      "yaw": 100,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 240,
-      "wander": 50,
-      "spawnArea": "swild005"
-    },
-    {
-      "id": "mobii4ed",
-      "creature": "stock/leopard",
-      "at": [
-        20694,
-        null,
-        12107.2
-      ],
-      "yaw": 96,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 240,
-      "wander": 50,
-      "spawnArea": "swild005"
-    },
-    {
-      "id": "mobhthx1",
-      "creature": "stock/leopard",
-      "at": [
-        20357.2,
-        null,
-        12413.4
-      ],
-      "yaw": 327,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 240,
-      "wander": 50,
-      "spawnArea": "swild005"
-    },
-    {
-      "id": "mobpen66",
-      "creature": "stock/leopard",
-      "at": [
-        20632.7,
-        null,
-        12290.9
-      ],
-      "yaw": 342,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 240,
-      "wander": 50,
-      "spawnArea": "swild005"
-    },
-    {
-      "id": "mobf49y7",
-      "creature": "stock/vulture",
-      "at": [
-        20357.2,
-        null,
-        12627.7
-      ],
-      "yaw": 136,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild005"
-    },
-    {
-      "id": "mob5r3bq",
-      "creature": "stock/vulture",
-      "at": [
-        20418.4,
-        null,
-        12229.6
-      ],
-      "yaw": 160,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild005"
-    },
-    {
-      "id": "mobea3nq",
-      "creature": "stock/vulture",
-      "at": [
-        20540.9,
-        null,
-        12474.6
-      ],
-      "yaw": 119,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild005"
-    },
-    {
-      "id": "mobrp740",
-      "creature": "stock/vulture",
-      "at": [
-        20540.9,
-        null,
-        12107.2
-      ],
-      "yaw": 76,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild005"
-    },
-    {
-      "id": "mobgoemc",
-      "creature": "stock/vulture",
-      "at": [
-        20694,
-        null,
-        12505.2
-      ],
-      "yaw": 132,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild005"
-    },
-    {
       "id": "mobzjfz5",
       "creature": "stock/leopard",
       "at": [
@@ -20115,40 +19945,6 @@
       "respawn": 180,
       "wander": 50,
       "spawnArea": "swild013"
-    },
-    {
-      "id": "mob1lmld",
-      "creature": "stock/leopard",
-      "at": [
-        20903.7,
-        null,
-        12431.7
-      ],
-      "yaw": 107,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 240,
-      "wander": 50,
-      "spawnArea": "swild014"
-    },
-    {
-      "id": "mobkual3",
-      "creature": "stock/vulture",
-      "at": [
-        20819.9,
-        null,
-        12347.8
-      ],
-      "yaw": 8,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild014"
     },
     {
       "id": "mobods52",
@@ -22835,397 +22631,6 @@
       "respawn": 180,
       "wander": 50,
       "spawnArea": "swild036"
-    },
-    {
-      "id": "mob06c2w",
-      "creature": "stock/wolf",
-      "at": [
-        20420.5,
-        null,
-        14346.9
-      ],
-      "yaw": 340,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild037"
-    },
-    {
-      "id": "mob3w4x8",
-      "creature": "stock/wolf",
-      "at": [
-        20358.5,
-        null,
-        13881.8
-      ],
-      "yaw": 192,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild037"
-    },
-    {
-      "id": "mobrguyp",
-      "creature": "stock/wolf",
-      "at": [
-        20389.5,
-        null,
-        13106.6
-      ],
-      "yaw": 57,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild037"
-    },
-    {
-      "id": "mobqho3h",
-      "creature": "stock/wolf",
-      "at": [
-        20420.5,
-        null,
-        13447.7
-      ],
-      "yaw": 186,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild037"
-    },
-    {
-      "id": "mobuf0gl",
-      "creature": "stock/black-bear",
-      "at": [
-        20451.6,
-        null,
-        14626
-      ],
-      "yaw": 219,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 240,
-      "wander": 30,
-      "spawnArea": "swild037"
-    },
-    {
-      "id": "mob9egny",
-      "creature": "stock/black-bear",
-      "at": [
-        20420.5,
-        null,
-        12827.5
-      ],
-      "yaw": 268,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 240,
-      "wander": 30,
-      "spawnArea": "swild037"
-    },
-    {
-      "id": "mob53rjs",
-      "creature": "stock/black-bear",
-      "at": [
-        20327.5,
-        null,
-        13323.7
-      ],
-      "yaw": 246,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 240,
-      "wander": 30,
-      "spawnArea": "swild037"
-    },
-    {
-      "id": "mobxl09x",
-      "creature": "stock/stag",
-      "at": [
-        20327.5,
-        null,
-        14440
-      ],
-      "yaw": 136,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild037"
-    },
-    {
-      "id": "mobmj7um",
-      "creature": "stock/stag",
-      "at": [
-        20358.5,
-        null,
-        14129.9
-      ],
-      "yaw": 255,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild037"
-    },
-    {
-      "id": "moboux32",
-      "creature": "stock/stag",
-      "at": [
-        20327.5,
-        null,
-        13602.7
-      ],
-      "yaw": 337,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild037"
-    },
-    {
-      "id": "mobcmv9a",
-      "creature": "stock/stag",
-      "at": [
-        20327.5,
-        null,
-        14657
-      ],
-      "yaw": 195,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild037"
-    },
-    {
-      "id": "mobghx0v",
-      "creature": "stock/stag",
-      "at": [
-        20451.6,
-        null,
-        13726.8
-      ],
-      "yaw": 214,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild037"
-    },
-    {
-      "id": "mobehdn0",
-      "creature": "stock/stag",
-      "at": [
-        20327.5,
-        null,
-        12889.5
-      ],
-      "yaw": 80,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild037"
-    },
-    {
-      "id": "mobpfz2o",
-      "creature": "stock/cave-spider",
-      "at": [
-        20625.8,
-        null,
-        12819.9
-      ],
-      "yaw": 152,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild038"
-    },
-    {
-      "id": "mob85lry",
-      "creature": "stock/wolf",
-      "at": [
-        20625.8,
-        null,
-        12959.6
-      ],
-      "yaw": 82,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild038"
-    },
-    {
-      "id": "mobd1g1h",
-      "creature": "stock/wolf",
-      "at": [
-        21359.4,
-        null,
-        12984.4
-      ],
-      "yaw": 345,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild039"
-    },
-    {
-      "id": "mobt8733",
-      "creature": "stock/wolf",
-      "at": [
-        21390.6,
-        null,
-        13765.6
-      ],
-      "yaw": 133,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild039"
-    },
-    {
-      "id": "mob9zc78",
-      "creature": "stock/wolf",
-      "at": [
-        21390.6,
-        null,
-        13390.6
-      ],
-      "yaw": 18,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild039"
-    },
-    {
-      "id": "mobznbnm",
-      "creature": "stock/black-bear",
-      "at": [
-        21390.6,
-        null,
-        13171.9
-      ],
-      "yaw": 41,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 240,
-      "wander": 30,
-      "spawnArea": "swild039"
-    },
-    {
-      "id": "mobuh2oo",
-      "creature": "stock/stag",
-      "at": [
-        21359.4,
-        null,
-        13609.4
-      ],
-      "yaw": 1,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild039"
-    },
-    {
-      "id": "mob2y5uj",
-      "creature": "stock/stag",
-      "at": [
-        21453.1,
-        null,
-        12828.1
-      ],
-      "yaw": 251,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild039"
-    },
-    {
-      "id": "mobu8p09",
-      "creature": "stock/stag",
-      "at": [
-        21359.4,
-        null,
-        13921.9
-      ],
-      "yaw": 310,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild039"
-    },
-    {
-      "id": "mob6cwm1",
-      "creature": "stock/stag",
-      "at": [
-        21296.9,
-        null,
-        12828.1
-      ],
-      "yaw": 353,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild039"
     },
     {
       "id": "mobwhnh1",
@@ -26014,159 +25419,6 @@
       "respawn": 180,
       "wander": 50,
       "spawnArea": "swild049"
-    },
-    {
-      "id": "mobjdq71",
-      "creature": "stock/wolf",
-      "at": [
-        20634.5,
-        null,
-        13104.6
-      ],
-      "yaw": 88,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild050"
-    },
-    {
-      "id": "mobzdnzt",
-      "creature": "stock/wolf",
-      "at": [
-        20574.7,
-        null,
-        13821.7
-      ],
-      "yaw": 234,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild050"
-    },
-    {
-      "id": "mobmqbpy",
-      "creature": "stock/wolf",
-      "at": [
-        20694.2,
-        null,
-        13373.5
-      ],
-      "yaw": 63,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild050"
-    },
-    {
-      "id": "mobu5ti1",
-      "creature": "stock/black-bear",
-      "at": [
-        20634.5,
-        null,
-        13642.4
-      ],
-      "yaw": 327,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 240,
-      "wander": 30,
-      "spawnArea": "swild050"
-    },
-    {
-      "id": "mobnngv4",
-      "creature": "stock/stag",
-      "at": [
-        20664.3,
-        null,
-        13911.4
-      ],
-      "yaw": 313,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild050"
-    },
-    {
-      "id": "mobhhrnc",
-      "creature": "stock/stag",
-      "at": [
-        20574.7,
-        null,
-        13283.9
-      ],
-      "yaw": 110,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild050"
-    },
-    {
-      "id": "mobyy3m5",
-      "creature": "stock/stag",
-      "at": [
-        20574.7,
-        null,
-        13493
-      ],
-      "yaw": 162,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild050"
-    },
-    {
-      "id": "mob8trhy",
-      "creature": "stock/wolf",
-      "at": [
-        21681.7,
-        null,
-        13125.8
-      ],
-      "yaw": 279,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild051"
-    },
-    {
-      "id": "mob382t9",
-      "creature": "stock/stag",
-      "at": [
-        21541.9,
-        null,
-        13125.8
-      ],
-      "yaw": 177,
-      "levels": [
-        8,
-        9
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild051"
     },
     {
       "id": "mobwhjob",
@@ -31762,57 +31014,6 @@
       "spawnArea": "swild103"
     },
     {
-      "id": "mob7a0xk",
-      "creature": "stock/cave-spider",
-      "at": [
-        20580.7,
-        null,
-        15871.2
-      ],
-      "yaw": 63,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild104"
-    },
-    {
-      "id": "mob05z85",
-      "creature": "stock/cave-spider",
-      "at": [
-        20613,
-        null,
-        15613
-      ],
-      "yaw": 272,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild104"
-    },
-    {
-      "id": "mobimv12",
-      "creature": "stock/wolf",
-      "at": [
-        20709.8,
-        null,
-        15838.9
-      ],
-      "yaw": 61,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild104"
-    },
-    {
       "id": "mobrudyv",
       "creature": "stock/boar",
       "at": [
@@ -34210,57 +33411,6 @@
       "spawnArea": "swild071"
     },
     {
-      "id": "mob08c7h",
-      "creature": "stock/cave-spider",
-      "at": [
-        20613,
-        null,
-        14371.2
-      ],
-      "yaw": 105,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild072"
-    },
-    {
-      "id": "mobetct8",
-      "creature": "stock/cave-spider",
-      "at": [
-        20613,
-        null,
-        14113
-      ],
-      "yaw": 317,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild072"
-    },
-    {
-      "id": "mobqlbrz",
-      "creature": "stock/wolf",
-      "at": [
-        20709.8,
-        null,
-        14274.3
-      ],
-      "yaw": 238,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild072"
-    },
-    {
       "id": "mobd9wnl",
       "creature": "stock/amber-ooze",
       "at": [
@@ -35534,91 +34684,6 @@
       "respawn": 180,
       "wander": 50,
       "spawnArea": "swild095"
-    },
-    {
-      "id": "mobwenbc",
-      "creature": "stock/cave-spider",
-      "at": [
-        20931.7,
-        null,
-        15847.8
-      ],
-      "yaw": 184,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild110"
-    },
-    {
-      "id": "mobo3cls",
-      "creature": "stock/wolf",
-      "at": [
-        20819.9,
-        null,
-        15875.8
-      ],
-      "yaw": 50,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild110"
-    },
-    {
-      "id": "mobga50g",
-      "creature": "stock/wolf",
-      "at": [
-        21177.5,
-        null,
-        15895.2
-      ],
-      "yaw": 9,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild111"
-    },
-    {
-      "id": "mobhzkzz",
-      "creature": "stock/black-bear",
-      "at": [
-        21145.2,
-        null,
-        16121.2
-      ],
-      "yaw": 49,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 240,
-      "wander": 30,
-      "spawnArea": "swild111"
-    },
-    {
-      "id": "mob7ouac",
-      "creature": "stock/stag",
-      "at": [
-        21048.4,
-        null,
-        15863
-      ],
-      "yaw": 263,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild111"
     },
     {
       "id": "mobwcki1",
@@ -49680,533 +48745,6 @@
       "spawnArea": "spsnkfld"
     },
     {
-      "id": "mobmwozn",
-      "creature": "stock/wolf",
-      "at": [
-        21166,
-        null,
-        12506.6
-      ],
-      "yaw": 328,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild015"
-    },
-    {
-      "id": "mob47n1x",
-      "creature": "stock/wolf",
-      "at": [
-        21135.9,
-        null,
-        13593.5
-      ],
-      "yaw": 200,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild015"
-    },
-    {
-      "id": "mobs4zqe",
-      "creature": "stock/wolf",
-      "at": [
-        21045.3,
-        null,
-        13019.9
-      ],
-      "yaw": 184,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild015"
-    },
-    {
-      "id": "mobuievh",
-      "creature": "stock/wolf",
-      "at": [
-        21135.9,
-        null,
-        12808.5
-      ],
-      "yaw": 153,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild015"
-    },
-    {
-      "id": "mobw1or1",
-      "creature": "stock/black-bear",
-      "at": [
-        21135.9,
-        null,
-        13231.2
-      ],
-      "yaw": 16,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 240,
-      "wander": 30,
-      "spawnArea": "swild015"
-    },
-    {
-      "id": "mob0kuan",
-      "creature": "stock/black-bear",
-      "at": [
-        21075.5,
-        null,
-        13955.8
-      ],
-      "yaw": 264,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 240,
-      "wander": 30,
-      "spawnArea": "swild015"
-    },
-    {
-      "id": "mobdow8o",
-      "creature": "stock/stag",
-      "at": [
-        21045.3,
-        null,
-        12416
-      ],
-      "yaw": 281,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild015"
-    },
-    {
-      "id": "mobjsdlj",
-      "creature": "stock/stag",
-      "at": [
-        21196.2,
-        null,
-        13925.6
-      ],
-      "yaw": 288,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild015"
-    },
-    {
-      "id": "mobtrmhq",
-      "creature": "stock/stag",
-      "at": [
-        21105.7,
-        null,
-        13744.4
-      ],
-      "yaw": 343,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild015"
-    },
-    {
-      "id": "mobhkkg4",
-      "creature": "stock/stag",
-      "at": [
-        21196.2,
-        null,
-        13019.9
-      ],
-      "yaw": 94,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild015"
-    },
-    {
-      "id": "mobcqcsg",
-      "creature": "stock/stag",
-      "at": [
-        21075.5,
-        null,
-        12627.4
-      ],
-      "yaw": 49,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild015"
-    },
-    {
-      "id": "mob5zlft",
-      "creature": "stock/stag",
-      "at": [
-        21105.7,
-        null,
-        13412.3
-      ],
-      "yaw": 174,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 50,
-      "spawnArea": "swild015"
-    },
-    {
-      "id": "mobaz48y",
-      "creature": "stock/cave-spider",
-      "at": [
-        20885.9,
-        null,
-        13662.3
-      ],
-      "yaw": 359,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild027"
-    },
-    {
-      "id": "moblbxu5",
-      "creature": "stock/cave-spider",
-      "at": [
-        20855.7,
-        null,
-        13088.7
-      ],
-      "yaw": 115,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild027"
-    },
-    {
-      "id": "mob1btwo",
-      "creature": "stock/cave-spider",
-      "at": [
-        20885.9,
-        null,
-        14175.6
-      ],
-      "yaw": 95,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild027"
-    },
-    {
-      "id": "mobgaj6s",
-      "creature": "stock/cave-spider",
-      "at": [
-        20825.5,
-        null,
-        12575.5
-      ],
-      "yaw": 204,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild027"
-    },
-    {
-      "id": "mob2a9u9",
-      "creature": "stock/cave-spider",
-      "at": [
-        20855.7,
-        null,
-        13420.8
-      ],
-      "yaw": 156,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild027"
-    },
-    {
-      "id": "mobsz53x",
-      "creature": "stock/cave-spider",
-      "at": [
-        20946.2,
-        null,
-        12817
-      ],
-      "yaw": 241,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild027"
-    },
-    {
-      "id": "mobqxkz8",
-      "creature": "stock/wolf",
-      "at": [
-        20916,
-        null,
-        13994.4
-      ],
-      "yaw": 225,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild027"
-    },
-    {
-      "id": "mobmqqwc",
-      "creature": "stock/wolf",
-      "at": [
-        20825.5,
-        null,
-        13843.5
-      ],
-      "yaw": 44,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild027"
-    },
-    {
-      "id": "mob7oask",
-      "creature": "stock/wolf",
-      "at": [
-        20885.9,
-        null,
-        13239.7
-      ],
-      "yaw": 224,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild027"
-    },
-    {
-      "id": "mobz0caq",
-      "creature": "stock/wolf",
-      "at": [
-        20825.5,
-        null,
-        12726.4
-      ],
-      "yaw": 143,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild027"
-    },
-    {
-      "id": "mobvne86",
-      "creature": "stock/wolf",
-      "at": [
-        20946.2,
-        null,
-        12605.7
-      ],
-      "yaw": 70,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild027"
-    },
-    {
-      "id": "mobm99ra",
-      "creature": "stock/wolf",
-      "at": [
-        20885.9,
-        null,
-        12937.8
-      ],
-      "yaw": 132,
-      "levels": [
-        8,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild027"
-    },
-    {
-      "id": "mobtqg2o",
-      "creature": "stock/cave-spider",
-      "at": [
-        20384.5,
-        null,
-        15213.2
-      ],
-      "yaw": 350,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild092"
-    },
-    {
-      "id": "mob9va40",
-      "creature": "stock/cave-spider",
-      "at": [
-        20414.3,
-        null,
-        15631.5
-      ],
-      "yaw": 178,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild092"
-    },
-    {
-      "id": "mobv2e5r",
-      "creature": "stock/cave-spider",
-      "at": [
-        20384.5,
-        null,
-        14794.8
-      ],
-      "yaw": 194,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild092"
-    },
-    {
-      "id": "mobf5es3",
-      "creature": "stock/cave-spider",
-      "at": [
-        20384.5,
-        null,
-        15392.4
-      ],
-      "yaw": 129,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 30,
-      "spawnArea": "swild092"
-    },
-    {
-      "id": "mobd302y",
-      "creature": "stock/wolf",
-      "at": [
-        20294.8,
-        null,
-        15631.5
-      ],
-      "yaw": 69,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild092"
-    },
-    {
-      "id": "mobgnaw1",
-      "creature": "stock/wolf",
-      "at": [
-        20294.8,
-        null,
-        15004
-      ],
-      "yaw": 168,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild092"
-    },
-    {
-      "id": "mobtc1o7",
-      "creature": "stock/wolf",
-      "at": [
-        20444.2,
-        null,
-        14974.1
-      ],
-      "yaw": 17,
-      "levels": [
-        9,
-        10
-      ],
-      "respawn": 180,
-      "wander": 40,
-      "spawnArea": "swild092"
-    },
-    {
       "id": "mob6eq3b",
       "creature": "stock/wolf",
       "at": [
@@ -53877,6 +52415,1468 @@
       "respawn": 150,
       "wander": 30,
       "spawnArea": "swild216"
+    },
+    {
+      "id": "mobbcdmw",
+      "creature": "stock/leopard",
+      "at": [
+        20632.7,
+        null,
+        12658.3
+      ],
+      "yaw": 137,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 240,
+      "wander": 50,
+      "spawnArea": "swild005"
+    },
+    {
+      "id": "mobk8bgc",
+      "creature": "stock/leopard",
+      "at": [
+        20632.7,
+        null,
+        12107.2
+      ],
+      "yaw": 235,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 240,
+      "wander": 50,
+      "spawnArea": "swild005"
+    },
+    {
+      "id": "mobp4zqk",
+      "creature": "stock/leopard",
+      "at": [
+        20295.9,
+        null,
+        12627.7
+      ],
+      "yaw": 294,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 240,
+      "wander": 50,
+      "spawnArea": "swild005"
+    },
+    {
+      "id": "mobsv13p",
+      "creature": "stock/leopard",
+      "at": [
+        20326.5,
+        null,
+        12229.6
+      ],
+      "yaw": 84,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 240,
+      "wander": 50,
+      "spawnArea": "swild005"
+    },
+    {
+      "id": "mobr3y9f",
+      "creature": "stock/leopard",
+      "at": [
+        20571.5,
+        null,
+        12474.6
+      ],
+      "yaw": 53,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 240,
+      "wander": 50,
+      "spawnArea": "swild005"
+    },
+    {
+      "id": "mob9n3ao",
+      "creature": "stock/vulture",
+      "at": [
+        20357.2,
+        null,
+        12076.5
+      ],
+      "yaw": 345,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild005"
+    },
+    {
+      "id": "mobppeeh",
+      "creature": "stock/vulture",
+      "at": [
+        20663.4,
+        null,
+        12321.5
+      ],
+      "yaw": 275,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild005"
+    },
+    {
+      "id": "mobyk40u",
+      "creature": "stock/vulture",
+      "at": [
+        20479.6,
+        null,
+        12229.6
+      ],
+      "yaw": 256,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild005"
+    },
+    {
+      "id": "moblrvid",
+      "creature": "stock/vulture",
+      "at": [
+        20357.2,
+        null,
+        12413.4
+      ],
+      "yaw": 37,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild005"
+    },
+    {
+      "id": "mob7yzat",
+      "creature": "stock/vulture",
+      "at": [
+        20449,
+        null,
+        12627.7
+      ],
+      "yaw": 152,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild005"
+    },
+    {
+      "id": "mobviaow",
+      "creature": "stock/leopard",
+      "at": [
+        20819.9,
+        null,
+        12375.8
+      ],
+      "yaw": 286,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 240,
+      "wander": 50,
+      "spawnArea": "swild014"
+    },
+    {
+      "id": "mobh6w64",
+      "creature": "stock/vulture",
+      "at": [
+        20931.7,
+        null,
+        12403.7
+      ],
+      "yaw": 178,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild014"
+    },
+    {
+      "id": "mobn4avt",
+      "creature": "stock/wolf",
+      "at": [
+        21135.9,
+        null,
+        12989.7
+      ],
+      "yaw": 167,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild015"
+    },
+    {
+      "id": "mob7p1sj",
+      "creature": "stock/wolf",
+      "at": [
+        21045.3,
+        null,
+        13623.7
+      ],
+      "yaw": 295,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild015"
+    },
+    {
+      "id": "mobylaa2",
+      "creature": "stock/wolf",
+      "at": [
+        21075.5,
+        null,
+        12506.6
+      ],
+      "yaw": 300,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild015"
+    },
+    {
+      "id": "mobovmyh",
+      "creature": "stock/wolf",
+      "at": [
+        21196.2,
+        null,
+        13412.3
+      ],
+      "yaw": 70,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild015"
+    },
+    {
+      "id": "mobvjoej",
+      "creature": "stock/black-bear",
+      "at": [
+        21105.7,
+        null,
+        13201
+      ],
+      "yaw": 356,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 240,
+      "wander": 30,
+      "spawnArea": "swild015"
+    },
+    {
+      "id": "mob6k4s0",
+      "creature": "stock/black-bear",
+      "at": [
+        21166,
+        null,
+        13593.5
+      ],
+      "yaw": 213,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 240,
+      "wander": 30,
+      "spawnArea": "swild015"
+    },
+    {
+      "id": "mob5bh97",
+      "creature": "stock/stag",
+      "at": [
+        21166,
+        null,
+        12718
+      ],
+      "yaw": 100,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild015"
+    },
+    {
+      "id": "mobrwxzh",
+      "creature": "stock/stag",
+      "at": [
+        21196.2,
+        null,
+        12506.6
+      ],
+      "yaw": 99,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild015"
+    },
+    {
+      "id": "mobg0pml",
+      "creature": "stock/stag",
+      "at": [
+        21075.5,
+        null,
+        13382.1
+      ],
+      "yaw": 269,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild015"
+    },
+    {
+      "id": "mobjtu6h",
+      "creature": "stock/stag",
+      "at": [
+        21135.9,
+        null,
+        13955.8
+      ],
+      "yaw": 266,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild015"
+    },
+    {
+      "id": "mobxp6u4",
+      "creature": "stock/stag",
+      "at": [
+        21075.5,
+        null,
+        12808.5
+      ],
+      "yaw": 133,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild015"
+    },
+    {
+      "id": "mobbd446",
+      "creature": "stock/stag",
+      "at": [
+        21135.9,
+        null,
+        13774.6
+      ],
+      "yaw": 136,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild015"
+    },
+    {
+      "id": "mob8fmgn",
+      "creature": "stock/cave-spider",
+      "at": [
+        20885.9,
+        null,
+        13209.5
+      ],
+      "yaw": 324,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild027"
+    },
+    {
+      "id": "mob33du6",
+      "creature": "stock/cave-spider",
+      "at": [
+        20855.7,
+        null,
+        13752.9
+      ],
+      "yaw": 57,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild027"
+    },
+    {
+      "id": "mobqdy5g",
+      "creature": "stock/cave-spider",
+      "at": [
+        20855.7,
+        null,
+        12575.5
+      ],
+      "yaw": 234,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild027"
+    },
+    {
+      "id": "mobwqfzy",
+      "creature": "stock/cave-spider",
+      "at": [
+        20855.7,
+        null,
+        14205.8
+      ],
+      "yaw": 27,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild027"
+    },
+    {
+      "id": "mobd6drc",
+      "creature": "stock/cave-spider",
+      "at": [
+        20795.3,
+        null,
+        12847.2
+      ],
+      "yaw": 308,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild027"
+    },
+    {
+      "id": "mobcruwy",
+      "creature": "stock/cave-spider",
+      "at": [
+        20855.7,
+        null,
+        13390.6
+      ],
+      "yaw": 320,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild027"
+    },
+    {
+      "id": "mob0qvc0",
+      "creature": "stock/wolf",
+      "at": [
+        20885.9,
+        null,
+        13571.8
+      ],
+      "yaw": 154,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild027"
+    },
+    {
+      "id": "mobpd5ic",
+      "creature": "stock/wolf",
+      "at": [
+        20946.2,
+        null,
+        12877.4
+      ],
+      "yaw": 284,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild027"
+    },
+    {
+      "id": "mob7gadt",
+      "creature": "stock/wolf",
+      "at": [
+        20885.9,
+        null,
+        13964.2
+      ],
+      "yaw": 248,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild027"
+    },
+    {
+      "id": "mob36l06",
+      "creature": "stock/wolf",
+      "at": [
+        20916,
+        null,
+        14115.2
+      ],
+      "yaw": 284,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild027"
+    },
+    {
+      "id": "mob0stfw",
+      "creature": "stock/wolf",
+      "at": [
+        20855.7,
+        null,
+        13058.5
+      ],
+      "yaw": 219,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild027"
+    },
+    {
+      "id": "mobdf0p6",
+      "creature": "stock/wolf",
+      "at": [
+        20916,
+        null,
+        12696.2
+      ],
+      "yaw": 340,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild027"
+    },
+    {
+      "id": "mobu6eiv",
+      "creature": "stock/wolf",
+      "at": [
+        20420.5,
+        null,
+        13106.6
+      ],
+      "yaw": 326,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild037"
+    },
+    {
+      "id": "mobg9n5w",
+      "creature": "stock/wolf",
+      "at": [
+        20358.5,
+        null,
+        14657
+      ],
+      "yaw": 110,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild037"
+    },
+    {
+      "id": "mobdanvj",
+      "creature": "stock/wolf",
+      "at": [
+        20420.5,
+        null,
+        14036.9
+      ],
+      "yaw": 144,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild037"
+    },
+    {
+      "id": "mobzigli",
+      "creature": "stock/wolf",
+      "at": [
+        20358.5,
+        null,
+        13540.7
+      ],
+      "yaw": 352,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild037"
+    },
+    {
+      "id": "mobrxvm9",
+      "creature": "stock/black-bear",
+      "at": [
+        20327.5,
+        null,
+        12920.5
+      ],
+      "yaw": 291,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 240,
+      "wander": 30,
+      "spawnArea": "swild037"
+    },
+    {
+      "id": "mobie9by",
+      "creature": "stock/black-bear",
+      "at": [
+        20358.5,
+        null,
+        14315.9
+      ],
+      "yaw": 42,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 240,
+      "wander": 30,
+      "spawnArea": "swild037"
+    },
+    {
+      "id": "mobnelba",
+      "creature": "stock/black-bear",
+      "at": [
+        20420.5,
+        null,
+        14533
+      ],
+      "yaw": 234,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 240,
+      "wander": 30,
+      "spawnArea": "swild037"
+    },
+    {
+      "id": "mobsekla",
+      "creature": "stock/stag",
+      "at": [
+        20389.5,
+        null,
+        13354.7
+      ],
+      "yaw": 121,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild037"
+    },
+    {
+      "id": "mobonv4g",
+      "creature": "stock/stag",
+      "at": [
+        20296.5,
+        null,
+        14067.9
+      ],
+      "yaw": 32,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild037"
+    },
+    {
+      "id": "mobz2pme",
+      "creature": "stock/stag",
+      "at": [
+        20327.5,
+        null,
+        13757.8
+      ],
+      "yaw": 183,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild037"
+    },
+    {
+      "id": "mobn3vrk",
+      "creature": "stock/stag",
+      "at": [
+        20420.5,
+        null,
+        12827.5
+      ],
+      "yaw": 310,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild037"
+    },
+    {
+      "id": "mobrlbjw",
+      "creature": "stock/stag",
+      "at": [
+        20451.6,
+        null,
+        13757.8
+      ],
+      "yaw": 318,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild037"
+    },
+    {
+      "id": "mobesxrv",
+      "creature": "stock/stag",
+      "at": [
+        20296.5,
+        null,
+        13168.6
+      ],
+      "yaw": 225,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild037"
+    },
+    {
+      "id": "mobfymd4",
+      "creature": "stock/cave-spider",
+      "at": [
+        20681.7,
+        null,
+        12875.8
+      ],
+      "yaw": 63,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild038"
+    },
+    {
+      "id": "mob4vp64",
+      "creature": "stock/wolf",
+      "at": [
+        20541.9,
+        null,
+        12875.8
+      ],
+      "yaw": 121,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild038"
+    },
+    {
+      "id": "mob15xyg",
+      "creature": "stock/wolf",
+      "at": [
+        21390.6,
+        null,
+        13203.1
+      ],
+      "yaw": 196,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild039"
+    },
+    {
+      "id": "mobgzqfd",
+      "creature": "stock/wolf",
+      "at": [
+        21296.9,
+        null,
+        13609.4
+      ],
+      "yaw": 327,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild039"
+    },
+    {
+      "id": "mob02gbw",
+      "creature": "stock/wolf",
+      "at": [
+        21390.6,
+        null,
+        12828.1
+      ],
+      "yaw": 154,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild039"
+    },
+    {
+      "id": "mobuokqq",
+      "creature": "stock/black-bear",
+      "at": [
+        21359.4,
+        null,
+        13015.6
+      ],
+      "yaw": 69,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 240,
+      "wander": 30,
+      "spawnArea": "swild039"
+    },
+    {
+      "id": "mobs9qza",
+      "creature": "stock/stag",
+      "at": [
+        21359.4,
+        null,
+        13921.9
+      ],
+      "yaw": 102,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild039"
+    },
+    {
+      "id": "mob6mf21",
+      "creature": "stock/stag",
+      "at": [
+        21453.1,
+        null,
+        13515.6
+      ],
+      "yaw": 271,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild039"
+    },
+    {
+      "id": "mob8flkc",
+      "creature": "stock/stag",
+      "at": [
+        21390.6,
+        null,
+        13734.4
+      ],
+      "yaw": 2,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild039"
+    },
+    {
+      "id": "mob8aplm",
+      "creature": "stock/stag",
+      "at": [
+        21359.4,
+        null,
+        13359.4
+      ],
+      "yaw": 130,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild039"
+    },
+    {
+      "id": "moba3cgg",
+      "creature": "stock/wolf",
+      "at": [
+        20574.7,
+        null,
+        13463.2
+      ],
+      "yaw": 16,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild050"
+    },
+    {
+      "id": "mobhycu1",
+      "creature": "stock/wolf",
+      "at": [
+        20664.3,
+        null,
+        13134.5
+      ],
+      "yaw": 30,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild050"
+    },
+    {
+      "id": "mob68zfp",
+      "creature": "stock/wolf",
+      "at": [
+        20634.5,
+        null,
+        13911.4
+      ],
+      "yaw": 228,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild050"
+    },
+    {
+      "id": "mobfki1h",
+      "creature": "stock/black-bear",
+      "at": [
+        20664.3,
+        null,
+        13373.5
+      ],
+      "yaw": 263,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 240,
+      "wander": 30,
+      "spawnArea": "swild050"
+    },
+    {
+      "id": "mobugi2s",
+      "creature": "stock/stag",
+      "at": [
+        20574.7,
+        null,
+        13732.1
+      ],
+      "yaw": 122,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild050"
+    },
+    {
+      "id": "mob45ith",
+      "creature": "stock/stag",
+      "at": [
+        20544.8,
+        null,
+        13134.5
+      ],
+      "yaw": 150,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild050"
+    },
+    {
+      "id": "mob2lluw",
+      "creature": "stock/stag",
+      "at": [
+        20694.2,
+        null,
+        13642.4
+      ],
+      "yaw": 214,
+      "levels": [
+        8,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild050"
+    },
+    {
+      "id": "mobrd06r",
+      "creature": "stock/wolf",
+      "at": [
+        21681.7,
+        null,
+        13153.7
+      ],
+      "yaw": 245,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild051"
+    },
+    {
+      "id": "mob0crxy",
+      "creature": "stock/stag",
+      "at": [
+        21569.9,
+        null,
+        13097.8
+      ],
+      "yaw": 70,
+      "levels": [
+        8,
+        9
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild051"
+    },
+    {
+      "id": "mobvqic8",
+      "creature": "stock/cave-spider",
+      "at": [
+        20645.2,
+        null,
+        14274.3
+      ],
+      "yaw": 353,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild072"
+    },
+    {
+      "id": "mobxggek",
+      "creature": "stock/cave-spider",
+      "at": [
+        20613,
+        null,
+        14080.7
+      ],
+      "yaw": 230,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild072"
+    },
+    {
+      "id": "mob9wwsi",
+      "creature": "stock/wolf",
+      "at": [
+        20613,
+        null,
+        14403.4
+      ],
+      "yaw": 218,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild072"
+    },
+    {
+      "id": "mob3jxkq",
+      "creature": "stock/cave-spider",
+      "at": [
+        20384.5,
+        null,
+        15332.7
+      ],
+      "yaw": 309,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild092"
+    },
+    {
+      "id": "mobvq83u",
+      "creature": "stock/cave-spider",
+      "at": [
+        20414.3,
+        null,
+        14824.7
+      ],
+      "yaw": 333,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild092"
+    },
+    {
+      "id": "mobjnlgt",
+      "creature": "stock/cave-spider",
+      "at": [
+        20324.7,
+        null,
+        15153.4
+      ],
+      "yaw": 13,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild092"
+    },
+    {
+      "id": "mobw1pja",
+      "creature": "stock/cave-spider",
+      "at": [
+        20384.5,
+        null,
+        15661.4
+      ],
+      "yaw": 257,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild092"
+    },
+    {
+      "id": "mob26ymh",
+      "creature": "stock/wolf",
+      "at": [
+        20324.7,
+        null,
+        15512
+      ],
+      "yaw": 178,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild092"
+    },
+    {
+      "id": "mobly6z8",
+      "creature": "stock/wolf",
+      "at": [
+        20444.2,
+        null,
+        15093.6
+      ],
+      "yaw": 28,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild092"
+    },
+    {
+      "id": "mobnxhsh",
+      "creature": "stock/wolf",
+      "at": [
+        20294.8,
+        null,
+        14944.2
+      ],
+      "yaw": 117,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild092"
+    },
+    {
+      "id": "mob247np",
+      "creature": "stock/cave-spider",
+      "at": [
+        20677.5,
+        null,
+        15645.2
+      ],
+      "yaw": 149,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild104"
+    },
+    {
+      "id": "mobrhlsn",
+      "creature": "stock/cave-spider",
+      "at": [
+        20645.2,
+        null,
+        15903.4
+      ],
+      "yaw": 187,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild104"
+    },
+    {
+      "id": "mobwr0f4",
+      "creature": "stock/wolf",
+      "at": [
+        20548.4,
+        null,
+        15709.8
+      ],
+      "yaw": 222,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild104"
+    },
+    {
+      "id": "mobxw4y3",
+      "creature": "stock/cave-spider",
+      "at": [
+        20847.8,
+        null,
+        15847.8
+      ],
+      "yaw": 31,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 30,
+      "spawnArea": "swild110"
+    },
+    {
+      "id": "mobk3vq7",
+      "creature": "stock/wolf",
+      "at": [
+        20931.7,
+        null,
+        15931.7
+      ],
+      "yaw": 182,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild110"
+    },
+    {
+      "id": "mob74mr1",
+      "creature": "stock/wolf",
+      "at": [
+        21209.8,
+        null,
+        16153.4
+      ],
+      "yaw": 24,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 40,
+      "spawnArea": "swild111"
+    },
+    {
+      "id": "mobyr8lq",
+      "creature": "stock/black-bear",
+      "at": [
+        21145.2,
+        null,
+        15863
+      ],
+      "yaw": 102,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 240,
+      "wander": 30,
+      "spawnArea": "swild111"
+    },
+    {
+      "id": "mobusyfg",
+      "creature": "stock/stag",
+      "at": [
+        21080.7,
+        null,
+        16056.6
+      ],
+      "yaw": 10,
+      "levels": [
+        9,
+        10
+      ],
+      "respawn": 180,
+      "wander": 50,
+      "spawnArea": "swild111"
     }
   ]
 }
