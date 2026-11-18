@@ -7,7 +7,7 @@
       "name": "Testbed Nails",
       "icon": "weight",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "description": "What a new smith makes first: a recipe learned with the profession.",
       "price": 2,
       "stack": 50
@@ -17,7 +17,7 @@
       "name": "Testbed Horseshoe",
       "icon": "weight",
       "quality": "common",
-      "itemLevel": 3,
+      "itemLevel": 15,
       "description": "Proof that a world can add to a stock profession.",
       "price": 12,
       "stack": 20

@@ -5,7 +5,7 @@
       "name": "Abbey Stores",
       "icon": "wheat",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "description": "A bundle of candles, bread and bandages, stamped with Wakewell's mark.",
       "stack": 20
     },
@@ -14,7 +14,7 @@
       "name": "Tarnished Burial Ring",
       "icon": "linked-rings",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "description": "Old bronze, green with age, cut with a barrow mark.",
       "stack": 1
     },
@@ -23,7 +23,7 @@
       "name": "Oat Cake",
       "icon": "sliced-bread",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "requiredLevel": 1,
       "price": 5,
       "stack": 20,
@@ -87,7 +87,7 @@
       "name": "Vial of Amber Ooze",
       "icon": "poison-bottle",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "description": "Warm to the touch, and it moves when you aren't looking.",
       "stack": 20
     },
@@ -96,7 +96,7 @@
       "name": "Sampling Kit",
       "icon": "hammer-drop",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 20
     },
     {
@@ -104,7 +104,7 @@
       "name": "Tested Wolf Sample",
       "icon": "heart-bottle",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 20
     },
     {
@@ -112,7 +112,7 @@
       "name": "Untested Wolf Sample",
       "icon": "poison-bottle",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 20,
       "description": "Test it with a sampling kit.",
       "makes": {
@@ -130,14 +130,14 @@
       "name": "Waking Herb",
       "icon": "oak-leaf",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "description": "Pale leaves that smell of rain. The keepers brew them for the new-wakened.",
       "stack": 20
     },
     {
       "id": "ashgrain",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 20,
       "name": "Sack of Ashby Grain",
       "icon": "wheat",
@@ -146,7 +146,7 @@
     {
       "id": "seedsack",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 20,
       "name": "Sack of Seed Corn",
       "icon": "wheat",
@@ -155,7 +155,7 @@
     {
       "id": "risenbn1",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 20,
       "name": "Risen Bone",
       "icon": "broken-bone",
@@ -164,7 +164,7 @@
     {
       "id": "alekeg01",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 1,
       "name": "Keg of Merriweather Ale",
       "icon": "beer-stein",
@@ -173,7 +173,7 @@
     {
       "id": "venison1",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 20,
       "name": "Haunch of Venison",
       "icon": "meat",
@@ -182,7 +182,7 @@
     {
       "id": "bearclw1",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 20,
       "name": "Bear Claw",
       "icon": "bear-face",
@@ -191,7 +191,7 @@
     {
       "id": "barrowe1",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 20,
       "name": "Pouch of Barrow Earth",
       "icon": "powder",
@@ -200,7 +200,7 @@
     {
       "id": "keepsak1",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 20,
       "name": "Fennick's Keepsake",
       "icon": "locked-chest",
@@ -209,7 +209,7 @@
     {
       "id": "frtotem1",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 20,
       "name": "Frogman Totem",
       "icon": "totem-head",
@@ -218,7 +218,7 @@
     {
       "id": "crabmt01",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 20,
       "name": "Strand Crab Meat",
       "icon": "meat",
@@ -227,7 +227,7 @@
     {
       "id": "ritchrm1",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 20,
       "name": "Ritual Charm",
       "icon": "pendant",
@@ -236,7 +236,7 @@
     {
       "id": "necjrnl1",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 1,
       "name": "Crale's Journal",
       "icon": "book",
@@ -245,7 +245,7 @@
     {
       "id": "blssalt1",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 1,
       "name": "Blessed Salt",
       "icon": "powder",
@@ -254,7 +254,7 @@
     {
       "id": "spdslk01",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 20,
       "name": "Spider Silk",
       "icon": "spider-web",
@@ -263,7 +263,7 @@
     {
       "id": "bdorder1",
       "quality": "common",
-      "itemLevel": 1,
+      "itemLevel": 5,
       "stack": 1,
       "name": "Signed Orders",
       "icon": "scroll-unfurled",
@@ -274,7 +274,7 @@
       "name": "Quartermaster's Satchel",
       "icon": "shoulder-bag",
       "quality": "common",
-      "itemLevel": 5,
+      "itemLevel": 25,
       "slots": 6,
       "price": 500,
       "colors": [
@@ -288,7 +288,7 @@
       "name": "Ranger's Satchel",
       "icon": "knapsack",
       "quality": "common",
-      "itemLevel": 10,
+      "itemLevel": 50,
       "slots": 8,
       "price": 2500,
       "colors": [
@@ -302,7 +302,7 @@
       "name": "Merrin's Take",
       "icon": "swap-bag",
       "quality": "common",
-      "itemLevel": 12,
+      "itemLevel": 60,
       "slots": 8,
       "price": 2500,
       "colors": [
