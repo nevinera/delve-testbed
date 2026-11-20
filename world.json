@@ -13,13 +13,20 @@
       "score": "open-vale"
     }
   ],
-  "spawn": {
-    "continent": "verdant",
-    "at": [
-      13030,
-      12790
-    ]
-  },
+  "origins": [
+    {
+      "origin": "stock/human",
+      "spawns": [
+        {
+          "continent": "verdant",
+          "at": [
+            13030,
+            12790
+          ]
+        }
+      ]
+    }
+  ],
   "itemCollections": {
     "custom_items": "items/custom_items.json"
   },
