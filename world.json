@@ -2,6 +2,12 @@
   "version": 2,
   "name": "Testbed",
   "levelCap": 20,
+  "stockClasses": [
+    "stock/knight",
+    "stock/cleric",
+    "stock/monk",
+    "stock/druid"
+  ],
   "continents": [
     {
       "key": "main",
