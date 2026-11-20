@@ -31,6 +31,66 @@
           ]
         }
       ]
+    },
+    {
+      "origin": "stock/elf",
+      "spawns": [
+        {
+          "continent": "verdant",
+          "at": [
+            13030,
+            12790
+          ]
+        }
+      ]
+    },
+    {
+      "origin": "stock/dwarf",
+      "spawns": [
+        {
+          "continent": "verdant",
+          "at": [
+            13030,
+            12790
+          ]
+        }
+      ]
+    },
+    {
+      "origin": "stock/halfling",
+      "spawns": [
+        {
+          "continent": "verdant",
+          "at": [
+            13030,
+            12790
+          ]
+        }
+      ]
+    },
+    {
+      "origin": "stock/gnome",
+      "spawns": [
+        {
+          "continent": "verdant",
+          "at": [
+            13030,
+            12790
+          ]
+        }
+      ]
+    },
+    {
+      "origin": "stock/drake",
+      "spawns": [
+        {
+          "continent": "verdant",
+          "at": [
+            13030,
+            12790
+          ]
+        }
+      ]
     }
   ],
   "itemCollections": {
