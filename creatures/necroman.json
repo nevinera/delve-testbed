@@ -19,9 +19,6 @@
       "goatee",
       "none"
     ],
-    "mouth": [
-      "thin"
-    ],
     "colors": {
       "primary": [
         "#2a2030"
@@ -49,7 +46,9 @@
           }
         }
       }
-    ]
+    ],
+    "expression": "neutral",
+    "lips": "thin"
   },
   "reaction": "hostile",
   "levels": [

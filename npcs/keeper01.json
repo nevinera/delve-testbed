@@ -37,10 +37,13 @@
       "full",
       "goatee"
     ],
-    "mouth": [
+    "expression": [
       "neutral",
-      "smile",
-      "thin"
+      "smile"
+    ],
+    "lips": [
+      "thin",
+      "default"
     ],
     "colors": {
       "primary": [

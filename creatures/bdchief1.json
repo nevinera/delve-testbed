@@ -43,12 +43,6 @@
       "full",
       "handlebar"
     ],
-    "mouth": [
-      "thin",
-      "smirk",
-      "frown",
-      "grin"
-    ],
     "colors": {
       "skin": [
         "#f3d6bd",
@@ -188,6 +182,15 @@
     "height": [
       6.1,
       6.5
+    ],
+    "expression": [
+      "smirk",
+      "frown",
+      "grin"
+    ],
+    "lips": [
+      "thin",
+      "default"
     ]
   },
   "title": "Bandit Chief",
