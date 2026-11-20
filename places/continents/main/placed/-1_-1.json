@@ -263,5 +263,99 @@
    "height": 2.4
   }
  ],
- "slabs": []
+ "slabs": [],
+ "structures": [
+  {
+   "id": "strc7toa",
+   "structure": "dngn0001",
+   "at": [
+    -2400,
+    50,
+    -2400
+   ],
+   "turn": 0,
+   "tiles": [
+    [
+     -8,
+     -8
+    ],
+    [
+     -7,
+     -8
+    ],
+    [
+     -8,
+     -7
+    ],
+    [
+     -7,
+     -7
+    ]
+   ]
+  },
+  {
+   "id": "strcznqf",
+   "structure": "cott0001",
+   "at": [
+    -440,
+    50,
+    -900
+   ],
+   "turn": 0,
+   "tiles": [
+    [
+     -2,
+     -4
+    ]
+   ]
+  },
+  {
+   "id": "strcnv77",
+   "structure": "hall0001",
+   "at": [
+    -360,
+    50,
+    -910
+   ],
+   "turn": 0,
+   "tiles": [
+    [
+     -2,
+     -4
+    ]
+   ]
+  },
+  {
+   "id": "strcglxh",
+   "structure": "towr0001",
+   "at": [
+    -240,
+    50,
+    -890
+   ],
+   "turn": 0,
+   "tiles": [
+    [
+     -1,
+     -4
+    ]
+   ]
+  },
+  {
+   "id": "strcqc08",
+   "structure": "rndc0001",
+   "at": [
+    -170,
+    50,
+    -900
+   ],
+   "turn": 0,
+   "tiles": [
+    [
+     -1,
+     -4
+    ]
+   ]
+  }
+ ]
 }

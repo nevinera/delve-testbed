@@ -1,0 +1,226 @@
+{
+ "id": "cott0001",
+ "version": 1,
+ "name": "Cottage",
+ "theme": "cottage",
+ "floors": [
+  {
+   "id": "ground",
+   "y": 0,
+   "height": 13,
+   "areas": [
+    [
+     [
+      0,
+      0
+     ],
+     [
+      32,
+      0
+     ],
+     [
+      32,
+      24
+     ],
+     [
+      0,
+      24
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "from": [
+      0,
+      0
+     ],
+     "to": [
+      32,
+      0
+     ],
+     "openings": [
+      {
+       "kind": "window",
+       "along": 12,
+       "width": 4,
+       "sill": 4,
+       "height": 6,
+       "glass": true
+      }
+     ]
+    },
+    {
+     "from": [
+      32,
+      0
+     ],
+     "to": [
+      32,
+      24
+     ]
+    },
+    {
+     "from": [
+      32,
+      24
+     ],
+     "to": [
+      0,
+      24
+     ],
+     "openings": [
+      {
+       "kind": "doorway",
+       "along": 12,
+       "width": 8,
+       "height": 11,
+       "main": true
+      }
+     ]
+    },
+    {
+     "from": [
+      0,
+      24
+     ],
+     "to": [
+      0,
+      0
+     ]
+    }
+   ],
+   "lights": [
+    {
+     "kind": "candle",
+     "at": [
+      8,
+      6
+     ],
+     "up": 3
+    },
+    {
+     "kind": "lamp",
+     "at": [
+      22,
+      12
+     ],
+     "up": 8
+    },
+    {
+     "kind": "sconce",
+     "at": [
+      31.5,
+      18
+     ],
+     "up": 6,
+     "yaw": -90
+    }
+   ]
+  },
+  {
+   "id": "loft",
+   "y": 14,
+   "thickness": 1,
+   "height": 8,
+   "areas": [
+    [
+     [
+      0,
+      0
+     ],
+     [
+      16,
+      0
+     ],
+     [
+      16,
+      24
+     ],
+     [
+      0,
+      24
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "from": [
+      16,
+      0
+     ],
+     "to": [
+      16,
+      24
+     ],
+     "arc": 90
+    }
+   ],
+   "lights": []
+  }
+ ],
+ "connections": [
+  {
+   "kind": "stairs",
+   "lower": "ground",
+   "upper": "loft",
+   "foot": [
+    24,
+    20
+   ],
+   "head": [
+    24,
+    4
+   ],
+   "width": 4
+  },
+  {
+   "kind": "drop",
+   "floor": "loft",
+   "outline": [
+    [
+     2,
+     2
+    ],
+    [
+     6,
+     2
+    ],
+    [
+     6,
+     6
+    ],
+    [
+     2,
+     6
+    ]
+   ]
+  }
+ ],
+ "roofs": [
+  {
+   "outline": [
+    [
+     0,
+     0
+    ],
+    [
+     32,
+     0
+    ],
+    [
+     32,
+     24
+    ],
+    [
+     0,
+     24
+    ]
+   ],
+   "y": 13,
+   "style": "gable",
+   "pitch": 40,
+   "overhang": 2,
+   "ridge": 0
+  }
+ ]
+}

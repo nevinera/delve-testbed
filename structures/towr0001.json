@@ -1,0 +1,106 @@
+{
+ "id": "towr0001",
+ "version": 1,
+ "name": "Tower",
+ "floors": [
+  {
+   "id": "ground",
+   "y": 0,
+   "height": 30,
+   "areas": [
+    [
+     [
+      0,
+      -10,
+      180
+     ],
+     [
+      0,
+      10,
+      180
+     ]
+    ]
+   ],
+   "walls": [
+    {
+     "from": [
+      0,
+      -10
+     ],
+     "to": [
+      0,
+      10
+     ],
+     "arc": 180,
+     "thickness": 1.5
+    },
+    {
+     "from": [
+      0,
+      10
+     ],
+     "to": [
+      0,
+      -10
+     ],
+     "arc": 180,
+     "thickness": 1.5,
+     "openings": [
+      {
+       "kind": "archway",
+       "along": 12,
+       "width": 7,
+       "height": 10
+      },
+      {
+       "kind": "slit",
+       "along": 22,
+       "width": 1,
+       "sill": 12,
+       "height": 6
+      }
+     ]
+    }
+   ],
+   "lights": [
+    {
+     "kind": "brazier",
+     "at": [
+      0,
+      -5
+     ],
+     "up": 0
+    },
+    {
+     "kind": "brazier",
+     "at": [
+      0,
+      5
+     ],
+     "up": 0
+    }
+   ]
+  }
+ ],
+ "roofs": [
+  {
+   "outline": [
+    [
+     0,
+     -10,
+     180
+    ],
+    [
+     0,
+     10,
+     180
+    ]
+   ],
+   "y": 30,
+   "style": "balcony",
+   "overhang": 1,
+   "edge": "parapet"
+  }
+ ],
+ "theme": "dungeon"
+}
