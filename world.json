@@ -30,6 +30,12 @@
             12790
           ]
         }
+      ],
+      "classes": [
+        "adventur",
+        "stock/knight",
+        "stock/cleric",
+        "stock/monk"
       ]
     },
     {
@@ -42,6 +48,12 @@
             12790
           ]
         }
+      ],
+      "classes": [
+        "adventur",
+        "stock/knight",
+        "stock/monk",
+        "stock/druid"
       ]
     },
     {
@@ -54,6 +66,11 @@
             12790
           ]
         }
+      ],
+      "classes": [
+        "adventur",
+        "stock/knight",
+        "stock/cleric"
       ]
     },
     {
@@ -66,6 +83,12 @@
             12790
           ]
         }
+      ],
+      "classes": [
+        "adventur",
+        "stock/cleric",
+        "stock/monk",
+        "stock/druid"
       ]
     },
     {
@@ -78,6 +101,12 @@
             12790
           ]
         }
+      ],
+      "classes": [
+        "adventur",
+        "stock/cleric",
+        "stock/monk",
+        "stock/druid"
       ]
     },
     {
@@ -90,6 +119,12 @@
             12790
           ]
         }
+      ],
+      "classes": [
+        "adventur",
+        "stock/knight",
+        "stock/cleric",
+        "stock/druid"
       ]
     }
   ],
