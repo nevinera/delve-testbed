@@ -269,9 +269,9 @@
    "id": "strc7toa",
    "structure": "dngn0001",
    "at": [
-    -2400,
+    -2072,
     50,
-    -2400
+    -1760
    ],
    "turn": 0,
    "tiles": [
@@ -297,9 +297,9 @@
    "id": "strcznqf",
    "structure": "cott0001",
    "at": [
-    -440,
+    -424,
     50,
-    -900
+    -876
    ],
    "turn": 0,
    "tiles": [
@@ -313,9 +313,9 @@
    "id": "strcnv77",
    "structure": "hall0001",
    "at": [
-    -360,
+    -336,
     50,
-    -910
+    -878
    ],
    "turn": 0,
    "tiles": [
@@ -329,7 +329,7 @@
    "id": "strcglxh",
    "structure": "towr0001",
    "at": [
-    -240,
+    -250,
     50,
     -890
    ],
@@ -345,9 +345,9 @@
    "id": "strcqc08",
    "structure": "rndc0001",
    "at": [
-    -170,
+    -152,
     50,
-    -900
+    -880
    ],
    "turn": 0,
    "tiles": [
