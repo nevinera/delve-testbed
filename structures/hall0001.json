@@ -203,6 +203,71 @@
      "up": 6,
      "yaw": 76
     }
+   ],
+   "doors": [
+    {
+     "type": "door",
+     "at": [
+      22.9,
+      -24
+     ],
+     "up": 0,
+     "yaw": 1.571,
+     "scale": 1,
+     "footprint": {
+      "rect": [
+       8,
+       0.2
+      ]
+     },
+     "height": 11,
+     "opening": [
+      1,
+      0
+     ]
+    },
+    {
+     "type": "door",
+     "at": [
+      8,
+      -1.1
+     ],
+     "up": 0,
+     "yaw": 0,
+     "scale": 1,
+     "footprint": {
+      "rect": [
+       8,
+       0.2
+      ]
+     },
+     "height": 11,
+     "opening": [
+      2,
+      0
+     ]
+    },
+    {
+     "type": "door",
+     "at": [
+      0.475,
+      -27
+     ],
+     "up": 0,
+     "yaw": 1.571,
+     "scale": 1,
+     "footprint": {
+      "rect": [
+       6,
+       0.2
+      ]
+     },
+     "height": 9,
+     "opening": [
+      4,
+      0
+     ]
+    }
    ]
   },
   {

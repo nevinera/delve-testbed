@@ -115,6 +115,29 @@
      "up": 6,
      "yaw": 270
     }
+   ],
+   "doors": [
+    {
+     "type": "door",
+     "at": [
+      8,
+      -0.6
+     ],
+     "up": 0,
+     "yaw": 0,
+     "scale": 1,
+     "footprint": {
+      "rect": [
+       8,
+       0.2
+      ]
+     },
+     "height": 11,
+     "opening": [
+      2,
+      0
+     ]
+    }
    ]
   },
   {
