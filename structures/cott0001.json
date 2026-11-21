@@ -164,11 +164,11 @@
    "lower": "ground",
    "upper": "loft",
    "foot": [
-    24,
+    13,
     20
    ],
    "head": [
-    24,
+    13,
     4
    ],
    "width": 4
