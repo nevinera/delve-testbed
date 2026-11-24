@@ -3396,6 +3396,141 @@
     ]
    },
    "height": 3.5
+  },
+  {
+   "id": "objmvr6v",
+   "type": "built:broad012",
+   "at": [
+    16414,
+    18319.2
+   ],
+   "yaw": 1.434,
+   "scale": 1,
+   "road": "roadbkbv",
+   "footprint": {
+    "open": 2.7
+   },
+   "height": 0.8
+  },
+  {
+   "id": "obj07a7d",
+   "type": "built:broad012",
+   "at": [
+    16416,
+    18323.8
+   ],
+   "yaw": 5.3107,
+   "scale": 1,
+   "road": "roadbkbv",
+   "footprint": {
+    "open": 2.7
+   },
+   "height": 0.8
+  },
+  {
+   "id": "objkkdev",
+   "type": "built:broad012",
+   "at": [
+    16419.9,
+    18327.4
+   ],
+   "yaw": 3.7137,
+   "scale": 1,
+   "road": "roadbkbv",
+   "footprint": {
+    "open": 2.7
+   },
+   "height": 0.8
+  },
+  {
+   "id": "obj17y1y",
+   "type": "built:broad012",
+   "at": [
+    16422.7,
+    18331.6
+   ],
+   "yaw": 4.1682,
+   "scale": 1,
+   "road": "roadbkbv",
+   "footprint": {
+    "open": 2.7
+   },
+   "height": 0.8
+  },
+  {
+   "id": "obj65v1u",
+   "type": "built:broad012",
+   "at": [
+    16422.9,
+    18337.1
+   ],
+   "yaw": 4.2171,
+   "scale": 1,
+   "road": "roadbkbv",
+   "footprint": {
+    "open": 2.7
+   },
+   "height": 0.8
+  },
+  {
+   "id": "obja9vtj",
+   "type": "built:broad012",
+   "at": [
+    16427,
+    18340.6
+   ],
+   "yaw": 1.3016,
+   "scale": 1,
+   "road": "roadbkbv",
+   "footprint": {
+    "open": 2.7
+   },
+   "height": 0.8
+  },
+  {
+   "id": "objlyau7",
+   "type": "built:broad012",
+   "at": [
+    16426.7,
+    18346.5
+   ],
+   "yaw": 1.26,
+   "scale": 1,
+   "road": "roadbkbv",
+   "footprint": {
+    "open": 2.7
+   },
+   "height": 0.8
+  },
+  {
+   "id": "objqbuze",
+   "type": "built:broad012",
+   "at": [
+    16430.1,
+    18350.3
+   ],
+   "yaw": 4.9756,
+   "scale": 1,
+   "road": "roadbkbv",
+   "footprint": {
+    "open": 2.7
+   },
+   "height": 0.8
+  },
+  {
+   "id": "objlgxjd",
+   "type": "built:broad012",
+   "at": [
+    16433.4,
+    18354.1
+   ],
+   "yaw": 4.1905,
+   "scale": 1,
+   "road": "roadbkbv",
+   "footprint": {
+    "open": 2.7
+   },
+   "height": 0.8
   }
  ],
  "slabs": []

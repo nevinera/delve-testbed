@@ -3098,6 +3098,51 @@
    "height": 3.5
   },
   {
+   "id": "objii4no",
+   "type": "built:broad012",
+   "at": [
+    15515.2,
+    16021.7
+   ],
+   "yaw": 1.1736,
+   "scale": 1,
+   "road": "roadfkba",
+   "footprint": {
+    "open": 2.7
+   },
+   "height": 0.8
+  },
+  {
+   "id": "objuw35h",
+   "type": "built:broad012",
+   "at": [
+    15515.7,
+    16016.7
+   ],
+   "yaw": 1.9093,
+   "scale": 1,
+   "road": "roadfkba",
+   "footprint": {
+    "open": 2.7
+   },
+   "height": 0.8
+  },
+  {
+   "id": "obj4nsok",
+   "type": "built:broad012",
+   "at": [
+    15514.1,
+    16011.5
+   ],
+   "yaw": 5.0476,
+   "scale": 1,
+   "road": "roadfkba",
+   "footprint": {
+    "open": 2.7
+   },
+   "height": 0.8
+  },
+  {
    "id": "objkrxvm",
    "type": "built:broad010",
    "at": [
