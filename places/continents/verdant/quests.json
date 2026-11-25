@@ -375,6 +375,7 @@
           "count": 4,
           "text": "Lanterns relit",
           "time": 2,
+          "lights": true,
           "mapAreas": [
             "aglamps0"
           ],
