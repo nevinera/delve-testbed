@@ -6036,10 +6036,10 @@ tb 3085 AwAwAwAwAwEgEgEgAwAwAwAwAwEgEgEgAwAwAwEgAwEgEgEgAwEgEgEgEgEgEgEgAwEgEgEg
 tw 3085 IAAIAAIAAIAAIAA~~~~~~~~~IAAIAAIAAIAA~~~~~~~~~~~~IAAIAAIAA~~~~~~~~~~~~~~~IAA~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3086 0000000000000000 1IAMAAAAEMUZcAAAABFMSXAAAAAAEJOAAAAAAABEAAAAAAABBAAAAAABCDCDDDCCCDGGHHGGFEGKJKKKJIHIM
 tb 3086 EgEgEgEgEgEgAwAwEgEgEgEgEgEgAwAwEgEgEgEgEgEgEgAwEgEgEgEgEgEgAwAwEgEgEgEgEgAwAwAwEgEgEgEgEgAwAwAwEgEgEgEgAwAwAwAwEgEgEgEgAwAwAwAw
-tw 3086 ~~~~~~~~~IAK~~~~~~~~~~~~~~~~~~IAKIAKIAKIAK~~~~~~~~~~~~IAKIAKIAKIAKIAK~~~~~~~~~IAKIAKIAKIAKIAKIAK~~~~~~IAKIAKIAKIAKIAKIAK~~~~~~~~~IAKIAKIAKIAKIAK~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAFAAAAAAFFFFAAAAFFFFFAAAFFFFFFAAFFFFFFAAAFFFFFAAAAAAAAAAAAAAAA
+tw 3086 ~~~~~~~~~IAK~~~~~~~~~~~~~~~~~~IAKIAKIAKIAK~~~~~~~~~~~~IAKIAKIAKIAKIAK~~~~~~~~~IAKIAKIAKIAKIAKIAK~~~~~~IAKIAKIAKIAKIAKIAK~~~~~~~~~IAKIAKIAKIAKIAK~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAACAAAAAACCCCAAAACCCCCAAACCCCCCAACCCCCCAAACCCCCAAAAAAAAAAAAAAAA
 t 3087 0000000000000000 1IANbddeeedcbWZabbbaZYNRTUVVVVUDHJMNPQRRABDFIMOPPCDFILOPPPFHKMOPPPPJMOPPPPPPLOPPPPPPP
 tb 3087 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
-tw 3087 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAKIAK~~~~~~~~~~~~~~~~~~IAKIAK~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAFFAAAAAAFFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3087 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAKIAK~~~~~~~~~~~~~~~~~~IAKIAK~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAACCAAAAAACCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3088 0000000000000000 1IAcMKIFFGHJKJHFEFFHIJFDCDEEFHICBCCDDEGHABBBCDDEFAABBBCDDEAAAABBCCDAAAAABBCCAAAAAAABB
 tb 3088 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 t 3089 0000000000000000 1IAdJKMOPQRTVIJLMOOQRTHIJLMNOPQGHIJKLMNOEFHIIJKLNDEFGHHIKLCDEEFGHJLBCCDEFGILABBCDEGIL
@@ -6181,16 +6181,16 @@ t 3150 0000000000000000 1IATCDDDCBABFEEEEEDDCEFFFFFEEEFFFFFFFFEFFFFFFFFFFFFFFFFF
 tb 3150 EgEgEgAwAwAwAwAwEgAwEgAwAwAwAwAwAwEgAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 t 3151 0000000000000000 1IAXBEFFFFFFFAEEEEEEEEBDEEEEEEEBDEEEEEDDBCDEEEDDDBCDEEEDDCBCDEEEDDCBCDEEEEDDBCDEFFEED
 tb 3151 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
-tw 3151 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAb~~~~~~~~~~~~~~~~~~~~~IAb~~~~~~~~~~~~~~~~~~~~~IAb~~~~~~~~~~~~~~~~~~~~~IAb~~~~~~~~~~~~~~~~~~~~~IAbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAFAAAAAAAFAAAAAAAFAAAAAAAF
+tw 3151 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAb~~~~~~~~~~~~~~~~~~~~~IAb~~~~~~~~~~~~~~~~~~~~~IAb~~~~~~~~~~~~~~~~~~~~~IAb~~~~~~~~~~~~~~~~~~~~~IAbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAADAAAAAAADAAAAAAADAAAAAAAD
 t 3152 0000000000000000 1IATJJJJJJJKKIIIIIJJJJIIIIIIIIJHHHHHHHIIHHHHHHHHHGGGGGHHHHGGGGGHHHIHGGGHHHIIHHHHHHFAD
 tb 3152 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
-tw 3152 ~~~~~~~~~IAbIAbIAbIAb~~~~~~IAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAb~~~IAbIAbIAbIAbIAbIAbIAbIAbAAAFFFFAAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAFFFFFFFF
+tw 3152 ~~~~~~~~~IAbIAbIAbIAb~~~~~~IAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAb~~~IAbIAbIAbIAbIAbIAbIAbIAbAAADDDDAADDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDADDDDDDDD
 t 3153 0000000000000000 1IAWHIIJKLNPSGHHIJKMORGGHHIKLORFFGHIJLOREFGHIJLOREFGHIKLORFFGHJKMORFGHIJKNPRACABEEHON
 tb 3153 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
-tw 3153 ~~~~~~~~~~~~~~~~~~~~~~~~IAbIAb~~~~~~~~~~~~~~~~~~IAbIAbIAb~~~~~~~~~~~~~~~IAbIAbIAb~~~~~~~~~~~~~~~IAbIAb~~~~~~~~~~~~~~~~~~IAb~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAbIAbIAb~~~~~~AAAAAAAAFFAAAAAAFFFAAAAAFFFAAAAAFFAAAAAAFAAAAAAAAAAAAAAAAAAFFFAA
+tw 3153 ~~~~~~~~~~~~~~~~~~~~~~~~IAbIAb~~~~~~~~~~~~~~~~~~IAbIAbIAb~~~~~~~~~~~~~~~IAbIAbIAb~~~~~~~~~~~~~~~IAbIAb~~~~~~~~~~~~~~~~~~IAb~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAbIAbIAb~~~~~~AAAAAAAADDAAAAAADDDAAAAADDDAAAAADDAAAAAADAAAAAAAAAAAAAAAAAADDDAA
 t 3154 0000000000000000 1IAjFIKMORUXbEILNPSWZdEILNQTXbfEHLOQTXbfEHLORUWafEHKNQTWagEHKNQTWbhEHKNRVYdhAADHKSSKK
 tb 3154 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
-tw 3154 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAF
+tw 3154 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD
 t 3155 0000000000000000 1IAtRVZdghkmoTXaeghjmoVYbegijmqVYbfijlnqVZdgkmmnqWbehlnmnpXcfimpnnpXehloqnoqALWYTKDTj
 tb 3155 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 t 3156 0000000000000000 1IBBUUUTQOONNUVUSRQQPQWXWUTUSSUWYYXWWUUXWYaZZYWXaVYbccaZaeVYcffdeegWZeijgggiPHABBRbLB
@@ -6325,52 +6325,52 @@ t 3214 0000000000000000 1IAYAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAABAAAAAAABCAAAAAAB
 tb 3214 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 t 3215 0000000000000000 1IAYABCDEEDDCABCEEEEDDBCDEEEEEEBCDEEEEEECDEEFFFFFDEEFFFGGGEEFFFGGHHEEFFGHHIIEFFGHIIJJ
 tb 3215 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
-tw 3215 ~~~~~~~~~~~~~~~~~~~~~IAb~~~~~~~~~~~~~~~~~~~~~IAb~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAFAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3215 ~~~~~~~~~~~~~~~~~~~~~IAb~~~~~~~~~~~~~~~~~~~~~IAb~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAADAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3216 0000000000000000 1IATHHHHHHFADIIHHIIIJFJIIIIIJKKJJJJJJKKLKKJKKKLLMLLLLLLMNNMMMLMMNOPNNNNNNOPQOOOOOPPQQ
 tb 3216 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
-tw 3216 IAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAb~~~IAbIAbIAbIAbIAbIAbIAb~~~~~~IAbIAbIAbIAb~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~FFFFFFFFFFFFFFFAFFFFFFFAAFFFFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3216 IAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAbIAb~~~IAbIAbIAbIAbIAbIAbIAb~~~~~~IAbIAbIAbIAb~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~DDDDDDDDDDDDDDDADDDDDDDAADDDDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3217 0000000000000000 1IAWACABEEHONCCHKLNMLPHJKLMOQTWIJLMNPRUXJKMNOQSUXKLMOPRSUYMNOPRSTVYNOPRTUVWYNOQRUVWXZ
 tb 3217 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
-tw 3217 IAbIAbIAbIAbIAbIAbIAbIAb~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~FFFFFFFFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3217 IAbIAbIAbIAbIAbIAbIAbIAb~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~DDDDDDDDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3218 0000000000000000 1IAjAADHKSSKKCKNNNLOciJMPSWaflrKNQUYcglrKORUYcglrLOQSWbejqLOQSVaejpLORTXbejpMPSWadhlp
 tb 3218 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
-tw 3218 ~~~~~~~~~~~~IAkIAkIAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAFFFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3218 ~~~~~~~~~~~~IAkIAkIAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAADDDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3219 0000000000000000 1IAtALWYTKDTjYMIKMYaGAhloqstvtohmprsuwy0hmqrtvx02glqstwz12flpsuwy01fknqtvz01fjloqty01
 tb 3219 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 ts 3219 AAAAAEADAAAAABBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tw 3219 IAkIAkIAkIAkIAkIAkIAk~~~~~~~~~~~~~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~FFFFFFFAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3219 IAkIAkIAkIAkIAkIAkIAk~~~~~~~~~~~~~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~DDDDDDDAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3220 0000000000000000 dIAs AkXYgfvpPV ABkpiZTfet ApmlffUUsp A1gheegggh A3gffefgig A3ggegffhh A2hhdhgfgg A2igfggfhh A2jgggggig
 tb 3220 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 ts 3220 BAAAAFBAADBFFAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tw 3220 ~~~IAkIAkIAkIAk~~~~~~IAkIAk~~~~~~~~~~~~IAkIAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AFFFFAAFFAAAAFFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3220 ~~~IAkIAkIAkIAk~~~~~~IAkIAk~~~~~~~~~~~~IAkIAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ADDDDAADDAAAADDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3221 0000000000000000 dIAu AUstpdPWwo AMWckfaifv A1bWXavnMV A5ecdighkh A6dcdihijk A7dddhhilk A7fdeghimk A+gcehhhjm BBgceigihk
 tb 3221 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 ts 3221 AIEHCAAJEBGAAEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tw 3221 IAk~~~~~~~~~~~~IAkIAk~~~~~~~~~IAkIAkIAk~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~FAAAAFFAAAFFFAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3221 IAk~~~~~~~~~~~~IAkIAk~~~~~~~~~IAkIAkIAk~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~DAAAADDAAADDDAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3222 0000000000000000 dIA1 Axgfchlfeb AMcZcf6lMb APlnqWFfth A5fhhibejd A9fhfghfee BAhgfefgfd BDiheeefed BFkgffdddd BFjghhfdcb
 tb 3222 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 ts 3222 BEEAACAAAAAIAGAACEABDACHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tw 3222 ~~~~~~~~~~~~~~~~~~~~~~~~IAkIAkIAk~~~IAk~~~IAkIAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAFFFAFAFFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3222 ~~~~~~~~~~~~~~~~~~~~~~~~IAkIAkIAk~~~IAk~~~IAkIAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAADDDADADDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3223 0000000000000000 dIAu A5edeefhfc ARkssTTutg AcVRbfnYnp BEeVPnnSUb BHefcccdfi BIefebcdei BJdffaccdh BKcfeacbbh BMcbdbaace
 tb 3223 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 ts 3223 GAAAAAAAAAFDAAKCELBACDAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tw 3223 ~~~~~~~~~~~~~~~~~~~~~~~~IAkIAk~~~~~~IAkIAk~~~~~~~~~~~~IAkIAk~~~~~~IAkIAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAFFAAFFAAAAFFAAFFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3223 ~~~~~~~~~~~~~~~~~~~~~~~~IAkIAk~~~~~~IAkIAk~~~~~~~~~~~~IAkIAk~~~~~~IAkIAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAADDAADDAAAADDAADDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3224 0000000000000000 1IAyvusrpmkjjyxsttqnmmPOGLijdbfZbobIHHHA6765yttrh79973ywtq47973zwtq03541xurntxzyxuqnl
 tb 3224 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 ts 3224 AAAAAAAAEBAAAAAAAAFAFAAAAAAAACACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tw 3224 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAkIAk~~~IAk~~~~~~IAkIAk~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAFFAFAAFFAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3224 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAkIAk~~~IAk~~~~~~IAkIAk~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAADDADAADDAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3225 0000000000000000 1IAyjjkmoponkmmnpprqpmfoqqrsrplARXOWjqolhOOWQGOQGqsrrtlXUZqrqqtqpponnmlnooonlihghjkji
 tb 3225 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 ts 3225 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tw 3225 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAkIAkIAkIAkIAk~~~~~~~~~~~~~~~~~~~~~~~~IAkIAkIAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAFFFFFAAAAAAAAFFFAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3225 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAkIAkIAkIAkIAk~~~~~~~~~~~~~~~~~~~~~~~~IAkIAkIAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAADDDDDAAAAAAAADDDAAAAAAAAAAAAAAAAAAAAAAAA
 t 3226 0000000000000000 1IA0ihkmmnnmjkiknnonlfjikmopnkcjikmnomjaEQhmmmkhZXGCLLLbhZmlcURQAKEllmnnmYMFgiknnmnkh
 tb 3226 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 ts 3226 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC
-tw 3226 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~IAkIAkIAkIAk~~~~~~~~~~~~~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAFFFFAAAAAAAAFAAAAAAAAA
+tw 3226 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~IAkIAkIAkIAk~~~~~~~~~~~~~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAADDDDAAAAAAAADAAAAAAAAA
 t 3227 0000000000000000 1IAsrrojfcaadnmjgcbbdgkjifcccfjihigdccfjhhhfdccfihhigdddegMTdgedcdfNJAPVTZZcpoeGDADRZ
 tb 3227 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 ts 3227 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA
-tw 3227 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAkIAk~~~~~~~~~~~~~~~~~~~~~~~~IAk~~~IAk~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFFAAAAAAAAFAFAAA
+tw 3227 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAkIAk~~~~~~~~~~~~~~~~~~~~~~~~IAk~~~IAk~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADDAAAAAAAADADAAA
 t 3228 0000000000000000 1IAxYcffdaWQLbefecYUOJefeebXTPGefedaXTQEdedcZVSPBbcbaYVROAabZZXUROAXZYXVURNCUVVUTROKG
 tb 3228 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 t 3229 0000000000000000 1IAtPPOMKIHHINNMLJHGFFKKKIHGFDCIIHGFEECBFFEDCCCAAEFCBBABBBEFDCBBCCCGHGFDDEEEKKKJIIIII
@@ -6507,13 +6507,13 @@ t 3290 0000000000000000 1IBPFHJMMLMJGHLNQPPQNIILPRQQRPJGKNQRRROIDGKOPQQLFCCHLOON
 tb 3290 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 t 3291 0000000000000000 1IAspoeGDADRZrqmjebNEGsplgebXURrojgdaWUUolhebYUTSolieZWTRRolhdYVSRQmjhcXURQPkifbWSPPQ
 tb 3291 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
-tw 3291 ~~~~~~~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3291 ~~~~~~~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3292 0000000000000000 1IAvWXXWVTQMIDHNXWUSOJOSLLPRPPJRSTRPNJMHPPRTTTQGAOOPRRRPLDNNOQQPNJCMNOQRPMHBNPRRRPLGB
 tb 3292 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
-tw 3292 ~~~~~~~~~~~~~~~~~~~~~~~~IAkIAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAFFAAAAAAAAAAAFAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3292 ~~~~~~~~~~~~~~~~~~~~~~~~IAkIAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAADDAAAAAAAAAAADAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3293 0000000000000000 1IAvIIIHGGGGGJLLLKKJJLJLMNNMLLMHKMNNMLLLADHMMMLKKDHHGHGJJKCGJJJHDDEBFGIHHFDCBEFFFEDEE
 tb 3293 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
-tw 3293 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~IAn~~~IAn~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAFAFAAAAAAAAAAAAAAAAAA
+tw 3293 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAk~~~~~~~~~~~~~~~~~~~~~~~~~~~IAn~~~IAn~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAADADAAAAAAAAAAAAAAAAAA
 t 3294 0000000000000000 1IAxEFGIKLMOPJJIJLMOPQKLKLNNQRSJLLMOPRSUIKLMPRTTVIJJLPSUWYCCHJOTWZbAAADJQYacCDDEGDKPT
 tb 3294 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 t 3295 0000000000000000 1IBAACDDEHKJHBDEGHLNMKDFHJLNPPNFHLMOPQQOGJMORQRSQJMOPRSUURMMNORRUWTNPOPSTVWVENQSTUXXW
@@ -6655,13 +6655,13 @@ t 3358 0000000000000000 1IAtGHHIKHOTXEGKNRUOQODGJNRWbfhDGJNRWZdgCFJMQVYacCEILOSU
 tb 3358 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 t 3359 0000000000000000 1IA2OXacdehhgFCNOUehigYUIKFIQRaXZZaaSLJATVXYabbcSPRSVXYZaZMNORUXYXVIJKMQSTTSEFHKNPQRR
 tb 3359 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
-tw 3359 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAn~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAo~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAFAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3359 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAn~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAo~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAADAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3360 0000000000000000 1IAzjjhgdZWWXjigfbXVVXdgecYUUTVDMNSWTRQTVMJABDGORcaXTIGCAEYXVTRPNLIVVTRQQONNUUSQPQNLM
 tb 3360 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
-tw 3360 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAo~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAo~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3360 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAo~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAo~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3361 0000000000000000 1IAuceeffeaWPceffebZWQadddbYWUOYbaYYUSRMWWWVVSPMIJJQTROMJFNOJLJIJHDSRPNKFDCARQNMJHGFD
 tb 3361 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
-tw 3361 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAo~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAA
+tw 3361 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAo~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAA
 t 3362 0000000000000000 1IAtQLIHHHHIJRNLLJIIJMPMLLIIIKNNLJJIJJLOJIIHGHIKNGGFFFGHKNEEEEFGGJMBEEEFGHJMEAAAEGHJM
 tb 3362 AwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAwAw
 t 3363 0000000000000000 1IA2ACEFHIIJJDFHIJKKKKEHJKKMLLLFIJLLMMLLEHJLMNMLMEGIKMNNNNDFHJKMNNODFGHJLMNODFHHJLNNO
@@ -7517,7 +7517,7 @@ t 3763 0000000000000000 1IA/aYXWVTPKHYWVTSQNIDVSRPONLICRONKJKIGFPLJHGGEFFOKHFDCB
 tb 3763 AQAQAQAQAAAQAAAAAQAQAQAAAAAAAAAAAQAQAQAQAAAAAAAAAQAQAQAQAAAAAAAAAQAQAQAQAQAAAQAQAQAQAQAQAQAQAAAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQ
 t 3764 0000000000000000 1IBBFHIHFEDCEBIJIGFDDFAFJIIGFFFDGGKJIHGHDHHILLKJJEILKJOMMMEKNQNKPPPGMQTUQHNTJQUVVWTGP
 tb 3764 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAQAAAAAAAAAAAAAQAQAQAAAAAAAAAA
-tw 3764 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA8~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3764 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA8~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3765 0000000000000000 dIBF AAhhjjijmh ABhihjjjkj ABigilflmm ADghikhnom AFhijiknnj AIiijilmmk ALjiikmmmk APijkmmnlm ALqlmnllnm
 tb 3765 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3766 0000000000000000 dIBh AAfihmmosp ABgjijlorr AGkgijkoqp AMiihmllql AOimjlkjni ASkkkokgig AYljkpleig Aimlholfhf Aqnklnkhge
@@ -7796,13 +7796,13 @@ tb 3893 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3894 0000000000000000 dIBG BTX AlGT9 BHv0 BWifUC AGas Ax BbijicEKFN BdjjjgdbM Au Bkhgifdfjb Blkggfadkn BlmifdZdik Blljedbeff Bgoieeedcd
 tb 3894 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 ts 3894 AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tw 3894 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3894 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3895 0000000000000000 dIBM Bm1ongZdhf Ar BZ6ulackh AA3z++qjnj AoJVg Atz33v BiWM AZJfq A6+ BsjbLAS AMVu BnjdfdaG AeN BhicfiihWQ Bcfdejikli
 tb 3895 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tw 3895 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAFAAAAAAAAAAFAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3895 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAACAAAAAAAAAACAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3896 0000000000000000 dIBJ CLaagiefec CLaYgjieec CIehggcbcd CEmjgabbXc BctuvdbaXf AUv8 BpzjYZh APTk Av12xme BUF ATMhv A6 Baq BxbMGQ APYur
 tb 3896 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tw 3896 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAA
+tw 3896 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA
 t 3897 0000000000000000 dIBs BdcegefbYZ BfeefadcZa BcffebXbbd BVkhaXaaef BTjgaYZbed BThaccYadb BRbbadcaab BClbYccbZc AA Ah2eWbccd
 tb 3897 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3898 0000000000000000 dIBp BLkfYXUTUV BLifcXTTUU BImfaVTTWU BHmcYVUUVY BCldYVVUXY A7jfZWVVaX A0hhbXUWZb AthgbYVWab AlhfcYWXZZ
@@ -7939,13 +7939,13 @@ t 3959 0000000000000000 1ICZPPNMQTYehMKIGLOVdhJGHGKQTZbHHHHLRUXYCDGJLOSTVCBFJKLM
 tb 3959 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3960 0000000000000000 dIBM BubMGQ AMYur BueadcA AiKS BodbhjbXUJ Bleadhfdab BifZafgcaZ BZgcccedbZ BTfedaddab BPhdcadcZc BNgdbcbcac
 tb 3960 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tw 3960 ~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3960 ~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3961 0000000000000000 dIBF An BI2eWbccd AHh Auungdeg BC AQPgs Autfg BbQIQFU2ow BRbeXT AWTaj BLbeYbYcaN BFddYcYdde BAdcYdZdde A9daZaacef
 tb 3961 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tw 3961 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAFAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 3961 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAACAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3962 0000000000000000 dIBE BKhfcYWXZZ BFgfdYWWWb A+kebYXVWe AzpfbYXVWe AK9seZXUXd AbQkfsiWXd AsaZZNlgbf AogdbZPWbf AjgecbbbbS
 tb 3962 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tw 3962 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~IA5IA5IA5~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAFFFAAAAAAAAFAAAAAAAAAAA
+tw 3962 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~IA5IA5IA5~~~~~~~~~~~~~~~~~~~~~~~~IA5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAACCCAAAAAAAACAAAAAAAAAAA
 t 3963 0000000000000000 1IBElheYTOJGCedcZVRLIEbbaYVSNJFWXYXVRNJGRTVVTQMJGOQSSRPLIFMOPQQNKHEAMNNMLJHEDABCHJIGD
 tb 3963 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 3964 0000000000000000 1IA3PNMLJIFDARPONLJGEASQPNLKHEATRPNLLHEATRPMLLHEASQOMLLHEARQOMLLHEARPNMLLIEAQONMLLIFA
@@ -8086,10 +8086,10 @@ t 4026 0000000000000000 1IBHghgdZVRNAgkjgcXTPLiljgcYTOLjmkfbWRMKjlkeZVRMIijhdYUQ
 tb 4026 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 4027 0000000000000000 1IBBGDEFKMLJGRQOJDIHGGRQPOLDEBAQPNNMLKIBONMMLKJHDOMLLKJJFCPNMLKJIFBQONMLKIEARPPNMKIFB
 tb 4027 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tw 4027 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA4~~~IA4~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAFAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 4027 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA4~~~IA4~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAACACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 4028 0000000000000000 1IArcaZYXXURMcZYXXXUQLWXXWWWTPKXQQQTVSOJZWUUPPQNHYVUTSQMHAXUTSRROKFWUSRQQNJEXUSRQQMJE
 tb 4028 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-tw 4028 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA0IA0IA0~~~~~~~~~~~~~~~~~~~~~~~~IA0~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAAFFFAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAA
+tw 4028 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IA0IA0IA0~~~~~~~~~~~~~~~~~~~~~~~~IA0~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AAAAAAAAAAAAAAAAAAAAAAAAACCCAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA
 t 4029 0000000000000000 1IAFywutrpmjfxvtrpmjgbwurpnjfcWvsqnjfcYRtrokgcYUMmnmieZUQHridZVUQMDqnjcUJIDBqmicWPCAB
 tb 4029 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 tw 4029 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~IAIIAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABB
